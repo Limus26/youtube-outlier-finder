@@ -3,4 +3,5 @@ __pycache__/
 *.pyc
 config.json
 quota_usage.json
+search_history.json
 .streamlit/secrets.toml

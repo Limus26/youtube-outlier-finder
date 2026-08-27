@@ -26,6 +26,9 @@ PAGE_SIZE = 50
 SEARCH_HARD_CAP = 500  # YouTube search.list가 사실상 허용하는 최대 접근량
 DAILY_QUOTA = 10000
 USAGE_PATH = Path(__file__).parent / "quota_usage.json"
+HISTORY_PATH = Path(__file__).parent / "search_history.json"
+HISTORY_MAX_ENTRIES = 200
+HISTORY_MAX_DAYS = 90
 
 
 def today_pacific_date():
@@ -52,6 +55,66 @@ def record_usage(units):
     data["units_used"] = data.get("units_used", 0) + units
     USAGE_PATH.write_text(json.dumps(data))
     return data["units_used"]
+
+
+def _row_to_history_dict(r):
+    """검색 결과 한 행을 JSON에 저장 가능한 형태로 변환 (datetime -> 문자열)."""
+    return {
+        "video_id": r["video_id"],
+        "title": r["title"],
+        "channel_title": r["channel_title"],
+        "subscriber_count": r["subscriber_count"],
+        "view_count": r["view_count"],
+        "published_at": r["published_at"].isoformat(),
+        "score": r["score"],
+        "rank": r["rank"],
+        "url": r["url"],
+    }
+
+
+def load_history():
+    """저장된 검색 기록 전체를 최신순으로 반환한다."""
+    if not HISTORY_PATH.exists():
+        return []
+    try:
+        return json.loads(HISTORY_PATH.read_text())
+    except (json.JSONDecodeError, OSError):
+        return []
+
+
+def _prune_history(history):
+    """오래된 기록(HISTORY_MAX_DAYS 초과)을 지우고, 개수를 HISTORY_MAX_ENTRIES로 제한한다."""
+    cutoff = datetime.now().astimezone() - timedelta(days=HISTORY_MAX_DAYS)
+    kept = []
+    for entry in history:
+        try:
+            ts = datetime.fromisoformat(entry["timestamp"])
+        except (KeyError, ValueError):
+            continue
+        if ts >= cutoff:
+            kept.append(entry)
+    return kept[:HISTORY_MAX_ENTRIES]
+
+
+def save_search_to_history(keyword, options, rows, quota_used):
+    """이번 검색(검색어/옵션/결과/유닛)을 기록에 추가하고 오래된 기록은 정리한다."""
+    history = load_history()
+    entry = {
+        "timestamp": datetime.now().astimezone().isoformat(),
+        "keyword": keyword,
+        "options": options,
+        "result_count": len(rows),
+        "quota_used": quota_used,
+        "rows": [_row_to_history_dict(r) for r in rows],
+    }
+    history.insert(0, entry)
+    history = _prune_history(history)
+    HISTORY_PATH.write_text(json.dumps(history, ensure_ascii=False))
+    return history
+
+
+def clear_history():
+    HISTORY_PATH.write_text("[]")
 
 
 class QuotaTracker:
@@ -348,6 +411,15 @@ def main():
             .replace("+00:00", "Z")
         )
 
+    options = {
+        "order": args.order,
+        "sort_by": args.sort_by,
+        "max_results": args.max_results,
+        "days": args.days,
+        "min_views": args.min_views,
+        "score_mode": args.score_mode,
+    }
+
     quota = QuotaTracker()
     client = YouTubeClient(args.api_key, quota)
 
@@ -358,6 +430,7 @@ def main():
         )
         if not video_ids:
             print("검색 결과가 없습니다.")
+            save_search_to_history(args.keyword, options, [], quota.total_units)
             finish(quota)
             return
 
@@ -384,6 +457,7 @@ def main():
 
     if not rows:
         print("\n필터 조건을 만족하는 영상이 없습니다.")
+        save_search_to_history(args.keyword, options, [], quota.total_units)
         finish(quota)
         return
 
@@ -395,6 +469,7 @@ def main():
     if args.csv:
         save_csv(rows, args.csv)
 
+    save_search_to_history(args.keyword, options, rows, quota.total_units)
     finish(quota)
 
 

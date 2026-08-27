@@ -7,7 +7,19 @@
 브라우저에서 검색어를 입력하고 버튼만 누르면 되는 **웹 화면**과, 터미널 명령어로 쓰는 **CLI**
 두 가지 방식을 모두 지원합니다. 터미널이 익숙하지 않다면 웹 화면 사용을 추천합니다.
 
-## 빠른 시작 (웹 화면, 추천)
+## 온라인 버전 (폰 / 다른 PC / Cowork에서 접속)
+
+이 맥북이 꺼져 있어도 접속할 수 있는 배포 버전이 Streamlit Community Cloud에 올라가 있습니다.
+
+- **URL**: https://youtube-outlier-finder-bumg9nkvhjejpbfamhejqd.streamlit.app
+- 접속하면 비밀번호를 물어봅니다. (Streamlit Cloud 앱 설정의 Secrets에 `APP_PASSWORD`로 등록해둔 값)
+- 한동안 아무도 안 쓰면 앱이 잠들어서, 오랜만에 들어가면 깨우는 데 20~30초 걸릴 수 있습니다 (무료 호스팅의 특성).
+- 저장소: https://github.com/Limus26/youtube-outlier-finder (Public — API 키/비밀번호는 코드에 없고
+  Streamlit Cloud의 Secrets에만 저장되어 있어 안전합니다)
+- 코드를 수정하면: 로컬에서 파일을 고친 뒤 GitHub Desktop에서 커밋 → **Push origin** → 몇 분 내로
+  온라인 버전에도 자동 반영됩니다.
+
+## 빠른 시작 (로컬 웹 화면, 이 맥북에서만)
 
 최초 1회만 아래 "설치" 섹션대로 준비를 마치면, 그다음부터는 이 폴더 안의
 **`실행하기.command`** 파일을 더블클릭하기만 하면 됩니다.
