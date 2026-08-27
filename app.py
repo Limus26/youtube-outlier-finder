@@ -39,6 +39,23 @@ SCORE_MODE_LABELS = {
     "최근 영상 가중치 (÷ 경과일수)": "recency",
 }
 
+DAYS_PRESETS = [("7일", 7), ("30일", 30), ("90일", 90), ("6개월", 180), ("1년", 365)]
+VIEWS_PRESETS = [("1만", 10_000), ("5만", 50_000), ("10만", 100_000), ("50만", 500_000), ("100만", 1_000_000)]
+
+
+def render_preset_buttons(presets, state_key, per_row=3):
+    """사이드바가 좁으니 한 줄에 너무 많이 넣지 않고 per_row개씩 끊어서 버튼을 그린다."""
+    for i in range(0, len(presets), per_row):
+        row = presets[i : i + per_row]
+        cols = st.columns(len(row))
+        for col, (label, value) in zip(cols, row):
+            col.button(
+                label,
+                key=f"{state_key}_preset_{value}",
+                use_container_width=True,
+                on_click=lambda v=value, k=state_key: st.session_state.update({k: v}),
+            )
+
 
 def get_secret(name):
     """배포 환경(Streamlit Cloud)의 secrets에서 값을 읽는다. 로컬 실행 시엔 secrets가 없어 None."""
@@ -221,8 +238,21 @@ with st.sidebar:
 
     st.divider()
     st.subheader("필터")
-    days = st.number_input("최근 며칠 이내 영상만 (0 = 제한 없음)", min_value=0, value=0)
-    min_views = st.number_input("최소 조회수 (0 = 제한 없음)", min_value=0, value=0, step=1000)
+
+    if "days_filter" not in st.session_state:
+        st.session_state.days_filter = 0
+    if "min_views_filter" not in st.session_state:
+        st.session_state.min_views_filter = 0
+
+    st.caption("빠른 선택")
+    render_preset_buttons(DAYS_PRESETS, "days_filter")
+    days = st.number_input("최근 며칠 이내 영상만 (0 = 제한 없음)", min_value=0, key="days_filter")
+
+    st.caption("빠른 선택 (이상)")
+    render_preset_buttons(VIEWS_PRESETS, "min_views_filter")
+    min_views = st.number_input(
+        "최소 조회수 (0 = 제한 없음)", min_value=0, step=1000, key="min_views_filter"
+    )
 
     st.divider()
     st.subheader("점수 / 정렬")
