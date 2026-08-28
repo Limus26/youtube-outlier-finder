@@ -109,6 +109,7 @@ python youtube_outlier.py "키워드"
 | `--max-subscribers` | 최대 구독자 수 필터. '진짜 작은 채널'만 보고 싶을 때 사용 (예: 5000). `--min-subscribers`와 함께 쓰면 "N명~M명 사이 채널만" 필터가 됨. 구독자 비공개 채널은 이 필터들이 하나라도 켜져 있으면 함께 제외됨 | `0` |
 | `--score-mode` | `simple` (조회수/구독자) 또는 `recency` (경과일수로 나눔) | `simple` |
 | `--csv` | 결과를 저장할 CSV 경로 | 저장 안 함 |
+| `--routine` | 자동화(예약 실행) 전용. 사용량/기록을 `routine_quota_usage.json`/`routine_search_history.json`(저장소에 커밋되는 공용 파일)에 남긴다 | 꺼짐 |
 
 > `--order`는 YouTube에 "어떤 영상 후보를 가져올지"를 정하는 옵션이고, `--sort-by`는
 > "가져온 결과를 화면에 어떤 기준으로 보여줄지"를 정하는 옵션입니다. 두 값은 독립적입니다.
@@ -209,6 +210,7 @@ channels.list :   2회 x 1   = 2 유닛
 | `실행하기.command` | 더블클릭으로 웹 화면을 켜는 실행 파일 (macOS) |
 | `app.py` | 웹 화면(Streamlit) 코드 |
 | `youtube_outlier.py` | 핵심 로직 + CLI 진입점 |
-| `config.json` | 웹 화면에서 "키 저장하기"를 체크하면 API 키가 저장되는 파일 (자동 생성, 평문 저장이므로 공유하지 않도록 주의) |
-| `quota_usage.json` | 오늘(태평양시간 기준) 누적 사용 유닛을 기록하는 파일 (자동 생성/갱신, CLI와 웹 화면이 공유) |
+| `config.json` | 웹 화면에서 "키 저장하기"를 체크하면 API 키가 저장되는 파일 (자동 생성, 평문 저장이므로 공유하지 않도록 주의, git 추적 안 함) |
+| `quota_usage.json` / `search_history.json` | 이 컴퓨터에서 직접 실행한 검색의 사용량/기록 (자동 생성, git 추적 안 함) |
+| `routine_quota_usage.json` / `routine_search_history.json` | **자동화 루틴 전용.** 클라우드에서 도는 예약 실행은 매번 새 임시 공간에서 시작되기 때문에, 로컬 파일에 직접 기록을 남길 수 없다. 대신 이 두 파일에 기록하고 저장소에 커밋해서, 로컬/온라인 웹 화면이 같은 저장소를 통해 그 사용량과 검색 기록을 읽어올 수 있게 한다 (git으로 추적됨, `--routine` 플래그를 줬을 때만 여기 기록됨) |
 | `requirements.txt` | 필요한 패키지 목록 |

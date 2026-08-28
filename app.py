@@ -25,6 +25,8 @@ from youtube_outlier import (
     build_rows,
     clear_history,
     load_history,
+    load_routine_history,
+    load_routine_usage,
     load_usage,
     record_usage,
     save_search_to_history,
@@ -213,11 +215,13 @@ def render_result_cards(rows):
 
 
 def render_usage_badge():
-    used = load_usage().get("units_used", 0)
+    manual_used = load_usage().get("units_used", 0)
+    routine_used = load_routine_usage().get("units_used", 0)
+    used = manual_used + routine_used
     remaining = max(DAILY_QUOTA - used, 0)
     usage_badge.caption(
         f"📊 오늘 남은 예상 유닛: **{remaining:,}** / {DAILY_QUOTA:,} "
-        "(PT 자정 리셋 · 이 프로그램 사용 기준 추정치)"
+        f"(직접검색 {manual_used:,} + 자동화 {routine_used:,} · PT 자정 리셋 · 추정치)"
     )
 
 
@@ -384,8 +388,17 @@ with tab_search:
                     )
 
 with tab_history:
-    st.caption(f"최근 {HISTORY_MAX_DAYS}일 · 최대 {HISTORY_MAX_ENTRIES}건까지 자동 보관됩니다.")
-    history = load_history()
+    st.caption(
+        f"최근 {HISTORY_MAX_DAYS}일 · 최대 {HISTORY_MAX_ENTRIES}건까지 자동 보관됩니다. "
+        "👤 직접 검색과 🤖 자동화 루틴 검색을 함께 보여줍니다."
+    )
+    manual_history = load_history()
+    routine_history = load_routine_history()
+    history = sorted(
+        manual_history + routine_history,
+        key=lambda e: datetime.fromisoformat(e["timestamp"]),
+        reverse=True,
+    )
 
     if not history:
         st.info("아직 검색 기록이 없습니다.")
@@ -394,9 +407,10 @@ with tab_history:
         with col1:
             filter_kw = st.text_input("검색어로 필터링", key="history_filter", placeholder="예: 브이로그")
         with col2:
-            if st.button("🗑 전체 기록 삭제", use_container_width=True):
+            if st.button("🗑 직접검색 기록 삭제", use_container_width=True):
                 clear_history()
                 st.rerun()
+        st.caption("※ 삭제 버튼은 👤 직접 검색 기록만 지웁니다. 🤖 자동화 기록은 저장소에 저장되어 여기서 못 지워요.")
 
         filtered = (
             [e for e in history if filter_kw.strip() in e["keyword"]]
@@ -416,7 +430,8 @@ with tab_history:
             for idx, entry in enumerate(filtered[:show_n]):
                 ts_display = entry["timestamp"][:16].replace("T", " ")
                 opts = entry.get("options", {})
-                label = f"{ts_display} · '{entry['keyword']}' · {entry['result_count']}개 결과"
+                source_badge = "🤖 자동" if entry.get("source") == "routine" else "👤 직접"
+                label = f"{source_badge} · {ts_display} · '{entry['keyword']}' · {entry['result_count']}개 결과"
                 with st.expander(label):
                     st.caption(
                         f"가져오기 기준: {opts.get('order', '-')} · 정렬: {opts.get('sort_by', '-')} · "

@@ -27,6 +27,10 @@ SEARCH_HARD_CAP = 500  # YouTube search.list가 사실상 허용하는 최대 �
 DAILY_QUOTA = 10000
 USAGE_PATH = Path(__file__).parent / "quota_usage.json"
 HISTORY_PATH = Path(__file__).parent / "search_history.json"
+# 이 둘은 .gitignore에서 빠져 있다 - 자동화 루틴(클라우드, 매번 새 임시공간)이 커밋해서
+# 남기는 공용 기록이라, 로컬/온라인 웹 화면이 저장소를 통해 공유해서 읽어야 하기 때문.
+ROUTINE_USAGE_PATH = Path(__file__).parent / "routine_quota_usage.json"
+ROUTINE_HISTORY_PATH = Path(__file__).parent / "routine_search_history.json"
 HISTORY_MAX_ENTRIES = 200
 HISTORY_MAX_DAYS = 90
 
@@ -36,12 +40,12 @@ def today_pacific_date():
     return datetime.now(ZoneInfo("America/Los_Angeles")).date().isoformat()
 
 
-def load_usage():
-    """오늘(태평양시간) 누적 사용량을 로컬 파일에서 읽는다. 날짜가 바뀌었으면 0으로 리셋."""
+def load_usage(path=USAGE_PATH):
+    """오늘(태평양시간) 누적 사용량을 파일에서 읽는다. 날짜가 바뀌었으면 0으로 리셋."""
     data = {}
-    if USAGE_PATH.exists():
+    if path.exists():
         try:
-            data = json.loads(USAGE_PATH.read_text())
+            data = json.loads(path.read_text())
         except (json.JSONDecodeError, OSError):
             data = {}
     if data.get("date") != today_pacific_date():
@@ -49,12 +53,20 @@ def load_usage():
     return data
 
 
-def record_usage(units):
+def record_usage(units, path=USAGE_PATH):
     """이번 실행에서 쓴 유닛을 오늘 누적치에 더해 저장하고, 누적치를 반환한다."""
-    data = load_usage()
+    data = load_usage(path)
     data["units_used"] = data.get("units_used", 0) + units
-    USAGE_PATH.write_text(json.dumps(data))
+    path.write_text(json.dumps(data))
     return data["units_used"]
+
+
+def load_routine_usage():
+    return load_usage(ROUTINE_USAGE_PATH)
+
+
+def record_routine_usage(units):
+    return record_usage(units, ROUTINE_USAGE_PATH)
 
 
 def _row_to_history_dict(r):
@@ -72,14 +84,18 @@ def _row_to_history_dict(r):
     }
 
 
-def load_history():
+def load_history(path=HISTORY_PATH):
     """저장된 검색 기록 전체를 최신순으로 반환한다."""
-    if not HISTORY_PATH.exists():
+    if not path.exists():
         return []
     try:
-        return json.loads(HISTORY_PATH.read_text())
+        return json.loads(path.read_text())
     except (json.JSONDecodeError, OSError):
         return []
+
+
+def load_routine_history():
+    return load_history(ROUTINE_HISTORY_PATH)
 
 
 def _prune_history(history):
@@ -96,12 +112,14 @@ def _prune_history(history):
     return kept[:HISTORY_MAX_ENTRIES]
 
 
-def save_search_to_history(keyword, options, rows, quota_used):
-    """이번 검색(검색어/옵션/결과/유닛)을 기록에 추가하고 오래된 기록은 정리한다."""
-    history = load_history()
+def save_search_to_history(keyword, options, rows, quota_used, path=HISTORY_PATH, source="manual"):
+    """이번 검색(검색어/옵션/결과/유닛)을 기록에 추가하고 오래된 기록은 정리한다.
+    source는 "manual"(CLI/웹 직접 검색) 또는 "routine"(자동화 루틴)."""
+    history = load_history(path)
     entry = {
         "timestamp": datetime.now().astimezone().isoformat(),
         "keyword": keyword,
+        "source": source,
         "options": options,
         "result_count": len(rows),
         "quota_used": quota_used,
@@ -109,12 +127,18 @@ def save_search_to_history(keyword, options, rows, quota_used):
     }
     history.insert(0, entry)
     history = _prune_history(history)
-    HISTORY_PATH.write_text(json.dumps(history, ensure_ascii=False))
+    path.write_text(json.dumps(history, ensure_ascii=False))
     return history
 
 
-def clear_history():
-    HISTORY_PATH.write_text("[]")
+def save_routine_search_to_history(keyword, options, rows, quota_used):
+    return save_search_to_history(
+        keyword, options, rows, quota_used, path=ROUTINE_HISTORY_PATH, source="routine"
+    )
+
+
+def clear_history(path=HISTORY_PATH):
+    path.write_text("[]")
 
 
 class QuotaTracker:
@@ -389,15 +413,23 @@ def parse_args():
         help="simple: 조회수/구독자수 | recency: (조회수/구독자수)/경과일수 (최근 영상 가중치)",
     )
     parser.add_argument("--csv", metavar="PATH", default=None, help="결과를 CSV 파일로 저장할 경로")
+    parser.add_argument(
+        "--routine",
+        action="store_true",
+        help="자동화(예약 실행) 전용 플래그. 사용량/기록을 개인용 파일이 아니라 "
+        "저장소에 커밋되는 공용 파일(routine_quota_usage.json, routine_search_history.json)에 남긴다.",
+    )
     return parser.parse_args()
 
 
-def finish(quota):
+def finish(quota, routine=False):
     """실행 결과를 보고하고, 오늘 누적 사용량 파일에 반영해 함께 보여준다."""
     quota.report()
-    cumulative = record_usage(quota.total_units)
+    record = record_routine_usage if routine else record_usage
+    cumulative = record(quota.total_units)
     remaining = max(DAILY_QUOTA - cumulative, 0)
-    print(f"오늘 누적 사용량(이 프로그램 기준) : {cumulative} / {DAILY_QUOTA} 유닛 (남은 유닛: {remaining})")
+    label = "루틴" if routine else "이 프로그램"
+    print(f"오늘 누적 사용량({label} 기준) : {cumulative} / {DAILY_QUOTA} 유닛 (남은 유닛: {remaining})")
 
 
 def main():
@@ -438,6 +470,7 @@ def main():
 
     quota = QuotaTracker()
     client = YouTubeClient(args.api_key, quota)
+    save_history = save_routine_search_to_history if args.routine else save_search_to_history
 
     try:
         print(f"'{args.keyword}' 검색 중 (order={args.order})...")
@@ -446,8 +479,8 @@ def main():
         )
         if not video_ids:
             print("검색 결과가 없습니다.")
-            save_search_to_history(args.keyword, options, [], quota.total_units)
-            finish(quota)
+            save_history(args.keyword, options, [], quota.total_units)
+            finish(quota, routine=args.routine)
             return
 
         print(f"영상 상세정보 조회 중 ({len(video_ids)}개)...")
@@ -459,11 +492,11 @@ def main():
 
     except ApiError as e:
         print(f"\n오류: {e}", file=sys.stderr)
-        finish(quota)
+        finish(quota, routine=args.routine)
         sys.exit(1)
     except requests.RequestException as e:
         print(f"\n네트워크 오류: {e}", file=sys.stderr)
-        finish(quota)
+        finish(quota, routine=args.routine)
         sys.exit(1)
 
     rows = build_rows(video_details, channel_details, args.score_mode)
@@ -482,8 +515,8 @@ def main():
 
     if not rows:
         print("\n필터 조건을 만족하는 영상이 없습니다.")
-        save_search_to_history(args.keyword, options, [], quota.total_units)
-        finish(quota)
+        save_history(args.keyword, options, [], quota.total_units)
+        finish(quota, routine=args.routine)
         return
 
     rows = assign_ranks_and_order(rows, args.sort_by)
@@ -494,8 +527,8 @@ def main():
     if args.csv:
         save_csv(rows, args.csv)
 
-    save_search_to_history(args.keyword, options, rows, quota.total_units)
-    finish(quota)
+    save_history(args.keyword, options, rows, quota.total_units)
+    finish(quota, routine=args.routine)
 
 
 if __name__ == "__main__":
