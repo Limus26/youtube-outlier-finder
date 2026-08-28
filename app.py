@@ -43,8 +43,22 @@ SCORE_MODE_LABELS = {
 
 DAYS_PRESETS = [("7일", 7), ("30일", 30), ("90일", 90), ("6개월", 180), ("1년", 365)]
 VIEWS_PRESETS = [("1만", 10_000), ("5만", 50_000), ("10만", 100_000), ("50만", 500_000), ("100만", 1_000_000)]
-SUBS_PRESETS = [("100", 100), ("1천", 1_000), ("5천", 5_000), ("1만", 10_000), ("5만", 50_000)]
-MAX_SUBS_PRESETS = [("1천", 1_000), ("5천", 5_000), ("1만", 10_000), ("5만", 50_000), ("10만", 100_000)]
+
+# 구독자 수는 0~수천만까지 폭이 넓어서 일반 슬라이더로는 작은 값(100~1만) 근처를 정밀하게
+# 고르기 어렵다. 그래서 이렇게 의미 있는 구간들만 골라 놓은 "구간 슬라이더"를 쓴다.
+SUBS_RANGE_OPTIONS = [0, 100, 500, 1_000, 5_000, 10_000, 50_000, 100_000, 500_000, 1_000_000, 5_000_000, 10_000_000]
+
+
+def format_subs_option(v):
+    if v == 0:
+        return "0"
+    if v >= 10_000_000:
+        return "무제한"
+    if v >= 10_000:
+        return f"{v // 10_000}만"
+    if v >= 1_000:
+        return f"{v // 1_000}천"
+    return str(v)
 
 
 def render_preset_buttons(presets, state_key, per_row=3):
@@ -280,29 +294,17 @@ with st.sidebar:
         "최소 조회수 (0 = 제한 없음)", min_value=0, step=1000, key="min_views_filter"
     )
 
-    if "min_subs_filter" not in st.session_state:
-        st.session_state.min_subs_filter = 0
-    st.caption("빠른 선택 (이상)")
-    render_preset_buttons(SUBS_PRESETS, "min_subs_filter")
-    min_subscribers = st.number_input(
-        "최소 구독자 수 (0 = 제한 없음)",
-        min_value=0,
-        step=100,
-        key="min_subs_filter",
-        help="너무 작은 채널(예: 구독자 몇 명)이 만드는 통계적 노이즈를 걸러내고 싶을 때 사용하세요.",
+    subs_low, subs_high = st.select_slider(
+        "구독자 수 범위 (예: 500명~1만명)",
+        options=SUBS_RANGE_OPTIONS,
+        value=(0, 10_000_000),
+        format_func=format_subs_option,
+        key="subs_range_filter",
+        help="너무 작은 채널(통계적 노이즈)이나 이미 큰 채널을 걸러내고 싶을 때, "
+        "양쪽 손잡이를 드래그해서 원하는 구독자 수 구간만 남기세요.",
     )
-
-    if "max_subs_filter" not in st.session_state:
-        st.session_state.max_subs_filter = 0
-    st.caption("빠른 선택 (이하)")
-    render_preset_buttons(MAX_SUBS_PRESETS, "max_subs_filter")
-    max_subscribers = st.number_input(
-        "최대 구독자 수 (0 = 제한 없음)",
-        min_value=0,
-        step=1000,
-        key="max_subs_filter",
-        help="진짜 작은/신생 채널만 보고 싶을 때 사용하세요 (예: 5000 = 구독자 5000명 이하만).",
-    )
+    min_subscribers = subs_low
+    max_subscribers = 0 if subs_high >= 10_000_000 else subs_high
 
     st.divider()
     st.subheader("점수 / 정렬")
