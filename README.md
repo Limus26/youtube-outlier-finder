@@ -105,6 +105,7 @@ python youtube_outlier.py "키워드"
 | `--max-results` | 검색할 최대 영상 수 (최대 500) | `150` |
 | `--days` | 최근 N일 이내 게시된 영상만 검색 | 제한 없음 |
 | `--min-views` | 최소 조회수 필터 | `0` |
+| `--min-subscribers` | 최소 구독자 수 필터. 구독자가 극소수인 채널(통계적 노이즈)을 걸러낼 때 사용. 구독자 비공개 채널도 함께 제외됨 | `0` |
 | `--score-mode` | `simple` (조회수/구독자) 또는 `recency` (경과일수로 나눔) | `simple` |
 | `--csv` | 결과를 저장할 CSV 경로 | 저장 안 함 |
 

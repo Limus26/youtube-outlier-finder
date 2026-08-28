@@ -369,6 +369,13 @@ def parse_args():
     parser.add_argument("--days", type=int, default=None, help="최근 N일 이내 게시된 영상만 검색")
     parser.add_argument("--min-views", type=int, default=0, help="최소 조회수 필터 (기본: 0)")
     parser.add_argument(
+        "--min-subscribers",
+        type=int,
+        default=0,
+        help="최소 구독자 수 필터 (기본: 0). 구독자가 너무 적은 채널(통계적 노이즈)을 걸러낼 때 사용. "
+        "구독자 비공개 채널은 이 필터가 켜져 있으면 함께 제외됨",
+    )
+    parser.add_argument(
         "--score-mode",
         choices=["simple", "recency"],
         default="simple",
@@ -417,6 +424,7 @@ def main():
         "max_results": args.max_results,
         "days": args.days,
         "min_views": args.min_views,
+        "min_subscribers": args.min_subscribers,
         "score_mode": args.score_mode,
     }
 
@@ -454,6 +462,13 @@ def main():
 
     if args.min_views:
         rows = [r for r in rows if r["view_count"] >= args.min_views]
+
+    if args.min_subscribers:
+        rows = [
+            r
+            for r in rows
+            if r["subscriber_count"] is not None and r["subscriber_count"] >= args.min_subscribers
+        ]
 
     if not rows:
         print("\n필터 조건을 만족하는 영상이 없습니다.")
