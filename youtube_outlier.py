@@ -376,6 +376,13 @@ def parse_args():
         "구독자 비공개 채널은 이 필터가 켜져 있으면 함께 제외됨",
     )
     parser.add_argument(
+        "--max-subscribers",
+        type=int,
+        default=0,
+        help="최대 구독자 수 필터 (기본: 0 = 제한 없음). '진짜 작은 채널'만 보고 싶을 때 사용 "
+        "(예: 5000 = 구독자 5000명 이하 채널만). 구독자 비공개 채널은 이 필터가 켜져 있으면 함께 제외됨",
+    )
+    parser.add_argument(
         "--score-mode",
         choices=["simple", "recency"],
         default="simple",
@@ -425,6 +432,7 @@ def main():
         "days": args.days,
         "min_views": args.min_views,
         "min_subscribers": args.min_subscribers,
+        "max_subscribers": args.max_subscribers,
         "score_mode": args.score_mode,
     }
 
@@ -463,11 +471,13 @@ def main():
     if args.min_views:
         rows = [r for r in rows if r["view_count"] >= args.min_views]
 
-    if args.min_subscribers:
+    if args.min_subscribers or args.max_subscribers:
         rows = [
             r
             for r in rows
-            if r["subscriber_count"] is not None and r["subscriber_count"] >= args.min_subscribers
+            if r["subscriber_count"] is not None
+            and (not args.min_subscribers or r["subscriber_count"] >= args.min_subscribers)
+            and (not args.max_subscribers or r["subscriber_count"] <= args.max_subscribers)
         ]
 
     if not rows:

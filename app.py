@@ -42,6 +42,7 @@ SCORE_MODE_LABELS = {
 DAYS_PRESETS = [("7일", 7), ("30일", 30), ("90일", 90), ("6개월", 180), ("1년", 365)]
 VIEWS_PRESETS = [("1만", 10_000), ("5만", 50_000), ("10만", 100_000), ("50만", 500_000), ("100만", 1_000_000)]
 SUBS_PRESETS = [("100", 100), ("1천", 1_000), ("5천", 5_000), ("1만", 10_000), ("5만", 50_000)]
+MAX_SUBS_PRESETS = [("1천", 1_000), ("5천", 5_000), ("1만", 10_000), ("5만", 50_000), ("10만", 100_000)]
 
 
 def render_preset_buttons(presets, state_key, per_row=3):
@@ -83,7 +84,17 @@ def save_key(key):
 
 
 def run_search(
-    quota, keyword, api_key, order, max_results, days, min_views, min_subscribers, score_mode, sort_by
+    quota,
+    keyword,
+    api_key,
+    order,
+    max_results,
+    days,
+    min_views,
+    min_subscribers,
+    max_subscribers,
+    score_mode,
+    sort_by,
 ):
     """quota는 호출한 쪽에서 만들어 넘긴다 - 도중에 에러가 나도 그때까지 쓴 유닛을 알 수 있게."""
     client = YouTubeClient(api_key, quota)
@@ -105,9 +116,13 @@ def run_search(
     rows = build_rows(video_details, channel_details, score_mode)
     if min_views:
         rows = [r for r in rows if r["view_count"] >= min_views]
-    if min_subscribers:
+    if min_subscribers or max_subscribers:
         rows = [
-            r for r in rows if r["subscriber_count"] is not None and r["subscriber_count"] >= min_subscribers
+            r
+            for r in rows
+            if r["subscriber_count"] is not None
+            and (not min_subscribers or r["subscriber_count"] >= min_subscribers)
+            and (not max_subscribers or r["subscriber_count"] <= max_subscribers)
         ]
     if not rows:
         return []
@@ -273,6 +288,18 @@ with st.sidebar:
         help="너무 작은 채널(예: 구독자 몇 명)이 만드는 통계적 노이즈를 걸러내고 싶을 때 사용하세요.",
     )
 
+    if "max_subs_filter" not in st.session_state:
+        st.session_state.max_subs_filter = 0
+    st.caption("빠른 선택 (이하)")
+    render_preset_buttons(MAX_SUBS_PRESETS, "max_subs_filter")
+    max_subscribers = st.number_input(
+        "최대 구독자 수 (0 = 제한 없음)",
+        min_value=0,
+        step=1000,
+        key="max_subs_filter",
+        help="진짜 작은/신생 채널만 보고 싶을 때 사용하세요 (예: 5000 = 구독자 5000명 이하만).",
+    )
+
     st.divider()
     st.subheader("점수 / 정렬")
     score_mode_label = st.radio("점수 계산 방식", list(SCORE_MODE_LABELS.keys()))
@@ -300,6 +327,7 @@ with tab_search:
                 "days": days,
                 "min_views": min_views,
                 "min_subscribers": min_subscribers,
+                "max_subscribers": max_subscribers,
                 "score_mode": SCORE_MODE_LABELS[score_mode_label],
             }
 
@@ -315,6 +343,7 @@ with tab_search:
                         days=days,
                         min_views=min_views,
                         min_subscribers=min_subscribers,
+                        max_subscribers=max_subscribers,
                         score_mode=options["score_mode"],
                         sort_by=options["sort_by"],
                     )
@@ -392,7 +421,8 @@ with tab_history:
                     st.caption(
                         f"가져오기 기준: {opts.get('order', '-')} · 정렬: {opts.get('sort_by', '-')} · "
                         f"검색개수: {opts.get('max_results', '-')} · 최근 {opts.get('days', 0)}일 · "
-                        f"최소조회수: {opts.get('min_views', 0):,} · 최소구독자: {opts.get('min_subscribers', 0):,} · "
+                        f"최소조회수: {opts.get('min_views', 0):,} · 구독자: {opts.get('min_subscribers', 0):,}~"
+                        f"{opts.get('max_subscribers', 0) or '제한없음'} · "
                         f"점수방식: {opts.get('score_mode', '-')} · 소모 유닛: {entry.get('quota_used', 0)}"
                     )
                     if entry["rows"]:
