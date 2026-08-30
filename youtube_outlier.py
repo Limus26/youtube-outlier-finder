@@ -190,8 +190,19 @@ class YouTubeClient:
             raise ApiError(f"HTTP {resp.status_code}: {resp.text}")
         return data
 
-    def search_video_ids(self, keyword, order, max_results, published_after=None):
-        """search.list로 영상 id 목록을 모은다. 호출당 100유닛."""
+    def search_video_ids(
+        self, keyword, order, max_results, published_after=None, region_code=None, category_id=None
+    ):
+        """search.list로 영상 id 목록을 모은다. 호출당 100유닛.
+
+        region_code: ISO 3166-1 alpha-2 국가 코드(예: US, JP, VN)를 주면
+        해당 국가에서 검색한 것처럼 결과를 가져온다. VPN 없이도 지역별
+        검색 결과를 볼 수 있는 방법 — YouTube Data API가 공식 지원한다.
+
+        category_id: YouTube 비디오 카테고리 ID(예: 26=Howto & Style)를 주면
+        그 카테고리로 태그된 영상만 검색한다. API 제약상 한 번에 카테고리
+        1개만 지정 가능(OR 조건 불가) — 여러 카테고리를 걸려면 검색을
+        카테고리별로 따로 돌려야 하며 그만큼 유닛이 더 든다."""
         video_ids = []
         page_token = None
         target = min(max_results, SEARCH_HARD_CAP)
@@ -206,6 +217,10 @@ class YouTubeClient:
             }
             if published_after:
                 params["publishedAfter"] = published_after
+            if region_code:
+                params["regionCode"] = region_code
+            if category_id:
+                params["videoCategoryId"] = category_id
             if page_token:
                 params["pageToken"] = page_token
 
@@ -391,6 +406,21 @@ def parse_args():
         help=f"검색할 최대 영상 수 (기본: 150, 최대 {SEARCH_HARD_CAP}). 50개당 search.list 100유닛 소모",
     )
     parser.add_argument("--days", type=int, default=None, help="최근 N일 이내 게시된 영상만 검색")
+    parser.add_argument(
+        "--region",
+        metavar="COUNTRY_CODE",
+        default=None,
+        help="검색 지역 국가 코드 (ISO 3166-1 alpha-2, 예: US, JP, VN, GB). "
+        "미지정 시 지역 제한 없이 검색. VPN 없이 다른 나라 유튜브 검색 결과를 볼 때 사용",
+    )
+    parser.add_argument(
+        "--category",
+        metavar="CATEGORY_ID",
+        default=None,
+        help="YouTube 비디오 카테고리 ID로 필터링 (예: 26=Howto & Style, 22=People & Blogs, "
+        "28=Science & Technology, 24=Entertainment, 20=Gaming, 10=Music). "
+        "한 번에 1개만 지정 가능. 미지정 시 카테고리 제한 없이 검색",
+    )
     parser.add_argument("--min-views", type=int, default=0, help="최소 조회수 필터 (기본: 0)")
     parser.add_argument(
         "--min-subscribers",
@@ -466,6 +496,8 @@ def main():
         "min_subscribers": args.min_subscribers,
         "max_subscribers": args.max_subscribers,
         "score_mode": args.score_mode,
+        "region": args.region,
+        "category": args.category,
     }
 
     quota = QuotaTracker()
@@ -473,9 +505,11 @@ def main():
     save_history = save_routine_search_to_history if args.routine else save_search_to_history
 
     try:
-        print(f"'{args.keyword}' 검색 중 (order={args.order})...")
+        region_note = f", region={args.region}" if args.region else ""
+        category_note = f", category={args.category}" if args.category else ""
+        print(f"'{args.keyword}' 검색 중 (order={args.order}{region_note}{category_note})...")
         video_ids = client.search_video_ids(
-            args.keyword, args.order, args.max_results, published_after
+            args.keyword, args.order, args.max_results, published_after, args.region, args.category
         )
         if not video_ids:
             print("검색 결과가 없습니다.")

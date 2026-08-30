@@ -99,6 +99,39 @@ def save_key(key):
     CONFIG_PATH.write_text(json.dumps({"api_key": key}))
 
 
+REGION_OPTIONS = {
+    "전체 (지역 제한 없음)": None,
+    "대한민국": "KR",
+    "미국": "US",
+    "일본": "JP",
+    "베트남": "VN",
+    "영국": "GB",
+    "태국": "TH",
+    "인도네시아": "ID",
+    "대만": "TW",
+    "필리핀": "PH",
+    "인도": "IN",
+}
+
+CATEGORY_OPTIONS = {
+    "전체 (카테고리 제한 없음)": None,
+    "Howto & Style": "26",
+    "People & Blogs": "22",
+    "Science & Technology": "28",
+    "Entertainment": "24",
+    "Comedy": "23",
+    "Education": "27",
+    "News & Politics": "25",
+    "Sports": "17",
+    "Gaming": "20",
+    "Music": "10",
+    "Film & Animation": "1",
+    "Autos & Vehicles": "2",
+    "Pets & Animals": "15",
+    "Travel & Events": "19",
+}
+
+
 def run_search(
     quota,
     keyword,
@@ -111,6 +144,8 @@ def run_search(
     max_subscribers,
     score_mode,
     sort_by,
+    region_code=None,
+    category_id=None,
 ):
     """quota는 호출한 쪽에서 만들어 넘긴다 - 도중에 에러가 나도 그때까지 쓴 유닛을 알 수 있게."""
     client = YouTubeClient(api_key, quota)
@@ -121,7 +156,9 @@ def run_search(
             (datetime.now(timezone.utc) - timedelta(days=days)).isoformat().replace("+00:00", "Z")
         )
 
-    video_ids = client.search_video_ids(keyword, order, max_results, published_after)
+    video_ids = client.search_video_ids(
+        keyword, order, max_results, published_after, region_code, category_id
+    )
     if not video_ids:
         return []
 
@@ -271,6 +308,16 @@ with st.sidebar:
     st.divider()
     st.subheader("검색 옵션")
     order_label = st.selectbox("검색 후보를 가져올 기준", list(ORDER_LABELS.keys()))
+    region_label = st.selectbox(
+        "검색 지역",
+        list(REGION_OPTIONS.keys()),
+        help="다른 나라에서 검색한 것처럼 그 지역 결과를 가져옵니다 (VPN 불필요, YouTube API 자체 기능).",
+    )
+    category_label = st.selectbox(
+        "검색 카테고리",
+        list(CATEGORY_OPTIONS.keys()),
+        help="유튜브에 등록된 영상 카테고리로 필터링합니다. 한 번에 1개만 선택 가능합니다.",
+    )
     max_results = st.slider(
         "검색할 영상 개수", min_value=50, max_value=SEARCH_HARD_CAP, value=150, step=50
     )
@@ -335,6 +382,8 @@ with tab_search:
                 "min_subscribers": min_subscribers,
                 "max_subscribers": max_subscribers,
                 "score_mode": SCORE_MODE_LABELS[score_mode_label],
+                "region": REGION_OPTIONS[region_label],
+                "category": CATEGORY_OPTIONS[category_label],
             }
 
             quota = QuotaTracker()
@@ -352,6 +401,8 @@ with tab_search:
                         max_subscribers=max_subscribers,
                         score_mode=options["score_mode"],
                         sort_by=options["sort_by"],
+                        region_code=options["region"],
+                        category_id=options["category"],
                     )
                 except ApiError as e:
                     st.error(f"YouTube API 오류: {e}")

@@ -104,6 +104,8 @@ python youtube_outlier.py "키워드"
 | `--sort-by` | 결과 표 정렬 기준: `score` / `views` / `date` | `score` |
 | `--max-results` | 검색할 최대 영상 수 (최대 500) | `150` |
 | `--days` | 최근 N일 이내 게시된 영상만 검색 | 제한 없음 |
+| `--region` | 검색 지역 국가 코드(ISO 3166-1 alpha-2, 예: `US`, `JP`, `VN`, `GB`). VPN 없이 다른 나라 유튜브 검색 결과를 볼 때 사용 | 제한 없음 |
+| `--category` | YouTube 비디오 카테고리 ID로 필터링 (예: `26`=Howto & Style, `22`=People & Blogs, `28`=Science & Technology). API 제약상 한 번에 1개만 지정 가능 | 제한 없음 |
 | `--min-views` | 최소 조회수 필터 | `0` |
 | `--min-subscribers` | 최소 구독자 수 필터. 구독자가 극소수인 채널(통계적 노이즈)을 걸러낼 때 사용 | `0` |
 | `--max-subscribers` | 최대 구독자 수 필터. '진짜 작은 채널'만 보고 싶을 때 사용 (예: 5000). `--min-subscribers`와 함께 쓰면 "N명~M명 사이 채널만" 필터가 됨. 구독자 비공개 채널은 이 필터들이 하나라도 켜져 있으면 함께 제외됨 | `0` |
