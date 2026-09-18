@@ -1,0 +1,87 @@
+name: YouTube outlier routine
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "routine_inputs/trending.json"
+      - "routine_inputs/celebrity.json"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: Routine to run
+        required: true
+        type: choice
+        options:
+          - trending
+          - celebrity
+
+permissions:
+  contents: write
+
+concurrency:
+  group: youtube-outlier-routine
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Choose routine
+        id: routine
+        shell: bash
+        run: |
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+            mode="${{ inputs.mode }}"
+          elif git diff --name-only HEAD^ HEAD | grep -qx "routine_inputs/celebrity.json"; then
+            mode="celebrity"
+          else
+            mode="trending"
+          fi
+          echo "mode=$mode" >> "$GITHUB_OUTPUT"
+
+      - name: Check API key
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: |
+          if [[ -z "$YOUTUBE_API_KEY" ]]; then
+            echo "::error::Repository secret YOUTUBE_API_KEY is missing"
+            exit 1
+          fi
+
+      - name: Run scan
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: |
+          python routine_runner.py \
+            --mode "${{ steps.routine.outputs.mode }}" \
+            --input "routine_inputs/${{ steps.routine.outputs.mode }}.json" \
+            --report "reports/latest-${{ steps.routine.outputs.mode }}.md" \
+            --archive-dir reports/archive
+
+      - name: Commit report and routine history
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports routine_quota_usage.json routine_search_history.json
+          if git diff --cached --quiet; then
+            echo "No report changes to commit"
+            exit 0
+          fi
+          git commit -m "chore: save ${{ steps.routine.outputs.mode }} routine report"
+          git pull --rebase origin main
+          git push origin HEAD:main
