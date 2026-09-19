@@ -1,12 +1,12 @@
 {
   "mode": "trending",
   "test": true,
-  "generated_at": "2026-09-19T00:00:00+09:00",
+  "generated_at": "2026-09-19T16:03:00+09:00",
   "keywords": [
     {
       "keyword": "무선이어폰",
       "category": "테크·가젯",
-      "reason": "API와 예약 실행 연결 확인용 저비용 시험 키워드"
+      "reason": "수정 후 API와 GitHub Actions 연결 재확인"
     }
   ]
 }
