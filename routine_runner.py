@@ -81,8 +81,9 @@ def load_keywords(path: Path, mode: str) -> tuple[list[dict[str, str]], dict[str
         raise ValueError(f"입력 mode가 일치하지 않습니다: {data.get('mode')!r}")
 
     raw = data.get("keywords")
-    if not isinstance(raw, list) or len(raw) != 40:
-        raise ValueError("keywords는 정확히 40개여야 합니다.")
+    is_test = bool(data.get("test", False))
+    if not isinstance(raw, list) or (not is_test and len(raw) != 40) or (is_test and not raw):
+        raise ValueError("정식 실행은 키워드 40개, 시험 실행은 1개 이상이어야 합니다.")
 
     items: list[dict[str, str]] = []
     seen: set[str] = set()
@@ -275,6 +276,9 @@ def main() -> int:
 
     cfg = CONFIGS[args.mode]
     keywords, source = load_keywords(args.input, args.mode)
+    is_test = bool(source.get("test", False))
+    if is_test:
+        keywords = keywords[:1]
     quota_before = int(load_routine_usage().get("units_used", 0))
     available = max(DAILY_QUOTA - quota_before - SAFETY_RESERVE, 0)
     quota = QuotaTracker()
@@ -310,7 +314,7 @@ def main() -> int:
     )
 
     details: dict[str, dict[str, Any]] = {}
-    candidates = rankings[: cfg.deep_count]
+    candidates = [] if is_test else rankings[: cfg.deep_count]
     for item in candidates:
         keyword = item["keyword"]
         if quota.total_units + estimated_units(DEEP_RESULTS) > available:
