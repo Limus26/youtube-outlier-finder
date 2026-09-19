@@ -191,13 +191,26 @@ class YouTubeClient:
         return data
 
     def search_video_ids(
-        self, keyword, order, max_results, published_after=None, region_code=None, category_id=None
+        self,
+        keyword,
+        order,
+        max_results,
+        published_after=None,
+        region_code=None,
+        category_id=None,
+        relevance_language=None,
     ):
         """search.list로 영상 id 목록을 모은다. 호출당 100유닛.
 
         region_code: ISO 3166-1 alpha-2 국가 코드(예: US, JP, VN)를 주면
-        해당 국가에서 검색한 것처럼 결과를 가져온다. VPN 없이도 지역별
-        검색 결과를 볼 수 있는 방법 — YouTube Data API가 공식 지원한다.
+        해당 국가에서 "시청 가능한" 영상만 걸러준다. 주의: 이건 "그 나라에서
+        검색한 것처럼"이 아니다 — 대부분 영상이 어디서나 시청 가능해서
+        실제로는 결과가 거의 안 걸러진다. 나라별 콘텐츠를 원하면 아래
+        relevance_language를 함께 쓰는 게 실질적인 효과가 있다.
+
+        relevance_language: ISO 639-1 언어 코드(예: ko, en, ja)를 주면 그
+        언어로 된 콘텐츠를 우선적으로 찾아준다. "다른 나라 검색 결과를
+        보고 싶다"는 목적에는 region_code보다 이 파라미터가 실제로 효과가 있다.
 
         category_id: YouTube 비디오 카테고리 ID(예: 26=Howto & Style)를 주면
         그 카테고리로 태그된 영상만 검색한다. API 제약상 한 번에 카테고리
@@ -219,6 +232,8 @@ class YouTubeClient:
                 params["publishedAfter"] = published_after
             if region_code:
                 params["regionCode"] = region_code
+            if relevance_language:
+                params["relevanceLanguage"] = relevance_language
             if category_id:
                 params["videoCategoryId"] = category_id
             if page_token:
@@ -411,7 +426,16 @@ def parse_args():
         metavar="COUNTRY_CODE",
         default=None,
         help="검색 지역 국가 코드 (ISO 3166-1 alpha-2, 예: US, JP, VN, GB). "
-        "미지정 시 지역 제한 없이 검색. VPN 없이 다른 나라 유튜브 검색 결과를 볼 때 사용",
+        "주의: 이 값만으로는 실질적인 효과가 크지 않다 (대부분 영상이 어디서나 시청 가능해서 "
+        "거의 안 걸러짐). 다른 나라 콘텐츠를 보려면 --language를 함께 쓸 것",
+    )
+    parser.add_argument(
+        "--language",
+        metavar="LANG_CODE",
+        default=None,
+        help="검색 결과 언어 우선순위 (ISO 639-1, 예: ko, en, ja, vi). "
+        "다른 나라 유튜브 검색 결과를 보고 싶을 때 실질적으로 효과가 있는 옵션 "
+        "(--region보다 이게 핵심). VPN 없이도 사용 가능",
     )
     parser.add_argument(
         "--category",
@@ -498,6 +522,7 @@ def main():
         "score_mode": args.score_mode,
         "region": args.region,
         "category": args.category,
+        "language": args.language,
     }
 
     quota = QuotaTracker()
@@ -507,9 +532,16 @@ def main():
     try:
         region_note = f", region={args.region}" if args.region else ""
         category_note = f", category={args.category}" if args.category else ""
-        print(f"'{args.keyword}' 검색 중 (order={args.order}{region_note}{category_note})...")
+        language_note = f", language={args.language}" if args.language else ""
+        print(f"'{args.keyword}' 검색 중 (order={args.order}{region_note}{category_note}{language_note})...")
         video_ids = client.search_video_ids(
-            args.keyword, args.order, args.max_results, published_after, args.region, args.category
+            args.keyword,
+            args.order,
+            args.max_results,
+            published_after,
+            args.region,
+            args.category,
+            args.language,
         )
         if not video_ids:
             print("검색 결과가 없습니다.")
