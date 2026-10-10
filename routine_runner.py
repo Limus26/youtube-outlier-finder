@@ -36,7 +36,63 @@ KST = ZoneInfo("Asia/Seoul")
 SHALLOW_RESULTS = 50
 DEEP_RESULTS = 150
 SCORE_THRESHOLD = 20.0
-SAFETY_RESERVE = 250
+SAFETY_RESERVE = 50
+
+
+
+class BudgetClient(YouTubeClient):
+    """Resume search pages and cache details within one run; stop on API errors."""
+    def __init__(self, api_key, quota, available):
+        super().__init__(api_key, quota)
+        self.available = available
+        self.halt_reason = ""
+        self.search_cache = {}
+        self.video_cache = {}
+        self.channel_cache = {}
+
+    def _get(self, path, params):
+        if self.halt_reason:
+            raise ApiError(self.halt_reason)
+        cost = 100 if path == "search" else 1
+        # Reserve detail calls for the newly fetched page before making a search.
+        reserve = 2 if path == "search" else 0
+        if self.quota.total_units + cost + reserve > self.available:
+            raise ApiError("일일 할당량 안전 한도: 추가 호출 중단")
+        try:
+            return super()._get(path, params)
+        except ApiError as exc:
+            self.halt_reason = str(exc)
+            raise
+
+    def search_video_ids(self, keyword, order, max_results, published_after=None,
+                         region_code=None, category_id=None, relevance_language=None):
+        entry = self.search_cache.setdefault(keyword, {"ids": [], "next": None, "done": False})
+        target = min(max_results, 500)
+        while len(entry["ids"]) < target and not entry["done"]:
+            params = {"part": "snippet", "q": keyword, "type": "video",
+                      "order": order, "maxResults": min(50, target - len(entry["ids"]))}
+            for key, value in [("publishedAfter", published_after), ("regionCode", region_code),
+                               ("videoCategoryId", category_id), ("relevanceLanguage", relevance_language),
+                               ("pageToken", entry["next"])]:
+                if value:
+                    params[key] = value
+            data = self._get("search", params)
+            self.quota.search_calls += 1
+            ids = [x["id"]["videoId"] for x in data.get("items", []) if "videoId" in x.get("id", {})]
+            entry["ids"].extend(ids)
+            entry["next"] = data.get("nextPageToken")
+            entry["done"] = not entry["next"] or not ids
+        return entry["ids"][:target]
+
+    def get_videos_details(self, ids):
+        missing = [x for x in ids if x not in self.video_cache]
+        self.video_cache.update(super().get_videos_details(missing))
+        return {x: self.video_cache[x] for x in ids if x in self.video_cache}
+
+    def get_channels_details(self, ids):
+        missing = [x for x in ids if x not in self.channel_cache]
+        self.channel_cache.update(super().get_channels_details(missing))
+        return {x: self.channel_cache[x] for x in ids if x in self.channel_cache}
 
 
 @dataclass(frozen=True)
@@ -282,12 +338,15 @@ def main() -> int:
     quota_before = int(load_routine_usage().get("units_used", 0))
     available = max(DAILY_QUOTA - quota_before - SAFETY_RESERVE, 0)
     quota = QuotaTracker()
-    client = YouTubeClient(api_key, quota)
+    client = BudgetClient(api_key, quota, available)
     rankings: list[dict[str, Any]] = []
     failures: list[str] = []
 
     for item in keywords:
         keyword = item["keyword"]
+        if client.halt_reason:
+            failures.append(f"API 오류 이후 추가 호출 중단: {client.halt_reason}")
+            break
         if quota.total_units + estimated_units(SHALLOW_RESULTS) > available:
             failures.append(f"{keyword}: 일일 할당량 안전 한도로 건너뜀")
             rankings.append({**item, "result_count": 0, "signals": 0, "max_score": None})
