@@ -373,7 +373,7 @@ def main() -> int:
     )
 
     details: dict[str, dict[str, Any]] = {}
-    candidates = [] if is_test else rankings[: cfg.deep_count]
+    candidates = [] if is_test or client.halt_reason else rankings[: cfg.deep_count]
     for item in candidates:
         keyword = item["keyword"]
         if quota.total_units + estimated_units(DEEP_RESULTS) > available:
