@@ -240,7 +240,7 @@ def video_table(rows: list[dict[str, Any]]) -> list[str]:
         "| 순위 | 제목 | 채널 | 구독자 | 조회수 | 점수 | 게시일 |",
         "|---:|---|---|---:|---:|---:|---|",
     ]
-    for row in rows[:5]:
+    for row in rows:
         title = f"[{md(row['title'])}]({row['url']})"
         lines.append(
             f"| {row['rank']} | {title} | {md(row['channel_title'])} | "
