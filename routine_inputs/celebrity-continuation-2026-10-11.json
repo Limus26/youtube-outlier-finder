@@ -3,15 +3,9 @@
   "mode": "celebrity",
   "completed_original_pending": true,
   "pending_keywords": [],
-  "pending_deep_keywords": [
-    "임지연 간식",
-    "한혜진 고구마 간식",
-    "한고은 생강 레몬티",
-    "나나 다이어트 음식",
-    "한가인 근육 운동"
-  ],
+  "pending_deep_keywords": [],
   "units_used": 8366,
-  "halt_reason": "No API limit this run. Short-batch/deep-only runner change rejected by automatic approval review; not applied. Five prior exact-keyword deep searches and source/product matching remain incomplete.",
+  "halt_reason": "Previous five exact-keyword deep searches completed October 17. Representative Shorts/source/product matching still partial. See next_continuation_record for new pending searches.",
   "video_ids": [
     "fpJO5lkSh8I",
     "0I7Xt2YcZ_Q",
@@ -153,5 +147,7 @@
     "E6_zC6_1whk",
     "L1pX57c7AFw"
   ],
-  "followup_automation_created": false
+  "followup_automation_created": false,
+  "previous_pending_deep_completed_as_of": "2026-10-17",
+  "next_continuation_record": "routine_inputs/celebrity-continuation-2026-10-17.json"
 }
