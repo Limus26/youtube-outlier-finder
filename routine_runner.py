@@ -109,8 +109,8 @@ CONFIGS = {
         title="유튜브 셀럽훅 쇼츠 영상 발굴 리포트",
         deep_count=16,
         min_subscribers=200,
-        max_subscribers=3000,
-        min_views=30000,
+        max_subscribers=5000,
+        min_views=100000,
     ),
     "trending": ModeConfig(
         title="유튜브 떡상 키워드 발굴 리포트 (한국·다양한 주제)",
