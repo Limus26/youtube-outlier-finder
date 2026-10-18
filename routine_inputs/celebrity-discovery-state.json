@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-17T20:50:00+09:00",
+  "updated_at": "2026-10-18T18:10:13+09:00",
   "purpose": "Persistent memory for the scheduled agent's query selection and final report deduplication. Raw runner reports/history remain complete; the scheduled agent reads and updates this ledger.",
   "policy": {
     "query_topic_cooldown_days": 14,
@@ -16,7 +16,39 @@
     "migration": {
       "reason": "Subscriber ceiling increased from 3000 to 5000 on 2026-10-17",
       "scope": "One representative query per previous celebrity/topic, prioritize promising topics within budget; never repeat already reported video IDs as new",
-      "completed_topic_keys": []
+      "completed_topic_keys": [
+        "배우한혜진|오나오",
+        "김윤지|요거트에그",
+        "김완선|채소김쌈",
+        "성시경|양배추볶음",
+        "한고은|발사믹샐러드",
+        "모델한혜진|후무스",
+        "윤은혜|가지리조또",
+        "소유|힙밴드",
+        "이시영|얼굴괄사",
+        "천우희|건강간식미확인",
+        "최화정|저당토스트",
+        "엄정화|그릭요거트",
+        "이청아|디카페인수면",
+        "채정안|취침전차",
+        "한가인|중둔근",
+        "김종국|회복",
+        "정은지|힙업",
+        "나나|홈마사지",
+        "이하늬|아침식단",
+        "손예진|운동소도구",
+        "박신혜|필라테스밴드",
+        "나나|식단미확인",
+        "김완선|식단미확인",
+        "한고은|레몬생강차",
+        "한가인|근력",
+        "소유|단백질음료",
+        "임지연|간식미확인",
+        "모델한혜진|고구마칩",
+        "한고은|부리또",
+        "최화정|땅콩버터",
+        "류수영|두부요리"
+      ]
     }
   },
   "reported_videos": [
@@ -167,12 +199,19 @@
       "video_id": "o0TgI0n4QBc",
       "title": "이시영 얼굴마사지",
       "url": "https://youtu.be/o0TgI0n4QBc",
-      "last_reported_view_count": 197529,
-      "last_reported_subscriber_count": 1260,
-      "metrics_checked_on": "2026-10-11",
-      "last_reported_on": "2026-10-17",
+      "last_reported_view_count": 497732,
+      "last_reported_subscriber_count": 2900,
+      "metrics_checked_on": "2026-10-18",
+      "last_reported_on": "2026-10-18",
       "status": "★ 추천",
-      "verification_note": "본인 마사지 루틴 공개 근거 있음. 괄사 등 도구 연결 후보; 동일 제품·효과 미확인."
+      "verification_note": "본인 마사지 루틴 공개 근거 있음. 괄사 등 도구 연결 후보; 동일 제품·효과 미확인.",
+      "report_history": [
+        {
+          "reported_on": "2026-10-17",
+          "view_count": 197529,
+          "subscriber_count": 1260
+        }
+      ]
     },
     {
       "video_id": "KG7NCmLwwok",
@@ -222,12 +261,19 @@
       "video_id": "VSQhC7UUB3E",
       "title": "김완선이 평소에서 관리하며 먹는 급찐급빠 단백질챙기며 다이어트 하는 초간단 레시피공개",
       "url": "https://youtu.be/VSQhC7UUB3E",
-      "last_reported_view_count": 65497,
-      "last_reported_subscriber_count": 1620,
-      "metrics_checked_on": "2026-10-11",
-      "last_reported_on": "2026-10-17",
+      "last_reported_view_count": 135931,
+      "last_reported_subscriber_count": 1760,
+      "metrics_checked_on": "2026-10-18",
+      "last_reported_on": "2026-10-18",
       "status": "일반 후보",
-      "verification_note": "김완선 식단의 별도 참고 영상. 재료 확인 필요; 급찐급빠 효과 주장 제외."
+      "verification_note": "김완선 식단의 별도 참고 영상. 재료 확인 필요; 급찐급빠 효과 주장 제외.",
+      "report_history": [
+        {
+          "reported_on": "2026-10-17",
+          "view_count": 65497,
+          "subscriber_count": 1620
+        }
+      ]
     },
     {
       "video_id": "DjFAB-TGpR8",
@@ -327,6 +373,39 @@
       "last_reported_on": "2026-10-17",
       "status": "일반 후보",
       "verification_note": "같은 마사지 소재의 추가 참고. 점수20 미만; 5분 리프팅 효과는 확정하지 않음."
+    },
+    {
+      "video_id": "BsB09dMt9Bw",
+      "title": "한혜진 부부가 아침마다 먹고 20kg 뺐다는 레전드 식단",
+      "url": "https://youtu.be/BsB09dMt9Bw",
+      "last_reported_view_count": 165817,
+      "last_reported_subscriber_count": 209,
+      "metrics_checked_on": "2026-10-18",
+      "last_reported_on": "2026-10-18",
+      "status": "검토",
+      "verification_note": "검토: 인물·정확한 식단 미확인. 기존 배우한혜진 오나오와 동일 여부 확인 전 별도 소재로 확정하지 않음. 20kg 감량 주장 미채택."
+    },
+    {
+      "video_id": "IoQ_ECXq2xk",
+      "title": "여배우가 밥대신 먹고 관리해서 성시경.덱스도 놀란  최애간식",
+      "url": "https://youtu.be/IoQ_ECXq2xk",
+      "last_reported_view_count": 136843,
+      "last_reported_subscriber_count": 1450,
+      "metrics_checked_on": "2026-10-18",
+      "last_reported_on": "2026-10-18",
+      "status": "검토",
+      "verification_note": "검토: 임지연 검색으로 발견됐으나 등장 배우·정확한 간식 미확인. 이전 임지연 간식과 동일성 미확인."
+    },
+    {
+      "video_id": "-RRPf-OKfMg",
+      "title": "차원이 다른 류수영 두부조림",
+      "url": "https://youtu.be/-RRPf-OKfMg",
+      "last_reported_view_count": 301030,
+      "last_reported_subscriber_count": 3150,
+      "metrics_checked_on": "2026-10-18",
+      "last_reported_on": "2026-10-18",
+      "status": "일반 후보·추가참고",
+      "verification_note": "일반 후보·추가참고: 류수영 두부조림 기존 소재군. KBS 방송 공개 근거 있음. 이전 쇼츠와 동일 레시피·브랜드는 미확인. 신규 소재 수로 가산하지 않음."
     }
   ],
   "query_history": [
@@ -345,7 +424,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "한가인|상체운동"
     },
     {
       "keyword": "정은지 하체",
@@ -362,7 +441,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "정은지|하체"
     },
     {
       "keyword": "전소미 어깨 운동",
@@ -379,7 +458,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "전소미|어깨운동"
     },
     {
       "keyword": "김완선 김밥",
@@ -396,7 +475,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "김완선|김밥"
     },
     {
       "keyword": "한혜진 후무스",
@@ -413,7 +492,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "모델한혜진|후무스"
     },
     {
       "keyword": "윤은혜 리조또",
@@ -430,7 +509,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "윤은혜|가지리조또"
     },
     {
       "keyword": "소유 힙밴드",
@@ -447,7 +526,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "소유|힙밴드"
     },
     {
       "keyword": "한고은 식단",
@@ -464,7 +543,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "한고은|식단"
     },
     {
       "keyword": "신세경 건강 간식",
@@ -481,7 +560,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "신세경|건강간식"
     },
     {
       "keyword": "신세경 프로틴",
@@ -498,7 +577,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "신세경|프로틴"
     },
     {
       "keyword": "한혜진 단호박",
@@ -515,7 +594,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "모델한혜진|단호박"
     },
     {
       "keyword": "나나 샤부샤부",
@@ -532,7 +611,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "나나|샤부샤부"
     },
     {
       "keyword": "한고은 아보카도",
@@ -549,7 +628,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "한고은|아보카도"
     },
     {
       "keyword": "김완선 채소 김쌈",
@@ -566,7 +645,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "김완선|채소김쌈"
     },
     {
       "keyword": "김완선 야채 김말이",
@@ -583,7 +662,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "김완선|채소김쌈"
     },
     {
       "keyword": "한혜진 다이어트 간식",
@@ -600,7 +679,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "한혜진미확인|다이어트간식"
     },
     {
       "keyword": "한고은 닭가슴살",
@@ -617,7 +696,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "한고은|닭가슴살"
     },
     {
       "keyword": "한고은 부리또",
@@ -634,7 +713,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "한고은|부리또"
     },
     {
       "keyword": "윤은혜 가지 리조또",
@@ -651,7 +730,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "윤은혜|가지리조또"
     },
     {
       "keyword": "한가인 운동 루틴",
@@ -668,7 +747,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "한가인|운동"
     },
     {
       "keyword": "나나 식단",
@@ -685,7 +764,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "나나|식단미확인"
     },
     {
       "keyword": "소유 홈트",
@@ -702,7 +781,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "소유|홈트"
     },
     {
       "keyword": "소유 힙업 루틴",
@@ -719,7 +798,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "소유|힙업"
     },
     {
       "keyword": "김완선 식단",
@@ -736,7 +815,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "김완선|식단미확인"
     },
     {
       "keyword": "김종국 건강관리",
@@ -753,7 +832,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "김종국|건강관리"
     },
     {
       "keyword": "한혜진 수면",
@@ -770,7 +849,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "한혜진미확인|수면"
     },
     {
       "keyword": "진서연 명상",
@@ -787,7 +866,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "진서연|명상"
     },
     {
       "keyword": "채정안 아침 루틴",
@@ -804,7 +883,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "채정안|아침"
     },
     {
       "keyword": "안소희 스트레칭",
@@ -821,7 +900,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "안소희|스트레칭"
     },
     {
       "keyword": "소유 회복 루틴",
@@ -838,7 +917,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "소유|회복"
     },
     {
       "keyword": "이청아 카페인",
@@ -855,7 +934,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "이청아|카페인"
     },
     {
       "keyword": "이청아 수면 환경",
@@ -872,7 +951,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "이청아|수면환경"
     },
     {
       "keyword": "한혜진 홈트",
@@ -889,7 +968,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "모델한혜진|홈트"
     },
     {
       "keyword": "션 보강운동",
@@ -906,7 +985,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "션|보강운동"
     },
     {
       "keyword": "김종국 스트레칭",
@@ -923,7 +1002,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "김종국|스트레칭"
     },
     {
       "keyword": "진서연 홈트",
@@ -940,7 +1019,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "진서연|홈트"
     },
     {
       "keyword": "엄정화 근력운동",
@@ -957,7 +1036,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "엄정화|근력운동"
     },
     {
       "keyword": "한가인 요가",
@@ -974,7 +1053,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "한가인|요가"
     },
     {
       "keyword": "정은지 근력운동",
@@ -991,7 +1070,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "정은지|근력운동"
     },
     {
       "keyword": "이청아 건강 간식",
@@ -1008,7 +1087,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "이청아|건강간식"
     },
     {
       "keyword": "채정안 올리브오일",
@@ -1025,7 +1104,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "채정안|올리브오일"
     },
     {
       "keyword": "최화정 샐러드",
@@ -1042,7 +1121,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "최화정|샐러드"
     },
     {
       "keyword": "김종국 아침 식단",
@@ -1059,7 +1138,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "김종국|아침식단"
     },
     {
       "keyword": "소유 식단",
@@ -1076,7 +1155,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "소유|식단"
     },
     {
       "keyword": "소유 단백질 간식",
@@ -1093,7 +1172,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "소유|단백질간식"
     },
     {
       "keyword": "안소희 감자 에그 샐러드",
@@ -1110,7 +1189,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "안소희|감자에그샐러드"
     },
     {
       "keyword": "안소희 아보카도 칩",
@@ -1127,7 +1206,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "안소희|아보카도칩"
     },
     {
       "keyword": "윤은혜 건강 레시피",
@@ -1144,7 +1223,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "윤은혜|건강"
     },
     {
       "keyword": "최화정 건강관리",
@@ -1161,7 +1240,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "최화정|건강관리"
     },
     {
       "keyword": "엄정화 자기관리",
@@ -1178,7 +1257,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "엄정화|자기관리"
     },
     {
       "keyword": "한가인 회복 루틴",
@@ -1195,7 +1274,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "한가인|회복"
     },
     {
       "keyword": "진서연 아침 루틴",
@@ -1212,7 +1291,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "진서연|아침"
     },
     {
       "keyword": "진서연 숙면",
@@ -1229,7 +1308,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "진서연|숙면"
     },
     {
       "keyword": "채정안 야식 줄이기",
@@ -1246,7 +1325,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "채정안|야식줄이기"
     },
     {
       "keyword": "채정안 수면 루틴",
@@ -1263,7 +1342,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "채정안|수면"
     },
     {
       "keyword": "이청아 침실 조명",
@@ -1280,7 +1359,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "이청아|침실조명"
     },
     {
       "keyword": "이청아 수면 루틴",
@@ -1297,7 +1376,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "이청아|수면"
     },
     {
       "keyword": "안소희 모닝루틴",
@@ -1314,7 +1393,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "안소희|모닝"
     },
     {
       "keyword": "안소희 반신욕",
@@ -1331,7 +1410,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "안소희|반신욕"
     },
     {
       "keyword": "한혜진 건강관리",
@@ -1348,7 +1427,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "한혜진미확인|건강관리"
     },
     {
       "keyword": "한가인 러닝",
@@ -1365,7 +1444,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "한가인|러닝"
     },
     {
       "keyword": "연예인 운동 루틴",
@@ -1382,7 +1461,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "연예인|운동"
     },
     {
       "keyword": "소유 힙어브덕션",
@@ -1399,7 +1478,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "소유|힙어브덕션"
     },
     {
       "keyword": "연예인 식단",
@@ -1416,7 +1495,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "연예인|식단"
     },
     {
       "keyword": "연예인 홈트 용품",
@@ -1433,7 +1512,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "연예인|홈트용품"
     },
     {
       "keyword": "연예인 다이어트 식품",
@@ -1450,7 +1529,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "연예인|다이어트식품"
     },
     {
       "keyword": "연예인 건강관리",
@@ -1467,7 +1546,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "연예인|건강관리"
     },
     {
       "keyword": "한혜진 러닝",
@@ -1484,7 +1563,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "모델한혜진|러닝"
     },
     {
       "keyword": "엄정화 웨이트",
@@ -1501,7 +1580,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "엄정화|웨이트"
     },
     {
       "keyword": "엄정화 필라테스",
@@ -1518,7 +1597,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "엄정화|필라테스"
     },
     {
       "keyword": "션 러닝",
@@ -1535,7 +1614,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "션|러닝"
     },
     {
       "keyword": "정은지 데드리프트",
@@ -1552,7 +1631,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "정은지|데드리프트"
     },
     {
       "keyword": "정은지 복싱",
@@ -1569,7 +1648,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "정은지|복싱"
     },
     {
       "keyword": "소유 레그레이즈",
@@ -1586,7 +1665,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "소유|레그레이즈"
     },
     {
       "keyword": "진서연 바벨",
@@ -1603,7 +1682,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "진서연|바벨"
     },
     {
       "keyword": "진서연 로잉머신",
@@ -1620,7 +1699,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "진서연|로잉머신"
     },
     {
       "keyword": "이청아 병아리콩 샐러드",
@@ -1637,7 +1716,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "이청아|병아리콩샐러드"
     },
     {
       "keyword": "최화정 무가당 요거트",
@@ -1654,7 +1733,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "최화정|무가당요거트"
     },
     {
       "keyword": "채정안 토마토주스",
@@ -1671,7 +1750,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "채정안|토마토주스"
     },
     {
       "keyword": "안소희 단백질 쉐이크",
@@ -1688,7 +1767,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "안소희|단백질음료"
     },
     {
       "keyword": "소유 단백질 음료",
@@ -1705,7 +1784,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "소유|단백질음료"
     },
     {
       "keyword": "소유 곤약현미밥",
@@ -1722,7 +1801,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "소유|곤약현미밥"
     },
     {
       "keyword": "윤은혜 잡곡밥",
@@ -1739,7 +1818,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "윤은혜|잡곡밥"
     },
     {
       "keyword": "윤은혜 두부면",
@@ -1756,7 +1835,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "윤은혜|두부면"
     },
     {
       "keyword": "신세경 곤약밥",
@@ -1773,7 +1852,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "신세경|곤약밥"
     },
     {
       "keyword": "신세경 두부",
@@ -1790,7 +1869,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "신세경|두부"
     },
     {
       "keyword": "김종국 그릭요거트",
@@ -1807,7 +1886,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "김종국|그릭요거트"
     },
     {
       "keyword": "김종국 콩국수",
@@ -1824,7 +1903,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "김종국|콩국수"
     },
     {
       "keyword": "이정현 건강 도시락",
@@ -1841,7 +1920,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "이정현|건강도시락"
     },
     {
       "keyword": "박솔미 양배추 스테이크",
@@ -1858,7 +1937,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "박솔미|양배추스테이크"
     },
     {
       "keyword": "한지혜 당근 라페",
@@ -1875,7 +1954,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "한지혜|당근라페"
     },
     {
       "keyword": "한지혜 두부 크림치즈",
@@ -1892,7 +1971,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "한지혜|두부크림치즈"
     },
     {
       "keyword": "엄정화 키토 김밥",
@@ -1909,7 +1988,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "엄정화|키토김밥"
     },
     {
       "keyword": "진서연 오트밀 리조또",
@@ -1926,7 +2005,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "진서연|가지리조또"
     },
     {
       "keyword": "진서연 마녀 수프",
@@ -1943,7 +2022,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "진서연|마녀수프"
     },
     {
       "keyword": "최화정 오이 김밥",
@@ -1960,7 +2039,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "최화정|오이김밥"
     },
     {
       "keyword": "한혜진 에어프라이어 고구마",
@@ -1977,7 +2056,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "모델한혜진|고구마칩"
     },
     {
       "keyword": "나나 기버터 식단",
@@ -1994,7 +2073,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "나나|기버터식단"
     },
     {
       "keyword": "임지연 그릭요거트 그래놀라",
@@ -2011,7 +2090,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "임지연|그릭요거트"
     },
     {
       "keyword": "한가인 견과류 추천",
@@ -2028,7 +2107,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "한가인|견과류"
     },
     {
       "keyword": "류수영 두부 요리",
@@ -2045,7 +2124,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "류수영|두부요리"
     },
     {
       "keyword": "한가인 장요근 운동",
@@ -2062,7 +2141,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "한가인|장요근운동"
     },
     {
       "keyword": "천우희 간식 추천",
@@ -2079,7 +2158,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "천우희|간식"
     },
     {
       "keyword": "성시경 양배추 요리",
@@ -2096,7 +2175,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "성시경|양배추볶음"
     },
     {
       "keyword": "송지은 필라테스 루틴",
@@ -2113,7 +2192,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "송지은|필라테스"
     },
     {
       "keyword": "최화정 건강 토스트",
@@ -2130,7 +2209,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "최화정|건강토스트"
     },
     {
       "keyword": "윤은혜 파로 리조또",
@@ -2147,7 +2226,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "윤은혜|가지리조또"
     },
     {
       "keyword": "이청아 아침 루틴 건강",
@@ -2164,7 +2243,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "이청아|아침건강"
     },
     {
       "keyword": "채정안 건강 영양제",
@@ -2181,7 +2260,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "채정안|건강영양제"
     },
     {
       "keyword": "이시영 운동 회복",
@@ -2198,7 +2277,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "이시영|운동회복"
     },
     {
       "keyword": "한혜진 근력 유산소",
@@ -2215,7 +2294,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "모델한혜진|근력유산소"
     },
     {
       "keyword": "김종국 운동 스트레칭",
@@ -2232,7 +2311,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "김종국|운동스트레칭"
     },
     {
       "keyword": "덱스 홈트 운동",
@@ -2249,7 +2328,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "덱스|홈트운동"
     },
     {
       "keyword": "기안84 러닝 스트레칭",
@@ -2266,7 +2345,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "기안84|러닝스트레칭"
     },
     {
       "keyword": "이장우 다이어트 식단",
@@ -2283,7 +2362,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "이장우|다이어트식단"
     },
     {
       "keyword": "풍자 다이어트 식단",
@@ -2300,7 +2379,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "풍자|다이어트식단"
     },
     {
       "keyword": "홍현희 저당 간식",
@@ -2317,7 +2396,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "홍현희|저당간식"
     },
     {
       "keyword": "공효진 건강 식단",
@@ -2334,7 +2413,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "공효진|건강식단"
     },
     {
       "keyword": "손예진 홈트 운동",
@@ -2351,7 +2430,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "손예진|홈트운동"
     },
     {
       "keyword": "박신혜 운동 루틴",
@@ -2368,7 +2447,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "박신혜|운동"
     },
     {
       "keyword": "박민영 샐러드 레시피",
@@ -2385,7 +2464,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "박민영|샐러드"
     },
     {
       "keyword": "김나영 운동 루틴",
@@ -2402,7 +2481,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "김나영|운동"
     },
     {
       "keyword": "김나영 아침 요거트",
@@ -2419,7 +2498,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "김나영|아침요거트"
     },
     {
       "keyword": "장영란 마사지 루틴",
@@ -2436,7 +2515,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "장영란|마사지"
     },
     {
       "keyword": "장영란 건강 식단",
@@ -2453,7 +2532,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "장영란|건강식단"
     },
     {
       "keyword": "이찬원 닭가슴살 요리",
@@ -2470,7 +2549,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "이찬원|닭가슴살요리"
     },
     {
       "keyword": "이정현 단호박 샐러드",
@@ -2487,7 +2566,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "이정현|단호박샐러드"
     },
     {
       "keyword": "정은지 운동 밴드",
@@ -2504,7 +2583,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "정은지|운동밴드"
     },
     {
       "keyword": "소유 폼롤러",
@@ -2521,7 +2600,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "소유|폼롤러"
     },
     {
       "keyword": "엄정화 홈트 용품",
@@ -2538,7 +2617,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "엄정화|홈트용품"
     },
     {
       "keyword": "진서연 운동 소도구",
@@ -2555,7 +2634,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "진서연|운동소도구"
     },
     {
       "keyword": "채정안 운동 용품",
@@ -2572,7 +2651,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "채정안|운동용품"
     },
     {
       "keyword": "최화정 아침 식단",
@@ -2589,7 +2668,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "최화정|아침식단"
     },
     {
       "keyword": "김완선 저녁 식단",
@@ -2606,7 +2685,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "김완선|저녁식단"
     },
     {
       "keyword": "이청아 숙면 루틴",
@@ -2623,7 +2702,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "이청아|숙면"
     },
     {
       "keyword": "윤은혜 건강 도시락",
@@ -2640,7 +2719,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "윤은혜|건강도시락"
     },
     {
       "keyword": "한혜진 건강 스낵",
@@ -2657,7 +2736,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "한혜진미확인|건강스낵"
     },
     {
       "keyword": "신세경 저당 베이킹",
@@ -2674,7 +2753,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "신세경|저당베이킹"
     },
     {
       "keyword": "김종국 요거트 간식",
@@ -2691,7 +2770,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "김종국|요거트간식"
     },
     {
       "keyword": "안소희 에그 샐러드",
@@ -2708,7 +2787,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "안소희|에그샐러드"
     },
     {
       "keyword": "연예인 견과류 간식",
@@ -2725,7 +2804,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "연예인|견과류간식"
     },
     {
       "keyword": "성시경 건강 식단",
@@ -2742,7 +2821,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "성시경|건강식단"
     },
     {
       "keyword": "한고은 건강 샐러드",
@@ -2759,7 +2838,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "한고은|건강샐러드"
     },
     {
       "keyword": "김지훈 홈트 루틴",
@@ -2776,7 +2855,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "김지훈|홈트"
     },
     {
       "keyword": "서현 도시락 식단",
@@ -2793,7 +2872,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "서현|도시락식단"
     },
     {
       "keyword": "장윤주 폼롤러 스트레칭",
@@ -2810,7 +2889,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "장윤주|폼롤러스트레칭"
     },
     {
       "keyword": "차승원 건강 식단",
@@ -2827,7 +2906,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "차승원|건강식단"
     },
     {
       "keyword": "박진영 아침 운동",
@@ -2844,7 +2923,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "박진영|아침운동"
     },
     {
       "keyword": "이효리 요가 매트",
@@ -2861,7 +2940,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "이효리|요가매트"
     },
     {
       "keyword": "이하늬 아침 식단",
@@ -2878,7 +2957,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "이하늬|아침식단"
     },
     {
       "keyword": "박하선 필라테스 소도구",
@@ -2895,7 +2974,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "박하선|필라테스소도구"
     },
     {
       "keyword": "유이 수영 루틴",
@@ -2912,7 +2991,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "유이|수영"
     },
     {
       "keyword": "김혜수 스트레칭 루틴",
@@ -2929,7 +3008,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "김혜수|스트레칭"
     },
     {
       "keyword": "전현무 두부 요리",
@@ -2946,7 +3025,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "전현무|두부요리"
     },
     {
       "keyword": "박나래 오트밀",
@@ -2963,7 +3042,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "박나래|오트밀"
     },
     {
       "keyword": "연예인 회복 스트레칭",
@@ -2980,7 +3059,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "연예인|회복스트레칭"
     },
     {
       "keyword": "연예인 수면 습관",
@@ -2997,7 +3076,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "연예인|수면습관"
     },
     {
       "keyword": "연예인 마사지 루틴",
@@ -3014,7 +3093,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "연예인|마사지"
     },
     {
       "keyword": "연예인 곤약 식단",
@@ -3031,7 +3110,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "연예인|곤약식단"
     },
     {
       "keyword": "연예인 두부 레시피",
@@ -3048,7 +3127,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "연예인|두부"
     },
     {
       "keyword": "연예인 무가당 요거트",
@@ -3065,7 +3144,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "연예인|무가당요거트"
     },
     {
       "keyword": "이나연 건강관리",
@@ -3082,7 +3161,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "이나연|건강관리"
     },
     {
       "keyword": "전혜빈 셀프 마사지",
@@ -3099,7 +3178,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "전혜빈|셀프마사지"
     },
     {
       "keyword": "이시영 마사지 도구",
@@ -3116,7 +3195,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "이시영|마사지도구"
     },
     {
       "keyword": "제니 회복 루틴",
@@ -3133,7 +3212,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "제니|회복"
     },
     {
       "keyword": "션 근력 루틴",
@@ -3150,7 +3229,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "션|근력"
     },
     {
       "keyword": "한가인 홈트 루틴",
@@ -3167,7 +3246,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "한가인|홈트"
     },
     {
       "keyword": "소유 단백질 쉐이크",
@@ -3184,7 +3263,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "소유|단백질음료"
     },
     {
       "keyword": "엄정화 두부 식단",
@@ -3201,7 +3280,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "엄정화|두부식단"
     },
     {
       "keyword": "진서연 야채찜",
@@ -3218,7 +3297,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "진서연|야채찜"
     },
     {
       "keyword": "채정안 건강 주스",
@@ -3235,7 +3314,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "채정안|건강주스"
     },
     {
       "keyword": "최화정 병아리콩",
@@ -3252,7 +3331,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "최화정|병아리콩"
     },
     {
       "keyword": "한가인 근육 운동",
@@ -3269,7 +3348,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "한가인|근육운동"
     },
     {
       "keyword": "나나 다이어트 음식",
@@ -3286,7 +3365,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "나나|다이어트음식"
     },
     {
       "keyword": "한고은 생강 레몬티",
@@ -3303,7 +3382,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "한고은|레몬생강차"
     },
     {
       "keyword": "제니 리파 헤드스파",
@@ -3320,7 +3399,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "제니|두피마사지기"
     },
     {
       "keyword": "이시영 괄사 루틴",
@@ -3337,7 +3416,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "이시영|얼굴괄사"
     },
     {
       "keyword": "한혜진 고구마 간식",
@@ -3354,7 +3433,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "모델한혜진|고구마칩"
     },
     {
       "keyword": "임지연 저당 아이스크림",
@@ -3371,7 +3450,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "임지연|저당아이스크림"
     },
     {
       "keyword": "임지연 간식",
@@ -3388,7 +3467,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "임지연|간식미확인"
     },
     {
       "keyword": "한혜진 잭스빈",
@@ -3405,7 +3484,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "모델한혜진|후무스"
     },
     {
       "keyword": "나나 샤브샤브 식단",
@@ -3422,7 +3501,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "나나|샤브샤브식단"
     },
     {
       "keyword": "이나연 두피 마사지기",
@@ -3439,7 +3518,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "이나연|두피마사지기"
     },
     {
       "keyword": "전혜빈 두피 마사지기",
@@ -3456,7 +3535,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "전혜빈|두피마사지기"
     },
     {
       "keyword": "이시영 두피 마사지기",
@@ -3473,7 +3552,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "이시영|두피마사지기"
     },
     {
       "keyword": "제니 두피 마사지기",
@@ -3490,7 +3569,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "제니|두피마사지기"
     },
     {
       "keyword": "김완선 단백질 식단",
@@ -3507,7 +3586,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "김완선|단백질식단"
     },
     {
       "keyword": "한혜진 고구마칩",
@@ -3524,7 +3603,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "모델한혜진|고구마칩"
     },
     {
       "keyword": "한가인 보강 운동",
@@ -3541,7 +3620,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "한가인|보강운동"
     },
     {
       "keyword": "연예인 샐러드 드레싱",
@@ -3558,7 +3637,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "연예인|발사믹샐러드"
     },
     {
       "keyword": "한고은 샐러드 드레싱",
@@ -3575,7 +3654,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "한고은|발사믹샐러드"
     },
     {
       "keyword": "윤은혜 트러플 리조또",
@@ -3592,7 +3671,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "윤은혜|가지리조또"
     },
     {
       "keyword": "이시영 얼굴 마사지",
@@ -3609,7 +3688,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "이시영|얼굴괄사"
     },
     {
       "keyword": "연예인 저당 간식",
@@ -3626,7 +3705,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "연예인|저당간식"
     },
     {
       "keyword": "연예인 엉덩이 운동",
@@ -3643,7 +3722,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "연예인|엉덩이운동"
     },
     {
       "keyword": "소유 힙 운동 밴드",
@@ -3660,7 +3739,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "소유|힙밴드"
     },
     {
       "keyword": "연예인 필라테스 소도구",
@@ -3677,7 +3756,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "연예인|필라테스소도구"
     },
     {
       "keyword": "연예인 덤벨 운동",
@@ -3694,7 +3773,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "연예인|덤벨운동"
     },
     {
       "keyword": "연예인 밴드 홈트",
@@ -3711,7 +3790,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "연예인|밴드홈트"
     },
     {
       "keyword": "연예인 코어 운동",
@@ -3728,7 +3807,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "연예인|코어운동"
     },
     {
       "keyword": "연예인 반신욕 용품",
@@ -3745,7 +3824,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "연예인|반신욕용품"
     },
     {
       "keyword": "연예인 목 스트레칭",
@@ -3762,7 +3841,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "연예인|목스트레칭"
     },
     {
       "keyword": "연예인 마사지건",
@@ -3779,7 +3858,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "연예인|마사지건"
     },
     {
       "keyword": "연예인 마사지볼",
@@ -3796,7 +3875,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "연예인|마사지볼"
     },
     {
       "keyword": "연예인 폼롤러",
@@ -3813,7 +3892,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "연예인|폼롤러"
     },
     {
       "keyword": "연예인 오트밀 레시피",
@@ -3830,7 +3909,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "연예인|오트밀"
     },
     {
       "keyword": "연예인 건강 도시락",
@@ -3847,7 +3926,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "연예인|건강도시락"
     },
     {
       "keyword": "연예인 단백질 식품",
@@ -3864,7 +3943,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "연예인|단백질식품"
     },
     {
       "keyword": "소유 다이어트 레시피",
@@ -3881,7 +3960,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "소유|다이어트"
     },
     {
       "keyword": "이청아 식단 추천",
@@ -3898,7 +3977,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "이청아|식단"
     },
     {
       "keyword": "김종국 단백질 식단",
@@ -3915,7 +3994,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "김종국|단백질식단"
     },
     {
       "keyword": "신세경 건강 베이킹",
@@ -3932,7 +4011,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "신세경|건강베이킹"
     },
     {
       "keyword": "안소희 샐러드 레시피",
@@ -3949,7 +4028,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "안소희|샐러드"
     },
     {
       "keyword": "진서연 오트밀",
@@ -3966,7 +4045,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "진서연|오트밀"
     },
     {
       "keyword": "진서연 두부 요리",
@@ -3983,7 +4062,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "진서연|두부요리"
     },
     {
       "keyword": "엄정화 저당 간식",
@@ -4000,7 +4079,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "엄정화|저당간식"
     },
     {
       "keyword": "채정안 건강 식단",
@@ -4017,7 +4096,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "채정안|건강식단"
     },
     {
       "keyword": "최화정 건강 간식",
@@ -4034,7 +4113,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "최화정|건강간식"
     },
     {
       "keyword": "한고은 발사믹",
@@ -4051,7 +4130,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "한고은|발사믹샐러드"
     },
     {
       "keyword": "한혜진 오트리",
@@ -4068,7 +4147,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "한혜진미확인|오트리"
     },
     {
       "keyword": "한고은 토르티야",
@@ -4085,7 +4164,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "한고은|부리또"
     },
     {
       "keyword": "김완선 라이스페이퍼",
@@ -4102,7 +4181,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "김완선|라이스페이퍼"
     },
     {
       "keyword": "연예인 건강 레시피",
@@ -4119,7 +4198,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "연예인|건강"
     },
     {
       "keyword": "연예인 고단백 간식",
@@ -4136,7 +4215,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "연예인|고단백간식"
     },
     {
       "keyword": "연예인 스트레칭",
@@ -4153,7 +4232,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "연예인|스트레칭"
     },
     {
       "keyword": "연예인 숙면",
@@ -4170,7 +4249,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "연예인|숙면"
     },
     {
       "keyword": "연예인 수면",
@@ -4187,7 +4266,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "연예인|수면"
     },
     {
       "keyword": "한혜진 견과류",
@@ -4204,7 +4283,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "한혜진미확인|견과류"
     },
     {
       "keyword": "한혜진 간식 추천",
@@ -4221,7 +4300,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "한혜진미확인|간식"
     },
     {
       "keyword": "윤은혜 가지 요리",
@@ -4238,7 +4317,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "윤은혜|가지요리"
     },
     {
       "keyword": "연예인 마사지",
@@ -4255,7 +4334,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "연예인|마사지"
     },
     {
       "keyword": "한고은 레몬 생강차",
@@ -4272,7 +4351,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "한고은|레몬생강차"
     },
     {
       "keyword": "한가인 근력 운동",
@@ -4289,7 +4368,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "한가인|근력"
     },
     {
       "keyword": "한가인 스트레칭",
@@ -4306,7 +4385,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "한가인|스트레칭"
     },
     {
       "keyword": "나나 건강 식단",
@@ -4323,7 +4402,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "나나|건강식단"
     },
     {
       "keyword": "소유 홈트 밴드 루틴",
@@ -4340,7 +4419,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "소유|홈트밴드"
     },
     {
       "keyword": "최화정 요거트 샐러드",
@@ -4357,7 +4436,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "최화정|요거트샐러드"
     },
     {
       "keyword": "최화정 땅콩버터 브랜드",
@@ -4374,7 +4453,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "최화정|땅콩버터"
     },
     {
       "keyword": "권나라 땅콩버터 사과",
@@ -4391,7 +4470,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "권나라|땅콩버터"
     },
     {
       "keyword": "김윤지 그릭요거트 에그",
@@ -4408,7 +4487,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "김윤지|요거트에그"
     },
     {
       "keyword": "배우 한혜진 오나오",
@@ -4425,7 +4504,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "배우한혜진|오나오"
     },
     {
       "keyword": "천우희 아침 식단",
@@ -4442,7 +4521,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "천우희|아침식단"
     },
     {
       "keyword": "윤은혜 CCA 주스",
@@ -4459,7 +4538,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "윤은혜|CCA주스"
     },
     {
       "keyword": "윤은혜 저당 잼",
@@ -4476,7 +4555,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "윤은혜|저당잼"
     },
     {
       "keyword": "엄정화 운동 후 샐러드",
@@ -4493,7 +4572,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "엄정화|운동후샐러드"
     },
     {
       "keyword": "엄정화 당근 샐러드",
@@ -4510,7 +4589,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "엄정화|당근샐러드"
     },
     {
       "keyword": "진서연 오이 간식",
@@ -4527,7 +4606,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "진서연|오이간식"
     },
     {
       "keyword": "진서연 귀리우유",
@@ -4544,7 +4623,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "진서연|귀리우유"
     },
     {
       "keyword": "최화정 사과 간식",
@@ -4561,7 +4640,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "최화정|사과간식"
     },
     {
       "keyword": "최화정 땅콩버터",
@@ -4578,7 +4657,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "최화정|땅콩버터"
     },
     {
       "keyword": "한고은 땅콩버터",
@@ -4595,7 +4674,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "한고은|땅콩버터"
     },
     {
       "keyword": "나나 땅콩버터",
@@ -4612,7 +4691,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "나나|땅콩버터"
     },
     {
       "keyword": "한혜진 아침 달걀",
@@ -4629,7 +4708,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "한혜진미확인|아침달걀"
     },
     {
       "keyword": "NS윤지 식단 레시피",
@@ -4646,7 +4725,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "김윤지|식단"
     },
     {
       "keyword": "김윤지 저칼로리 식단",
@@ -4663,7 +4742,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "김윤지|저칼로리식단"
     },
     {
       "keyword": "한혜진 아침 식습관",
@@ -4680,7 +4759,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "한혜진미확인|오나오"
     },
     {
       "keyword": "연예인 땅콩버터 아침",
@@ -4697,7 +4776,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "연예인|땅콩버터"
     },
     {
       "keyword": "연예인 수면 안대",
@@ -4714,7 +4793,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "연예인|수면안대"
     },
     {
       "keyword": "연예인 아침 단백질",
@@ -4731,7 +4810,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "연예인|아침단백질"
     },
     {
       "keyword": "연예인 폼롤러 루틴",
@@ -4748,7 +4827,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "연예인|폼롤러"
     },
     {
       "keyword": "연예인 운동 밴드 추천",
@@ -4765,7 +4844,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "연예인|운동밴드"
     },
     {
       "keyword": "이시영 회복 마사지기",
@@ -4782,7 +4861,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "이시영|회복마사지기"
     },
     {
       "keyword": "박하선 홈트 스트레칭",
@@ -4799,7 +4878,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "박하선|홈트스트레칭"
     },
     {
       "keyword": "유이 스트레칭 운동",
@@ -4816,7 +4895,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "유이|스트레칭운동"
     },
     {
       "keyword": "장윤주 근력 루틴",
@@ -4833,7 +4912,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "장윤주|근력"
     },
     {
       "keyword": "김지훈 맨몸 운동",
@@ -4850,7 +4929,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "김지훈|맨몸운동"
     },
     {
       "keyword": "정은지 홈트 근력",
@@ -4867,7 +4946,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "정은지|홈트근력"
     },
     {
       "keyword": "김종국 밴드 스트레칭",
@@ -4884,7 +4963,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "김종국|밴드스트레칭"
     },
     {
       "keyword": "한가인 마운틴 클라이머",
@@ -4901,7 +4980,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "한가인|마운틴클라이머"
     },
     {
       "keyword": "소유 사이드 플랭크",
@@ -4918,7 +4997,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "소유|사이드플랭크"
     },
     {
       "keyword": "엄정화 폼롤러 복근",
@@ -4935,7 +5014,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "엄정화|폼롤러복근"
     },
     {
       "keyword": "한혜진 러닝 회복 마사지",
@@ -4952,7 +5031,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "모델한혜진|러닝회복마사지"
     },
     {
       "keyword": "나나 온열 아이마스크",
@@ -4969,7 +5048,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "나나|온열아이마스크"
     },
     {
       "keyword": "채정안 상추차",
@@ -4986,7 +5065,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "채정안|상추차"
     },
     {
       "keyword": "이청아 수면 베개",
@@ -5003,7 +5082,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "이청아|수면베개"
     },
     {
       "keyword": "신세경 통밀 베이킹",
@@ -5020,7 +5099,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "신세경|통밀베이킹"
     },
     {
       "keyword": "안소희 건강 아침 식사",
@@ -5037,7 +5116,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "안소희|건강아침식사"
     },
     {
       "keyword": "한가인 하루 견과",
@@ -5054,7 +5133,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "한가인|하루견과"
     },
     {
       "keyword": "임지연 닭가슴살칩",
@@ -5071,7 +5150,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "임지연|닭가슴살칩"
     },
     {
       "keyword": "김완선 김쌈",
@@ -5088,7 +5167,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "김완선|채소김쌈"
     },
     {
       "keyword": "채정안 필라테스 루틴",
@@ -5105,7 +5184,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "채정안|필라테스"
     },
     {
       "keyword": "진서연 근력 운동",
@@ -5122,7 +5201,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "진서연|근력운동"
     },
     {
       "keyword": "한가인 서킷 트레이닝",
@@ -5139,7 +5218,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "한가인|서킷트레이닝"
     },
     {
       "keyword": "엄정화 근력 밴드",
@@ -5156,7 +5235,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "엄정화|근력밴드"
     },
     {
       "keyword": "엄정화 코어 운동",
@@ -5173,7 +5252,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "엄정화|코어운동"
     },
     {
       "keyword": "한혜진 요가 매트",
@@ -5190,7 +5269,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "모델한혜진|요가매트"
     },
     {
       "keyword": "한혜진 로잉 케틀벨",
@@ -5207,7 +5286,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "모델한혜진|로잉케틀벨"
     },
     {
       "keyword": "소유 덤벨 홈트",
@@ -5224,7 +5303,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "소유|덤벨홈트"
     },
     {
       "keyword": "소유 힙 어브덕션",
@@ -5241,7 +5320,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "소유|힙어브덕션"
     },
     {
       "keyword": "한고은 레몬 생강 큐브",
@@ -5258,7 +5337,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "한고은|레몬생강차"
     },
     {
       "keyword": "엄정화 단백질 요거트",
@@ -5275,7 +5354,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "엄정화|그릭요거트"
     },
     {
       "keyword": "진서연 두부 간식",
@@ -5292,7 +5371,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "진서연|두부간식"
     },
     {
       "keyword": "임지연 견과류 간식",
@@ -5309,7 +5388,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "임지연|견과류간식"
     },
     {
       "keyword": "김완선 단백질 아침",
@@ -5326,7 +5405,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "김완선|단백질아침"
     },
     {
       "keyword": "김완선 채소 김쌈 레시피",
@@ -5343,7 +5422,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "김완선|채소김쌈"
     },
     {
       "keyword": "윤은혜 고단백 아침",
@@ -5360,7 +5439,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "윤은혜|고단백아침"
     },
     {
       "keyword": "윤은혜 저당 간식 레시피",
@@ -5377,7 +5456,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "윤은혜|저당간식"
     },
     {
       "keyword": "천우희 가자미 채소찜",
@@ -5394,7 +5473,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "천우희|가자미채소찜"
     },
     {
       "keyword": "천우희 블루베리 호두 두유",
@@ -5411,7 +5490,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "천우희|블루베리호두두유"
     },
     {
       "keyword": "천우희 수면 루틴",
@@ -5428,7 +5507,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "천우희|수면"
     },
     {
       "keyword": "이청아 잠들기 전 루틴",
@@ -5445,7 +5524,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "이청아|잠들기전"
     },
     {
       "keyword": "진서연 회복 스트레칭",
@@ -5462,7 +5541,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "진서연|회복스트레칭"
     },
     {
       "keyword": "나나 목 마사지기",
@@ -5479,7 +5558,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "나나|목마사지기"
     },
     {
       "keyword": "한가인 목 어깨 스트레칭",
@@ -5496,7 +5575,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "한가인|목어깨스트레칭"
     },
     {
       "keyword": "소유 운동 후 스트레칭",
@@ -5513,7 +5592,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "소유|운동후스트레칭"
     },
     {
       "keyword": "엄정화 수면 관리",
@@ -5530,7 +5609,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "엄정화|수면관리"
     },
     {
       "keyword": "채정안 숙면 루틴",
@@ -5547,7 +5626,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "채정안|숙면"
     },
     {
       "keyword": "한혜진 종아리 마사지기",
@@ -5564,7 +5643,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "한혜진미확인|종아리마사지기"
     },
     {
       "keyword": "이청아 수면 습관",
@@ -5581,7 +5660,7 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "이청아|수면습관"
     },
     {
       "keyword": "나나 계단 운동",
@@ -5598,15 +5677,2491 @@
         "region": "KR",
         "language": "ko"
       },
-      "topic_key": null
+      "topic_key": "나나|계단운동"
+    },
+    {
+      "keyword": "한혜진 오트밀 아침",
+      "last_completed_at": "2026-10-18T09:04:09.516529+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "배우한혜진|오나오",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "NS윤지 요거트 달걀",
+      "last_completed_at": "2026-10-18T09:04:09.711035+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김윤지|요거트에그",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "김완선 야채 김쌈",
+      "last_completed_at": "2026-10-18T09:04:09.898738+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김완선|채소김쌈",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "성시경 양배추 볶음 레시피",
+      "last_completed_at": "2026-10-18T09:04:10.277224+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "성시경|양배추볶음",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "한고은 발사믹 샐러드",
+      "last_completed_at": "2026-10-18T09:04:10.460927+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "한고은|발사믹샐러드",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "한혜진 후무스 간식",
+      "last_completed_at": "2026-10-18T09:04:10.786500+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "모델한혜진|후무스",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "윤은혜 가지 리조또 파로",
+      "last_completed_at": "2026-10-18T09:04:10.959740+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "윤은혜|가지리조또",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "소유 힙업 운동 밴드",
+      "last_completed_at": "2026-10-18T09:04:11.138628+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "소유|힙밴드",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "이시영 얼굴 괄사 마사지",
+      "last_completed_at": "2026-10-18T09:04:11.522803+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "이시영|얼굴괄사",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "천우희 건강 간식",
+      "last_completed_at": "2026-10-18T09:04:11.972527+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "천우희|건강간식미확인",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "김윤지 단백질 간식",
+      "last_completed_at": "2026-10-18T09:04:12.152971+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김윤지|단백질간식",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "권나라 두부면 콩국수",
+      "last_completed_at": "2026-10-18T09:04:12.336133+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "권나라|두부면콩국수",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "권나라 오이 김밥",
+      "last_completed_at": "2026-10-18T09:04:12.518037+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "권나라|오이김밥",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "최화정 저당 토스트",
+      "last_completed_at": "2026-10-18T09:04:12.714662+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "최화정|저당토스트",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "엄정화 그릭요거트 아침",
+      "last_completed_at": "2026-10-18T09:04:12.888933+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "엄정화|그릭요거트",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "이청아 디카페인 수면",
+      "last_completed_at": "2026-10-18T09:04:13.107056+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "이청아|디카페인수면",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "채정안 잠들기 전 차",
+      "last_completed_at": "2026-10-18T09:04:13.270809+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "채정안|취침전차",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "한가인 중둔근 루틴",
+      "last_completed_at": "2026-10-18T09:04:13.445407+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "한가인|중둔근",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "소유 불가리안 스플릿 스쿼트",
+      "last_completed_at": "2026-10-18T09:04:13.689890+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "소유|불가리안스플릿스쿼트",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "김종국 회복 루틴",
+      "last_completed_at": "2026-10-18T09:04:13.869234+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김종국|회복",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "정은지 힙업 운동",
+      "last_completed_at": "2026-10-18T09:04:14.096060+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "정은지|힙업",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "한혜진 스트레칭 소도구",
+      "last_completed_at": "2026-10-18T09:04:14.257232+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "한혜진미확인|스트레칭소도구",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "나나 홈케어 마사지",
+      "last_completed_at": "2026-10-18T09:04:14.625395+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "나나|홈마사지",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "진서연 식물성 단백질",
+      "last_completed_at": "2026-10-18T09:04:14.778120+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "진서연|식물성단백질",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "박나래 고단백 식단",
+      "last_completed_at": "2026-10-18T09:04:14.975541+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "박나래|고단백식단",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "이장우 양배추 식단",
+      "last_completed_at": "2026-10-18T09:04:15.150929+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "이장우|양배추",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "전현무 그릭요거트",
+      "last_completed_at": "2026-10-18T09:04:15.309224+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "전현무|그릭요거트",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "홍현희 오트밀 식단",
+      "last_completed_at": "2026-10-18T09:04:15.511720+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "홍현희|오트밀",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "김나영 두유 식단",
+      "last_completed_at": "2026-10-18T09:04:15.699460+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김나영|두유",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "이하늬 건강 아침",
+      "last_completed_at": "2026-10-18T09:04:15.878605+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "이하늬|아침식단",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "손예진 운동 소도구",
+      "last_completed_at": "2026-10-18T09:04:16.050467+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "손예진|운동소도구",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "박신혜 필라테스 밴드",
+      "last_completed_at": "2026-10-18T09:04:16.240118+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "박신혜|필라테스밴드",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "장윤주 운동 후 식단",
+      "last_completed_at": "2026-10-18T09:04:16.411531+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "장윤주|운동후식단",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "유이 수영 회복식",
+      "last_completed_at": "2026-10-18T09:04:16.604800+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "유이|수영회복식",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "송지은 단백질 식단",
+      "last_completed_at": "2026-10-18T09:04:16.816335+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "송지은|단백질식단",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "박하선 건강 간식",
+      "last_completed_at": "2026-10-18T09:04:16.997080+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "박하선|건강간식",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "오윤아 그릭요거트",
+      "last_completed_at": "2026-10-18T09:04:17.166733+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "오윤아|그릭요거트",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "오윤아 탄츠플레이 소프트볼",
+      "last_completed_at": "2026-10-18T09:04:17.354961+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "오윤아|탄츠플레이",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "신봉선 당근라페",
+      "last_completed_at": "2026-10-18T09:04:17.520825+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "신봉선|당근라페",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "박지윤 당근라페",
+      "last_completed_at": "2026-10-18T09:04:17.695626+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "박지윤|당근라페",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "한혜진 오트밀 아침",
+      "last_completed_at": "2026-10-18T09:04:17.697549+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "배우한혜진|오나오",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "이시영 얼굴 괄사 마사지",
+      "last_completed_at": "2026-10-18T09:04:17.699253+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "이시영|얼굴괄사",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "NS윤지 요거트 달걀",
+      "last_completed_at": "2026-10-18T09:04:17.702757+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김윤지|요거트에그",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "김완선 야채 김쌈",
+      "last_completed_at": "2026-10-18T09:04:17.706189+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김완선|채소김쌈",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "성시경 양배추 볶음 레시피",
+      "last_completed_at": "2026-10-18T09:04:17.707883+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "성시경|양배추볶음",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "한고은 발사믹 샐러드",
+      "last_completed_at": "2026-10-18T09:04:17.709464+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "한고은|발사믹샐러드",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "한혜진 후무스 간식",
+      "last_completed_at": "2026-10-18T09:04:17.711064+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "모델한혜진|후무스",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "윤은혜 가지 리조또 파로",
+      "last_completed_at": "2026-10-18T09:04:17.712737+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "윤은혜|가지리조또",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "소유 힙업 운동 밴드",
+      "last_completed_at": "2026-10-18T09:04:17.714316+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "소유|힙밴드",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "천우희 건강 간식",
+      "last_completed_at": "2026-10-18T09:04:17.716061+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "천우희|건강간식미확인",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "김윤지 단백질 간식",
+      "last_completed_at": "2026-10-18T09:04:17.717698+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김윤지|단백질간식",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "권나라 두부면 콩국수",
+      "last_completed_at": "2026-10-18T09:04:17.727795+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "권나라|두부면콩국수",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "권나라 오이 김밥",
+      "last_completed_at": "2026-10-18T09:04:17.737159+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "권나라|오이김밥",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "최화정 저당 토스트",
+      "last_completed_at": "2026-10-18T09:04:17.738795+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "최화정|저당토스트",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "엄정화 그릭요거트 아침",
+      "last_completed_at": "2026-10-18T09:04:17.740376+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "엄정화|그릭요거트",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "이청아 디카페인 수면",
+      "last_completed_at": "2026-10-18T09:04:17.742057+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "이청아|디카페인수면",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "신애라 야채주스",
+      "last_completed_at": "2026-10-18T09:06:06.318041+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "신애라|야채주스",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "신애라 사과 케일 샐러드",
+      "last_completed_at": "2026-10-18T09:06:06.695121+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "신애라|사과케일샐러드",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "신애라 벽 스쿼트",
+      "last_completed_at": "2026-10-18T09:06:06.905546+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "신애라|벽스쿼트",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "신애라 수면 루틴",
+      "last_completed_at": "2026-10-18T09:06:07.084977+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "신애라|수면루틴",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "김희애 자전거 스트레칭",
+      "last_completed_at": "2026-10-18T09:06:07.262551+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김희애|자전거스트레칭",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "김희애 꿀 체리파우더",
+      "last_completed_at": "2026-10-18T09:06:07.630440+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김희애|꿀체리파우더",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "김희애 러닝",
+      "last_completed_at": "2026-10-18T09:06:08.044741+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김희애|러닝",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "황신혜 계단 운동",
+      "last_completed_at": "2026-10-18T09:06:08.402794+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "황신혜|계단운동",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "김성령 사과 아몬드",
+      "last_completed_at": "2026-10-18T09:06:08.626679+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김성령|사과아몬드",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "김성령 유산소 PT",
+      "last_completed_at": "2026-10-18T09:06:08.797681+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김성령|유산소PT",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "박주미 필라테스",
+      "last_completed_at": "2026-10-18T09:06:09.006957+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "박주미|필라테스",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "최강희 복근 챌린지",
+      "last_completed_at": "2026-10-18T09:06:09.188947+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "최강희|복근챌린지",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "최강희 바질 그릭요거트",
+      "last_completed_at": "2026-10-18T09:06:09.374079+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "최강희|바질그릭요거트",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "김지영 밴드 홈트",
+      "last_completed_at": "2026-10-18T09:06:09.605273+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "하트시그널김지영|밴드홈트",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "김지영 필라테스",
+      "last_completed_at": "2026-10-18T09:06:09.834094+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "하트시그널김지영|필라테스",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "진재영 필라테스",
+      "last_completed_at": "2026-10-18T09:06:09.998104+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "진재영|필라테스",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "홍진경 삶은 달걀",
+      "last_completed_at": "2026-10-18T09:06:10.389398+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "홍진경|삶은달걀",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "홍진경 템페 콩물",
+      "last_completed_at": "2026-10-18T09:06:10.590793+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "홍진경|템페콩물",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "홍진경 견과류 호두오일",
+      "last_completed_at": "2026-10-18T09:06:10.779585+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "홍진경|견과류호두오일",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "홍진경 테니스",
+      "last_completed_at": "2026-10-18T09:06:10.967872+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "홍진경|테니스",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "이소라 아보카도 바나나 주스",
+      "last_completed_at": "2026-10-18T09:06:11.155815+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "이소라|아보카도바나나주스",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "김사랑 차요테 주스",
+      "last_completed_at": "2026-10-18T09:06:11.526141+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김사랑|차요테주스",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "김사랑 버섯밥",
+      "last_completed_at": "2026-10-18T09:06:11.883326+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김사랑|버섯밥",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "김사랑 아침 복근 운동",
+      "last_completed_at": "2026-10-18T09:06:12.081261+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김사랑|아침복근운동",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "김사랑 체중계 루틴",
+      "last_completed_at": "2026-10-18T09:06:12.322122+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김사랑|체중계루틴",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "김사랑 림프 스트레칭",
+      "last_completed_at": "2026-10-18T09:06:12.490866+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김사랑|림프스트레칭",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "모델 한혜진 닭가슴살 스무디",
+      "last_completed_at": "2026-10-18T09:06:12.674135+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "모델한혜진|닭가슴살스무디",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "유재석 근력 운동",
+      "last_completed_at": "2026-10-18T09:06:12.894742+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "유재석|근력운동",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "수영 괄사",
+      "last_completed_at": "2026-10-18T09:06:13.252382+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "소녀시대수영|괄사",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "장윤주 괄사",
+      "last_completed_at": "2026-10-18T09:06:13.622766+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "장윤주|괄사",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "나나 식단",
+      "last_completed_at": "2026-10-18T09:06:14.031934+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "나나|식단미확인",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "김완선 식단",
+      "last_completed_at": "2026-10-18T09:06:14.509429+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김완선|식단미확인",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "한고은 레몬 생강차",
+      "last_completed_at": "2026-10-18T09:06:14.917440+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "한고은|레몬생강차",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "한가인 근력 운동",
+      "last_completed_at": "2026-10-18T09:06:15.275861+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "한가인|근력",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "소유 단백질 음료",
+      "last_completed_at": "2026-10-18T09:06:15.455928+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "소유|단백질음료",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "임지연 간식",
+      "last_completed_at": "2026-10-18T09:06:15.867696+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "임지연|간식미확인",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "한혜진 고구마칩",
+      "last_completed_at": "2026-10-18T09:06:16.260317+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "모델한혜진|고구마칩",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "한고은 부리또",
+      "last_completed_at": "2026-10-18T09:06:16.583529+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "한고은|부리또",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "최화정 땅콩버터",
+      "last_completed_at": "2026-10-18T09:06:17.010409+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "최화정|땅콩버터",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "류수영 두부 요리",
+      "last_completed_at": "2026-10-18T09:06:17.458930+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "류수영|두부요리",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "김완선 식단",
+      "last_completed_at": "2026-10-18T09:06:17.461197+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김완선|식단미확인",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "한가인 근력 운동",
+      "last_completed_at": "2026-10-18T09:06:17.463252+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "한가인|근력",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "한고은 레몬 생강차",
+      "last_completed_at": "2026-10-18T09:06:17.465329+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "한고은|레몬생강차",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "류수영 두부 요리",
+      "last_completed_at": "2026-10-18T09:06:17.467377+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "류수영|두부요리",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "임지연 간식",
+      "last_completed_at": "2026-10-18T09:06:17.469440+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "임지연|간식미확인",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "신애라 야채주스",
+      "last_completed_at": "2026-10-18T09:06:17.471547+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "신애라|야채주스",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "신애라 사과 케일 샐러드",
+      "last_completed_at": "2026-10-18T09:06:17.473569+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "신애라|사과케일샐러드",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "신애라 벽 스쿼트",
+      "last_completed_at": "2026-10-18T09:06:17.475594+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "신애라|벽스쿼트",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "신애라 수면 루틴",
+      "last_completed_at": "2026-10-18T09:06:17.477609+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "신애라|수면루틴",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "김희애 자전거 스트레칭",
+      "last_completed_at": "2026-10-18T09:06:17.479592+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김희애|자전거스트레칭",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "김희애 꿀 체리파우더",
+      "last_completed_at": "2026-10-18T09:06:17.481599+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김희애|꿀체리파우더",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "김희애 러닝",
+      "last_completed_at": "2026-10-18T09:06:17.483666+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김희애|러닝",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "황신혜 계단 운동",
+      "last_completed_at": "2026-10-18T09:06:17.485705+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "황신혜|계단운동",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "김성령 사과 아몬드",
+      "last_completed_at": "2026-10-18T09:06:17.487687+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김성령|사과아몬드",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "김성령 유산소 PT",
+      "last_completed_at": "2026-10-18T09:06:17.489682+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김성령|유산소PT",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "박주미 필라테스",
+      "last_completed_at": "2026-10-18T09:06:17.491664+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "박주미|필라테스",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "윤승아 낫토 김밥",
+      "last_completed_at": "2026-10-18T09:08:22.462764+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "윤승아|낫토김밥",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "서인영 저당 김밥",
+      "last_completed_at": "2026-10-18T09:08:22.662123+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "서인영|저당김밥",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
     }
   ],
-  "topic_groups": [],
+  "topic_groups": [
+    {
+      "topic_key": "배우한혜진|오나오",
+      "representative_video_id": "v1g7tTWxWyE",
+      "reference_video_ids": [],
+      "possible_related_video_ids": [
+        "BsB09dMt9Bw"
+      ],
+      "same_recipe_confirmed": false,
+      "evidence_urls": [
+        "https://health.chosun.com/list_plan.html?menu=ct&more_menu=122&more_smenu=&nowcode=0&pn=35&type="
+      ],
+      "verification": "본인 오나오 공개 보도 있음; 신규 쇼츠 전체 재생·동일 인물/메뉴 확인 미완료"
+    },
+    {
+      "topic_key": "류수영|두부요리",
+      "representative_video_id": "-RRPf-OKfMg",
+      "reference_video_ids": [],
+      "possible_related_video_ids": [
+        "nkxSbvj-Y0I"
+      ],
+      "same_recipe_confirmed": false,
+      "evidence_urls": [
+        "https://vod.kbs.co.kr/index.html?program_id=PS-2024094130-01-000&sname=vod&source=episode&stype=vod"
+      ],
+      "verification": "기존 두부조림 소재군 참고, 동일 배합/조리법으로 확정해 병합하지 않음"
+    },
+    {
+      "topic_key": "여배우미확인|간식",
+      "representative_video_id": "IoQ_ECXq2xk",
+      "reference_video_ids": [],
+      "possible_related_video_ids": [
+        "cvNRZp7tZUs"
+      ],
+      "same_recipe_confirmed": false,
+      "verification": "임지연 검색 유입; 실제 인물과 제품 미확인"
+    },
+    {
+      "topic_key": "이시영|얼굴괄사",
+      "representative_video_id": "o0TgI0n4QBc",
+      "reference_video_ids": [],
+      "evidence_urls": [
+        "https://v.daum.net/v/20250528105415009"
+      ],
+      "verification": "본인 마사지 공개 보도; 쇼츠 속 동일 도구·브랜드 미확인"
+    },
+    {
+      "topic_key": "김완선|식단미확인",
+      "representative_video_id": "VSQhC7UUB3E",
+      "reference_video_ids": [],
+      "possible_related_video_ids": [
+        "0I7Xt2YcZ_Q"
+      ],
+      "same_recipe_confirmed": false,
+      "evidence_urls": [
+        "https://v.daum.net/v/QAn15A1mOa",
+        "https://www.kmjournal.net/news/articleView.html?idxno=12052"
+      ],
+      "verification": "식단 메뉴 확정 전 두 영상 같은 레시피로 병합 금지"
+    }
+  ],
   "notes": [
     "query_history.topic_key must be semantically resolved by the scheduled agent before scheduling new searches; null is not a new-topic classification.",
     "Disambiguate model/actor Han Hye-jin; normalize NS Yoon-G and Kim Yoon-ji as the same person.",
     "Group different video IDs only when the same celebrity and same product/recipe/routine are supported; title similarity alone is not proof.",
     "Seeded from the 2026-10-17 cumulative report (28 IDs including excluded results) and October 10-17 search snapshots. Preserve this ledger even if rolling search history truncates.",
     "last_reported_on records inclusion in the cumulative report, not a fresh metrics check. Use metrics_checked_on for freshness."
+  ],
+  "last_observations": [
+    {
+      "video_id": "BsB09dMt9Bw",
+      "title": "한혜진 부부가 아침마다 먹고 20kg 뺐다는 레전드 식단",
+      "channel_title": "셀럽 쇼핑",
+      "subscriber_count": 209,
+      "view_count": 165817,
+      "published_at": "2026-10-02T06:00:24+00:00",
+      "score": 793.3827751196172,
+      "rank": 1,
+      "url": "https://youtu.be/BsB09dMt9Bw",
+      "checked_on": "2026-10-18"
+    },
+    {
+      "video_id": "v1g7tTWxWyE",
+      "title": "바쁜 아침에 이거 무조건 드세요! 한혜진 가족이 반한 역대급 식습관",
+      "channel_title": "셀럽잇템",
+      "subscriber_count": 1760,
+      "view_count": 117101,
+      "published_at": "2026-10-13T07:00:01+00:00",
+      "score": 66.53465909090909,
+      "rank": 2,
+      "url": "https://youtu.be/v1g7tTWxWyE",
+      "checked_on": "2026-10-18"
+    },
+    {
+      "video_id": "o0TgI0n4QBc",
+      "title": "이시영 얼굴마사지",
+      "channel_title": "셀럽온리",
+      "subscriber_count": 2900,
+      "view_count": 497732,
+      "published_at": "2026-10-05T09:00:36+00:00",
+      "score": 171.63172413793103,
+      "rank": 1,
+      "url": "https://youtu.be/o0TgI0n4QBc",
+      "checked_on": "2026-10-18"
+    },
+    {
+      "video_id": "0I7Xt2YcZ_Q",
+      "title": "김완선 다이어트 식단",
+      "channel_title": "셀럽온리",
+      "subscriber_count": 2900,
+      "view_count": 1347576,
+      "published_at": "2026-10-08T09:00:05+00:00",
+      "score": 464.6813793103448,
+      "rank": 1,
+      "url": "https://youtu.be/0I7Xt2YcZ_Q",
+      "checked_on": "2026-10-18"
+    },
+    {
+      "video_id": "VSQhC7UUB3E",
+      "title": "김완선이 평소에서 관리하며 먹는 급찐급빠 단백질챙기며 다이어트 하는 초간단 레시피공개",
+      "channel_title": "셀럽잇템",
+      "subscriber_count": 1760,
+      "view_count": 135931,
+      "published_at": "2026-10-09T05:31:28+00:00",
+      "score": 77.23352272727273,
+      "rank": 2,
+      "url": "https://youtu.be/VSQhC7UUB3E",
+      "checked_on": "2026-10-18"
+    },
+    {
+      "video_id": "UrYQALlLf0w",
+      "title": "​한고은이 뱃살 빼는데 최고라는 레몬티 레시피",
+      "channel_title": "셀럽템",
+      "subscriber_count": 2060,
+      "view_count": 413298,
+      "published_at": "2026-09-21T04:37:35+00:00",
+      "score": 200.63009708737863,
+      "rank": 1,
+      "url": "https://youtu.be/UrYQALlLf0w",
+      "checked_on": "2026-10-18"
+    },
+    {
+      "video_id": "KNZ0egxNyuE",
+      "title": "45세 한가인이 콕 집어 배우는 ‘이 근육’…50대라면 알아두세요",
+      "channel_title": "인생1막과2막사이~~",
+      "subscriber_count": 623,
+      "view_count": 274179,
+      "published_at": "2026-10-02T14:34:48+00:00",
+      "score": 440.09470304975923,
+      "rank": 1,
+      "url": "https://youtu.be/KNZ0egxNyuE",
+      "checked_on": "2026-10-18"
+    },
+    {
+      "video_id": "IoQ_ECXq2xk",
+      "title": "여배우가 밥대신 먹고 관리해서 성시경.덱스도 놀란  최애간식",
+      "channel_title": "셀럽은이거?",
+      "subscriber_count": 1450,
+      "view_count": 136843,
+      "published_at": "2026-09-18T11:05:15+00:00",
+      "score": 94.37448275862069,
+      "rank": 1,
+      "url": "https://youtu.be/IoQ_ECXq2xk",
+      "checked_on": "2026-10-18"
+    },
+    {
+      "video_id": "-RRPf-OKfMg",
+      "title": "차원이 다른 류수영 두부조림",
+      "channel_title": "1분요리",
+      "subscriber_count": 3150,
+      "view_count": 301030,
+      "published_at": "2026-10-13T09:33:22+00:00",
+      "score": 95.56507936507937,
+      "rank": 1,
+      "url": "https://youtu.be/-RRPf-OKfMg",
+      "checked_on": "2026-10-18"
+    }
+  ],
+  "runs": [
+    {
+      "date": "2026-10-18",
+      "run_ids": [
+        39113862820,
+        39113985025,
+        39114132484
+      ],
+      "unique_successful_queries": 82,
+      "units_used": 8248,
+      "ledger_remaining": 1752,
+      "new_video_ids": [
+        "BsB09dMt9Bw",
+        "IoQ_ECXq2xk",
+        "-RRPf-OKfMg"
+      ],
+      "meaningful_update_ids": [
+        "o0TgI0n4QBc",
+        "VSQhC7UUB3E"
+      ],
+      "unchanged_existing_omitted": 4,
+      "pending_query_count": 38,
+      "analysis_status": "partial",
+      "archive_checked_missing_reported_ids": 0
+    }
   ]
 }
