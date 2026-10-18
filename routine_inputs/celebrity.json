@@ -1,247 +1,247 @@
 {
   "mode": "celebrity",
   "test": false,
-  "generated_at": "2026-10-18T18:05:36+09:00",
+  "generated_at": "2026-10-18T18:07:51+09:00",
   "keywords": [
     {
-      "keyword": "신애라 야채주스",
+      "keyword": "윤승아 낫토 김밥",
       "category": "식단",
-      "topic_key": "신애라|야채주스",
-      "reason": "새 인물·소재 탐색. 본인 공개 보도/기록: https://v.daum.net/v/20260914000407311; 현 쇼츠와 동일상품·효과 별도검증."
+      "topic_key": "윤승아|낫토김밥",
+      "reason": "새 소재 탐색 근거: https://www.kmjournal.net/news/articleView.html?idxno=12052; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
     },
     {
-      "keyword": "신애라 사과 케일 샐러드",
+      "keyword": "서인영 저당 김밥",
       "category": "식단",
-      "topic_key": "신애라|사과케일샐러드",
-      "reason": "새 인물·소재 탐색. 본인 공개 보도/기록: https://m.segye.com/view/20260113504436; 현 쇼츠와 동일상품·효과 별도검증."
+      "topic_key": "서인영|저당김밥",
+      "reason": "새 소재 탐색 근거: https://v.daum.net/v/20260501090807973; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
     },
     {
-      "keyword": "신애라 벽 스쿼트",
+      "keyword": "김혜수 아쿠아워킹",
       "category": "운동",
-      "topic_key": "신애라|벽스쿼트",
-      "reason": "새 인물·소재 탐색. 본인 공개 보도/기록: https://v.daum.net/v/8ZxCYujJsP; 현 쇼츠와 동일상품·효과 별도검증."
+      "topic_key": "김혜수|아쿠아워킹",
+      "reason": "새 소재 탐색 근거: https://www.newsis.com/view/NISX20260629_0003688022; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
     },
     {
-      "keyword": "신애라 수면 루틴",
+      "keyword": "손담비 폼롤러 스트레칭",
       "category": "건강",
-      "topic_key": "신애라|수면루틴",
-      "reason": "새 인물·소재 탐색. 본인 공개 보도/기록: https://ichannela.com/program/clip/000000458964.do; 현 쇼츠와 동일상품·효과 별도검증."
+      "topic_key": "손담비|폼롤러스트레칭",
+      "reason": "새 소재 탐색 근거: https://v.daum.net/v/20260717220348361; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
     },
     {
-      "keyword": "김희애 자전거 스트레칭",
+      "keyword": "김완선 순두부 팽이버섯 달걀찜",
+      "category": "식단",
+      "topic_key": "김완선|순두부팽이버섯달걀찜",
+      "reason": "새 소재 탐색 근거: https://v.daum.net/v/QAn15A1mOa; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
+    },
+    {
+      "keyword": "윤승아 닭갈비 김밥",
+      "category": "식단",
+      "topic_key": "윤승아|닭갈비김밥",
+      "reason": "새 소재 탐색 근거: https://www.kmjournal.net/news/articleView.html?idxno=12052; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
+    },
+    {
+      "keyword": "윤승아 아침 그릭요거트 토스트",
+      "category": "식단",
+      "topic_key": "윤승아|아침그릭요거트토스트",
+      "reason": "새 소재 탐색 근거: https://mobile.newsis.com/view/NISX20260714_0003708001; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
+    },
+    {
+      "keyword": "윤승아 토마토 스튜",
+      "category": "식단",
+      "topic_key": "윤승아|토마토스튜",
+      "reason": "새 소재 탐색 근거: https://www.cosmopolitan.co.kr/article/1895756; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
+    },
+    {
+      "keyword": "정려원 오픈 샌드위치",
+      "category": "식단",
+      "topic_key": "정려원|오픈샌드위치",
+      "reason": "새 소재 탐색 근거: https://v.daum.net/v/20260604154915228; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
+    },
+    {
+      "keyword": "손담비 자이로토닉",
       "category": "운동",
-      "topic_key": "김희애|자전거스트레칭",
-      "reason": "새 인물·소재 탐색. 본인 공개 보도/기록: https://health.chosun.com/site/data/html_dir/2024/07/04/2024070401026.html; 현 쇼츠와 동일상품·효과 별도검증."
+      "topic_key": "손담비|자이로토닉",
+      "reason": "새 소재 탐색 근거: https://www.donga.com/news/Culture/article/all/20260715/134300658/1; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
     },
     {
-      "keyword": "김희애 꿀 체리파우더",
+      "keyword": "손담비 바게트 샌드위치",
+      "category": "식단",
+      "topic_key": "손담비|바게트샌드위치",
+      "reason": "새 소재 탐색 근거: https://www.starnewskorea.com/star/2026/07/17/2026071720330198404; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
+    },
+    {
+      "keyword": "송혜교 황태국",
+      "category": "식단",
+      "topic_key": "송혜교|황태국",
+      "reason": "새 소재 탐색 근거: https://nwww.newsis.com/view/NISX20260213_0003514984; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
+    },
+    {
+      "keyword": "유이 러닝",
+      "category": "운동",
+      "topic_key": "유이|러닝",
+      "reason": "새 소재 탐색 근거: https://www.topstarnews.net/news/articleView.html?idxno=16237779; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
+    },
+    {
+      "keyword": "김유정 얼음물 세안",
       "category": "건강",
-      "topic_key": "김희애|꿀체리파우더",
-      "reason": "새 인물·소재 탐색. 본인 공개 보도/기록: https://isplus.com/article/view/isp202304270232; 현 쇼츠와 동일상품·효과 별도검증."
+      "topic_key": "김유정|얼음물세안",
+      "reason": "새 소재 탐색 근거: https://health.chosun.com/site/data/html_dir/2026/09/29/2026092902252.html; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
     },
     {
-      "keyword": "김희애 러닝",
+      "keyword": "엄지원 재활 근력운동",
       "category": "운동",
-      "topic_key": "김희애|러닝",
-      "reason": "새 인물·소재 탐색. 본인 공개 보도/기록: https://v.daum.net/v/20260129110035347; 현 쇼츠와 동일상품·효과 별도검증."
+      "topic_key": "엄지원|재활근력운동",
+      "reason": "새 소재 탐색 근거: https://www.fnnews.com/news/202608142147165599; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
     },
     {
-      "keyword": "황신혜 계단 운동",
-      "category": "운동",
-      "topic_key": "황신혜|계단운동",
-      "reason": "새 인물·소재 탐색. 본인 공개 보도/기록: https://www.newsen.com/news_view.php?uid=202602251921246110; 현 쇼츠와 동일상품·효과 별도검증."
-    },
-    {
-      "keyword": "김성령 사과 아몬드",
+      "keyword": "엄지원 사워도우",
       "category": "식단",
-      "topic_key": "김성령|사과아몬드",
-      "reason": "새 인물·소재 탐색. 본인 공개 보도/기록: https://www.osen.co.kr/article/G1112840271; 현 쇼츠와 동일상품·효과 별도검증."
+      "topic_key": "엄지원|사워도우",
+      "reason": "새 소재 탐색 근거: https://v.daum.net/v/5mplYSV7uC; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
     },
     {
-      "keyword": "김성령 유산소 PT",
-      "category": "운동",
-      "topic_key": "김성령|유산소PT",
-      "reason": "새 인물·소재 탐색. 본인 공개 보도/기록: https://www.osen.co.kr/article/G1112840271; 현 쇼츠와 동일상품·효과 별도검증."
-    },
-    {
-      "keyword": "박주미 필라테스",
-      "category": "운동",
-      "topic_key": "박주미|필라테스",
-      "reason": "새 인물·소재 탐색. 본인 공개 보도/기록: https://v.daum.net/v/20260921112713330; 현 쇼츠와 동일상품·효과 별도검증."
-    },
-    {
-      "keyword": "최강희 복근 챌린지",
-      "category": "운동",
-      "topic_key": "최강희|복근챌린지",
-      "reason": "새 인물·소재 탐색. 본인 공개 보도/기록: https://mobile.newsis.com/view/NISX20260903_0003775145; 현 쇼츠와 동일상품·효과 별도검증."
-    },
-    {
-      "keyword": "최강희 바질 그릭요거트",
+      "keyword": "박준금 당근 김밥",
       "category": "식단",
-      "topic_key": "최강희|바질그릭요거트",
-      "reason": "새 인물·소재 탐색. 본인 공개 보도/기록: https://health.chosun.com/site/data/html_dir/2025/03/06/2025030601163.html; 현 쇼츠와 동일상품·효과 별도검증."
+      "topic_key": "박준금|당근김밥",
+      "reason": "새 소재 탐색 근거: https://www.donga.com/news/Entertainment/article/all/20260527/133997983/1; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
     },
     {
-      "keyword": "김지영 밴드 홈트",
+      "keyword": "손종원 사워도우",
+      "category": "식단",
+      "topic_key": "손종원|사워도우",
+      "reason": "새 소재 탐색 근거: https://v.daum.net/v/5mplYSV7uC; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
+    },
+    {
+      "keyword": "문채원 래더배럴 사이드벤드",
       "category": "운동",
-      "topic_key": "하트시그널김지영|밴드홈트",
-      "reason": "새 인물·소재 탐색. 본인 공개 보도/기록: https://mobile.newsis.com/view/NISX20260918_0003795859; 현 쇼츠와 동일상품·효과 별도검증."
+      "topic_key": "문채원|래더배럴사이드벤드",
+      "reason": "새 소재 탐색 근거: https://nwww.newsis.com/view/NISX20260727_0003723980; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
     },
     {
-      "keyword": "김지영 필라테스",
+      "keyword": "이세영 근력 운동",
       "category": "운동",
-      "topic_key": "하트시그널김지영|필라테스",
-      "reason": "새 인물·소재 탐색. 본인 공개 보도/기록: https://nwww.newsis.com/view/NISX20261014_0003824934; 현 쇼츠와 동일상품·효과 별도검증."
+      "topic_key": "이세영|근력운동",
+      "reason": "새 소재 탐색 근거: https://nwww.newsis.com/view/NISX20261010_0003820582; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
     },
     {
-      "keyword": "진재영 필라테스",
+      "keyword": "신애라 토마토 수프",
+      "category": "식단",
+      "topic_key": "신애라|토마토수프",
+      "reason": "새 소재 탐색 근거: https://v.daum.net/v/7LIKS01ywa; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
+    },
+    {
+      "keyword": "신애라 계단 운동",
       "category": "운동",
-      "topic_key": "진재영|필라테스",
-      "reason": "새 인물·소재 탐색. 본인 공개 보도/기록: https://www.heraldk.com/article/2026092305125419584; 현 쇼츠와 동일상품·효과 별도검증."
+      "topic_key": "신애라|계단운동",
+      "reason": "새 소재 탐색 근거: https://v.daum.net/v/8ZxCYujJsP; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
     },
     {
-      "keyword": "홍진경 삶은 달걀",
+      "keyword": "김사랑 요거트 아침",
       "category": "식단",
-      "topic_key": "홍진경|삶은달걀",
-      "reason": "새 인물·소재 탐색. 본인 공개 보도/기록: https://www.segye.com/newsView/20260921517562; 현 쇼츠와 동일상품·효과 별도검증."
+      "topic_key": "김사랑|요거트아침",
+      "reason": "새 소재 탐색 근거: https://nwww.newsis.com/view/NISX20260429_0003611900; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
     },
     {
-      "keyword": "홍진경 템페 콩물",
+      "keyword": "오윤아 운동 후 샐러드",
       "category": "식단",
-      "topic_key": "홍진경|템페콩물",
-      "reason": "새 인물·소재 탐색. 본인 공개 보도/기록: https://www.segye.com/newsView/20260921517562; 현 쇼츠와 동일상품·효과 별도검증."
+      "topic_key": "오윤아|운동후샐러드",
+      "reason": "새 소재 탐색 근거: https://m.news.nate.com/view/20240224n00848; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
     },
     {
-      "keyword": "홍진경 견과류 호두오일",
-      "category": "식단",
-      "topic_key": "홍진경|견과류호두오일",
-      "reason": "새 인물·소재 탐색. 본인 공개 보도/기록: https://www.segye.com/newsView/20260921517562; 현 쇼츠와 동일상품·효과 별도검증."
-    },
-    {
-      "keyword": "홍진경 테니스",
+      "keyword": "변우석 근력 운동",
       "category": "운동",
-      "topic_key": "홍진경|테니스",
-      "reason": "새 인물·소재 탐색. 본인 공개 보도/기록: https://mobile.newsis.com/view_amp.html?ar_id=NISX20260628_0003686750; 현 쇼츠와 동일상품·효과 별도검증."
+      "topic_key": "변우석|근력운동",
+      "reason": "새 소재 탐색 근거: https://en.seoul.co.kr/news/entertainment/broadcastN/2026/04/06/20260406500007; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
     },
     {
-      "keyword": "이소라 아보카도 바나나 주스",
-      "category": "식단",
-      "topic_key": "이소라|아보카도바나나주스",
-      "reason": "새 인물·소재 탐색. 본인 공개 보도/기록: https://www.tvdaily.co.kr/print.php3?aid=17784164141786127019; 현 쇼츠와 동일상품·효과 별도검증."
-    },
-    {
-      "keyword": "김사랑 차요테 주스",
-      "category": "식단",
-      "topic_key": "김사랑|차요테주스",
-      "reason": "새 인물·소재 탐색. 본인 공개 보도/기록: https://www.donga.com/news/amp/all/20260408/133695834/1; 현 쇼츠와 동일상품·효과 별도검증."
-    },
-    {
-      "keyword": "김사랑 버섯밥",
-      "category": "식단",
-      "topic_key": "김사랑|버섯밥",
-      "reason": "새 인물·소재 탐색. 본인 공개 보도/기록: https://www.donga.com/news/amp/all/20260408/133695834/1; 현 쇼츠와 동일상품·효과 별도검증."
-    },
-    {
-      "keyword": "김사랑 아침 복근 운동",
-      "category": "운동",
-      "topic_key": "김사랑|아침복근운동",
-      "reason": "새 인물·소재 탐색. 본인 공개 보도/기록: https://en.seoul.co.kr/news/entertainments/celebrity/2026/04/08/20260408500013; 현 쇼츠와 동일상품·효과 별도검증."
-    },
-    {
-      "keyword": "김사랑 체중계 루틴",
+      "keyword": "윤은혜 괄사",
       "category": "건강",
-      "topic_key": "김사랑|체중계루틴",
-      "reason": "새 인물·소재 탐색. 본인 공개 보도/기록: https://en.seoul.co.kr/news/entertainments/celebrity/2026/04/08/20260408500013; 현 쇼츠와 동일상품·효과 별도검증."
+      "topic_key": "윤은혜|괄사",
+      "reason": "새 소재 탐색 근거: https://www.wkorea.com/2026/04/05/모르면-독이-되는-괄사-바르게-사용하기/; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
     },
     {
-      "keyword": "김사랑 림프 스트레칭",
+      "keyword": "한혜진 괄사",
       "category": "건강",
-      "topic_key": "김사랑|림프스트레칭",
-      "reason": "새 인물·소재 탐색. 본인 공개 보도/기록: https://en.seoul.co.kr/news/entertainments/celebrity/2026/04/08/20260408500013; 현 쇼츠와 동일상품·효과 별도검증."
+      "topic_key": "한혜진미확인|괄사",
+      "reason": "새 소재 탐색 근거: https://www.wkorea.com/2026/04/05/모르면-독이-되는-괄사-바르게-사용하기/; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
     },
     {
-      "keyword": "모델 한혜진 닭가슴살 스무디",
+      "keyword": "서인영 된장찌개",
       "category": "식단",
-      "topic_key": "모델한혜진|닭가슴살스무디",
-      "reason": "새 인물·소재 탐색. 본인 공개 보도/기록: https://v.daum.net/v/20260719215041551; 현 쇼츠와 동일상품·효과 별도검증."
+      "topic_key": "서인영|된장찌개",
+      "reason": "새 소재 탐색 근거: https://v.daum.net/v/20260501090807973; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
     },
     {
-      "keyword": "유재석 근력 운동",
+      "keyword": "신세경 저당 베이킹",
+      "category": "식단",
+      "topic_key": "신세경|저당베이킹",
+      "reason": "기존 소재 구독자 상한 확대에 따른 1회 확인; 기보고 영상 ID는 신규제외."
+    },
+    {
+      "keyword": "안소희 에그 샐러드",
+      "category": "식단",
+      "topic_key": "안소희|에그샐러드",
+      "reason": "기존 소재 구독자 상한 확대에 따른 1회 확인; 기보고 영상 ID는 신규제외."
+    },
+    {
+      "keyword": "김종국 요거트 간식",
+      "category": "식단",
+      "topic_key": "김종국|요거트간식",
+      "reason": "기존 소재 구독자 상한 확대에 따른 1회 확인; 기보고 영상 ID는 신규제외."
+    },
+    {
+      "keyword": "이정현 건강 도시락",
+      "category": "식단",
+      "topic_key": "이정현|건강도시락",
+      "reason": "기존 소재 구독자 상한 확대에 따른 1회 확인; 기보고 영상 ID는 신규제외."
+    },
+    {
+      "keyword": "한지혜 두부 크림치즈",
+      "category": "식단",
+      "topic_key": "한지혜|두부크림치즈",
+      "reason": "기존 소재 구독자 상한 확대에 따른 1회 확인; 기보고 영상 ID는 신규제외."
+    },
+    {
+      "keyword": "박솔미 양배추 스테이크",
+      "category": "식단",
+      "topic_key": "박솔미|양배추스테이크",
+      "reason": "기존 소재 구독자 상한 확대에 따른 1회 확인; 기보고 영상 ID는 신규제외."
+    },
+    {
+      "keyword": "이효리 요가 매트",
       "category": "운동",
-      "topic_key": "유재석|근력운동",
-      "reason": "새 인물·소재 탐색. 본인 공개 보도/기록: https://en.seoul.co.kr/news/entertainment/broadcastN/2026/04/06/20260406500007; 현 쇼츠와 동일상품·효과 별도검증."
+      "topic_key": "이효리|요가매트",
+      "reason": "기존 소재 구독자 상한 확대에 따른 1회 확인; 기보고 영상 ID는 신규제외."
     },
     {
-      "keyword": "수영 괄사",
-      "category": "건강",
-      "topic_key": "소녀시대수영|괄사",
-      "reason": "새 인물·소재 탐색. 본인 공개 보도/기록: https://www.wkorea.com/2026/04/05/모르면-독이-되는-괄사-바르게-사용하기/; 현 쇼츠와 동일상품·효과 별도검증."
-    },
-    {
-      "keyword": "장윤주 괄사",
-      "category": "건강",
-      "topic_key": "장윤주|괄사",
-      "reason": "새 인물·소재 탐색. 본인 공개 보도/기록: https://www.wkorea.com/2026/04/05/모르면-독이-되는-괄사-바르게-사용하기/; 현 쇼츠와 동일상품·효과 별도검증."
-    },
-    {
-      "keyword": "나나 식단",
-      "category": "식단",
-      "topic_key": "나나|식단미확인",
-      "reason": "구독자3000→5000 확대 1회 재탐색. 기보고ID 신규제외; 마지막 보고 대비 유의미 변화만 업데이트."
-    },
-    {
-      "keyword": "김완선 식단",
-      "category": "식단",
-      "topic_key": "김완선|식단미확인",
-      "reason": "구독자3000→5000 확대 1회 재탐색. 기보고ID 신규제외; 마지막 보고 대비 유의미 변화만 업데이트."
-    },
-    {
-      "keyword": "한고은 레몬 생강차",
-      "category": "식단",
-      "topic_key": "한고은|레몬생강차",
-      "reason": "구독자3000→5000 확대 1회 재탐색. 기보고ID 신규제외; 마지막 보고 대비 유의미 변화만 업데이트."
-    },
-    {
-      "keyword": "한가인 근력 운동",
+      "keyword": "정은지 운동 밴드",
       "category": "운동",
-      "topic_key": "한가인|근력",
-      "reason": "구독자3000→5000 확대 1회 재탐색. 기보고ID 신규제외; 마지막 보고 대비 유의미 변화만 업데이트."
+      "topic_key": "정은지|운동밴드",
+      "reason": "기존 소재 구독자 상한 확대에 따른 1회 확인; 기보고 영상 ID는 신규제외."
     },
     {
-      "keyword": "소유 단백질 음료",
-      "category": "식단",
-      "topic_key": "소유|단백질음료",
-      "reason": "구독자3000→5000 확대 1회 재탐색. 기보고ID 신규제외; 마지막 보고 대비 유의미 변화만 업데이트."
+      "keyword": "제니 두피 마사지기",
+      "category": "건강",
+      "topic_key": "제니|두피마사지기",
+      "reason": "기존 소재 구독자 상한 확대에 따른 1회 확인; 기보고 영상 ID는 신규제외."
     },
     {
-      "keyword": "임지연 간식",
-      "category": "식단",
-      "topic_key": "임지연|간식미확인",
-      "reason": "구독자3000→5000 확대 1회 재탐색. 기보고ID 신규제외; 마지막 보고 대비 유의미 변화만 업데이트."
+      "keyword": "이나연 두피 마사지기",
+      "category": "건강",
+      "topic_key": "이나연|두피마사지기",
+      "reason": "기존 소재 구독자 상한 확대에 따른 1회 확인; 기보고 영상 ID는 신규제외."
     },
     {
-      "keyword": "한혜진 고구마칩",
-      "category": "식단",
-      "topic_key": "모델한혜진|고구마칩",
-      "reason": "구독자3000→5000 확대 1회 재탐색. 기보고ID 신규제외; 마지막 보고 대비 유의미 변화만 업데이트."
+      "keyword": "전혜빈 두피 마사지기",
+      "category": "건강",
+      "topic_key": "전혜빈|두피마사지기",
+      "reason": "기존 소재 구독자 상한 확대에 따른 1회 확인; 기보고 영상 ID는 신규제외."
     },
     {
-      "keyword": "한고은 부리또",
+      "keyword": "천우희 블루베리 호두 두유",
       "category": "식단",
-      "topic_key": "한고은|부리또",
-      "reason": "구독자3000→5000 확대 1회 재탐색. 기보고ID 신규제외; 마지막 보고 대비 유의미 변화만 업데이트."
-    },
-    {
-      "keyword": "최화정 땅콩버터",
-      "category": "식단",
-      "topic_key": "최화정|땅콩버터",
-      "reason": "구독자3000→5000 확대 1회 재탐색. 기보고ID 신규제외; 마지막 보고 대비 유의미 변화만 업데이트."
-    },
-    {
-      "keyword": "류수영 두부 요리",
-      "category": "식단",
-      "topic_key": "류수영|두부요리",
-      "reason": "구독자3000→5000 확대 1회 재탐색. 기보고ID 신규제외; 마지막 보고 대비 유의미 변화만 업데이트."
+      "topic_key": "천우희|블루베리호두두유",
+      "reason": "기존 소재 구독자 상한 확대에 따른 1회 확인; 기보고 영상 ID는 신규제외."
     }
   ]
 }
