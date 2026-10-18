@@ -500,7 +500,7 @@
   ],
   "source_verification": "partial: original Shorts access blocked; celebrity publication evidence found, exact product/recipe equivalence not confirmed",
   "followup_automation_created": false,
-  "next_day_automatic_run_confirmed": false,
+  "next_day_automatic_run_confirmed": true,
   "resume_instructions": "Read this current continuation and permanent discovery state before input generation. Original 36 done; do not repeat. Pending 38 are from additional batch. Use 38 pending plus 2 meaningful new queries for formal40, test=false. Current filters subscribers200..5000 inclusive, views>=100000, latest30days. New-topic share>=70% in optional new batches. Reuse original routine_runner.py via routine_inputs/celebrity.json push and await matching Actions and save. Do not alter main while Actions saves. Preserve state/history. Stop at rate limit, no retry. Do not create automation in scheduled runtime; updating current continuation schedule is permitted. Fashion/gossip/politics/incidents excluded. Trending remains paused; never read Secret. Reserve50units; shared daily ledger is Pacific date and current actual project balance unknown.",
   "updated_at": "2026-10-18T18:09:17+09:00",
   "original_2026_10_17_pending_completed": true,
@@ -640,5 +640,8 @@
       "topic_key": "박신혜|필라테스밴드",
       "reason": "Merged historical query meaning; performed single allowed ceiling expansion check, not new discovery."
     }
-  ]
+  ],
+  "followup_automation_id": "6ad35973e7f4819188223958b221ff9c",
+  "followup_method": "updated_current_one_time_automation_no_new_automation",
+  "next_run_kst": "2026-10-19T18:00:00+09:00"
 }
