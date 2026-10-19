@@ -1,247 +1,247 @@
 {
   "mode": "celebrity",
   "test": false,
-  "generated_at": "2026-10-19T18:01:48+09:00",
+  "generated_at": "2026-10-19T18:03:29+09:00",
   "keywords": [
     {
-      "keyword": "하지원 식단",
-      "category": "식단",
-      "topic_key": "하지원|달걀두부토마토",
-      "reason": "새 인물/새 소재 탐색 근거: https://www.chosun.com/entertainments/celebrity/2026/10/18/OESA6WK3URCMFBSZKWMUYMPZ6Q/ ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
-    },
-    {
-      "keyword": "백지영 홈트",
-      "category": "운동",
-      "topic_key": "백지영|홈트",
-      "reason": "새 인물/새 소재 탐색 근거: https://m.newsis.com/view/NISX20261013_0003823428 ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
-    },
-    {
-      "keyword": "백지영 탄수화물 식단",
-      "category": "식단",
-      "topic_key": "백지영|식단",
-      "reason": "새 인물/새 소재 탐색 근거: https://m.newsis.com/view/NISX20261013_0003823428 ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
-    },
-    {
-      "keyword": "하원미 스테퍼",
-      "category": "운동",
-      "topic_key": "하원미|스테퍼",
-      "reason": "새 인물/새 소재 탐색 근거: https://files.newsis.com/view/NISX20261016_0003828727 ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
-    },
-    {
-      "keyword": "하원미 필라테스",
-      "category": "운동",
-      "topic_key": "하원미|필라테스",
-      "reason": "새 인물/새 소재 탐색 근거: https://files.newsis.com/view/NISX20261016_0003828727 ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
-    },
-    {
-      "keyword": "하원미 단백질 식단",
-      "category": "식단",
-      "topic_key": "하원미|단백질식단",
-      "reason": "새 인물/새 소재 탐색 근거: https://files.newsis.com/view/NISX20261016_0003828727 ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
-    },
-    {
-      "keyword": "이시영 턱걸이",
-      "category": "운동",
-      "topic_key": "이시영|턱걸이",
-      "reason": "새 인물/새 소재 탐색 근거: https://www.newsis.com/view/NISX20261015_0003826800 ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
-    },
-    {
-      "keyword": "신봉선 수영",
-      "category": "운동",
-      "topic_key": "신봉선|수영",
-      "reason": "새 인물/새 소재 탐색 근거: https://health.chosun.com/site/data/html_dir/2026/05/26/2026052601365.html ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
-    },
-    {
-      "keyword": "신봉선 테니스",
-      "category": "운동",
-      "topic_key": "신봉선|테니스",
-      "reason": "새 인물/새 소재 탐색 근거: https://health.chosun.com/site/data/html_dir/2026/05/26/2026052601365.html ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
-    },
-    {
-      "keyword": "김사랑 달걀 당근",
-      "category": "식단",
-      "topic_key": "김사랑|달걀당근브런치",
-      "reason": "새 인물/새 소재 탐색 근거: https://health.chosun.com/site/data/html_dir/2026/09/30/2026093004423.html ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
-    },
-    {
-      "keyword": "손담비 플랭크",
-      "category": "운동",
-      "topic_key": "손담비|플랭크",
-      "reason": "새 인물/새 소재 탐색 근거: https://health.chosun.com/list.html ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
-    },
-    {
-      "keyword": "제이제이 단백질",
-      "category": "식단",
-      "topic_key": "제이제이|단백질",
-      "reason": "새 인물/새 소재 탐색 근거: https://health.chosun.com/list.html ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
-    },
-    {
-      "keyword": "선우용여 파스타",
-      "category": "식단",
-      "topic_key": "선우용여|파스타",
-      "reason": "새 인물/새 소재 탐색 근거: https://health.chosun.com/list.html?menu=disease ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
-    },
-    {
-      "keyword": "김정난 잡곡밥",
-      "category": "식단",
-      "topic_key": "김정난|잡곡밥",
-      "reason": "새 인물/새 소재 탐색 근거: https://health.chosun.com/list.html?menu=disease ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
-    },
-    {
-      "keyword": "박세리 뻥튀기",
-      "category": "식단",
-      "topic_key": "박세리|뻥튀기",
-      "reason": "새 인물/새 소재 탐색 근거: https://health.chosun.com/list.html?menu=1&more_menu=&more_smenu=&nowcode=1&pn=5&type= ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
-    },
-    {
-      "keyword": "안세영 런지",
-      "category": "운동",
-      "topic_key": "안세영|런지",
-      "reason": "새 인물/새 소재 탐색 근거: https://health.chosun.com/list.html?menu=disease ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
-    },
-    {
-      "keyword": "유연석 요가",
-      "category": "운동",
-      "topic_key": "유연석|요가",
-      "reason": "새 인물/새 소재 탐색 근거: https://m.seoul.co.kr/news/searchList.php?keyword=균형+감각 ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
-    },
-    {
-      "keyword": "문가영 아침 루틴",
+      "keyword": "윤미라 온열안대",
       "category": "건강",
-      "topic_key": "문가영|모닝루틴",
-      "reason": "새 인물/새 소재 탐색 근거: https://mobile.newsis.com/view_amp.html?ar_id=NISX20260710_0003704574 ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+      "topic_key": "윤미라|온열안대",
+      "reason": "공개 루틴 보도 탐색: https://health.chosun.com/site/data/html_dir/2026/04/03/2026040302884.html ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
     },
     {
-      "keyword": "리센느 미나미 운동",
-      "category": "운동",
-      "topic_key": "리센느미나미|운동",
-      "reason": "새 인물/새 소재 탐색 근거: https://go.seoul.co.kr/news/newsView.php?id=20260916500142 ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+      "keyword": "윤미라 누룽지탕",
+      "category": "식단",
+      "topic_key": "윤미라|누룽지탕",
+      "reason": "공개 루틴 보도 탐색: https://health.chosun.com/site/data/html_dir/2026/04/03/2026040302884.html ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
     },
     {
-      "keyword": "김윤지 러닝",
-      "category": "운동",
-      "topic_key": "김윤지|러닝",
-      "reason": "새 인물/새 소재 탐색 근거: https://m.seoul.co.kr/news/entertainments/celebrity/2026/08/24/20260824500137 ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
-    },
-    {
-      "keyword": "정세랑 수면 루틴",
+      "keyword": "트와이스 나연 수면 베개",
       "category": "건강",
-      "topic_key": "정세랑|수면",
-      "reason": "새 인물/새 소재 탐색 근거: https://kormedi.com/2798048/ ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+      "topic_key": "트와이스나연|베개",
+      "reason": "공개 루틴 보도 탐색: https://www.cosmopolitan.co.kr/article/1898795 ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
     },
     {
-      "keyword": "수지 발레",
+      "keyword": "이솔이 홈트",
       "category": "운동",
-      "topic_key": "수지|발레",
-      "reason": "새 인물/새 소재 탐색 근거: https://health.chosun.com/site/data/html_dir/2026/04/27/2026042702636.html ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+      "topic_key": "이솔이|홈트",
+      "reason": "공개 루틴 보도 탐색: https://nwww.newsis.com/view/NISX20261015_0003826732 ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
     },
     {
-      "keyword": "아이유 달걀 올리브유",
+      "keyword": "김남주 단백질칩",
       "category": "식단",
-      "topic_key": "아이유|달걀올리브유",
-      "reason": "새 인물/새 소재 탐색 근거: https://health.chosun.com/list_plan.html?menu=1&more_menu=&more_smenu=&nowcode=1&pn=18&type= ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+      "topic_key": "김남주|단백질칩",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
     },
     {
-      "keyword": "설현 맥반석 달걀",
+      "keyword": "김남주 유산균 젤리",
       "category": "식단",
-      "topic_key": "설현|맥반석달걀",
-      "reason": "새 인물/새 소재 탐색 근거: https://health.chosun.com/list_plan.html?menu=1&more_menu=&more_smenu=&nowcode=1&pn=18&type= ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+      "topic_key": "김남주|유산균젤리",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
     },
     {
-      "keyword": "슬기 힙 운동",
-      "category": "운동",
-      "topic_key": "슬기|힙운동",
-      "reason": "새 인물/새 소재 탐색 근거: https://m.health.chosun.com/article_list/life_list.html?menu=01010111&more_menu=0101011101&nowcode=0101011101 ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
-    },
-    {
-      "keyword": "추성훈 서킷 운동",
-      "category": "운동",
-      "topic_key": "추성훈|서킷",
-      "reason": "새 인물/새 소재 탐색 근거: https://m.health.chosun.com/article_list/life_list.html?menu=01010111&more_menu=0101011101&nowcode=0101011101 ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
-    },
-    {
-      "keyword": "오정연 운동",
-      "category": "운동",
-      "topic_key": "오정연|운동미확인",
-      "reason": "새 인물/새 소재 탐색 근거: https://m.health.chosun.com/article_list/life_list.html?menu=01010111&more_menu=0101011101&nowcode=0101011101 ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
-    },
-    {
-      "keyword": "현아 운동",
-      "category": "운동",
-      "topic_key": "현아|운동미확인",
-      "reason": "새 인물/새 소재 탐색 근거: https://m.health.chosun.com/article_list/life_list.html?menu=01010111&more_menu=0101011101&nowcode=0101011101 ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
-    },
-    {
-      "keyword": "이유비 근력 운동",
-      "category": "운동",
-      "topic_key": "이유비|근력운동",
-      "reason": "새 인물/새 소재 탐색 근거: https://m.health.chosun.com/article_list/life_list.html?menu=01010111&more_menu=0101011101&nowcode=0101011101 ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
-    },
-    {
-      "keyword": "이상순 요가",
+      "keyword": "유진 다리 마사지기",
       "category": "건강",
-      "topic_key": "이상순|요가회복",
-      "reason": "새 인물/새 소재 탐색 근거: https://health.chosun.com/site/data/html_dir/2026/10/19/2026101901468.html ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+      "topic_key": "유진|다리마사지기",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
     },
     {
-      "keyword": "신봉선 당근 김밥",
-      "category": "식단",
-      "topic_key": "신봉선|당근김밥",
-      "reason": "새 인물/새 소재 탐색 근거: https://health.chosun.com/list_plan.html?menu=1&more_menu=f&more_smenu=&nowcode=1&pn=54&type= ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
-    },
-    {
-      "keyword": "최지우 야식 식습관",
+      "keyword": "기태영 온열 마사지기",
       "category": "건강",
-      "topic_key": "최지우|야식제한",
-      "reason": "새 인물/새 소재 탐색 근거: https://health.chosun.com/list_plan.html?menu=1&more_menu=f&more_smenu=&nowcode=1&pn=138&type= ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+      "topic_key": "기태영|온열마사지기",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
     },
     {
-      "keyword": "배우 한혜진 오버나이트오트밀 레시피",
+      "keyword": "유인영 아티초크",
       "category": "식단",
-      "topic_key": "배우한혜진|오나오",
-      "reason": "검증 예외: 기존 보고 원본·제품·레시피 미확인 해소 목적. 14일 신규탐색에 산입하지 않음. 기보고ID 신규제외."
+      "topic_key": "유인영|아티초크",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
     },
     {
-      "keyword": "류수영 두부조림 편스토랑 레시피",
+      "keyword": "공효진 저당 아이스크림",
       "category": "식단",
-      "topic_key": "류수영|두부요리",
-      "reason": "검증 예외: 기존 보고 원본·제품·레시피 미확인 해소 목적. 14일 신규탐색에 산입하지 않음. 기보고ID 신규제외."
+      "topic_key": "공효진|저당아이스크림",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
     },
     {
-      "keyword": "성시경 덱스 여배우 최애간식",
+      "keyword": "김정난 보리커피",
       "category": "식단",
-      "topic_key": "여배우미확인|간식",
-      "reason": "검증 예외: 기존 보고 원본·제품·레시피 미확인 해소 목적. 14일 신규탐색에 산입하지 않음. 기보고ID 신규제외."
+      "topic_key": "김정난|보리커피",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
     },
     {
-      "keyword": "이시영 얼굴마사지 도구",
+      "keyword": "고준희 파로",
+      "category": "식단",
+      "topic_key": "고준희|파로",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "츄 온열안대",
       "category": "건강",
-      "topic_key": "이시영|얼굴괄사",
-      "reason": "검증 예외: 기존 보고 원본·제품·레시피 미확인 해소 목적. 14일 신규탐색에 산입하지 않음. 기보고ID 신규제외."
+      "topic_key": "츄|온열안대",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
     },
     {
-      "keyword": "김완선 단백질 요리 원본",
+      "keyword": "김정난 두유제조기",
       "category": "식단",
-      "topic_key": "김완선|식단미확인",
-      "reason": "검증 예외: 기존 보고 원본·제품·레시피 미확인 해소 목적. 14일 신규탐색에 산입하지 않음. 기보고ID 신규제외."
+      "topic_key": "김정난|두유제조기",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
     },
     {
-      "keyword": "홍진경 땅콩버터 제품",
-      "category": "식단",
-      "topic_key": "홍진경|땅콩버터",
-      "reason": "검증 예외: 기존 보고 원본·제품·레시피 미확인 해소 목적. 14일 신규탐색에 산입하지 않음. 기보고ID 신규제외."
+      "keyword": "솔라 EMS 운동벨트",
+      "category": "운동",
+      "topic_key": "솔라|EMS운동벨트",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
     },
     {
-      "keyword": "채정안 땅콩버터 제품",
-      "category": "식단",
-      "topic_key": "채정안|땅콩버터",
-      "reason": "검증 예외: 기존 보고 원본·제품·레시피 미확인 해소 목적. 14일 신규탐색에 산입하지 않음. 기보고ID 신규제외."
+      "keyword": "김정난 트위스트런",
+      "category": "운동",
+      "topic_key": "김정난|트위스트런",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
     },
     {
-      "keyword": "츄 땅콩버터 제품",
+      "keyword": "강주은 단백질바",
       "category": "식단",
-      "topic_key": "츄|땅콩버터",
-      "reason": "검증 예외: 기존 보고 원본·제품·레시피 미확인 해소 목적. 14일 신규탐색에 산입하지 않음. 기보고ID 신규제외."
+      "topic_key": "강주은|단백질바",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "공효진 수면밴드",
+      "category": "건강",
+      "topic_key": "공효진|수면밴드",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "김고은 괄사",
+      "category": "건강",
+      "topic_key": "김고은|괄사",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "고소영 마사지건",
+      "category": "건강",
+      "topic_key": "고소영|마사지건",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "차예련 종아리 마사지기",
+      "category": "건강",
+      "topic_key": "차예련|종아리마사지기",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "이민영 수면차",
+      "category": "건강",
+      "topic_key": "이민영|수면차",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "엄정화 콩담백면",
+      "category": "식단",
+      "topic_key": "엄정화|콩담백면",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "한지민 약콩두유",
+      "category": "식단",
+      "topic_key": "한지민|약콩두유",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "서현 마사지기",
+      "category": "건강",
+      "topic_key": "서현|마사지기",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "김민경 닭양쌈",
+      "category": "식단",
+      "topic_key": "김민경|닭양쌈",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "정수정 시나몬 시리얼",
+      "category": "식단",
+      "topic_key": "정수정|시나몬시리얼",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "김남주 김칩",
+      "category": "식단",
+      "topic_key": "김남주|김칩",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "백지영 애사비 캔디",
+      "category": "식단",
+      "topic_key": "백지영|애사비캔디",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "강주은 제로설탕",
+      "category": "식단",
+      "topic_key": "강주은|제로설탕",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "한가인 다크초콜릿",
+      "category": "식단",
+      "topic_key": "한가인|다크초콜릿",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "오연서 텀블러",
+      "category": "건강",
+      "topic_key": "오연서|수분섭취텀블러",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "엄지원 쿨링시트",
+      "category": "건강",
+      "topic_key": "엄지원|쿨링시트",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "소유 운동벨트",
+      "category": "운동",
+      "topic_key": "소유|운동벨트",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "오윤아 EMS 벨트",
+      "category": "운동",
+      "topic_key": "오윤아|EMS벨트",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "한예슬 닭가슴살",
+      "category": "식단",
+      "topic_key": "한예슬|닭가슴살",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "안보현 휴대용 블렌더",
+      "category": "식단",
+      "topic_key": "안보현|휴대용블렌더",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/honeysale1 ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "안보현 땅콩버터",
+      "category": "식단",
+      "topic_key": "안보현|땅콩버터",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/honeysale1 ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "지드래곤 검은콩차",
+      "category": "식단",
+      "topic_key": "지드래곤|검은콩차",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/honeysale1 ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "이현이 주스",
+      "category": "식단",
+      "topic_key": "이현이|주스미확인",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
     }
   ]
 }
