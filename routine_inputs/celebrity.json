@@ -1,20 +1,8 @@
 {
   "mode": "celebrity",
   "test": false,
-  "generated_at": "2026-10-18T18:07:51+09:00",
+  "generated_at": "2026-10-19T17:58:49+09:00",
   "keywords": [
-    {
-      "keyword": "윤승아 낫토 김밥",
-      "category": "식단",
-      "topic_key": "윤승아|낫토김밥",
-      "reason": "새 소재 탐색 근거: https://www.kmjournal.net/news/articleView.html?idxno=12052; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
-    },
-    {
-      "keyword": "서인영 저당 김밥",
-      "category": "식단",
-      "topic_key": "서인영|저당김밥",
-      "reason": "새 소재 탐색 근거: https://v.daum.net/v/20260501090807973; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
-    },
     {
       "keyword": "김혜수 아쿠아워킹",
       "category": "운동",
@@ -242,6 +230,18 @@
       "category": "식단",
       "topic_key": "천우희|블루베리호두두유",
       "reason": "기존 소재 구독자 상한 확대에 따른 1회 확인; 기보고 영상 ID는 신규제외."
+    },
+    {
+      "keyword": "장영란 두부 유부초밥",
+      "category": "식단",
+      "topic_key": "장영란|두부유부초밥",
+      "reason": "공개 식단의 구체적 새 소재 탐색: https://www.newsis.com/view/NISX20230906_0002439599 ; 과거 일반 식단 검색과 구별, 감량효과 채택 금지."
+    },
+    {
+      "keyword": "박민영 근력 운동",
+      "category": "운동",
+      "topic_key": "박민영|근력운동",
+      "reason": "기존 샐러드 소재와 다른 운동 탐색: https://v.daum.net/v/7PrQXtYc5n ; 본인 발언 원본 및 사용도구 검증 필요."
     }
   ]
 }
