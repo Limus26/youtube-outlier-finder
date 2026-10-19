@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T09:00:39.859Z",
+  "updated_at": "2026-10-19T09:05:41.163Z",
   "purpose": "Persistent memory for the scheduled agent's query selection and final report deduplication. Raw runner reports/history remain complete; the scheduled agent reads and updates this ledger.",
   "policy": {
     "query_topic_cooldown_days": 14,
@@ -418,6 +418,17 @@
       "last_reported_on": "2026-10-18",
       "status": "일반 후보·추가참고",
       "verification_note": "일반 후보·추가참고: 류수영 두부조림 기존 소재군. KBS 방송 공개 근거 있음. 이전 쇼츠와 동일 레시피·브랜드는 미확인. 신규 소재 수로 가산하지 않음."
+    },
+    {
+      "video_id": "TAM1jor-MKA",
+      "title": "파스타 먹고 혈당 90대, 82세 선우용여의 건강 레시피는?",
+      "url": "https://youtu.be/TAM1jor-MKA",
+      "last_reported_view_count": 437838,
+      "last_reported_subscriber_count": 2610,
+      "metrics_checked_on": "2026-10-19",
+      "last_reported_on": "2026-10-19",
+      "status": "일반 후보",
+      "verification_note": "본인 엔초비 파스타 공개는 2026-10-01 OSEN 보도로 확인. 원본 제목: 특급 식재료 가득한 82세 선우용여의 냉장고 최초 공개. 현미 파스타·엔초비·토마토소스 언급 보도 있음. 수집 쇼츠 재생 차단으로 원본과 동일 레시피·정확한 브랜드 미확인. 혈당90대/혈당 안오름 주장 채택 금지."
     }
   ],
   "query_history": [
@@ -9090,6 +9101,1497 @@
       "stage": "shallow",
       "quota_used": 102,
       "successful": true
+    },
+    {
+      "keyword": "솔라 EMS 운동벨트",
+      "last_completed_at": "2026-10-19T09:04:02.014639+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "솔라|EMS운동벨트",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "김정난 두유제조기",
+      "last_completed_at": "2026-10-19T09:04:01.834905+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김정난|두유제조기",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "츄 온열안대",
+      "last_completed_at": "2026-10-19T09:04:01.493205+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "츄|온열안대",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "고준희 파로",
+      "last_completed_at": "2026-10-19T09:04:01.314019+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "고준희|파로",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "김정난 보리커피",
+      "last_completed_at": "2026-10-19T09:04:01.098601+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김정난|보리커피",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "공효진 저당 아이스크림",
+      "last_completed_at": "2026-10-19T09:04:00.700227+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "공효진|저당아이스크림",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "유인영 아티초크",
+      "last_completed_at": "2026-10-19T09:04:00.296860+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "유인영|아티초크",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "기태영 온열 마사지기",
+      "last_completed_at": "2026-10-19T09:04:00.086306+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "기태영|온열마사지기",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "유진 다리 마사지기",
+      "last_completed_at": "2026-10-19T09:03:59.920683+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "유진|다리마사지기",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "김남주 유산균 젤리",
+      "last_completed_at": "2026-10-19T09:03:59.715117+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김남주|유산균젤리",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "김남주 단백질칩",
+      "last_completed_at": "2026-10-19T09:03:59.528486+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김남주|단백질칩",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "이솔이 홈트",
+      "last_completed_at": "2026-10-19T09:03:59.303421+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "이솔이|홈트",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "공개 루틴 보도 탐색: https://nwww.newsis.com/view/NISX20261015_0003826732 ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "트와이스 나연 수면 베개",
+      "last_completed_at": "2026-10-19T09:03:59.069264+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "트와이스나연|베개",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "공개 루틴 보도 탐색: https://www.cosmopolitan.co.kr/article/1898795 ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "윤미라 누룽지탕",
+      "last_completed_at": "2026-10-19T09:03:58.644520+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "윤미라|누룽지탕",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "공개 루틴 보도 탐색: https://health.chosun.com/site/data/html_dir/2026/04/03/2026040302884.html ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "윤미라 온열안대",
+      "last_completed_at": "2026-10-19T09:03:58.397749+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "윤미라|온열안대",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "공개 루틴 보도 탐색: https://health.chosun.com/site/data/html_dir/2026/04/03/2026040302884.html ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "김사랑 달걀 당근",
+      "last_completed_at": "2026-10-19T09:02:36.058806+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김사랑|달걀당근브런치",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://health.chosun.com/site/data/html_dir/2026/09/30/2026093004423.html ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "신봉선 테니스",
+      "last_completed_at": "2026-10-19T09:02:36.056943+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "신봉선|테니스",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://health.chosun.com/site/data/html_dir/2026/05/26/2026052601365.html ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "신봉선 수영",
+      "last_completed_at": "2026-10-19T09:02:36.055094+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "신봉선|수영",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://health.chosun.com/site/data/html_dir/2026/05/26/2026052601365.html ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "이시영 턱걸이",
+      "last_completed_at": "2026-10-19T09:02:36.053213+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "이시영|턱걸이",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://www.newsis.com/view/NISX20261015_0003826800 ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "하원미 단백질 식단",
+      "last_completed_at": "2026-10-19T09:02:36.051391+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "하원미|단백질식단",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://files.newsis.com/view/NISX20261016_0003828727 ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "하원미 필라테스",
+      "last_completed_at": "2026-10-19T09:02:36.049567+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "하원미|필라테스",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://files.newsis.com/view/NISX20261016_0003828727 ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "하원미 스테퍼",
+      "last_completed_at": "2026-10-19T09:02:36.047676+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "하원미|스테퍼",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://files.newsis.com/view/NISX20261016_0003828727 ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "백지영 탄수화물 식단",
+      "last_completed_at": "2026-10-19T09:02:36.045823+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "백지영|식단",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://m.newsis.com/view/NISX20261013_0003823428 ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "백지영 홈트",
+      "last_completed_at": "2026-10-19T09:02:36.043988+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "백지영|홈트",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://m.newsis.com/view/NISX20261013_0003823428 ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "하지원 식단",
+      "last_completed_at": "2026-10-19T09:02:36.042193+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "하지원|달걀두부토마토",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://www.chosun.com/entertainments/celebrity/2026/10/18/OESA6WK3URCMFBSZKWMUYMPZ6Q/ ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "선우용여 파스타",
+      "last_completed_at": "2026-10-19T09:02:36.040298+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "선우용여|파스타",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://health.chosun.com/list.html?menu=disease ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "이시영 얼굴마사지 도구",
+      "last_completed_at": "2026-10-19T09:02:36.038311+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "이시영|얼굴괄사",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "검증 예외: 기존 보고 원본·제품·레시피 미확인 해소 목적. 14일 신규탐색에 산입하지 않음. 기보고ID 신규제외."
+    },
+    {
+      "keyword": "츄 땅콩버터 제품",
+      "last_completed_at": "2026-10-19T09:02:36.036426+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "츄|땅콩버터",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "검증 예외: 기존 보고 원본·제품·레시피 미확인 해소 목적. 14일 신규탐색에 산입하지 않음. 기보고ID 신규제외."
+    },
+    {
+      "keyword": "채정안 땅콩버터 제품",
+      "last_completed_at": "2026-10-19T09:02:36.034578+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "채정안|땅콩버터",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "검증 예외: 기존 보고 원본·제품·레시피 미확인 해소 목적. 14일 신규탐색에 산입하지 않음. 기보고ID 신규제외."
+    },
+    {
+      "keyword": "홍진경 땅콩버터 제품",
+      "last_completed_at": "2026-10-19T09:02:36.032699+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "홍진경|땅콩버터",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "검증 예외: 기존 보고 원본·제품·레시피 미확인 해소 목적. 14일 신규탐색에 산입하지 않음. 기보고ID 신규제외."
+    },
+    {
+      "keyword": "리센느 미나미 운동",
+      "last_completed_at": "2026-10-19T09:02:36.030746+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "리센느미나미|운동",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://go.seoul.co.kr/news/newsView.php?id=20260916500142 ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "츄 땅콩버터 제품",
+      "last_completed_at": "2026-10-19T09:02:36.028322+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "츄|땅콩버터",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "검증 예외: 기존 보고 원본·제품·레시피 미확인 해소 목적. 14일 신규탐색에 산입하지 않음. 기보고ID 신규제외."
+    },
+    {
+      "keyword": "채정안 땅콩버터 제품",
+      "last_completed_at": "2026-10-19T09:02:35.828992+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "채정안|땅콩버터",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "검증 예외: 기존 보고 원본·제품·레시피 미확인 해소 목적. 14일 신규탐색에 산입하지 않음. 기보고ID 신규제외."
+    },
+    {
+      "keyword": "홍진경 땅콩버터 제품",
+      "last_completed_at": "2026-10-19T09:02:35.678624+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "홍진경|땅콩버터",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "검증 예외: 기존 보고 원본·제품·레시피 미확인 해소 목적. 14일 신규탐색에 산입하지 않음. 기보고ID 신규제외."
+    },
+    {
+      "keyword": "김완선 단백질 요리 원본",
+      "last_completed_at": "2026-10-19T09:02:35.362782+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김완선|식단미확인",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "검증 예외: 기존 보고 원본·제품·레시피 미확인 해소 목적. 14일 신규탐색에 산입하지 않음. 기보고ID 신규제외."
+    },
+    {
+      "keyword": "이시영 얼굴마사지 도구",
+      "last_completed_at": "2026-10-19T09:02:35.184876+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "이시영|얼굴괄사",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "검증 예외: 기존 보고 원본·제품·레시피 미확인 해소 목적. 14일 신규탐색에 산입하지 않음. 기보고ID 신규제외."
+    },
+    {
+      "keyword": "성시경 덱스 여배우 최애간식",
+      "last_completed_at": "2026-10-19T09:02:34.776158+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "여배우미확인|간식",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "검증 예외: 기존 보고 원본·제품·레시피 미확인 해소 목적. 14일 신규탐색에 산입하지 않음. 기보고ID 신규제외."
+    },
+    {
+      "keyword": "류수영 두부조림 편스토랑 레시피",
+      "last_completed_at": "2026-10-19T09:02:34.624262+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "류수영|두부요리",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "검증 예외: 기존 보고 원본·제품·레시피 미확인 해소 목적. 14일 신규탐색에 산입하지 않음. 기보고ID 신규제외."
+    },
+    {
+      "keyword": "배우 한혜진 오버나이트오트밀 레시피",
+      "last_completed_at": "2026-10-19T09:02:34.293543+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "배우한혜진|오나오",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "검증 예외: 기존 보고 원본·제품·레시피 미확인 해소 목적. 14일 신규탐색에 산입하지 않음. 기보고ID 신규제외."
+    },
+    {
+      "keyword": "최지우 야식 식습관",
+      "last_completed_at": "2026-10-19T09:02:34.126463+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "최지우|야식제한",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://health.chosun.com/list_plan.html?menu=1&more_menu=f&more_smenu=&nowcode=1&pn=138&type= ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "신봉선 당근 김밥",
+      "last_completed_at": "2026-10-19T09:02:33.972984+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "신봉선|당근김밥",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://health.chosun.com/list_plan.html?menu=1&more_menu=f&more_smenu=&nowcode=1&pn=54&type= ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "이상순 요가",
+      "last_completed_at": "2026-10-19T09:02:33.816412+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "이상순|요가회복",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://health.chosun.com/site/data/html_dir/2026/10/19/2026101901468.html ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "이유비 근력 운동",
+      "last_completed_at": "2026-10-19T09:02:33.369804+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "이유비|근력운동",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://m.health.chosun.com/article_list/life_list.html?menu=01010111&more_menu=0101011101&nowcode=0101011101 ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "현아 운동",
+      "last_completed_at": "2026-10-19T09:02:33.200012+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "현아|운동미확인",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://m.health.chosun.com/article_list/life_list.html?menu=01010111&more_menu=0101011101&nowcode=0101011101 ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "오정연 운동",
+      "last_completed_at": "2026-10-19T09:02:32.927690+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "오정연|운동미확인",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://m.health.chosun.com/article_list/life_list.html?menu=01010111&more_menu=0101011101&nowcode=0101011101 ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "추성훈 서킷 운동",
+      "last_completed_at": "2026-10-19T09:02:32.776423+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "추성훈|서킷",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://m.health.chosun.com/article_list/life_list.html?menu=01010111&more_menu=0101011101&nowcode=0101011101 ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "슬기 힙 운동",
+      "last_completed_at": "2026-10-19T09:02:32.606292+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "슬기|힙운동",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://m.health.chosun.com/article_list/life_list.html?menu=01010111&more_menu=0101011101&nowcode=0101011101 ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "설현 맥반석 달걀",
+      "last_completed_at": "2026-10-19T09:02:32.450509+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "설현|맥반석달걀",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://health.chosun.com/list_plan.html?menu=1&more_menu=&more_smenu=&nowcode=1&pn=18&type= ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "아이유 달걀 올리브유",
+      "last_completed_at": "2026-10-19T09:02:32.134751+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "아이유|달걀올리브유",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://health.chosun.com/list_plan.html?menu=1&more_menu=&more_smenu=&nowcode=1&pn=18&type= ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "수지 발레",
+      "last_completed_at": "2026-10-19T09:02:31.804316+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "수지|발레",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://health.chosun.com/site/data/html_dir/2026/04/27/2026042702636.html ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "정세랑 수면 루틴",
+      "last_completed_at": "2026-10-19T09:02:31.416474+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "정세랑|수면",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://kormedi.com/2798048/ ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "김윤지 러닝",
+      "last_completed_at": "2026-10-19T09:02:31.266333+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김윤지|러닝",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://m.seoul.co.kr/news/entertainments/celebrity/2026/08/24/20260824500137 ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "리센느 미나미 운동",
+      "last_completed_at": "2026-10-19T09:02:31.111908+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "리센느미나미|운동",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://go.seoul.co.kr/news/newsView.php?id=20260916500142 ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "문가영 아침 루틴",
+      "last_completed_at": "2026-10-19T09:02:30.651818+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "문가영|모닝루틴",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://mobile.newsis.com/view_amp.html?ar_id=NISX20260710_0003704574 ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "유연석 요가",
+      "last_completed_at": "2026-10-19T09:02:30.321693+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "유연석|요가",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://m.seoul.co.kr/news/searchList.php?keyword=균형+감각 ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "안세영 런지",
+      "last_completed_at": "2026-10-19T09:02:30.090533+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "안세영|런지",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://health.chosun.com/list.html?menu=disease ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "박세리 뻥튀기",
+      "last_completed_at": "2026-10-19T09:02:29.940696+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "박세리|뻥튀기",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://health.chosun.com/list.html?menu=1&more_menu=&more_smenu=&nowcode=1&pn=5&type= ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "김정난 잡곡밥",
+      "last_completed_at": "2026-10-19T09:02:29.779636+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김정난|잡곡밥",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://health.chosun.com/list.html?menu=disease ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "선우용여 파스타",
+      "last_completed_at": "2026-10-19T09:02:29.477015+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "선우용여|파스타",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://health.chosun.com/list.html?menu=disease ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "제이제이 단백질",
+      "last_completed_at": "2026-10-19T09:02:28.915424+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "제이제이|단백질",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://health.chosun.com/list.html ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "손담비 플랭크",
+      "last_completed_at": "2026-10-19T09:02:28.598558+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "손담비|플랭크",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://health.chosun.com/list.html ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "김사랑 달걀 당근",
+      "last_completed_at": "2026-10-19T09:02:28.450208+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김사랑|달걀당근브런치",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://health.chosun.com/site/data/html_dir/2026/09/30/2026093004423.html ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "신봉선 테니스",
+      "last_completed_at": "2026-10-19T09:02:28.313605+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "신봉선|테니스",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://health.chosun.com/site/data/html_dir/2026/05/26/2026052601365.html ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "신봉선 수영",
+      "last_completed_at": "2026-10-19T09:02:28.022099+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "신봉선|수영",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://health.chosun.com/site/data/html_dir/2026/05/26/2026052601365.html ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "이시영 턱걸이",
+      "last_completed_at": "2026-10-19T09:02:27.846226+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "이시영|턱걸이",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://www.newsis.com/view/NISX20261015_0003826800 ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "하원미 단백질 식단",
+      "last_completed_at": "2026-10-19T09:02:27.692092+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "하원미|단백질식단",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://files.newsis.com/view/NISX20261016_0003828727 ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "하원미 필라테스",
+      "last_completed_at": "2026-10-19T09:02:27.539885+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "하원미|필라테스",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://files.newsis.com/view/NISX20261016_0003828727 ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "하원미 스테퍼",
+      "last_completed_at": "2026-10-19T09:02:27.310021+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "하원미|스테퍼",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://files.newsis.com/view/NISX20261016_0003828727 ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "백지영 탄수화물 식단",
+      "last_completed_at": "2026-10-19T09:02:26.869175+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "백지영|식단",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://m.newsis.com/view/NISX20261013_0003823428 ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "백지영 홈트",
+      "last_completed_at": "2026-10-19T09:02:26.539010+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "백지영|홈트",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://m.newsis.com/view/NISX20261013_0003823428 ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "하지원 식단",
+      "last_completed_at": "2026-10-19T09:02:26.328420+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "하지원|달걀두부토마토",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "새 인물/새 소재 탐색 근거: https://www.chosun.com/entertainments/celebrity/2026/10/18/OESA6WK3URCMFBSZKWMUYMPZ6Q/ ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
     }
   ],
   "topic_groups": [
@@ -9151,6 +10653,18 @@
         "https://www.kmjournal.net/news/articleView.html?idxno=12052"
       ],
       "verification": "식단 메뉴 확정 전 두 영상 같은 레시피로 병합 금지"
+    },
+    {
+      "topic_key": "선우용여|파스타",
+      "representative_video_id": "TAM1jor-MKA",
+      "reference_video_ids": [],
+      "verification": "본인 엔초비 파스타 공개는 2026-10-01 OSEN 보도로 확인. 원본 제목: 특급 식재료 가득한 82세 선우용여의 냉장고 최초 공개. 현미 파스타·엔초비·토마토소스 언급 보도 있음. 수집 쇼츠 재생 차단으로 원본과 동일 레시피·정확한 브랜드 미확인. 혈당90대/혈당 안오름 주장 채택 금지.",
+      "evidence_urls": [
+        "https://www2.osen.co.kr/article/G1112885822",
+        "https://health.chosun.com/site/data/html_dir/2026/10/14/2026101402179.html"
+      ],
+      "same_recipe_confirmed": false,
+      "product_brand_confirmed": false
     }
   ],
   "notes": [
@@ -9189,13 +10703,13 @@
       "video_id": "o0TgI0n4QBc",
       "title": "이시영 얼굴마사지",
       "channel_title": "셀럽온리",
-      "subscriber_count": 2900,
-      "view_count": 497732,
+      "subscriber_count": 2980,
+      "view_count": 527580,
       "published_at": "2026-10-05T09:00:36+00:00",
-      "score": 171.63172413793103,
+      "score": 177.04026845637583,
       "rank": 1,
       "url": "https://youtu.be/o0TgI0n4QBc",
-      "checked_on": "2026-10-18"
+      "checked_on": "2026-10-19"
     },
     {
       "video_id": "0I7Xt2YcZ_Q",
@@ -9268,6 +10782,66 @@
       "rank": 1,
       "url": "https://youtu.be/-RRPf-OKfMg",
       "checked_on": "2026-10-18"
+    },
+    {
+      "video_id": "TAM1jor-MKA",
+      "title": "파스타 먹고 혈당 90대, 82세 선우용여의 건강 레시피는?",
+      "channel_title": "살림레이더",
+      "subscriber_count": 2610,
+      "view_count": 437838,
+      "published_at": "2026-10-06T10:15:34+00:00",
+      "score": 167.75402298850574,
+      "rank": 1,
+      "url": "https://youtu.be/TAM1jor-MKA",
+      "checked_on": "2026-10-19"
+    },
+    {
+      "video_id": "v14cdJTXtEE",
+      "title": "관리하는 여배우들이 아침마다 챙기는 땅콩버터의 정체",
+      "channel_title": "세콩픽쇼츠",
+      "subscriber_count": 2240,
+      "view_count": 520545,
+      "published_at": "2026-10-10T09:00:36+00:00",
+      "score": 232.38616071428572,
+      "rank": 1,
+      "url": "https://youtu.be/v14cdJTXtEE",
+      "checked_on": "2026-10-19"
+    },
+    {
+      "video_id": "H4mZ9swxcWU",
+      "title": "[리센느] 동화 속 오프닝 무대 역대급 무대였던 리센느 #리센느",
+      "channel_title": "후반부의악마진경은",
+      "subscriber_count": 3670,
+      "view_count": 391083,
+      "published_at": "2026-09-19T13:30:27+00:00",
+      "score": 106.56212534059945,
+      "rank": 1,
+      "url": "https://youtu.be/H4mZ9swxcWU",
+      "checked_on": "2026-10-19"
+    },
+    {
+      "video_id": "fSUxWASC16Q",
+      "title": "원나미의 원투펀치에 정신 혼미해진 안정환",
+      "channel_title": "이슈돌판",
+      "subscriber_count": 1790,
+      "view_count": 121871,
+      "published_at": "2026-09-21T09:59:47+00:00",
+      "score": 68.08435754189944,
+      "rank": 2,
+      "url": "https://youtu.be/fSUxWASC16Q",
+      "checked_on": "2026-10-19"
+    },
+    {
+      "video_id": "NaoO970AM-Y",
+      "title": "차트 역주행시킨 리센느 제나 #리센느 #RESCENE",
+      "channel_title": "핫큐",
+      "subscriber_count": 2460,
+      "view_count": 123468,
+      "published_at": "2026-09-30T08:15:14+00:00",
+      "score": 50.19024390243902,
+      "rank": 3,
+      "url": "https://youtu.be/NaoO970AM-Y",
+      "checked_on": "2026-10-19"
     }
   ],
   "runs": [
@@ -9298,13 +10872,84 @@
     {
       "date": "2026-10-19",
       "run_ids": [
-        39226660932
+        39226660932,
+        39227036554,
+        39227232638
       ],
-      "unique_successful_queries": 40,
-      "units_used": 4024,
-      "new_video_ids": [],
-      "pending_query_count": 0,
-      "analysis_status": "partial"
+      "unique_successful_queries": 95,
+      "units_used": 9562,
+      "new_video_ids": [
+        "TAM1jor-MKA"
+      ],
+      "pending_query_count": 25,
+      "analysis_status": "partial",
+      "ledger_remaining": 438,
+      "meaningful_update_ids": [],
+      "unchanged_existing_omitted": 2,
+      "new_false_positive_excluded": 3,
+      "halt_reason": "rateLimitExceeded: Search Queries per day"
+    }
+  ],
+  "excluded_videos": [
+    {
+      "video_id": "H4mZ9swxcWU",
+      "title": "[리센느] 동화 속 오프닝 무대 역대급 무대였던 리센느 #리센느",
+      "channel_title": "후반부의악마진경은",
+      "subscriber_count": 3670,
+      "view_count": 391083,
+      "published_at": "2026-09-19T13:30:27+00:00",
+      "score": 106.56212534059945,
+      "rank": 1,
+      "url": "https://youtu.be/H4mZ9swxcWU",
+      "checked_on": "2026-10-19",
+      "reason": "무대/음악 콘텐츠로 건강·식단·운동 루틴 범위에서 제외."
+    },
+    {
+      "video_id": "fSUxWASC16Q",
+      "title": "원나미의 원투펀치에 정신 혼미해진 안정환",
+      "channel_title": "이슈돌판",
+      "subscriber_count": 1790,
+      "view_count": 121871,
+      "published_at": "2026-09-21T09:59:47+00:00",
+      "score": 68.08435754189944,
+      "rank": 2,
+      "url": "https://youtu.be/fSUxWASC16Q",
+      "checked_on": "2026-10-19",
+      "reason": "예능 장면 검색유입. 건강·운동 루틴 또는 구매가능 도구의 본인 사용 근거 미확인으로 추천 대상 제외."
+    },
+    {
+      "video_id": "NaoO970AM-Y",
+      "title": "차트 역주행시킨 리센느 제나 #리센느 #RESCENE",
+      "channel_title": "핫큐",
+      "subscriber_count": 2460,
+      "view_count": 123468,
+      "published_at": "2026-09-30T08:15:14+00:00",
+      "score": 50.19024390243902,
+      "rank": 3,
+      "url": "https://youtu.be/NaoO970AM-Y",
+      "checked_on": "2026-10-19",
+      "reason": "무대/음악 콘텐츠로 건강·식단·운동 루틴 범위에서 제외."
+    }
+  ],
+  "verification_attempts": [
+    {
+      "date": "2026-10-19",
+      "video_ids": [
+        "BsB09dMt9Bw",
+        "-RRPf-OKfMg",
+        "IoQ_ECXq2xk",
+        "o0TgI0n4QBc",
+        "VSQhC7UUB3E",
+        "TAM1jor-MKA"
+      ],
+      "direct_youtube_access": "DisabledError; direct network unavailable",
+      "result": "Secondary reports provide celebrity routine context only, no exact Shorts equivalence/brand confirmation. No previous verification task marked complete.",
+      "evidence_urls": [
+        "https://vod.kbs.co.kr/index.html?program_id=PS-2024094130-01-000&sname=vod&source=episode&stype=vod",
+        "https://health.chosun.com/site/data/html_dir/2025/03/31/2025033102146.html",
+        "https://health.chosun.com/site/data/html_dir/2025/05/27/2025052701593.html",
+        "https://health.chosun.com/list_plan.html?menu=ct&more_menu=122&more_smenu=&nowcode=0&pn=35&type="
+      ]
     }
   ]
 }
