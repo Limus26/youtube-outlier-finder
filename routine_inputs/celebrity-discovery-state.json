@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-18T18:10:13+09:00",
+  "updated_at": "2026-10-19T09:00:39.859Z",
   "purpose": "Persistent memory for the scheduled agent's query selection and final report deduplication. Raw runner reports/history remain complete; the scheduled agent reads and updates this ledger.",
   "policy": {
     "query_topic_cooldown_days": 14,
@@ -47,7 +47,19 @@
         "모델한혜진|고구마칩",
         "한고은|부리또",
         "최화정|땅콩버터",
-        "류수영|두부요리"
+        "류수영|두부요리",
+        "신세경|저당베이킹",
+        "안소희|에그샐러드",
+        "김종국|요거트간식",
+        "이정현|건강도시락",
+        "한지혜|두부크림치즈",
+        "박솔미|양배추스테이크",
+        "이효리|요가매트",
+        "정은지|운동밴드",
+        "제니|두피마사지기",
+        "이나연|두피마사지기",
+        "전혜빈|두피마사지기",
+        "천우희|블루베리호두두유"
       ]
     }
   },
@@ -7958,6 +7970,1126 @@
       "stage": "shallow",
       "quota_used": 100,
       "successful": true
+    },
+    {
+      "keyword": "손종원 사워도우",
+      "last_completed_at": "2026-10-19T08:59:35.799422+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "손종원|사워도우",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "박준금 당근 김밥",
+      "last_completed_at": "2026-10-19T08:59:35.797454+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "박준금|당근김밥",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "엄지원 사워도우",
+      "last_completed_at": "2026-10-19T08:59:35.795495+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "엄지원|사워도우",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "엄지원 재활 근력운동",
+      "last_completed_at": "2026-10-19T08:59:35.793537+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "엄지원|재활근력운동",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "김유정 얼음물 세안",
+      "last_completed_at": "2026-10-19T08:59:35.791564+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김유정|얼음물세안",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "유이 러닝",
+      "last_completed_at": "2026-10-19T08:59:35.789576+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "유이|러닝",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "송혜교 황태국",
+      "last_completed_at": "2026-10-19T08:59:35.787596+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "송혜교|황태국",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "손담비 바게트 샌드위치",
+      "last_completed_at": "2026-10-19T08:59:35.785636+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "손담비|바게트샌드위치",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "손담비 자이로토닉",
+      "last_completed_at": "2026-10-19T08:59:35.783659+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "손담비|자이로토닉",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "정려원 오픈 샌드위치",
+      "last_completed_at": "2026-10-19T08:59:35.781670+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "정려원|오픈샌드위치",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "윤승아 토마토 스튜",
+      "last_completed_at": "2026-10-19T08:59:35.779708+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "윤승아|토마토스튜",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "윤승아 아침 그릭요거트 토스트",
+      "last_completed_at": "2026-10-19T08:59:35.777733+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "윤승아|아침그릭요거트토스트",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "윤승아 닭갈비 김밥",
+      "last_completed_at": "2026-10-19T08:59:35.775717+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "윤승아|닭갈비김밥",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "김완선 순두부 팽이버섯 달걀찜",
+      "last_completed_at": "2026-10-19T08:59:35.773737+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김완선|순두부팽이버섯달걀찜",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "손담비 폼롤러 스트레칭",
+      "last_completed_at": "2026-10-19T08:59:35.771636+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "손담비|폼롤러스트레칭",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "김혜수 아쿠아워킹",
+      "last_completed_at": "2026-10-19T08:59:35.769539+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김혜수|아쿠아워킹",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "박민영 근력 운동",
+      "last_completed_at": "2026-10-19T08:59:35.767351+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "박민영|근력운동",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "장영란 두부 유부초밥",
+      "last_completed_at": "2026-10-19T08:59:35.572377+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "장영란|두부유부초밥",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "천우희 블루베리 호두 두유",
+      "last_completed_at": "2026-10-19T08:59:35.392104+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "천우희|블루베리호두두유",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "전혜빈 두피 마사지기",
+      "last_completed_at": "2026-10-19T08:59:35.094175+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "전혜빈|두피마사지기",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "이나연 두피 마사지기",
+      "last_completed_at": "2026-10-19T08:59:34.905191+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "이나연|두피마사지기",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "제니 두피 마사지기",
+      "last_completed_at": "2026-10-19T08:59:34.689642+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "제니|두피마사지기",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "정은지 운동 밴드",
+      "last_completed_at": "2026-10-19T08:59:34.244727+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "정은지|운동밴드",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "이효리 요가 매트",
+      "last_completed_at": "2026-10-19T08:59:34.041304+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "이효리|요가매트",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "박솔미 양배추 스테이크",
+      "last_completed_at": "2026-10-19T08:59:33.653953+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "박솔미|양배추스테이크",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "한지혜 두부 크림치즈",
+      "last_completed_at": "2026-10-19T08:59:33.440401+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "한지혜|두부크림치즈",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "이정현 건강 도시락",
+      "last_completed_at": "2026-10-19T08:59:33.048390+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "이정현|건강도시락",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "김종국 요거트 간식",
+      "last_completed_at": "2026-10-19T08:59:32.873743+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김종국|요거트간식",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "안소희 에그 샐러드",
+      "last_completed_at": "2026-10-19T08:59:32.659793+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "안소희|에그샐러드",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "신세경 저당 베이킹",
+      "last_completed_at": "2026-10-19T08:59:32.298365+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "신세경|저당베이킹",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "서인영 된장찌개",
+      "last_completed_at": "2026-10-19T08:59:32.126889+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "서인영|된장찌개",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "한혜진 괄사",
+      "last_completed_at": "2026-10-19T08:59:31.953539+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "한혜진미확인|괄사",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "윤은혜 괄사",
+      "last_completed_at": "2026-10-19T08:59:31.516180+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "윤은혜|괄사",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "변우석 근력 운동",
+      "last_completed_at": "2026-10-19T08:59:31.082278+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "변우석|근력운동",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "오윤아 운동 후 샐러드",
+      "last_completed_at": "2026-10-19T08:59:30.889915+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "오윤아|운동후샐러드",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "김사랑 요거트 아침",
+      "last_completed_at": "2026-10-19T08:59:30.704143+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김사랑|요거트아침",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "신애라 계단 운동",
+      "last_completed_at": "2026-10-19T08:59:30.491128+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "신애라|계단운동",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "신애라 토마토 수프",
+      "last_completed_at": "2026-10-19T08:59:30.296341+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "신애라|토마토수프",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "이세영 근력 운동",
+      "last_completed_at": "2026-10-19T08:59:30.111177+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "이세영|근력운동",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "문채원 래더배럴 사이드벤드",
+      "last_completed_at": "2026-10-19T08:59:29.925154+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "문채원|래더배럴사이드벤드",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "손종원 사워도우",
+      "last_completed_at": "2026-10-19T08:59:29.734638+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "손종원|사워도우",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "박준금 당근 김밥",
+      "last_completed_at": "2026-10-19T08:59:29.539908+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "박준금|당근김밥",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "엄지원 사워도우",
+      "last_completed_at": "2026-10-19T08:59:29.324632+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "엄지원|사워도우",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "엄지원 재활 근력운동",
+      "last_completed_at": "2026-10-19T08:59:29.134381+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "엄지원|재활근력운동",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "김유정 얼음물 세안",
+      "last_completed_at": "2026-10-19T08:59:28.925001+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김유정|얼음물세안",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "유이 러닝",
+      "last_completed_at": "2026-10-19T08:59:28.525065+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "유이|러닝",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "송혜교 황태국",
+      "last_completed_at": "2026-10-19T08:59:28.059226+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "송혜교|황태국",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "손담비 바게트 샌드위치",
+      "last_completed_at": "2026-10-19T08:59:27.856266+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "손담비|바게트샌드위치",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "손담비 자이로토닉",
+      "last_completed_at": "2026-10-19T08:59:27.636642+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "손담비|자이로토닉",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "정려원 오픈 샌드위치",
+      "last_completed_at": "2026-10-19T08:59:27.237483+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "정려원|오픈샌드위치",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "윤승아 토마토 스튜",
+      "last_completed_at": "2026-10-19T08:59:27.010603+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "윤승아|토마토스튜",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "윤승아 아침 그릭요거트 토스트",
+      "last_completed_at": "2026-10-19T08:59:26.801210+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "윤승아|아침그릭요거트토스트",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "윤승아 닭갈비 김밥",
+      "last_completed_at": "2026-10-19T08:59:26.411700+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "윤승아|닭갈비김밥",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "김완선 순두부 팽이버섯 달걀찜",
+      "last_completed_at": "2026-10-19T08:59:26.186225+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김완선|순두부팽이버섯달걀찜",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "손담비 폼롤러 스트레칭",
+      "last_completed_at": "2026-10-19T08:59:25.978651+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "손담비|폼롤러스트레칭",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "김혜수 아쿠아워킹",
+      "last_completed_at": "2026-10-19T08:59:25.803617+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김혜수|아쿠아워킹",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
     }
   ],
   "topic_groups": [
@@ -8162,6 +9294,17 @@
       "pending_query_count": 38,
       "analysis_status": "partial",
       "archive_checked_missing_reported_ids": 0
+    },
+    {
+      "date": "2026-10-19",
+      "run_ids": [
+        39226660932
+      ],
+      "unique_successful_queries": 40,
+      "units_used": 4024,
+      "new_video_ids": [],
+      "pending_query_count": 0,
+      "analysis_status": "partial"
     }
   ]
 }
