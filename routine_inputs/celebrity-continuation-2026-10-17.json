@@ -1,236 +1,7 @@
 {
-  "as_of": "2026-10-18",
+  "as_of": "2026-10-19",
   "mode": "celebrity",
-  "pending_keywords": [
-    {
-      "keyword": "김혜수 아쿠아워킹",
-      "category": "운동",
-      "topic_key": "김혜수|아쿠아워킹",
-      "reason": "새 소재 탐색 근거: https://www.newsis.com/view/NISX20260629_0003688022; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
-    },
-    {
-      "keyword": "손담비 폼롤러 스트레칭",
-      "category": "건강",
-      "topic_key": "손담비|폼롤러스트레칭",
-      "reason": "새 소재 탐색 근거: https://v.daum.net/v/20260717220348361; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
-    },
-    {
-      "keyword": "김완선 순두부 팽이버섯 달걀찜",
-      "category": "식단",
-      "topic_key": "김완선|순두부팽이버섯달걀찜",
-      "reason": "새 소재 탐색 근거: https://v.daum.net/v/QAn15A1mOa; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
-    },
-    {
-      "keyword": "윤승아 닭갈비 김밥",
-      "category": "식단",
-      "topic_key": "윤승아|닭갈비김밥",
-      "reason": "새 소재 탐색 근거: https://www.kmjournal.net/news/articleView.html?idxno=12052; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
-    },
-    {
-      "keyword": "윤승아 아침 그릭요거트 토스트",
-      "category": "식단",
-      "topic_key": "윤승아|아침그릭요거트토스트",
-      "reason": "새 소재 탐색 근거: https://mobile.newsis.com/view/NISX20260714_0003708001; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
-    },
-    {
-      "keyword": "윤승아 토마토 스튜",
-      "category": "식단",
-      "topic_key": "윤승아|토마토스튜",
-      "reason": "새 소재 탐색 근거: https://www.cosmopolitan.co.kr/article/1895756; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
-    },
-    {
-      "keyword": "정려원 오픈 샌드위치",
-      "category": "식단",
-      "topic_key": "정려원|오픈샌드위치",
-      "reason": "새 소재 탐색 근거: https://v.daum.net/v/20260604154915228; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
-    },
-    {
-      "keyword": "손담비 자이로토닉",
-      "category": "운동",
-      "topic_key": "손담비|자이로토닉",
-      "reason": "새 소재 탐색 근거: https://www.donga.com/news/Culture/article/all/20260715/134300658/1; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
-    },
-    {
-      "keyword": "손담비 바게트 샌드위치",
-      "category": "식단",
-      "topic_key": "손담비|바게트샌드위치",
-      "reason": "새 소재 탐색 근거: https://www.starnewskorea.com/star/2026/07/17/2026071720330198404; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
-    },
-    {
-      "keyword": "송혜교 황태국",
-      "category": "식단",
-      "topic_key": "송혜교|황태국",
-      "reason": "새 소재 탐색 근거: https://nwww.newsis.com/view/NISX20260213_0003514984; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
-    },
-    {
-      "keyword": "유이 러닝",
-      "category": "운동",
-      "topic_key": "유이|러닝",
-      "reason": "새 소재 탐색 근거: https://www.topstarnews.net/news/articleView.html?idxno=16237779; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
-    },
-    {
-      "keyword": "김유정 얼음물 세안",
-      "category": "건강",
-      "topic_key": "김유정|얼음물세안",
-      "reason": "새 소재 탐색 근거: https://health.chosun.com/site/data/html_dir/2026/09/29/2026092902252.html; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
-    },
-    {
-      "keyword": "엄지원 재활 근력운동",
-      "category": "운동",
-      "topic_key": "엄지원|재활근력운동",
-      "reason": "새 소재 탐색 근거: https://www.fnnews.com/news/202608142147165599; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
-    },
-    {
-      "keyword": "엄지원 사워도우",
-      "category": "식단",
-      "topic_key": "엄지원|사워도우",
-      "reason": "새 소재 탐색 근거: https://v.daum.net/v/5mplYSV7uC; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
-    },
-    {
-      "keyword": "박준금 당근 김밥",
-      "category": "식단",
-      "topic_key": "박준금|당근김밥",
-      "reason": "새 소재 탐색 근거: https://www.donga.com/news/Entertainment/article/all/20260527/133997983/1; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
-    },
-    {
-      "keyword": "손종원 사워도우",
-      "category": "식단",
-      "topic_key": "손종원|사워도우",
-      "reason": "새 소재 탐색 근거: https://v.daum.net/v/5mplYSV7uC; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
-    },
-    {
-      "keyword": "문채원 래더배럴 사이드벤드",
-      "category": "운동",
-      "topic_key": "문채원|래더배럴사이드벤드",
-      "reason": "새 소재 탐색 근거: https://nwww.newsis.com/view/NISX20260727_0003723980; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
-    },
-    {
-      "keyword": "이세영 근력 운동",
-      "category": "운동",
-      "topic_key": "이세영|근력운동",
-      "reason": "새 소재 탐색 근거: https://nwww.newsis.com/view/NISX20261010_0003820582; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
-    },
-    {
-      "keyword": "신애라 토마토 수프",
-      "category": "식단",
-      "topic_key": "신애라|토마토수프",
-      "reason": "새 소재 탐색 근거: https://v.daum.net/v/7LIKS01ywa; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
-    },
-    {
-      "keyword": "신애라 계단 운동",
-      "category": "운동",
-      "topic_key": "신애라|계단운동",
-      "reason": "새 소재 탐색 근거: https://v.daum.net/v/8ZxCYujJsP; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
-    },
-    {
-      "keyword": "김사랑 요거트 아침",
-      "category": "식단",
-      "topic_key": "김사랑|요거트아침",
-      "reason": "새 소재 탐색 근거: https://nwww.newsis.com/view/NISX20260429_0003611900; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
-    },
-    {
-      "keyword": "오윤아 운동 후 샐러드",
-      "category": "식단",
-      "topic_key": "오윤아|운동후샐러드",
-      "reason": "새 소재 탐색 근거: https://m.news.nate.com/view/20240224n00848; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
-    },
-    {
-      "keyword": "변우석 근력 운동",
-      "category": "운동",
-      "topic_key": "변우석|근력운동",
-      "reason": "새 소재 탐색 근거: https://en.seoul.co.kr/news/entertainment/broadcastN/2026/04/06/20260406500007; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
-    },
-    {
-      "keyword": "윤은혜 괄사",
-      "category": "건강",
-      "topic_key": "윤은혜|괄사",
-      "reason": "새 소재 탐색 근거: https://www.wkorea.com/2026/04/05/모르면-독이-되는-괄사-바르게-사용하기/; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
-    },
-    {
-      "keyword": "한혜진 괄사",
-      "category": "건강",
-      "topic_key": "한혜진미확인|괄사",
-      "reason": "새 소재 탐색 근거: https://www.wkorea.com/2026/04/05/모르면-독이-되는-괄사-바르게-사용하기/; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
-    },
-    {
-      "keyword": "서인영 된장찌개",
-      "category": "식단",
-      "topic_key": "서인영|된장찌개",
-      "reason": "새 소재 탐색 근거: https://v.daum.net/v/20260501090807973; 본인 사용·동일제품 추가검증. 건강효과 단정 금지."
-    },
-    {
-      "keyword": "신세경 저당 베이킹",
-      "category": "식단",
-      "topic_key": "신세경|저당베이킹",
-      "reason": "기존 소재 구독자 상한 확대에 따른 1회 확인; 기보고 영상 ID는 신규제외."
-    },
-    {
-      "keyword": "안소희 에그 샐러드",
-      "category": "식단",
-      "topic_key": "안소희|에그샐러드",
-      "reason": "기존 소재 구독자 상한 확대에 따른 1회 확인; 기보고 영상 ID는 신규제외."
-    },
-    {
-      "keyword": "김종국 요거트 간식",
-      "category": "식단",
-      "topic_key": "김종국|요거트간식",
-      "reason": "기존 소재 구독자 상한 확대에 따른 1회 확인; 기보고 영상 ID는 신규제외."
-    },
-    {
-      "keyword": "이정현 건강 도시락",
-      "category": "식단",
-      "topic_key": "이정현|건강도시락",
-      "reason": "기존 소재 구독자 상한 확대에 따른 1회 확인; 기보고 영상 ID는 신규제외."
-    },
-    {
-      "keyword": "한지혜 두부 크림치즈",
-      "category": "식단",
-      "topic_key": "한지혜|두부크림치즈",
-      "reason": "기존 소재 구독자 상한 확대에 따른 1회 확인; 기보고 영상 ID는 신규제외."
-    },
-    {
-      "keyword": "박솔미 양배추 스테이크",
-      "category": "식단",
-      "topic_key": "박솔미|양배추스테이크",
-      "reason": "기존 소재 구독자 상한 확대에 따른 1회 확인; 기보고 영상 ID는 신규제외."
-    },
-    {
-      "keyword": "이효리 요가 매트",
-      "category": "운동",
-      "topic_key": "이효리|요가매트",
-      "reason": "기존 소재 구독자 상한 확대에 따른 1회 확인; 기보고 영상 ID는 신규제외."
-    },
-    {
-      "keyword": "정은지 운동 밴드",
-      "category": "운동",
-      "topic_key": "정은지|운동밴드",
-      "reason": "기존 소재 구독자 상한 확대에 따른 1회 확인; 기보고 영상 ID는 신규제외."
-    },
-    {
-      "keyword": "제니 두피 마사지기",
-      "category": "건강",
-      "topic_key": "제니|두피마사지기",
-      "reason": "기존 소재 구독자 상한 확대에 따른 1회 확인; 기보고 영상 ID는 신규제외."
-    },
-    {
-      "keyword": "이나연 두피 마사지기",
-      "category": "건강",
-      "topic_key": "이나연|두피마사지기",
-      "reason": "기존 소재 구독자 상한 확대에 따른 1회 확인; 기보고 영상 ID는 신규제외."
-    },
-    {
-      "keyword": "전혜빈 두피 마사지기",
-      "category": "건강",
-      "topic_key": "전혜빈|두피마사지기",
-      "reason": "기존 소재 구독자 상한 확대에 따른 1회 확인; 기보고 영상 ID는 신규제외."
-    },
-    {
-      "keyword": "천우희 블루베리 호두 두유",
-      "category": "식단",
-      "topic_key": "천우희|블루베리호두두유",
-      "reason": "기존 소재 구독자 상한 확대에 따른 1회 확인; 기보고 영상 ID는 신규제외."
-    }
-  ],
+  "pending_keywords": [],
   "pending_deep_keywords": [],
   "completed_previous_deep_keywords": [
     "임지연 간식",
@@ -403,7 +174,46 @@
     "김종국 회복 루틴",
     "소유 불가리안 스플릿 스쿼트",
     "한가인 중둔근 루틴",
-    "채정안 잠들기 전 차"
+    "채정안 잠들기 전 차",
+    "김혜수 아쿠아워킹",
+    "손담비 폼롤러 스트레칭",
+    "김완선 순두부 팽이버섯 달걀찜",
+    "윤승아 닭갈비 김밥",
+    "윤승아 아침 그릭요거트 토스트",
+    "윤승아 토마토 스튜",
+    "정려원 오픈 샌드위치",
+    "손담비 자이로토닉",
+    "손담비 바게트 샌드위치",
+    "송혜교 황태국",
+    "유이 러닝",
+    "김유정 얼음물 세안",
+    "엄지원 재활 근력운동",
+    "엄지원 사워도우",
+    "박준금 당근 김밥",
+    "손종원 사워도우",
+    "문채원 래더배럴 사이드벤드",
+    "이세영 근력 운동",
+    "신애라 토마토 수프",
+    "신애라 계단 운동",
+    "김사랑 요거트 아침",
+    "오윤아 운동 후 샐러드",
+    "변우석 근력 운동",
+    "윤은혜 괄사",
+    "한혜진 괄사",
+    "서인영 된장찌개",
+    "신세경 저당 베이킹",
+    "안소희 에그 샐러드",
+    "김종국 요거트 간식",
+    "이정현 건강 도시락",
+    "한지혜 두부 크림치즈",
+    "박솔미 양배추 스테이크",
+    "이효리 요가 매트",
+    "정은지 운동 밴드",
+    "제니 두피 마사지기",
+    "이나연 두피 마사지기",
+    "전혜빈 두피 마사지기",
+    "장영란 두부 유부초밥",
+    "박민영 근력 운동"
   ],
   "completed_deep_keywords": [
     "천우희 아침 식단",
@@ -486,9 +296,9 @@
     "o0TgI0n4QBc",
     "BsB09dMt9Bw"
   ],
-  "units_used": 8248,
-  "ledger_remaining": 1752,
-  "halt_reason": "rateLimitExceeded: Search Queries per day; failed keyword 김혜수 아쿠아워킹; no repeated retry",
+  "units_used": 4024,
+  "ledger_remaining": 5976,
+  "halt_reason": null,
   "report": "reports/latest-celebrity.md",
   "runs": [
     39019619180,
@@ -496,13 +306,14 @@
     39019778433,
     39113862820,
     39113985025,
-    39114132484
+    39114132484,
+    39226660932
   ],
   "source_verification": "partial: original Shorts access blocked; celebrity publication evidence found, exact product/recipe equivalence not confirmed",
   "followup_automation_created": false,
   "next_day_automatic_run_confirmed": true,
   "resume_instructions": "Read this current continuation and permanent discovery state before input generation. Original 36 done; do not repeat. Pending 38 are from additional batch. Use 38 pending plus 2 meaningful new queries for formal40, test=false. Current filters subscribers200..5000 inclusive, views>=100000, latest30days. New-topic share>=70% in optional new batches. Reuse original routine_runner.py via routine_inputs/celebrity.json push and await matching Actions and save. Do not alter main while Actions saves. Preserve state/history. Stop at rate limit, no retry. Do not create automation in scheduled runtime; updating current continuation schedule is permitted. Fashion/gossip/politics/incidents excluded. Trending remains paused; never read Secret. Reserve50units; shared daily ledger is Pacific date and current actual project balance unknown.",
-  "updated_at": "2026-10-18T18:09:17+09:00",
+  "updated_at": "2026-10-19T09:00:39.859Z",
   "original_2026_10_17_pending_completed": true,
   "original_pending_count": 36,
   "daily_runs": {
@@ -510,6 +321,9 @@
       39113862820,
       39113985025,
       39114132484
+    ],
+    "2026-10-19": [
+      39226660932
     ]
   },
   "pending_verification": [
@@ -643,5 +457,6 @@
   ],
   "followup_automation_id": "6ad35973e7f4819188223958b221ff9c",
   "followup_method": "updated_current_one_time_automation_no_new_automation",
-  "next_run_kst": "2026-10-19T18:00:00+09:00"
+  "next_run_kst": "2026-10-19T18:00:00+09:00",
+  "last_completed_batch_input_commit": "eedd0ba66cb701aac7d554267c82801efcb69001"
 }
