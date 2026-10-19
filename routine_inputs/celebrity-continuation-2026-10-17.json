@@ -1,7 +1,158 @@
 {
   "as_of": "2026-10-19",
   "mode": "celebrity",
-  "pending_keywords": [],
+  "pending_keywords": [
+    {
+      "keyword": "김정난 트위스트런",
+      "category": "운동",
+      "topic_key": "김정난|트위스트런",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "강주은 단백질바",
+      "category": "식단",
+      "topic_key": "강주은|단백질바",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "공효진 수면밴드",
+      "category": "건강",
+      "topic_key": "공효진|수면밴드",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "김고은 괄사",
+      "category": "건강",
+      "topic_key": "김고은|괄사",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "고소영 마사지건",
+      "category": "건강",
+      "topic_key": "고소영|마사지건",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "차예련 종아리 마사지기",
+      "category": "건강",
+      "topic_key": "차예련|종아리마사지기",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "이민영 수면차",
+      "category": "건강",
+      "topic_key": "이민영|수면차",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "엄정화 콩담백면",
+      "category": "식단",
+      "topic_key": "엄정화|콩담백면",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "한지민 약콩두유",
+      "category": "식단",
+      "topic_key": "한지민|약콩두유",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "서현 마사지기",
+      "category": "건강",
+      "topic_key": "서현|마사지기",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "김민경 닭양쌈",
+      "category": "식단",
+      "topic_key": "김민경|닭양쌈",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "정수정 시나몬 시리얼",
+      "category": "식단",
+      "topic_key": "정수정|시나몬시리얼",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "김남주 김칩",
+      "category": "식단",
+      "topic_key": "김남주|김칩",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "백지영 애사비 캔디",
+      "category": "식단",
+      "topic_key": "백지영|애사비캔디",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "강주은 제로설탕",
+      "category": "식단",
+      "topic_key": "강주은|제로설탕",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "한가인 다크초콜릿",
+      "category": "식단",
+      "topic_key": "한가인|다크초콜릿",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "오연서 텀블러",
+      "category": "건강",
+      "topic_key": "오연서|수분섭취텀블러",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "엄지원 쿨링시트",
+      "category": "건강",
+      "topic_key": "엄지원|쿨링시트",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "소유 운동벨트",
+      "category": "운동",
+      "topic_key": "소유|운동벨트",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "오윤아 EMS 벨트",
+      "category": "운동",
+      "topic_key": "오윤아|EMS벨트",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "한예슬 닭가슴살",
+      "category": "식단",
+      "topic_key": "한예슬|닭가슴살",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "안보현 휴대용 블렌더",
+      "category": "식단",
+      "topic_key": "안보현|휴대용블렌더",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/honeysale1 ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "안보현 땅콩버터",
+      "category": "식단",
+      "topic_key": "안보현|땅콩버터",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/honeysale1 ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "지드래곤 검은콩차",
+      "category": "식단",
+      "topic_key": "지드래곤|검은콩차",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/honeysale1 ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "이현이 주스",
+      "category": "식단",
+      "topic_key": "이현이|주스미확인",
+      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    }
+  ],
   "pending_deep_keywords": [],
   "completed_previous_deep_keywords": [
     "임지연 간식",
@@ -213,7 +364,62 @@
     "이나연 두피 마사지기",
     "전혜빈 두피 마사지기",
     "장영란 두부 유부초밥",
-    "박민영 근력 운동"
+    "박민영 근력 운동",
+    "솔라 EMS 운동벨트",
+    "김정난 두유제조기",
+    "츄 온열안대",
+    "고준희 파로",
+    "김정난 보리커피",
+    "공효진 저당 아이스크림",
+    "유인영 아티초크",
+    "기태영 온열 마사지기",
+    "유진 다리 마사지기",
+    "김남주 유산균 젤리",
+    "김남주 단백질칩",
+    "이솔이 홈트",
+    "트와이스 나연 수면 베개",
+    "윤미라 누룽지탕",
+    "윤미라 온열안대",
+    "김사랑 달걀 당근",
+    "신봉선 테니스",
+    "신봉선 수영",
+    "이시영 턱걸이",
+    "하원미 단백질 식단",
+    "하원미 필라테스",
+    "하원미 스테퍼",
+    "백지영 탄수화물 식단",
+    "백지영 홈트",
+    "하지원 식단",
+    "선우용여 파스타",
+    "이시영 얼굴마사지 도구",
+    "츄 땅콩버터 제품",
+    "채정안 땅콩버터 제품",
+    "홍진경 땅콩버터 제품",
+    "리센느 미나미 운동",
+    "김완선 단백질 요리 원본",
+    "성시경 덱스 여배우 최애간식",
+    "류수영 두부조림 편스토랑 레시피",
+    "배우 한혜진 오버나이트오트밀 레시피",
+    "최지우 야식 식습관",
+    "신봉선 당근 김밥",
+    "이상순 요가",
+    "이유비 근력 운동",
+    "현아 운동",
+    "오정연 운동",
+    "추성훈 서킷 운동",
+    "슬기 힙 운동",
+    "설현 맥반석 달걀",
+    "아이유 달걀 올리브유",
+    "수지 발레",
+    "정세랑 수면 루틴",
+    "김윤지 러닝",
+    "문가영 아침 루틴",
+    "유연석 요가",
+    "안세영 런지",
+    "박세리 뻥튀기",
+    "김정난 잡곡밥",
+    "제이제이 단백질",
+    "손담비 플랭크"
   ],
   "completed_deep_keywords": [
     "천우희 아침 식단",
@@ -294,11 +500,15 @@
     "-RRPf-OKfMg",
     "VSQhC7UUB3E",
     "o0TgI0n4QBc",
-    "BsB09dMt9Bw"
+    "BsB09dMt9Bw",
+    "TAM1jor-MKA",
+    "H4mZ9swxcWU",
+    "fSUxWASC16Q",
+    "NaoO970AM-Y"
   ],
-  "units_used": 4024,
-  "ledger_remaining": 5976,
-  "halt_reason": null,
+  "units_used": 9562,
+  "ledger_remaining": 438,
+  "halt_reason": "rateLimitExceeded: Search Queries per day; failed keyword 김정난 트위스트런; no repeated retry",
   "report": "reports/latest-celebrity.md",
   "runs": [
     39019619180,
@@ -307,13 +517,15 @@
     39113862820,
     39113985025,
     39114132484,
-    39226660932
+    39226660932,
+    39227036554,
+    39227232638
   ],
-  "source_verification": "partial: original Shorts access blocked; celebrity publication evidence found, exact product/recipe equivalence not confirmed",
+  "source_verification": "partial; all six Shorts playback unavailable; contextual source evidence only",
   "followup_automation_created": false,
   "next_day_automatic_run_confirmed": true,
-  "resume_instructions": "Read this current continuation and permanent discovery state before input generation. Original 36 done; do not repeat. Pending 38 are from additional batch. Use 38 pending plus 2 meaningful new queries for formal40, test=false. Current filters subscribers200..5000 inclusive, views>=100000, latest30days. New-topic share>=70% in optional new batches. Reuse original routine_runner.py via routine_inputs/celebrity.json push and await matching Actions and save. Do not alter main while Actions saves. Preserve state/history. Stop at rate limit, no retry. Do not create automation in scheduled runtime; updating current continuation schedule is permitted. Fashion/gossip/politics/incidents excluded. Trending remains paused; never read Secret. Reserve50units; shared daily ledger is Pacific date and current actual project balance unknown.",
-  "updated_at": "2026-10-19T09:00:39.859Z",
+  "resume_instructions": "Read current pending_keywords25 and pending_verification6 with permanent discovery state first. Original38 all complete, 2026-10-19 unique95 complete, do not repeat. Formal40 input=25pending+15meaningful new topics after semantic dedup. 3rd party affiliate-list leads need original celebrity use verification before recommendation. Subscriber200..5000 inclusive, views>=100000, latest30days. Use existing routine_runner.py via celebrity.json push and await exact linked Actions/save before any main writes. Budget10000 shared Pacific-date ledger; reserve50; actual project balance unknown. Stop on rateLimitExceeded without retry. Do not run trending or read Secrets. No automation creation in scheduled runtime; only update current continuation if needed. New-topic share>=70%;14day semantic cooldown except documented verification/new-original or one-time ceiling migration. Report new IDs/topics against permanent ledger, existing only last-report growth>=50% AND>=50000 or verified evidence change; do not mark excluded/unreported as reported.",
+  "updated_at": "2026-10-19T09:05:41.163Z",
   "original_2026_10_17_pending_completed": true,
   "original_pending_count": 36,
   "daily_runs": {
@@ -323,7 +535,9 @@
       39114132484
     ],
     "2026-10-19": [
-      39226660932
+      39226660932,
+      39227036554,
+      39227232638
     ]
   },
   "pending_verification": [
@@ -346,6 +560,10 @@
     {
       "video_id": "VSQhC7UUB3E",
       "task": "Confirm actual dish vs Kim Wansun's gimbap/soft tofu recipes; title alone insufficient."
+    },
+    {
+      "video_id": "TAM1jor-MKA",
+      "task": "Compare original 2026-10-01 Sunwoo Yongyeo anchovy pasta to Shorts; verify exact pasta/anchovy brand. Do not adopt glucose90 claim."
     }
   ],
   "duplicate_resolution": [
@@ -457,6 +675,11 @@
   ],
   "followup_automation_id": "6ad35973e7f4819188223958b221ff9c",
   "followup_method": "updated_current_one_time_automation_no_new_automation",
-  "next_run_kst": "2026-10-19T18:00:00+09:00",
-  "last_completed_batch_input_commit": "eedd0ba66cb701aac7d554267c82801efcb69001"
+  "next_run_kst": "2026-10-20T18:00:00+09:00",
+  "last_completed_batch_input_commit": "eedd0ba66cb701aac7d554267c82801efcb69001",
+  "today_unique_successful_queries": 95,
+  "today_new_reported_video_ids": [
+    "TAM1jor-MKA"
+  ],
+  "today_meaningful_update_ids": []
 }
