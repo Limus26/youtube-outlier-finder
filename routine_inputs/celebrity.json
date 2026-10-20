@@ -1,98 +1,8 @@
 {
   "mode": "celebrity",
   "test": false,
-  "generated_at": "2026-10-19T18:03:29+09:00",
+  "generated_at": "2026-10-20T17:58:09+09:00",
   "keywords": [
-    {
-      "keyword": "윤미라 온열안대",
-      "category": "건강",
-      "topic_key": "윤미라|온열안대",
-      "reason": "공개 루틴 보도 탐색: https://health.chosun.com/site/data/html_dir/2026/04/03/2026040302884.html ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
-    },
-    {
-      "keyword": "윤미라 누룽지탕",
-      "category": "식단",
-      "topic_key": "윤미라|누룽지탕",
-      "reason": "공개 루틴 보도 탐색: https://health.chosun.com/site/data/html_dir/2026/04/03/2026040302884.html ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
-    },
-    {
-      "keyword": "트와이스 나연 수면 베개",
-      "category": "건강",
-      "topic_key": "트와이스나연|베개",
-      "reason": "공개 루틴 보도 탐색: https://www.cosmopolitan.co.kr/article/1898795 ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
-    },
-    {
-      "keyword": "이솔이 홈트",
-      "category": "운동",
-      "topic_key": "이솔이|홈트",
-      "reason": "공개 루틴 보도 탐색: https://nwww.newsis.com/view/NISX20261015_0003826732 ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
-    },
-    {
-      "keyword": "김남주 단백질칩",
-      "category": "식단",
-      "topic_key": "김남주|단백질칩",
-      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
-    },
-    {
-      "keyword": "김남주 유산균 젤리",
-      "category": "식단",
-      "topic_key": "김남주|유산균젤리",
-      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
-    },
-    {
-      "keyword": "유진 다리 마사지기",
-      "category": "건강",
-      "topic_key": "유진|다리마사지기",
-      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
-    },
-    {
-      "keyword": "기태영 온열 마사지기",
-      "category": "건강",
-      "topic_key": "기태영|온열마사지기",
-      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
-    },
-    {
-      "keyword": "유인영 아티초크",
-      "category": "식단",
-      "topic_key": "유인영|아티초크",
-      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
-    },
-    {
-      "keyword": "공효진 저당 아이스크림",
-      "category": "식단",
-      "topic_key": "공효진|저당아이스크림",
-      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
-    },
-    {
-      "keyword": "김정난 보리커피",
-      "category": "식단",
-      "topic_key": "김정난|보리커피",
-      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
-    },
-    {
-      "keyword": "고준희 파로",
-      "category": "식단",
-      "topic_key": "고준희|파로",
-      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
-    },
-    {
-      "keyword": "츄 온열안대",
-      "category": "건강",
-      "topic_key": "츄|온열안대",
-      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
-    },
-    {
-      "keyword": "김정난 두유제조기",
-      "category": "식단",
-      "topic_key": "김정난|두유제조기",
-      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
-    },
-    {
-      "keyword": "솔라 EMS 운동벨트",
-      "category": "운동",
-      "topic_key": "솔라|EMS운동벨트",
-      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
-    },
     {
       "keyword": "김정난 트위스트런",
       "category": "운동",
@@ -242,6 +152,96 @@
       "category": "식단",
       "topic_key": "이현이|주스미확인",
       "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
+    },
+    {
+      "keyword": "손담비 공복 습관",
+      "category": "건강",
+      "topic_key": "손담비|공복습관",
+      "reason": "10/18~20 공개 루틴 보도에 근거한 새 소재: https://health.chosun.com/site/data/html_dir/2026/10/20/2026102001241.html ; 셀럽의 본인 언급·사용 맥락과 동일 제품은 원본 추가검증. 건강/감량효과 및 극단적 식단 권장 금지."
+    },
+    {
+      "keyword": "지수 과일 식단",
+      "category": "식단",
+      "topic_key": "지수|과일식단",
+      "reason": "10/18~20 공개 루틴 보도에 근거한 새 소재: https://health.chosun.com/site/data/html_dir/2026/10/20/2026102001850.html ; 셀럽의 본인 언급·사용 맥락과 동일 제품은 원본 추가검증. 건강/감량효과 및 극단적 식단 권장 금지."
+    },
+    {
+      "keyword": "이영자 콩 카레",
+      "category": "식단",
+      "topic_key": "이영자|콩카레",
+      "reason": "10/18~20 공개 루틴 보도에 근거한 새 소재: https://health.chosun.com/site/data/html_dir/2026/10/20/2026102001139.html ; 셀럽의 본인 언급·사용 맥락과 동일 제품은 원본 추가검증. 건강/감량효과 및 극단적 식단 권장 금지."
+    },
+    {
+      "keyword": "이시영 물구나무",
+      "category": "운동",
+      "topic_key": "이시영|물구나무",
+      "reason": "10/18~20 공개 루틴 보도에 근거한 새 소재: https://health.chosun.com/site/data/html_dir/2026/10/20/2026102001160.html ; 셀럽의 본인 언급·사용 맥락과 동일 제품은 원본 추가검증. 건강/감량효과 및 극단적 식단 권장 금지."
+    },
+    {
+      "keyword": "정가은 수면 루틴",
+      "category": "건강",
+      "topic_key": "정가은|수면루틴",
+      "reason": "10/18~20 공개 루틴 보도에 근거한 새 소재: https://health.chosun.com/site/data/html_dir/2026/10/20/2026102001284.html ; 셀럽의 본인 언급·사용 맥락과 동일 제품은 원본 추가검증. 건강/감량효과 및 극단적 식단 권장 금지."
+    },
+    {
+      "keyword": "박지윤 아침 산책",
+      "category": "운동",
+      "topic_key": "박지윤|아침산책",
+      "reason": "10/18~20 공개 루틴 보도에 근거한 새 소재: https://health.chosun.com/site/data/html_dir/2026/10/19/2026101902568.html ; 셀럽의 본인 언급·사용 맥락과 동일 제품은 원본 추가검증. 건강/감량효과 및 극단적 식단 권장 금지."
+    },
+    {
+      "keyword": "홍윤화 만보 걷기",
+      "category": "운동",
+      "topic_key": "홍윤화|만보걷기",
+      "reason": "10/18~20 공개 루틴 보도에 근거한 새 소재: https://health.chosun.com/site/data/html_dir/2026/10/19/2026101902544.html ; 셀럽의 본인 언급·사용 맥락과 동일 제품은 원본 추가검증. 건강/감량효과 및 극단적 식단 권장 금지."
+    },
+    {
+      "keyword": "권은비 차돌 양배추 소바",
+      "category": "식단",
+      "topic_key": "권은비|차돌양배추소바",
+      "reason": "10/18~20 공개 루틴 보도에 근거한 새 소재: https://health.chosun.com/site/data/html_dir/2026/10/16/2026101602106.html ; 셀럽의 본인 언급·사용 맥락과 동일 제품은 원본 추가검증. 건강/감량효과 및 극단적 식단 권장 금지."
+    },
+    {
+      "keyword": "이지현 김 식단",
+      "category": "식단",
+      "topic_key": "이지현|김식단",
+      "reason": "10/18~20 공개 루틴 보도에 근거한 새 소재: https://health.chosun.com/site/data/html_dir/2026/10/16/2026101601739.html ; 셀럽의 본인 언급·사용 맥락과 동일 제품은 원본 추가검증. 건강/감량효과 및 극단적 식단 권장 금지."
+    },
+    {
+      "keyword": "윤혜진 아침 운동",
+      "category": "운동",
+      "topic_key": "윤혜진|아침운동",
+      "reason": "10/18~20 공개 루틴 보도에 근거한 새 소재: https://health.chosun.com/site/data/html_dir/2026/10/16/2026101602107.html ; 셀럽의 본인 언급·사용 맥락과 동일 제품은 원본 추가검증. 건강/감량효과 및 극단적 식단 권장 금지."
+    },
+    {
+      "keyword": "성한빈 저녁 식사",
+      "category": "식단",
+      "topic_key": "성한빈|저녁식사습관",
+      "reason": "10/18~20 공개 루틴 보도에 근거한 새 소재: https://health.chosun.com/site/data/html_dir/2026/10/19/2026101901317.html ; 셀럽의 본인 언급·사용 맥락과 동일 제품은 원본 추가검증. 건강/감량효과 및 극단적 식단 권장 금지."
+    },
+    {
+      "keyword": "심진화 식후 걷기",
+      "category": "운동",
+      "topic_key": "심진화|식후걷기",
+      "reason": "10/18~20 공개 루틴 보도에 근거한 새 소재: https://health.chosun.com/site/data/html_dir/2026/10/16/2026101601673.html ; 셀럽의 본인 언급·사용 맥락과 동일 제품은 원본 추가검증. 건강/감량효과 및 극단적 식단 권장 금지."
+    },
+    {
+      "keyword": "서인영 등산",
+      "category": "운동",
+      "topic_key": "서인영|등산",
+      "reason": "10/18~20 공개 루틴 보도에 근거한 새 소재: https://health.chosun.com/site/data/html_dir/2026/10/16/2026101601740.html ; 셀럽의 본인 언급·사용 맥락과 동일 제품은 원본 추가검증. 건강/감량효과 및 극단적 식단 권장 금지."
+    },
+    {
+      "keyword": "후덕죽 나이트 밀크",
+      "category": "건강",
+      "topic_key": "후덕죽|나이트밀크",
+      "reason": "10/18~20 공개 루틴 보도에 근거한 새 소재: https://health.chosun.com/site/data/html_dir/2026/10/19/2026101902512.html ; 셀럽의 본인 언급·사용 맥락과 동일 제품은 원본 추가검증. 건강/감량효과 및 극단적 식단 권장 금지."
+    },
+    {
+      "keyword": "거미 키토 김밥",
+      "category": "식단",
+      "topic_key": "거미|키토김밥",
+      "reason": "10/18~20 공개 루틴 보도에 근거한 새 소재: https://health.chosun.com/site/data/html_dir/2026/10/19/2026101901418.html ; 셀럽의 본인 언급·사용 맥락과 동일 제품은 원본 추가검증. 건강/감량효과 및 극단적 식단 권장 금지."
     }
   ]
 }
