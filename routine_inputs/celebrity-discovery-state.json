@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T09:05:41.163Z",
+  "updated_at": "2026-10-20T09:00:39.572Z",
   "purpose": "Persistent memory for the scheduled agent's query selection and final report deduplication. Raw runner reports/history remain complete; the scheduled agent reads and updates this ledger.",
   "policy": {
     "query_topic_cooldown_days": 14,
@@ -10592,6 +10592,1126 @@
       "quota_used": 102,
       "successful": true,
       "reason": "새 인물/새 소재 탐색 근거: https://www.chosun.com/entertainments/celebrity/2026/10/18/OESA6WK3URCMFBSZKWMUYMPZ6Q/ ; 본인 공개 원본·동일 도구 추가검증, 건강효과 주장 미채택."
+    },
+    {
+      "keyword": "한가인 다크초콜릿",
+      "last_completed_at": "2026-10-20T08:58:50.410599+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "한가인|다크초콜릿",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "강주은 제로설탕",
+      "last_completed_at": "2026-10-20T08:58:50.408645+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "강주은|제로설탕",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "백지영 애사비 캔디",
+      "last_completed_at": "2026-10-20T08:58:50.406663+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "백지영|애사비캔디",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "김남주 김칩",
+      "last_completed_at": "2026-10-20T08:58:50.404707+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김남주|김칩",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "정수정 시나몬 시리얼",
+      "last_completed_at": "2026-10-20T08:58:50.402757+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "정수정|시나몬시리얼",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "김민경 닭양쌈",
+      "last_completed_at": "2026-10-20T08:58:50.400783+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김민경|닭양쌈",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "서현 마사지기",
+      "last_completed_at": "2026-10-20T08:58:50.398793+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "서현|마사지기",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "한지민 약콩두유",
+      "last_completed_at": "2026-10-20T08:58:50.396892+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "한지민|약콩두유",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "엄정화 콩담백면",
+      "last_completed_at": "2026-10-20T08:58:50.394924+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "엄정화|콩담백면",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "이민영 수면차",
+      "last_completed_at": "2026-10-20T08:58:50.392944+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "이민영|수면차",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "차예련 종아리 마사지기",
+      "last_completed_at": "2026-10-20T08:58:50.390963+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "차예련|종아리마사지기",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "고소영 마사지건",
+      "last_completed_at": "2026-10-20T08:58:50.388961+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "고소영|마사지건",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "김고은 괄사",
+      "last_completed_at": "2026-10-20T08:58:50.386938+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김고은|괄사",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "공효진 수면밴드",
+      "last_completed_at": "2026-10-20T08:58:50.384981+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "공효진|수면밴드",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "강주은 단백질바",
+      "last_completed_at": "2026-10-20T08:58:50.383025+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "강주은|단백질바",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "김정난 트위스트런",
+      "last_completed_at": "2026-10-20T08:58:50.381036+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김정난|트위스트런",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true
+    },
+    {
+      "keyword": "거미 키토 김밥",
+      "last_completed_at": "2026-10-20T08:58:50.378936+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "거미|키토김밥",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "후덕죽 나이트 밀크",
+      "last_completed_at": "2026-10-20T08:58:50.084673+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "후덕죽|나이트밀크",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "서인영 등산",
+      "last_completed_at": "2026-10-20T08:58:49.905633+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "서인영|등산",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "심진화 식후 걷기",
+      "last_completed_at": "2026-10-20T08:58:49.539076+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "심진화|식후걷기",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "성한빈 저녁 식사",
+      "last_completed_at": "2026-10-20T08:58:49.356295+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "성한빈|저녁식사습관",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "윤혜진 아침 운동",
+      "last_completed_at": "2026-10-20T08:58:49.131781+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "윤혜진|아침운동",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "이지현 김 식단",
+      "last_completed_at": "2026-10-20T08:58:48.924370+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "이지현|김식단",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "권은비 차돌 양배추 소바",
+      "last_completed_at": "2026-10-20T08:58:48.722828+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "권은비|차돌양배추소바",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "홍윤화 만보 걷기",
+      "last_completed_at": "2026-10-20T08:58:48.523573+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "홍윤화|만보걷기",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "박지윤 아침 산책",
+      "last_completed_at": "2026-10-20T08:58:48.352500+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "박지윤|아침산책",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "정가은 수면 루틴",
+      "last_completed_at": "2026-10-20T08:58:48.163479+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "정가은|수면루틴",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "이시영 물구나무",
+      "last_completed_at": "2026-10-20T08:58:48.013480+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "이시영|물구나무",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "이영자 콩 카레",
+      "last_completed_at": "2026-10-20T08:58:47.840526+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "이영자|콩카레",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "지수 과일 식단",
+      "last_completed_at": "2026-10-20T08:58:47.522416+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "지수|과일식단",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "손담비 공복 습관",
+      "last_completed_at": "2026-10-20T08:58:47.158173+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "손담비|공복습관",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "이현이 주스",
+      "last_completed_at": "2026-10-20T08:58:46.943268+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "이현이|주스미확인",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "지드래곤 검은콩차",
+      "last_completed_at": "2026-10-20T08:58:46.633079+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "지드래곤|검은콩차",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "안보현 땅콩버터",
+      "last_completed_at": "2026-10-20T08:58:46.301422+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "안보현|땅콩버터",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "안보현 휴대용 블렌더",
+      "last_completed_at": "2026-10-20T08:58:45.880794+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "안보현|휴대용블렌더",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "한예슬 닭가슴살",
+      "last_completed_at": "2026-10-20T08:58:45.530531+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "한예슬|닭가슴살",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "오윤아 EMS 벨트",
+      "last_completed_at": "2026-10-20T08:58:45.161175+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "오윤아|EMS벨트",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "소유 운동벨트",
+      "last_completed_at": "2026-10-20T08:58:45.001522+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "소유|운동벨트",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "엄지원 쿨링시트",
+      "last_completed_at": "2026-10-20T08:58:44.793470+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "엄지원|쿨링시트",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "오연서 텀블러",
+      "last_completed_at": "2026-10-20T08:58:44.612731+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "오연서|수분섭취텀블러",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "한가인 다크초콜릿",
+      "last_completed_at": "2026-10-20T08:58:44.428197+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "한가인|다크초콜릿",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "강주은 제로설탕",
+      "last_completed_at": "2026-10-20T08:58:44.254450+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "강주은|제로설탕",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "백지영 애사비 캔디",
+      "last_completed_at": "2026-10-20T08:58:43.839865+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "백지영|애사비캔디",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "김남주 김칩",
+      "last_completed_at": "2026-10-20T08:58:43.637822+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김남주|김칩",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "정수정 시나몬 시리얼",
+      "last_completed_at": "2026-10-20T08:58:43.462944+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "정수정|시나몬시리얼",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "김민경 닭양쌈",
+      "last_completed_at": "2026-10-20T08:58:43.100694+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김민경|닭양쌈",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "서현 마사지기",
+      "last_completed_at": "2026-10-20T08:58:42.934580+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "서현|마사지기",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "한지민 약콩두유",
+      "last_completed_at": "2026-10-20T08:58:42.523946+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "한지민|약콩두유",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "엄정화 콩담백면",
+      "last_completed_at": "2026-10-20T08:58:42.174369+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "엄정화|콩담백면",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "이민영 수면차",
+      "last_completed_at": "2026-10-20T08:58:42.008015+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "이민영|수면차",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
+    },
+    {
+      "keyword": "차예련 종아리 마사지기",
+      "last_completed_at": "2026-10-20T08:58:41.794924+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "차예련|종아리마사지기",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "고소영 마사지건",
+      "last_completed_at": "2026-10-20T08:58:41.411256+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "고소영|마사지건",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "김고은 괄사",
+      "last_completed_at": "2026-10-20T08:58:41.033206+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김고은|괄사",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "공효진 수면밴드",
+      "last_completed_at": "2026-10-20T08:58:40.632087+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "공효진|수면밴드",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "강주은 단백질바",
+      "last_completed_at": "2026-10-20T08:58:40.263177+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "강주은|단백질바",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true
+    },
+    {
+      "keyword": "김정난 트위스트런",
+      "last_completed_at": "2026-10-20T08:58:39.939544+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김정난|트위스트런",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true
     }
   ],
   "topic_groups": [
@@ -10888,6 +12008,18 @@
       "unchanged_existing_omitted": 2,
       "new_false_positive_excluded": 3,
       "halt_reason": "rateLimitExceeded: Search Queries per day"
+    },
+    {
+      "date": "2026-10-20",
+      "run_ids": [
+        39397253393
+      ],
+      "unique_successful_queries": 40,
+      "units_used": 4036,
+      "ledger_remaining": 5964,
+      "new_video_ids": [],
+      "pending_query_count": 0,
+      "analysis_status": "partial"
     }
   ],
   "excluded_videos": [
