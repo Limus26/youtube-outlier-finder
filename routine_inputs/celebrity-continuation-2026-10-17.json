@@ -1,158 +1,7 @@
 {
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "mode": "celebrity",
-  "pending_keywords": [
-    {
-      "keyword": "김정난 트위스트런",
-      "category": "운동",
-      "topic_key": "김정난|트위스트런",
-      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
-    },
-    {
-      "keyword": "강주은 단백질바",
-      "category": "식단",
-      "topic_key": "강주은|단백질바",
-      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
-    },
-    {
-      "keyword": "공효진 수면밴드",
-      "category": "건강",
-      "topic_key": "공효진|수면밴드",
-      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
-    },
-    {
-      "keyword": "김고은 괄사",
-      "category": "건강",
-      "topic_key": "김고은|괄사",
-      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
-    },
-    {
-      "keyword": "고소영 마사지건",
-      "category": "건강",
-      "topic_key": "고소영|마사지건",
-      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
-    },
-    {
-      "keyword": "차예련 종아리 마사지기",
-      "category": "건강",
-      "topic_key": "차예련|종아리마사지기",
-      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
-    },
-    {
-      "keyword": "이민영 수면차",
-      "category": "건강",
-      "topic_key": "이민영|수면차",
-      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
-    },
-    {
-      "keyword": "엄정화 콩담백면",
-      "category": "식단",
-      "topic_key": "엄정화|콩담백면",
-      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
-    },
-    {
-      "keyword": "한지민 약콩두유",
-      "category": "식단",
-      "topic_key": "한지민|약콩두유",
-      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
-    },
-    {
-      "keyword": "서현 마사지기",
-      "category": "건강",
-      "topic_key": "서현|마사지기",
-      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
-    },
-    {
-      "keyword": "김민경 닭양쌈",
-      "category": "식단",
-      "topic_key": "김민경|닭양쌈",
-      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
-    },
-    {
-      "keyword": "정수정 시나몬 시리얼",
-      "category": "식단",
-      "topic_key": "정수정|시나몬시리얼",
-      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
-    },
-    {
-      "keyword": "김남주 김칩",
-      "category": "식단",
-      "topic_key": "김남주|김칩",
-      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
-    },
-    {
-      "keyword": "백지영 애사비 캔디",
-      "category": "식단",
-      "topic_key": "백지영|애사비캔디",
-      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
-    },
-    {
-      "keyword": "강주은 제로설탕",
-      "category": "식단",
-      "topic_key": "강주은|제로설탕",
-      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
-    },
-    {
-      "keyword": "한가인 다크초콜릿",
-      "category": "식단",
-      "topic_key": "한가인|다크초콜릿",
-      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
-    },
-    {
-      "keyword": "오연서 텀블러",
-      "category": "건강",
-      "topic_key": "오연서|수분섭취텀블러",
-      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
-    },
-    {
-      "keyword": "엄지원 쿨링시트",
-      "category": "건강",
-      "topic_key": "엄지원|쿨링시트",
-      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
-    },
-    {
-      "keyword": "소유 운동벨트",
-      "category": "운동",
-      "topic_key": "소유|운동벨트",
-      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
-    },
-    {
-      "keyword": "오윤아 EMS 벨트",
-      "category": "운동",
-      "topic_key": "오윤아|EMS벨트",
-      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
-    },
-    {
-      "keyword": "한예슬 닭가슴살",
-      "category": "식단",
-      "topic_key": "한예슬|닭가슴살",
-      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
-    },
-    {
-      "keyword": "안보현 휴대용 블렌더",
-      "category": "식단",
-      "topic_key": "안보현|휴대용블렌더",
-      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/honeysale1 ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
-    },
-    {
-      "keyword": "안보현 땅콩버터",
-      "category": "식단",
-      "topic_key": "안보현|땅콩버터",
-      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/honeysale1 ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
-    },
-    {
-      "keyword": "지드래곤 검은콩차",
-      "category": "식단",
-      "topic_key": "지드래곤|검은콩차",
-      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/honeysale1 ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
-    },
-    {
-      "keyword": "이현이 주스",
-      "category": "식단",
-      "topic_key": "이현이|주스미확인",
-      "reason": "제3자 제휴목록의 미검증 신호 탐색: https://link.inpock.co.kr/codyforyou ; 본인 사용 주장·제품 동일성은 미확인. 원본 확보 전 추천/건강효과 채택 금지. 패션 제외."
-    }
-  ],
+  "pending_keywords": [],
   "pending_deep_keywords": [],
   "completed_previous_deep_keywords": [
     "임지연 간식",
@@ -419,7 +268,87 @@
     "박세리 뻥튀기",
     "김정난 잡곡밥",
     "제이제이 단백질",
-    "손담비 플랭크"
+    "손담비 플랭크",
+    "홍석천 수영",
+    "홍석천 헬스",
+    "손담비 지압 스테퍼",
+    "김종국 천천히 먹기",
+    "풍자 소고기 식단",
+    "한소희 곤약면",
+    "이현이 달걀 아침",
+    "차예련 양배추 또띠아",
+    "김태희 오르막 걷기",
+    "강남 메밀국수",
+    "김민경 부리또",
+    "박지윤 마라탕",
+    "천우희 최애 과자 제품",
+    "한혜진 가족 아침 오트밀",
+    "차원이 다른 류수영 두부조림",
+    "선우용여 엔초비 파스타 레시피",
+    "윤은혜 파로 가지 리조또 원본",
+    "김완선 채소 김쌈 원본",
+    "임지연 닭가슴살포 견과류",
+    "한고은 발사믹 드레싱 브랜드",
+    "김완선 순두부 계란 식단",
+    "이시영 괄사 얼굴 마사지 원본",
+    "여배우 성시경 덱스 최애간식",
+    "한혜진 오나오 오트밀 우유 요거트",
+    "안보현 라텍스 밴드",
+    "권은비 근력 운동",
+    "하지원 러닝",
+    "정가은 수분 섭취",
+    "장윤주 집밥",
+    "윤남노 명란 칼국수",
+    "박지윤 도시락",
+    "조혜련 운동",
+    "양치승 식사 순서",
+    "한혜연 달걀 조기",
+    "최미나수 모닝 루틴",
+    "박지현 공복 관리템",
+    "박정수 채소수",
+    "김재영 근력 운동",
+    "김숙 족욕",
+    "남보라 식단",
+    "한가인 다크초콜릿",
+    "강주은 제로설탕",
+    "백지영 애사비 캔디",
+    "김남주 김칩",
+    "정수정 시나몬 시리얼",
+    "김민경 닭양쌈",
+    "서현 마사지기",
+    "한지민 약콩두유",
+    "엄정화 콩담백면",
+    "이민영 수면차",
+    "차예련 종아리 마사지기",
+    "고소영 마사지건",
+    "김고은 괄사",
+    "공효진 수면밴드",
+    "강주은 단백질바",
+    "김정난 트위스트런",
+    "거미 키토 김밥",
+    "후덕죽 나이트 밀크",
+    "서인영 등산",
+    "심진화 식후 걷기",
+    "성한빈 저녁 식사",
+    "윤혜진 아침 운동",
+    "이지현 김 식단",
+    "권은비 차돌 양배추 소바",
+    "홍윤화 만보 걷기",
+    "박지윤 아침 산책",
+    "정가은 수면 루틴",
+    "이시영 물구나무",
+    "이영자 콩 카레",
+    "지수 과일 식단",
+    "손담비 공복 습관",
+    "이현이 주스",
+    "지드래곤 검은콩차",
+    "안보현 땅콩버터",
+    "안보현 휴대용 블렌더",
+    "한예슬 닭가슴살",
+    "오윤아 EMS 벨트",
+    "소유 운동벨트",
+    "엄지원 쿨링시트",
+    "오연서 텀블러"
   ],
   "completed_deep_keywords": [
     "천우희 아침 식단",
@@ -504,11 +433,12 @@
     "TAM1jor-MKA",
     "H4mZ9swxcWU",
     "fSUxWASC16Q",
-    "NaoO970AM-Y"
+    "NaoO970AM-Y",
+    "uldGliiQtNA"
   ],
-  "units_used": 9562,
-  "ledger_remaining": 438,
-  "halt_reason": "rateLimitExceeded: Search Queries per day; failed keyword 김정난 트위스트런; no repeated retry",
+  "units_used": 8064,
+  "ledger_remaining": 1936,
+  "halt_reason": "Additional optional40-query input rejected by safety review at daily ledger8064/10000. Not a YouTube rateLimitExceeded; no third batch executed. Input remains batch2.",
   "report": "reports/latest-celebrity.md",
   "runs": [
     39019619180,
@@ -519,13 +449,15 @@
     39114132484,
     39226660932,
     39227036554,
-    39227232638
+    39227232638,
+    39397253393,
+    39397893446
   ],
-  "source_verification": "partial; all six Shorts playback unavailable; contextual source evidence only",
+  "source_verification": "Public page descriptions and displayed auto-transcripts accessed, not reliable full-frame playback. Oatmeal shared topic resolved. Im Ji-yeon named by uploader; past30day window. Original Sunwoo pasta xNHBXKAsARI linked and brown-rice wording corrected. Exact brands/recipe equivalence remain partial.",
   "followup_automation_created": false,
-  "next_day_automatic_run_confirmed": true,
-  "resume_instructions": "Read current pending_keywords25 and pending_verification6 with permanent discovery state first. Original38 all complete, 2026-10-19 unique95 complete, do not repeat. Formal40 input=25pending+15meaningful new topics after semantic dedup. 3rd party affiliate-list leads need original celebrity use verification before recommendation. Subscriber200..5000 inclusive, views>=100000, latest30days. Use existing routine_runner.py via celebrity.json push and await exact linked Actions/save before any main writes. Budget10000 shared Pacific-date ledger; reserve50; actual project balance unknown. Stop on rateLimitExceeded without retry. Do not run trending or read Secrets. No automation creation in scheduled runtime; only update current continuation if needed. New-topic share>=70%;14day semantic cooldown except documented verification/new-original or one-time ceiling migration. Report new IDs/topics against permanent ledger, existing only last-report growth>=50% AND>=50000 or verified evidence change; do not mark excluded/unreported as reported.",
-  "updated_at": "2026-10-19T09:05:41.163Z",
+  "next_day_automatic_run_confirmed": false,
+  "resume_instructions": "Original October19 pending25 queries all completed October20. Read permanent discovery state before anything else; do not rerun October18/19/20 completed searches. Current required search queue empty; five exact-product/visual verification tasks remain partial. No third input committed or third Actions run today; optional40 update safety-review rejected at8064used/1936remaining, no workaround or further same-day retry. Future regular work may verify backlog/new meaningful topics against14day semantic cooldown and subscriber200..5000 inclusive/views>=100000/latest30days. Use existing runner40 formal input only when safe daily budget permits; read current Pacific-date shared ledger, reserve50, never assume project balance. Never read Secret, never run trending, never bypass limits. New reported reference uldGliiQtNA belongs to existing Chun Woo-hee dried-fruit cracker topic, not a confirmed new topic. Oatmeal v1g7tTWxWyE updated last report170294/1800 onOct20; pasta TAM1jor-MKA updated source/corrected rice wording. Specific o0TgI0n4QBc tool-purchase inference withdrawn pending visual proof; no device name in displayed transcript. Preserve last-report baseline and only update>=50%AND>=50000 or verified evidence/correction. Save state/history/topic/reference and report only material changes. No automation creation in scheduled runtime.",
+  "updated_at": "2026-10-20T09:13:30.066Z",
   "original_2026_10_17_pending_completed": true,
   "original_pending_count": 36,
   "daily_runs": {
@@ -538,32 +470,42 @@
       39226660932,
       39227036554,
       39227232638
+    ],
+    "2026-10-20": [
+      39397253393,
+      39397893446
     ]
   },
   "pending_verification": [
     {
-      "video_id": "BsB09dMt9Bw",
-      "task": "Identify person and actual meal; compare to previously reported v1g7tTWxWyE; reject unsupported20kg claim."
-    },
-    {
       "video_id": "-RRPf-OKfMg",
-      "task": "Compare recipe to nkxSbvj-Y0I and official KBS tofu recipes; same dish family not proof of identical recipe."
+      "task": "Compare recipe to nkxSbvj-Y0I and official KBS tofu recipes; same dish family not proof of identical recipe.",
+      "last_attempt": "2026-10-20",
+      "status": "partial_exact_product_or_visual_check_pending"
     },
     {
       "video_id": "IoQ_ECXq2xk",
-      "task": "Identify actress and actual snack; compare to cvNRZp7tZUs only after content confirmation."
+      "task": "Identify actress and actual snack; compare to cvNRZp7tZUs only after content confirmation.",
+      "last_attempt": "2026-10-20",
+      "status": "partial_exact_product_or_visual_check_pending"
     },
     {
       "video_id": "o0TgI0n4QBc",
-      "task": "Find exact tool/brand in original; no medical/skin effect assertion."
+      "task": "Find exact tool/brand in original; no medical/skin effect assertion.",
+      "last_attempt": "2026-10-20",
+      "status": "partial_exact_product_or_visual_check_pending"
     },
     {
       "video_id": "VSQhC7UUB3E",
-      "task": "Confirm actual dish vs Kim Wansun's gimbap/soft tofu recipes; title alone insufficient."
+      "task": "Confirm actual dish vs Kim Wansun's gimbap/soft tofu recipes; title alone insufficient.",
+      "last_attempt": "2026-10-20",
+      "status": "partial_exact_product_or_visual_check_pending"
     },
     {
       "video_id": "TAM1jor-MKA",
-      "task": "Compare original 2026-10-01 Sunwoo Yongyeo anchovy pasta to Shorts; verify exact pasta/anchovy brand. Do not adopt glucose90 claim."
+      "task": "Compare original 2026-10-01 Sunwoo Yongyeo anchovy pasta to Shorts; verify exact pasta/anchovy brand. Do not adopt glucose90 claim.",
+      "last_attempt": "2026-10-20",
+      "status": "partial_exact_product_or_visual_check_pending"
     }
   ],
   "duplicate_resolution": [
@@ -674,12 +616,29 @@
     }
   ],
   "followup_automation_id": "6ad35973e7f4819188223958b221ff9c",
-  "followup_method": "updated_current_one_time_automation_no_new_automation",
-  "next_run_kst": "2026-10-20T18:00:00+09:00",
+  "followup_method": "no_new_automation_no_reschedule_original_pending_searches_completed",
+  "next_run_kst": null,
   "last_completed_batch_input_commit": "eedd0ba66cb701aac7d554267c82801efcb69001",
-  "today_unique_successful_queries": 95,
+  "today_unique_successful_queries": 80,
   "today_new_reported_video_ids": [
+    "uldGliiQtNA"
+  ],
+  "today_meaningful_update_ids": [
+    "v1g7tTWxWyE",
     "TAM1jor-MKA"
   ],
-  "today_meaningful_update_ids": []
+  "today_new_topic_count": 0,
+  "today_correction_ids": [
+    "o0TgI0n4QBc",
+    "TAM1jor-MKA"
+  ],
+  "completed_verification": [
+    {
+      "video_id": "BsB09dMt9Bw",
+      "completed_on": "2026-10-20",
+      "scope": "Menu/topic resolved as overnight oats by public description/displayed auto-transcript comparison with v1g7tTWxWyE. Same basic ingredients and overnight fridge method; exact SKU/portions unverified,20kg claim rejected."
+    }
+  ],
+  "continuation_search_status": "complete_25_of_25",
+  "optional_expansion_status": "third_batch_not_submitted_safety_review_rejected"
 }
