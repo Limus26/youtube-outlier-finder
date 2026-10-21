@@ -1,0 +1,93 @@
+name: One-off exercise search 20261021
+on:
+  push:
+    branches: ["oneoff/exercise-20261021"]
+    paths: [".github/workflows/oneoff-exercise-20261021.yml"]
+permissions:
+  contents: read
+concurrency:
+  group: youtube-outlier-routine
+  cancel-in-progress: false
+jobs:
+  exercise:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests tabulate
+      - name: Exercise-only scan without routine writes
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: |
+          python - <<'PY'
+          import json, os, re
+          from pathlib import Path
+          from datetime import datetime, timezone
+          from routine_runner import BudgetClient, CONFIGS, scan_keyword
+          from youtube_outlier import QuotaTracker, load_routine_usage
+          keywords = ["한가인 운동","한혜진 모델 홈트","채정안 운동","윤은혜 홈트","김종국 운동도구","김지훈 홈트","소유 운동","진서연 운동","엄정화 운동","이시영 근력 운동","손담비 스테퍼","안보현 운동 밴드","김태희 오르막 걷기","하지원 러닝","권은비 근력 운동","김재영 운동","조혜련 운동","장윤주 필라테스","이효리 요가","제니 필라테스","장원영 운동","카즈하 복근 운동","신세경 운동","손예진 운동","박민영 운동","유이 운동","정은지 운동","한고은 운동","김혜수 운동","션 러닝","임시완 러닝","이영지 계단 운동","박나래 운동","화사 운동","전소미 운동","이청아 운동","김나영 운동","한가인 폼롤러","채정안 스트레칭","연예인 홈트 운동기구","김세정 운동","김민경 운동","박하선 운동","수지 운동","윤아 스트레칭 밴드","박신혜 운동","김희선 운동","이시영 계단 운동","유재석 운동","홍진경 운동","한지혜 홈트","강소라 발레","정려원 운동","나나 운동","공효진 운동","차승원 운동","덱스 운동","김종국 스트레칭","연예인 마사지볼","셀럽 스텝퍼"]
+          out = Path("oneoff-results"); out.mkdir(exist_ok=True)
+          before = int(load_routine_usage().get("units_used", 0))
+          budget = max(0, min(8000, 10000-before-100))
+          quota = QuotaTracker()
+          client = BudgetClient(os.environ["YOUTUBE_API_KEY"], quota, budget)
+          results = {}; scans = []; errors = []
+          def merge(rows, keyword):
+              for r in rows:
+                  vid = r["video_id"]
+                  if vid not in results:
+                      results[vid] = dict(r, matched_queries=[])
+                  if keyword not in results[vid]["matched_queries"]:
+                      results[vid]["matched_queries"].append(keyword)
+          for keyword in keywords:
+              if client.halt_reason or quota.total_units + 102 > budget: break
+              try:
+                  rows, used = scan_keyword(client, quota, keyword, 50, CONFIGS["celebrity"])
+                  merge(rows, keyword)
+                  scans.append({"keyword":keyword,"count":len(rows),"units":used})
+              except Exception as exc:
+                  errors.append({"keyword":keyword,"error":str(exc)})
+                  break
+          ranked = sorted(scans, key=lambda x:x["count"], reverse=True)
+          for item in [x for x in ranked if x["count"]][:8]:
+              if client.halt_reason or quota.total_units + 206 > budget: break
+              try:
+                  rows, used = scan_keyword(client, quota, item["keyword"], 150, CONFIGS["celebrity"])
+                  merge(rows, item["keyword"])
+                  scans.append({"keyword":item["keyword"],"depth":150,"count":len(rows),"units":used})
+              except Exception as exc:
+                  errors.append({"keyword":item["keyword"],"error":str(exc)})
+                  break
+          ids = list(results)
+          for start in range(0,len(ids),50):
+              if client.halt_reason or quota.total_units+1 > budget: break
+              try:
+                  data = client._get("videos", {"part":"snippet,contentDetails","id":",".join(ids[start:start+50])})
+                  quota.videos_calls += 1
+                  for item in data.get("items",[]):
+                      r=results[item["id"]]
+                      r["description"]=item["snippet"].get("description","")[:2500]
+                      r["duration"]=item.get("contentDetails",{}).get("duration")
+              except Exception as exc:
+                  errors.append({"detail_error":str(exc)}); break
+          payload={"checked_at":datetime.now(timezone.utc).isoformat(),"budget":budget,"prior_ledger_units":before,
+          "units_used":quota.total_units,"search_calls":quota.search_calls,"scans":scans,"errors":errors,
+          "videos":sorted(results.values(),key=lambda r:r["score"],reverse=True)}
+          def default(v): return v.isoformat() if hasattr(v,"isoformat") else str(v)
+          (out/"exercise.json").write_text(json.dumps(payload,ensure_ascii=False,indent=2,default=default))
+          print("ONEOFF_RESULT_JSON")
+          print(json.dumps(payload,ensure_ascii=False,default=default))
+          summary=f"# Exercise-only one-off\n\nSearches: {quota.search_calls}; units: {quota.total_units}; unique numeric matches: {len(results)}\n\n"
+          summary+="Existing routine files, schedule and main branch were not modified.\n"
+          Path(os.environ["GITHUB_STEP_SUMMARY"]).write_text(summary)
+          
+          PY
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: exercise-20261021
+          path: oneoff-results/
+          retention-days: 7
