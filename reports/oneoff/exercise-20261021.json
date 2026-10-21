@@ -1,0 +1,2495 @@
+{
+  "first": {
+    "checked_at": "2026-10-21T12:47:03.006357+00:00",
+    "budget": 8000,
+    "prior_ledger_units": 0,
+    "units_used": 6379,
+    "search_calls": 63,
+    "scans": [
+      {
+        "keyword": "한가인 운동",
+        "count": 1,
+        "units": 102
+      },
+      {
+        "keyword": "한혜진 모델 홈트",
+        "count": 0,
+        "units": 102
+      },
+      {
+        "keyword": "채정안 운동",
+        "count": 0,
+        "units": 102
+      },
+      {
+        "keyword": "윤은혜 홈트",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "김종국 운동도구",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "김지훈 홈트",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "소유 운동",
+        "count": 0,
+        "units": 102
+      },
+      {
+        "keyword": "진서연 운동",
+        "count": 0,
+        "units": 102
+      },
+      {
+        "keyword": "엄정화 운동",
+        "count": 0,
+        "units": 102
+      },
+      {
+        "keyword": "이시영 근력 운동",
+        "count": 0,
+        "units": 102
+      },
+      {
+        "keyword": "손담비 스테퍼",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "안보현 운동 밴드",
+        "count": 0,
+        "units": 102
+      },
+      {
+        "keyword": "김태희 오르막 걷기",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "하지원 러닝",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "권은비 근력 운동",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "김재영 운동",
+        "count": 0,
+        "units": 102
+      },
+      {
+        "keyword": "조혜련 운동",
+        "count": 0,
+        "units": 102
+      },
+      {
+        "keyword": "장윤주 필라테스",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "이효리 요가",
+        "count": 1,
+        "units": 102
+      },
+      {
+        "keyword": "제니 필라테스",
+        "count": 0,
+        "units": 102
+      },
+      {
+        "keyword": "장원영 운동",
+        "count": 1,
+        "units": 102
+      },
+      {
+        "keyword": "카즈하 복근 운동",
+        "count": 2,
+        "units": 102
+      },
+      {
+        "keyword": "신세경 운동",
+        "count": 0,
+        "units": 102
+      },
+      {
+        "keyword": "손예진 운동",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "박민영 운동",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "유이 운동",
+        "count": 0,
+        "units": 102
+      },
+      {
+        "keyword": "정은지 운동",
+        "count": 0,
+        "units": 102
+      },
+      {
+        "keyword": "한고은 운동",
+        "count": 0,
+        "units": 102
+      },
+      {
+        "keyword": "김혜수 운동",
+        "count": 0,
+        "units": 102
+      },
+      {
+        "keyword": "션 러닝",
+        "count": 1,
+        "units": 102
+      },
+      {
+        "keyword": "임시완 러닝",
+        "count": 0,
+        "units": 102
+      },
+      {
+        "keyword": "이영지 계단 운동",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "박나래 운동",
+        "count": 0,
+        "units": 102
+      },
+      {
+        "keyword": "화사 운동",
+        "count": 0,
+        "units": 102
+      },
+      {
+        "keyword": "전소미 운동",
+        "count": 1,
+        "units": 102
+      },
+      {
+        "keyword": "이청아 운동",
+        "count": 0,
+        "units": 102
+      },
+      {
+        "keyword": "김나영 운동",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "한가인 폼롤러",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "채정안 스트레칭",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "연예인 홈트 운동기구",
+        "count": 1,
+        "units": 102
+      },
+      {
+        "keyword": "김세정 운동",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "김민경 운동",
+        "count": 25,
+        "units": 102
+      },
+      {
+        "keyword": "박하선 운동",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "수지 운동",
+        "count": 0,
+        "units": 102
+      },
+      {
+        "keyword": "윤아 스트레칭 밴드",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "박신혜 운동",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "김희선 운동",
+        "count": 0,
+        "units": 102
+      },
+      {
+        "keyword": "이시영 계단 운동",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "유재석 운동",
+        "count": 0,
+        "units": 102
+      },
+      {
+        "keyword": "홍진경 운동",
+        "count": 0,
+        "units": 102
+      },
+      {
+        "keyword": "한지혜 홈트",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "강소라 발레",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "정려원 운동",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "나나 운동",
+        "count": 0,
+        "units": 102
+      },
+      {
+        "keyword": "공효진 운동",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "차승원 운동",
+        "count": 0,
+        "units": 102
+      },
+      {
+        "keyword": "덱스 운동",
+        "count": 1,
+        "units": 102
+      },
+      {
+        "keyword": "김종국 스트레칭",
+        "count": 0,
+        "units": 102
+      },
+      {
+        "keyword": "연예인 마사지볼",
+        "count": 0,
+        "units": 102
+      },
+      {
+        "keyword": "셀럽 스텝퍼",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "김민경 운동",
+        "depth": 150,
+        "count": 51,
+        "units": 203
+      },
+      {
+        "keyword": "카즈하 복근 운동",
+        "depth": 150,
+        "count": 2,
+        "units": 0
+      },
+      {
+        "keyword": "한가인 운동",
+        "depth": 150,
+        "count": 1,
+        "units": 0
+      },
+      {
+        "keyword": "이효리 요가",
+        "depth": 150,
+        "count": 1,
+        "units": 0
+      },
+      {
+        "keyword": "장원영 운동",
+        "depth": 150,
+        "count": 1,
+        "units": 0
+      },
+      {
+        "keyword": "션 러닝",
+        "depth": 150,
+        "count": 1,
+        "units": 102
+      },
+      {
+        "keyword": "전소미 운동",
+        "depth": 150,
+        "count": 1,
+        "units": 0
+      },
+      {
+        "keyword": "연예인 홈트 운동기구",
+        "depth": 150,
+        "count": 1,
+        "units": 0
+      }
+    ],
+    "errors": [],
+    "videos": [
+      {
+        "video_id": "Al1DhqTA9sk",
+        "title": "어우 근데 진짜 쎄요",
+        "channel_title": "피자가게",
+        "subscriber_count": 394,
+        "view_count": 1374755,
+        "published_at": "2026-09-29T10:01:01+00:00",
+        "score": 3489.2258883248733,
+        "url": "https://youtu.be/Al1DhqTA9sk",
+        "rank": 1,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "맛있는 녀석들의 세계관을 확장하는 맛녀석 유니버스 1탄! 5년 동안 먹방을 평정했던 맛있는 녀석들이 시청자들이 시키는 대로 건강하게 더 잘 먹기 위한 맞춤 건강 프로젝트\n\n#운동뚱 #오늘부터운동뚱 #김민경 #킥복싱",
+        "duration": "PT56S"
+      },
+      {
+        "video_id": "3QA3-9P5OP4",
+        "title": "이번엔 유도다",
+        "channel_title": "피자가게",
+        "subscriber_count": 394,
+        "view_count": 1364775,
+        "published_at": "2026-10-08T11:00:25+00:00",
+        "score": 3463.895939086294,
+        "url": "https://youtu.be/3QA3-9P5OP4",
+        "rank": 2,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "맛있는 녀석들의 세계관을 확장하는 맛녀석 유니버스 1탄! 5년 동안 먹방을 평정했던 맛있는 녀석들이 시청자들이 시키는 대로 건강하게 더 잘 먹기 위한 맞춤 건강 프로젝트\n\n#운동뚱 #오늘부터운동뚱 #김민경 #민경장군 #영식이형 #유도 #금메달 #금메달리스트 #볼링",
+        "duration": "PT1M"
+      },
+      {
+        "video_id": "uP4V9dqbYMM",
+        "title": "장원영과 지수를 만난 디올 디자이너, 묘하게 다른 바이브 ㅋㅋ",
+        "channel_title": "멍이뉴스",
+        "subscriber_count": 1560,
+        "view_count": 2755939,
+        "published_at": "2026-10-01T03:00:33+00:00",
+        "score": 1766.627564102564,
+        "url": "https://youtu.be/uP4V9dqbYMM",
+        "rank": 1,
+        "matched_queries": [
+          "장원영 운동"
+        ],
+        "description": "",
+        "duration": "PT20S"
+      },
+      {
+        "video_id": "A_cdVTQI1gc",
+        "title": "주짓수는 기술이라더니 상대가 김민경이면??ㅋㅋ #운동뚱 #김민경 #오늘부터운동뚱 #민경장군 #영식이형",
+        "channel_title": "볼고양",
+        "subscriber_count": 561,
+        "view_count": 909488,
+        "published_at": "2026-09-28T15:59:04+00:00",
+        "score": 1621.1907308377897,
+        "url": "https://youtu.be/A_cdVTQI1gc",
+        "rank": 3,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "",
+        "duration": "PT21S"
+      },
+      {
+        "video_id": "pztJRpNYAm8",
+        "title": "아니 안 쓴 힘을 어떻게 빼요 ㅋㅋ #운동뚱 #오늘부터운동뚱 #김민경 #민경장군 #영식이형 #주짓수",
+        "channel_title": "볼고양",
+        "subscriber_count": 561,
+        "view_count": 656260,
+        "published_at": "2026-09-29T02:29:38+00:00",
+        "score": 1169.8039215686274,
+        "url": "https://youtu.be/pztJRpNYAm8",
+        "rank": 4,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "",
+        "duration": "PT21S"
+      },
+      {
+        "video_id": "pc41hOG4S_Q",
+        "title": "관장님,코치님을 휘청거리게만든 민경장군님?? #운동뚱 #오늘부터운동뚱 #김민경 #민경장군 #영식이형 #킥복싱",
+        "channel_title": "아자유튜브",
+        "subscriber_count": 779,
+        "view_count": 801193,
+        "published_at": "2026-09-22T03:50:15+00:00",
+        "score": 1028.4890885750963,
+        "url": "https://youtu.be/pc41hOG4S_Q",
+        "rank": 5,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "위 영상은 일부 장면을 편집한 쇼츠입니다.\n\n맛있는 녀석들의 세계관을 확장하는 맛녀석 유니버스 1탄! 5년 동안 먹방을 평정했던 맛있는 녀석들이 시청자들이 시키는 대로 건강하게 더 잘 먹기 위한 맞춤 건강 프로젝트\n\n#운동뚱 #오늘부터운동뚱 #김민경 #민경장군 #영식이형",
+        "duration": "PT42S"
+      },
+      {
+        "video_id": "V0KEtSSVFN0",
+        "title": "민경장군은 손으로 헬멧을 찢어.. #운동뚱 #김민경 #오늘부터운동뚱",
+        "channel_title": "공감TV",
+        "subscriber_count": 2230,
+        "view_count": 2013067,
+        "published_at": "2026-09-23T05:00:21+00:00",
+        "score": 902.7206278026906,
+        "url": "https://youtu.be/V0KEtSSVFN0",
+        "rank": 6,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "#운동뚱 #오늘부터운동뚱 #김민경 #민경장군 #영식이형",
+        "duration": "PT54S"
+      },
+      {
+        "video_id": "gmO5Gpi3CNU",
+        "title": "결국 한마디 하는 카즈하 ! 참을 만큼 참은 카즈하의 경고가 기안에게 향하는데 #대환장기안장2 #기안장2",
+        "channel_title": "너굴양",
+        "subscriber_count": 864,
+        "view_count": 719719,
+        "published_at": "2026-09-29T13:28:10+00:00",
+        "score": 833.0081018518518,
+        "url": "https://youtu.be/gmO5Gpi3CNU",
+        "rank": 1,
+        "matched_queries": [
+          "카즈하 복근 운동"
+        ],
+        "description": "넷플릭스 대환장 기안장 시즌2 장면을 리뷰한 영상입니다.\n\n기안84가 직접 운영하는 민박집 ‘기안장’에\n새로운 투숙객들이 찾아옵니다.\n\n각양각색의 손님들과 함께하며 벌어지는\n예측불허의 상황들.\n\n기안장만의 독특한 분위기 속에서\n웃음과 황당한 사건이 끊이지 않는데요.\n\n과연 이번 시즌에는\n어떤 대환장 에피소드가 펼쳐질까요?\n\n#드라마추천 #드라마리뷰 #드라마몰아보기",
+        "duration": "PT44S"
+      },
+      {
+        "video_id": "ISVJSOKyiKI",
+        "title": "강남이 1분 만에 뻗어버린 이상화가 만든 홈트 보드 #강남 #이상화 #슬라이드보드 #홈트 #유튜브쇼핑",
+        "channel_title": "별템별픽",
+        "subscriber_count": 1330,
+        "view_count": 1045862,
+        "published_at": "2026-10-03T21:30:33+00:00",
+        "score": 786.3624060150375,
+        "url": "https://youtu.be/ISVJSOKyiKI",
+        "rank": 1,
+        "matched_queries": [
+          "연예인 홈트 운동기구"
+        ],
+        "description": "\"보기엔 안 힘들어 보이죠? 1분도 안 돼서...\"\n\n강남이 땀을 쏟은 슬라이드 보드입니다.\n아내 이상화가 만든 제품이라고 해요.\n\n✔️ 실제 스케이트 선수들이 하는 훈련 방식\n✔️ 양옆으로 스케이트 타듯 밀어내는 동작\n✔️ 집 거실에 펼쳐놓고 바로 할 수 있는 크기\n\n\"대단한 친구예요\" — 강남이 아내에게 한 말.\n\n스타가 실제로 쓰는 물건만 골라 보여드립니다.\n구독하고 다음 별템도 놓치지 마세요 ⭐\n\n출처 : 동네친구 강나미\n\n#강남 #이상화 #슬라이드보드\n#강남이상화 #동네친구강나미 #연예인부부 #셀럽템 #슬라이드보드 #홈트기구 #운동기구 #실내운동기구 #스케이트보드운동 #홈트 #홈트레이닝 #집에서운동 #유산소 #하체운동 #운동초보 #금메달리스트 #스피드스케이팅 #선수운동법 #전문가추천 #운동템 #거실운동 #짧은운동 #1분운동 #강나미 #슬라이딩보드 #홈트템 #스케이트운동 #유산소운동 #다이어트운동 #실내운동 #연예인운동 #부부유튜버 #연예인추천템 #쇼핑추천 #내돈내산 #유튜브쇼핑",
+        "duration": "PT20S"
+      },
+      {
+        "video_id": "5uxG1vGyanI",
+        "title": "말라깽이 된다구요..?",
+        "channel_title": "피자가게",
+        "subscriber_count": 394,
+        "view_count": 298939,
+        "published_at": "2026-10-02T08:00:22+00:00",
+        "score": 758.7284263959391,
+        "url": "https://youtu.be/5uxG1vGyanI",
+        "rank": 7,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "맛있는 녀석들의 세계관을 확장하는 맛녀석 유니버스 1탄! 5년 동안 먹방을 평정했던 맛있는 녀석들이 시청자들이 시키는 대로 건강하게 더 잘 먹기 위한 맞춤 건강 프로젝트\n\n#운동뚱 #오늘부터운동뚱 #김민경 #복싱 #파퀴아오",
+        "duration": "PT50S"
+      },
+      {
+        "video_id": "FUpAp0-LkwM",
+        "title": "쫄았어요?",
+        "channel_title": "피자가게",
+        "subscriber_count": 394,
+        "view_count": 266205,
+        "published_at": "2026-09-23T07:30:38+00:00",
+        "score": 675.6472081218274,
+        "url": "https://youtu.be/FUpAp0-LkwM",
+        "rank": 8,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "맛있는 녀석들의 세계관을 확장하는 맛녀석 유니버스 1탄! 5년 동안 먹방을 평정했던 맛있는 녀석들이 시청자들이 시키는 대로 건강하게 더 잘 먹기 위한 맞춤 건강 프로젝트\n\n#운동뚱 #오늘부터운동뚱 #김민경 #김동현 #황인수 #종합격투기",
+        "duration": "PT57S"
+      },
+      {
+        "video_id": "gB-K64JKgro",
+        "title": "코치님 따라오지마세요",
+        "channel_title": "웃쇼",
+        "subscriber_count": 563,
+        "view_count": 352006,
+        "published_at": "2026-10-05T07:38:23+00:00",
+        "score": 625.2326820603907,
+        "url": "https://youtu.be/gB-K64JKgro",
+        "rank": 9,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "#운동뚱 #오늘부터운동뚱 #김민경 #민경장군 #영식이형 #킥복싱",
+        "duration": "PT30S"
+      },
+      {
+        "video_id": "hmGhmuVbDTM",
+        "title": "UDT의 아들인 조카를 강하게 키우는 덱스 #덱스 #예능레전드 #예능",
+        "channel_title": "예능피디",
+        "subscriber_count": 2660,
+        "view_count": 1579871,
+        "published_at": "2026-09-22T10:30:15+00:00",
+        "score": 593.9364661654135,
+        "url": "https://youtu.be/hmGhmuVbDTM",
+        "rank": 1,
+        "matched_queries": [
+          "덱스 운동"
+        ],
+        "description": "#덱스 #예능레전드 #예능",
+        "duration": "PT40S"
+      },
+      {
+        "video_id": "-qJbfAKF_kU",
+        "title": "사람이 날라가진 않는데..",
+        "channel_title": "웃쇼",
+        "subscriber_count": 563,
+        "view_count": 333947,
+        "published_at": "2026-09-24T01:06:28+00:00",
+        "score": 593.1563055062167,
+        "url": "https://youtu.be/-qJbfAKF_kU",
+        "rank": 10,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "출처 : 시켜서 한다! 오늘부터 운동뚱 42회\n\n#운동뚱 #오늘부터운동뚱 #김민경 #민경장군 #주짓수",
+        "duration": "PT42S"
+      },
+      {
+        "video_id": "KNZ0egxNyuE",
+        "title": "45세 한가인이 콕 집어 배우는 ‘이 근육’…50대라면 알아두세요",
+        "channel_title": "인생1막과2막사이~~",
+        "subscriber_count": 627,
+        "view_count": 276149,
+        "published_at": "2026-10-02T14:34:48+00:00",
+        "score": 440.4290271132376,
+        "url": "https://youtu.be/KNZ0egxNyuE",
+        "rank": 1,
+        "matched_queries": [
+          "한가인 운동"
+        ],
+        "description": "장요근, 이름은 들어봤는데 도대체 어디에 있는 근육일까요?🤔\n\n한가인이 선생님께 직접 배우는 장요근 운동을 보면 위치와 동작을 이해하기 훨씬 쉽습니다.\n\n장요근은 허리와 골반, 허벅지 쪽을 연결하는 깊은 근육으로 일상적인 움직임에도 관여합니다.\n\n특히 50대 이후에는 무조건 강하게 운동하기보다 내 몸에 맞게 천천히 움직이는 것이 중요합니다.\n\n영상 속 동작도 처음에는 무리하지 말고 통증 없는 범위에서 따라 해보세요.\n\n📌 장요근 위치가 헷갈린다면 저장해두고 운동할 때 다시 확인하세요!\n\n#한가인 #장요근 #장요근운동 #50대운동 #중년운동 #홈트 #근력운동 #건강운동 #운동루틴 #쇼츠",
+        "duration": "PT29S"
+      },
+      {
+        "video_id": "9x-e2bUDK1Y",
+        "title": "민경장군이 운동을 잘하는 진짜 이유 #운동뚱 #오늘부터운동뚱 #김민경 #민경장군 #영식이형",
+        "channel_title": "볼고양",
+        "subscriber_count": 561,
+        "view_count": 222455,
+        "published_at": "2026-09-29T21:45:32+00:00",
+        "score": 396.5329768270945,
+        "url": "https://youtu.be/9x-e2bUDK1Y",
+        "rank": 11,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "",
+        "duration": "PT29S"
+      },
+      {
+        "video_id": "RvaLw6P5M9c",
+        "title": "민경장군 주짓수 기술에 김동현이 놀란 이유? #운동뚱 #오늘부터운동뚱 #김민경 #민경장군 #김동현 #예능",
+        "channel_title": "아자유튜브",
+        "subscriber_count": 779,
+        "view_count": 280285,
+        "published_at": "2026-10-02T03:00:23+00:00",
+        "score": 359.801026957638,
+        "url": "https://youtu.be/RvaLw6P5M9c",
+        "rank": 11,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "위 영상은 일부 장면을 편집한 쇼츠입니다.\n\n맛있는 녀석들의 세계관을 확장하는 맛녀석 유니버스 1탄! 5년 동안 먹방을 평정했던 맛있는 녀석들이 시청자들이 시키는 대로 건강하게 더 잘 먹기 위한 맞춤 건강 프로젝트\n\n#운동뚱 #오늘부터운동뚱 #김민경 #민경장군 #영식이형#예능 #김동현",
+        "duration": "PT28S"
+      },
+      {
+        "video_id": "oV5wq1I-G1A",
+        "title": "이 무게를 든다고? 관장님도 소름 돋은 순간",
+        "channel_title": "롱폼1",
+        "subscriber_count": 2860,
+        "view_count": 950640,
+        "published_at": "2026-09-24T07:05:04+00:00",
+        "score": 332.3916083916084,
+        "url": "https://youtu.be/oV5wq1I-G1A",
+        "rank": 12,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "무거운 기구를 머리 위까지 들어 올린 김민경. 양치승 관장도 소리를 지르며 놀랍니다.\n\n#김민경 #운동뚱 #쇼츠",
+        "duration": "PT13S"
+      },
+      {
+        "video_id": "kqWJjRrB9rM",
+        "title": "배트를 잡자마자 스윙부터 달라짐",
+        "channel_title": "롱폼1",
+        "subscriber_count": 2860,
+        "view_count": 914862,
+        "published_at": "2026-10-09T07:00:29+00:00",
+        "score": 319.8818181818182,
+        "url": "https://youtu.be/kqWJjRrB9rM",
+        "rank": 13,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "양준혁에게 야구 타격을 배우는 김민경. 힘찬 연습 스윙에 이어 날아오는 공을 실제로 치는 모습을 담았습니다.\n\n원본: https://www.youtube.com/watch?v=k5roWR4wMzM\n#김민경 #운동뚱 #쇼츠",
+        "duration": "PT30S"
+      },
+      {
+        "video_id": "T90KzmJ14Eo",
+        "title": "헬스 10년 차 VS 운동 3주 차",
+        "channel_title": "롱폼1",
+        "subscriber_count": 2860,
+        "view_count": 713131,
+        "published_at": "2026-10-05T22:00:29+00:00",
+        "score": 249.3465034965035,
+        "url": "https://youtu.be/T90KzmJ14Eo",
+        "rank": 14,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "헬스 10년 차 트레이너와 허벅지 씨름에 나선 김민경. 준비부터 힘겨루기, 트레이너의 다리가 벌어지는 순간과 현장 반응을 담았습니다.\n\n원본: https://www.youtube.com/watch?v=1HtZrh5Y4oU\n#김민경 #운동뚱 #쇼츠",
+        "duration": "PT26S"
+      },
+      {
+        "video_id": "HmSQJpdc0Kc",
+        "title": "비가 버티고 있는데 다리가 벌어져 버림 | 김민경",
+        "channel_title": "롱폼1",
+        "subscriber_count": 2860,
+        "view_count": 637512,
+        "published_at": "2026-09-28T22:05:35+00:00",
+        "score": 222.9062937062937,
+        "url": "https://youtu.be/HmSQJpdc0Kc",
+        "rank": 15,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "비와 김민경의 허벅지 씨름. 시작 신호부터 버티는 과정, 비의 다리가 벌어지는 순간과 현장의 반응까지 담았습니다.\n\n원본: https://www.youtube.com/watch?v=wZmUYT8g89U\n#김민경 #운동뚱 #허벅지씨름 #쇼츠",
+        "duration": "PT38S"
+      },
+      {
+        "video_id": "7vT_nwYHt-Y",
+        "title": "ROAD FC 출신 상대로 카운터 한 방에 주저앉힘",
+        "channel_title": "롱폼1",
+        "subscriber_count": 2860,
+        "view_count": 626075,
+        "published_at": "2026-10-05T07:00:25+00:00",
+        "score": 218.90734265734267,
+        "url": "https://youtu.be/7vT_nwYHt-Y",
+        "rank": 16,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "ROAD FC 출신 이승윤과 스파링하는 김민경. 방어하다가 몸통으로 반격한 순간과 주저앉은 상대의 직후 반응을 담았습니다.\n\n원본: https://www.youtube.com/watch?v=lIKB0hZVsqk\n#김민경 #운동뚱 #쇼츠",
+        "duration": "PT15S"
+      },
+      {
+        "video_id": "qkkS8-LUqFc",
+        "title": "김동현을 들어 올려 그대로 업어치기 | 김민경",
+        "channel_title": "롱폼1",
+        "subscriber_count": 2860,
+        "view_count": 594277,
+        "published_at": "2026-10-03T04:00:08+00:00",
+        "score": 207.78916083916084,
+        "url": "https://youtu.be/qkkS8-LUqFc",
+        "rank": 17,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "격투기 선수 김동현과 업어치기를 연습하는 김민경. 함께 기술을 연습하는 장면이며 실제 승부 결과가 아닙니다.\n\n원본: https://www.youtube.com/watch?v=cT4vbP0ZMy0\n#김민경 #운동뚱 #쇼츠",
+        "duration": "PT15S"
+      },
+      {
+        "video_id": "SB0JLO8peoM",
+        "title": "더 세게 차라고 했더니 바로 주저앉은 상대",
+        "channel_title": "롱폼1",
+        "subscriber_count": 2860,
+        "view_count": 550900,
+        "published_at": "2026-10-04T22:00:21+00:00",
+        "score": 192.62237762237763,
+        "url": "https://youtu.be/SB0JLO8peoM",
+        "rank": 18,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "전자호구로 발차기 파워를 확인하는 김민경. 더 강하게 차보라는 요청 뒤, 발차기를 받은 상대의 반응을 담았습니다.\n\n원본: https://www.youtube.com/watch?v=ji3Xw9ej-gg\n#김민경 #운동뚱 #쇼츠",
+        "duration": "PT16S"
+      },
+      {
+        "video_id": "Nk85BMQ2sZk",
+        "title": "자신 있게 나선 김동현, 김민경에게 바로 탭ㅋㅋ",
+        "channel_title": "롱폼1",
+        "subscriber_count": 2860,
+        "view_count": 511321,
+        "published_at": "2026-09-22T01:05:00+00:00",
+        "score": 178.78356643356642,
+        "url": "https://youtu.be/Nk85BMQ2sZk",
+        "rank": 19,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "김민경의 백초크 연습 상대를 자청한 김동현. 자신 있게 나섰지만 힘이 들어가자 곧바로 탭합니다.\n\n#운동뚱 #김민경 #예능 #shorts",
+        "duration": "PT13S"
+      },
+      {
+        "video_id": "6sC449v8Dck",
+        "title": "전 챔피언 기록은 80cm, 김민경이 한 번 차면?",
+        "channel_title": "롱폼1",
+        "subscriber_count": 2860,
+        "view_count": 477327,
+        "published_at": "2026-09-23T04:05:12+00:00",
+        "score": 166.89755244755244,
+        "url": "https://youtu.be/6sC449v8Dck",
+        "rank": 20,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "발차기로 방패 든 제작진을 밀어내는 거리 대결. 전 챔피언의 80cm 기록 앞에서 김민경은 97cm를 기록했습니다.\n원본: https://www.youtube.com/watch?v=-pMrkAztJtY\n#김민경 #운동뚱 #쇼츠",
+        "duration": "PT11S"
+      },
+      {
+        "video_id": "QeIIA2t0AHc",
+        "title": "PD가 뒤에서 잡았는데 그대로 업어서 쾅!",
+        "channel_title": "롱폼1",
+        "subscriber_count": 2860,
+        "view_count": 451853,
+        "published_at": "2026-09-24T22:05:34+00:00",
+        "score": 157.99055944055945,
+        "url": "https://youtu.be/QeIIA2t0AHc",
+        "rank": 21,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "뒤에서 잡혔을 때의 대응을 연습하던 김민경. PD를 매트로 넘긴 뒤 두 사람이 나누는 반응을 담았습니다.\n\n#김민경 #운동뚱 #쇼츠",
+        "duration": "PT11S"
+      },
+      {
+        "video_id": "qkW-pwGhyN8",
+        "title": "못 든다던 무게를 번쩍 들었다 #운동뚱 #오늘부터운동뚱 #김민경 #민경장군 #영식이형",
+        "channel_title": "우낄라꼬",
+        "subscriber_count": 1300,
+        "view_count": 201131,
+        "published_at": "2026-09-24T05:00:24+00:00",
+        "score": 154.71615384615384,
+        "url": "https://youtu.be/qkW-pwGhyN8",
+        "rank": 23,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "영식이형도 못 들던 무게를 김민경이 번쩍 들자 관장님이 소름 돋았다고 했다.\n\n출처: 시켜서 한다! 오늘부터 운동뚱\n\n#운동뚱 #오늘부터운동뚱 #김민경 #민경장군 #영식이형",
+        "duration": "PT33S"
+      },
+      {
+        "video_id": "T1QlbakMdtU",
+        "title": "기술 배우고 다시 붙었다! 달라진 김민경의 팔씨름",
+        "channel_title": "롱폼1",
+        "subscriber_count": 2860,
+        "view_count": 332394,
+        "published_at": "2026-09-22T04:05:23+00:00",
+        "score": 116.22167832167833,
+        "url": "https://youtu.be/T1QlbakMdtU",
+        "rank": 22,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "정지민과 다시 맞붙은 김민경. 배운 기술을 활용한 손목 움직임과 달라진 승부를 담았습니다.\n\n#운동뚱 #김민경 #예능 #shorts",
+        "duration": "PT19S"
+      },
+      {
+        "video_id": "3M40mymENiA",
+        "title": "숨길 수 없는 타고난 힘",
+        "channel_title": "팝콘가게",
+        "subscriber_count": 1690,
+        "view_count": 189846,
+        "published_at": "2026-09-22T08:30:26+00:00",
+        "score": 112.33491124260355,
+        "url": "https://youtu.be/3M40mymENiA",
+        "rank": 25,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "맛있는 녀석들의 세계관을 확장하는 맛녀석 유니버스 1탄! 5년 동안 먹방을 평정했던 맛있는 녀석들이 시청자들이 시키는 대로 건강하게 더 잘 먹기 위한 맞춤 건강 프로젝트 \n\n#운동뚱 #오늘부터운동뚱 #김민경 #민경장군 #영식이형",
+        "duration": "PT56S"
+      },
+      {
+        "video_id": "v8--VZ4kWAI",
+        "title": "병뚜껑 챌린지에 도전한 김민경, 발차기에 터진 박수",
+        "channel_title": "롱폼1",
+        "subscriber_count": 2860,
+        "view_count": 316630,
+        "published_at": "2026-09-21T22:05:01+00:00",
+        "score": 110.70979020979021,
+        "url": "https://youtu.be/v8--VZ4kWAI",
+        "rank": 23,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "병뚜껑을 발로 여는 도전에 나선 김민경. 자세를 잡고 돌려차기를 선보이자 태권도 선수들의 박수가 터집니다.\n\n#운동뚱 #김민경 #예능 #shorts",
+        "duration": "PT12S"
+      },
+      {
+        "video_id": "1fmUmuoybRY",
+        "title": "보호대의 역할 #김민경 #운동뚱 #예능하이라이트",
+        "channel_title": "무비세",
+        "subscriber_count": 3590,
+        "view_count": 361485,
+        "published_at": "2026-09-28T08:45:18+00:00",
+        "score": 100.69220055710306,
+        "url": "https://youtu.be/1fmUmuoybRY",
+        "rank": 24,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "출처 : 시켜서 한다! 오늘부터 운동뚱\n출연 : 김민경\n\n\n구독과 좋아요는 큰 힘이 됩니다!📺\n\n#오늘부터운동뚱  #김민경금메달 #낭심차기 #웃긴장면\n\n비지니스 문의 : pabilsag154@gmail.com\nAI목소리를 활용하여 제작되었습니다.",
+        "duration": "PT35S"
+      },
+      {
+        "video_id": "mfh0YIZjY4Y",
+        "title": "연습으로 찬 발차기 한 방에 파워 80",
+        "channel_title": "롱폼1",
+        "subscriber_count": 2860,
+        "view_count": 284583,
+        "published_at": "2026-10-14T04:00:05+00:00",
+        "score": 99.50454545454545,
+        "url": "https://youtu.be/mfh0YIZjY4Y",
+        "rank": 28,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "태권도 발차기 파워 측정에 도전하는 김민경. 김민경이 직접 발차기를 하고 80점이 나오는 장면입니다.\n\n원본: https://www.youtube.com/watch?v=zZlzvABWigQ\n#김민경 #운동뚱 #쇼츠",
+        "duration": "PT8S"
+      },
+      {
+        "video_id": "M7hAojA9xoI",
+        "title": "제대로 맞은 한 방 비거리 100미터",
+        "channel_title": "롱폼1",
+        "subscriber_count": 2860,
+        "view_count": 246112,
+        "published_at": "2026-10-06T22:00:27+00:00",
+        "score": 86.05314685314686,
+        "url": "https://youtu.be/M7hAojA9xoI",
+        "rank": 25,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "스크린 야구에서 힘껏 스윙하는 김민경. 타구 비거리 100m가 표시되고 양준혁과 마해영이 반응하는 순간입니다.\n\n원본: https://www.youtube.com/watch?v=hz_EC_y8UOI\n#김민경 #운동뚱 #쇼츠",
+        "duration": "PT14S"
+      },
+      {
+        "video_id": "jF7GGFf8cIw",
+        "title": "어퍼컷을 꽂으니까 코치도 웃음이 터짐",
+        "channel_title": "롱폼1",
+        "subscriber_count": 2860,
+        "view_count": 242178,
+        "published_at": "2026-10-03T22:00:04+00:00",
+        "score": 84.67762237762238,
+        "url": "https://youtu.be/jF7GGFf8cIw",
+        "rank": 30,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "미트를 향해 어퍼컷을 치는 김민경. 타격을 받아본 김동현과 훈련을 지켜본 코치의 반응입니다.\n\n원본: https://www.youtube.com/watch?v=LdrPsP_KD5g\n#김민경 #운동뚱 #쇼츠",
+        "duration": "PT14S"
+      },
+      {
+        "video_id": "OLNoORKPBcg",
+        "title": "현재 반응 미친 카즈하 복근",
+        "channel_title": "볼사람",
+        "subscriber_count": 3780,
+        "view_count": 296030,
+        "published_at": "2026-09-25T08:29:23+00:00",
+        "score": 78.31481481481481,
+        "url": "https://youtu.be/OLNoORKPBcg",
+        "rank": 2,
+        "matched_queries": [
+          "카즈하 복근 운동"
+        ],
+        "description": "#kpop #idol #아이돌 #lesserafim #르세라핌 #kazuha #카즈하 #복근 #운동 #shorts",
+        "duration": "PT8S"
+      },
+      {
+        "video_id": "qkKjEwLQVrw",
+        "title": "뒤에서 붙잡았다가 바로 무릎 꿇음",
+        "channel_title": "롱폼1",
+        "subscriber_count": 2860,
+        "view_count": 220016,
+        "published_at": "2026-10-08T04:00:25+00:00",
+        "score": 76.92867132867133,
+        "url": "https://youtu.be/qkKjEwLQVrw",
+        "rank": 31,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "뒤에서 붙잡혔을 때 빠져나오는 크라브마가 훈련. 김민경이 즉시 반격하자 상대가 무릎을 꿇는 순간입니다.\n\n원본: https://www.youtube.com/watch?v=ASIX5vGHezk\n#김민경 #운동뚱 #쇼츠",
+        "duration": "PT13S"
+      },
+      {
+        "video_id": "8gr88-hlY_c",
+        "title": "가르칠수록 무서워지는 김민경의 파워 #운동뚱 #오늘부터운동뚱 #김민경 #민경장군 #영식이형",
+        "channel_title": "팝콘가게",
+        "subscriber_count": 1690,
+        "view_count": 125338,
+        "published_at": "2026-09-27T07:00:39+00:00",
+        "score": 74.16449704142012,
+        "url": "https://youtu.be/8gr88-hlY_c",
+        "rank": 32,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "맛있는 녀석들의 세계관을 확장하는 맛녀석 유니버스 1탄! 5년 동안 먹방을 평정했던 맛있는 녀석들이 시청자들이 시키는 대로 건강하게 더 잘 먹기 위한 맞춤 건강 프로젝트 \n\n#운동뚱 #오늘부터운동뚱 #김민경 #민경장군 #영식이형",
+        "duration": "PT33S"
+      },
+      {
+        "video_id": "2wkAVjo4o7M",
+        "title": "공이나 맞힐까 했는데 양준혁도 놀란 타격",
+        "channel_title": "롱폼1",
+        "subscriber_count": 2860,
+        "view_count": 210370,
+        "published_at": "2026-10-04T01:00:25+00:00",
+        "score": 73.55594405594405,
+        "url": "https://youtu.be/2wkAVjo4o7M",
+        "rank": 33,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "티 위에 놓인 공을 치는 타격 훈련에 나선 김민경. 힘을 실은 스윙과 타격을 지켜본 양준혁의 반응입니다.\n\n원본: https://www.youtube.com/watch?v=nwfQnWYJYTk\n#김민경 #운동뚱 #쇼츠",
+        "duration": "PT13S"
+      },
+      {
+        "video_id": "MfXyXimAKOU",
+        "title": "때려도 되냐던 피디 바로 되돌려받음",
+        "channel_title": "롱폼1",
+        "subscriber_count": 2860,
+        "view_count": 207790,
+        "published_at": "2026-10-07T04:00:36+00:00",
+        "score": 72.65384615384616,
+        "url": "https://youtu.be/MfXyXimAKOU",
+        "rank": 34,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "때려도 되냐고 묻던 영식 PD와 스파링하는 김민경. 공격을 피한 뒤 펀치로 반격하고 PD가 물러나는 장면입니다.\n\n원본: https://www.youtube.com/watch?v=IL5MNATPCj0\n#김민경 #운동뚱 #쇼츠",
+        "duration": "PT22S"
+      },
+      {
+        "video_id": "odoLhmeb3Yc",
+        "title": "밴드를 당기라고 했더니 관장님까지 따라왔다",
+        "channel_title": "롱폼1",
+        "subscriber_count": 2860,
+        "view_count": 197708,
+        "published_at": "2026-09-23T07:05:28+00:00",
+        "score": 69.12867132867133,
+        "url": "https://youtu.be/odoLhmeb3Yc",
+        "rank": 35,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "김민경 뒤에서 밴드를 잡고 버티던 관장님. 발목까지 돌리자 밴드와 함께 앞으로 끌려옵니다.\n원본: https://www.youtube.com/watch?v=XBUpQ1tgwpc\n#김민경 #운동뚱 #쇼츠",
+        "duration": "PT12S"
+      },
+      {
+        "video_id": "D9cp3PdJA4c",
+        "title": "김민경 주먹 받아보니 귀에서 윙 소리가",
+        "channel_title": "롱폼1",
+        "subscriber_count": 2860,
+        "view_count": 194584,
+        "published_at": "2026-10-04T07:00:26+00:00",
+        "score": 68.03636363636363,
+        "url": "https://youtu.be/D9cp3PdJA4c",
+        "rank": 36,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "보호구를 착용한 스파링에서 강한 훅과 몸통 공격을 보여주는 김민경. 주먹을 받아본 이주경의 반응을 담았습니다.\n\n원본: https://www.youtube.com/watch?v=qGgSjr1ZsF8\n#김민경 #운동뚱 #쇼츠",
+        "duration": "PT23S"
+      },
+      {
+        "video_id": "JWJAoKov3tc",
+        "title": "머리만 갖다 댔는데 골망이 흔들림",
+        "channel_title": "롱폼1",
+        "subscriber_count": 2860,
+        "view_count": 185433,
+        "published_at": "2026-10-10T07:00:05+00:00",
+        "score": 64.83671328671329,
+        "url": "https://youtu.be/JWJAoKov3tc",
+        "rank": 37,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "이천수가 던진 공을 헤딩으로 골대에 보내는 김민경. 연습에서 헤딩 골 성공과 이천수의 칭찬까지 이어집니다.\n\n원본: https://www.youtube.com/watch?v=G9JzhxlCvFo\n#김민경 #운동뚱 #쇼츠",
+        "duration": "PT21S"
+      },
+      {
+        "video_id": "hBChXcSr38k",
+        "title": "두 명이 달려들어도 반격부터 나가는 김민경",
+        "channel_title": "롱폼1",
+        "subscriber_count": 2860,
+        "view_count": 175543,
+        "published_at": "2026-10-09T04:00:01+00:00",
+        "score": 61.37867132867133,
+        "url": "https://youtu.be/hBChXcSr38k",
+        "rank": 38,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "보호구를 착용한 두 명을 상대하는 크라브마가 훈련. 김민경이 공격을 막고 반격하며, 뒤에서 붙잡혔을 때 업어치기로 대응합니다.\n\n원본: https://www.youtube.com/watch?v=3Xt6GB7FRL0\n#김민경 #운동뚱 #쇼츠",
+        "duration": "PT25S"
+      },
+      {
+        "video_id": "07Xo9o4LHco",
+        "title": "이효리가 요가 갈 때 무조건 챙긴다는 쌩얼 필수템 공개",
+        "channel_title": "템구름",
+        "subscriber_count": 2020,
+        "view_count": 119063,
+        "published_at": "2026-09-25T09:06:16+00:00",
+        "score": 58.94207920792079,
+        "url": "https://youtu.be/07Xo9o4LHco",
+        "rank": 1,
+        "matched_queries": [
+          "이효리 요가"
+        ],
+        "description": "이효리가 라방에서 직접 보여준 쌩얼 혈색 케어법이 궁금하셨나요? 요가 갈 때나 민낯일 때 10초 만에 생기를 살려주는 비밀 루틴을 영상에서 바로 확인해 보세요!\n품절 대란 나기 전에 아래 링크에서 빠르게 확인하고 쌩얼 자신감을 찾아보세요.\n\n#이효리 #이효리립스틱 #맥립스틱 #이효리민낯 #쇼핑쇼츠 #쌩얼립스틱 #버건디립 #혈색립스틱 #연예인파우치 #이효리라방 #민낯메이크업 #10초케어 #연예인꿀팁 #생기립스틱 #이효리리즈",
+        "duration": "PT18S"
+      },
+      {
+        "video_id": "h2ibuJ5yWTs",
+        "title": "이 팔과 겨루기 전에 먼저 봐야 할 장면 | 김민경",
+        "channel_title": "롱폼1",
+        "subscriber_count": 2860,
+        "view_count": 168159,
+        "published_at": "2026-10-19T01:00:37+00:00",
+        "score": 58.796853146853145,
+        "url": "https://youtu.be/h2ibuJ5yWTs",
+        "rank": 39,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "팔씨름 상대 반응을 질문으로 두고 중량 훈련과 탑 롤 승부를 증거로 회수.\n\n커피를 건 팔씨름｜김민경과 김준호\n팔씨름 보조 훈련｜기구로 60kg 당기기\n팔씨름 탑 롤 연습｜기술 적용과 상대 반응\n\n원본 출처:\nhttps://www.youtube.com/watch?v=nWMfS6-rDwY\nhttps://www.youtube.com/watch?v=vAmsbvSmaNU\nhttps://www.youtube.com/watch?v=G2xMNtBJ0HE\n\n#김민경 #운동뚱 #쇼츠",
+        "duration": "PT46S"
+      },
+      {
+        "video_id": "-ZN3ynAt0Xg",
+        "title": "관장님이 86kg이라는데 그대로 안아서 번쩍!",
+        "channel_title": "롱폼1",
+        "subscriber_count": 2860,
+        "view_count": 159773,
+        "published_at": "2026-09-27T04:05:10+00:00",
+        "score": 55.86468531468532,
+        "url": "https://youtu.be/-ZN3ynAt0Xg",
+        "rank": 40,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "몸무게를 확인한 뒤 86kg 양치승 관장을 들어 올리는 김민경. 반대로 들어 보려던 관장은 포기합니다.\n\n#김민경 #운동뚱 #쇼츠",
+        "duration": "PT9S"
+      },
+      {
+        "video_id": "E25XYK5V564",
+        "title": "제자리에서 찼는데 미트가 번쩍 들림",
+        "channel_title": "롱폼1",
+        "subscriber_count": 2860,
+        "view_count": 158323,
+        "published_at": "2026-09-30T04:00:10+00:00",
+        "score": 55.35769230769231,
+        "url": "https://youtu.be/E25XYK5V564",
+        "rank": 41,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "준비 동작 없이 제자리에서 찬 발차기. 미트가 위로 들리자 코치와 김민경의 웃음이 이어집니다.\n\n원본: https://www.youtube.com/watch?v=ASIX5vGHezk\n\n#김민경 #운동뚱 #shorts",
+        "duration": "PT13S"
+      },
+      {
+        "video_id": "rYBAe-3QXfo",
+        "title": "절대 못빠져 나온다는 주짓수 기술인데 본능으로 쉽게 뒤집는 김민경#김민경#민경장군#주짓수#운동뚱",
+        "channel_title": "득템랩",
+        "subscriber_count": 2220,
+        "view_count": 118685,
+        "published_at": "2026-09-28T08:30:20+00:00",
+        "score": 53.461711711711715,
+        "url": "https://youtu.be/rYBAe-3QXfo",
+        "rank": 42,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "절대 못빠져 나온다는 주짓수 기술인데 본능으로 쉽게 뒤집는 김민경#김민경#민경장군#주짓수#운동뚱",
+        "duration": "PT24S"
+      },
+      {
+        "video_id": "kQZq8OXI4Ao",
+        "title": "무릎만 넣으랬는데 상대가 옆으로 날아감",
+        "channel_title": "롱폼1",
+        "subscriber_count": 2860,
+        "view_count": 145604,
+        "published_at": "2026-09-28T04:05:20+00:00",
+        "score": 50.91048951048951,
+        "url": "https://youtu.be/kQZq8OXI4Ao",
+        "rank": 43,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "상대를 밀어내는 주짓수 연습에서 벌어진 뜻밖의 장면. 상대가 옆으로 넘어가자 김민경과 김동현도 놀랍니다.\n\n#김민경 #운동뚱 #쇼츠",
+        "duration": "PT12S"
+      },
+      {
+        "video_id": "Bl3hzy7HmY4",
+        "title": "발 바꾸는 순간 코치도 당황한 발차기",
+        "channel_title": "롱폼1",
+        "subscriber_count": 2860,
+        "view_count": 140424,
+        "published_at": "2026-10-15T01:00:11+00:00",
+        "score": 49.0993006993007,
+        "url": "https://youtu.be/Bl3hzy7HmY4",
+        "rank": 44,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "킥복싱 공격과 방어를 연습하는 김민경. 발을 바꾸며 들어가는 공격과 이를 받는 코치의 반응입니다.\n\n원본: https://www.youtube.com/watch?v=-pMrkAztJtY\n#김민경 #운동뚱 #쇼츠",
+        "duration": "PT25S"
+      },
+      {
+        "video_id": "IC2FtSTCpzk",
+        "title": "공을 찼을 뿐인데 스프링이 날아감 | 김민경",
+        "channel_title": "롱폼1",
+        "subscriber_count": 2860,
+        "view_count": 138701,
+        "published_at": "2026-09-29T01:05:20+00:00",
+        "score": 48.49685314685315,
+        "url": "https://youtu.be/IC2FtSTCpzk",
+        "rank": 45,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "족구 연습 기구의 공을 찬 김민경. 스프링이 날아가자 코치도 18년 만에 처음이라며 놀랍니다.\n\n원본: https://www.youtube.com/watch?v=OmrkPuWsvqQ\n#김민경 #운동뚱 #족구 #쇼츠",
+        "duration": "PT14S"
+      },
+      {
+        "video_id": "_CdAO4hPjlI",
+        "title": "코치님을 찬다고 생각해 그 말에 더 세진 발차기",
+        "channel_title": "롱폼1",
+        "subscriber_count": 2860,
+        "view_count": 135693,
+        "published_at": "2026-09-27T01:05:10+00:00",
+        "score": 47.4451048951049,
+        "url": "https://youtu.be/_CdAO4hPjlI",
+        "rank": 46,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "코치를 찬다고 생각하며 미트를 차는 김민경. 잘했지만 기분은 이상하다는 코치의 반응을 담았습니다.\n\n#김민경 #운동뚱 #쇼츠",
+        "duration": "PT11S"
+      },
+      {
+        "video_id": "DMmLvyUX1ec",
+        "title": "인파 속 박보검 찾으셨나요? 3개월 전엔 \"제가 할 수 있을까요?\"",
+        "channel_title": "결정적한번",
+        "subscriber_count": 2380,
+        "view_count": 110460,
+        "published_at": "2026-10-02T11:20:04+00:00",
+        "score": 46.411764705882355,
+        "url": "https://youtu.be/DMmLvyUX1ec",
+        "rank": 1,
+        "matched_queries": [
+          "션 러닝"
+        ],
+        "description": "출전 소식 없이 달린 2026 베를린 마라톤.\n팬이 2시간이 넘는 공식 중계를 뒤져 결승 인파 속에서 박보검을 찾아냈습니다.\n\n3개월 전, 션의 제안에 \"선배님, 제가 할수 있을까요?\"라고 묻던 그는\n며칠 뒤 \"선배님 저 한번 도전해볼게요!\"라고 답했고, 42.195km를 완주했습니다.\n그리고 션의 한마디. \"나중에 또 풀코스 뛸거지?^^\"\n\n출처 · BMW BERLIN-MARATHON 공식 YouTube 중계\nhttps://www.youtube.com/watch?v=4bHzqKPj674\n출처 · 션 Instagram @jinusean3000 (글·사진)\n출처 · X @gummyblue_ (참가자 영상 재게시)\n\n#박보검 #ParkBoGum #베를린마라톤 #BerlinMarathon #션 #마라톤 #Shorts",
+        "duration": "PT18S"
+      },
+      {
+        "video_id": "Td_6hPz1ox8",
+        "title": "맞춰준다던 김동현 결국 주저앉았습니다",
+        "channel_title": "롱폼1",
+        "subscriber_count": 2860,
+        "view_count": 122960,
+        "published_at": "2026-10-06T04:00:00+00:00",
+        "score": 42.99300699300699,
+        "url": "https://youtu.be/Td_6hPz1ox8",
+        "rank": 47,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "김동현과 가벼운 스파링을 하는 김민경. 연속 공격을 피하던 김동현이 주저앉고 두 사람이 웃는 장면입니다.\n\n원본: https://www.youtube.com/watch?v=qGgSjr1ZsF8\n#김민경 #운동뚱 #쇼츠",
+        "duration": "PT30S"
+      },
+      {
+        "video_id": "OtpyQQvH0nU",
+        "title": "3천원대 고무밴드로 집에서 전소미 직각 어깨 만드는 법 #쇼츠",
+        "channel_title": "엔나pick",
+        "subscriber_count": 3720,
+        "view_count": 152096,
+        "published_at": "2026-09-29T09:00:06+00:00",
+        "score": 40.88602150537634,
+        "url": "https://youtu.be/OtpyQQvH0nU",
+        "rank": 1,
+        "matched_queries": [
+          "전소미 운동"
+        ],
+        "description": "전소미도 타고난 게 아니라 매일 노력해서 만든 직각 어깨!\n\n집에서 3천원대 가성비 고무밴드로 말린 어깨와 굽은 등 싹 펴주는 1분 스트레칭 루틴입니다.\n\n📌 전소미 어깨 운동 고무밴드 정보 (쿠팡 3천원대)\n\n👉 [인포크링크 주소 또는 쿠팡 파트너스 링크]\n\n(댓글에서도 확인하실 수 있습니다!)\n\n#전소미 #직각어깨 #말린어깨 #굽은등교정 #라텍스밴드 #어깨스트레칭 #홈트레이닝 #가성비운동기구\n\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+        "duration": "PT29S"
+      },
+      {
+        "video_id": "lkDfy-dKvH4",
+        "title": "자세까지 따라 해도 손목이 꺾여버림",
+        "channel_title": "롱폼1",
+        "subscriber_count": 2860,
+        "view_count": 111438,
+        "published_at": "2026-10-11T07:00:15+00:00",
+        "score": 38.964335664335664,
+        "url": "https://youtu.be/lkDfy-dKvH4",
+        "rank": 48,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "김민경의 자세를 따라 한 상대와 팔씨름 재대결. 레디, 고 신호 뒤 손목 기술과 체중 이동을 보여주고, 원본의 2 대 0 스코어로 마무리합니다.\n\n원본: https://www.youtube.com/watch?v=vAmsbvSmaNU\n#김민경 #운동뚱 #쇼츠",
+        "duration": "PT15S"
+      },
+      {
+        "video_id": "K7ig64MNGHs",
+        "title": "피디가 못 민 80kg, 김민경이 앉으면 달라짐",
+        "channel_title": "롱폼1",
+        "subscriber_count": 2860,
+        "view_count": 106006,
+        "published_at": "2026-09-22T22:05:01+00:00",
+        "score": 37.06503496503497,
+        "url": "https://youtu.be/K7ig64MNGHs",
+        "rank": 49,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "영식 피디가 못 민 80kg 기구. 같은 자리에 앉은 김민경의 힘에 양치승 관장도 감탄합니다.\n원본: https://www.youtube.com/watch?v=tK3jDMH0pDo\n#김민경 #운동뚱 #쇼츠",
+        "duration": "PT16S"
+      },
+      {
+        "video_id": "ZS1DYAlfMjU",
+        "title": "손 위치만 바꿨는데 관장님이 바로 주저앉음",
+        "channel_title": "롱폼1",
+        "subscriber_count": 2860,
+        "view_count": 101667,
+        "published_at": "2026-09-24T01:05:27+00:00",
+        "score": 35.547902097902096,
+        "url": "https://youtu.be/ZS1DYAlfMjU",
+        "rank": 50,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "클린치 연습 중 손 위치를 바꾸자 관장님의 자세가 무너집니다. 당황한 김민경의 반응까지 담았습니다.\n\n#김민경 #운동뚱 #쇼츠",
+        "duration": "PT9S"
+      },
+      {
+        "video_id": "55-iKrDxGfs",
+        "title": "민경장군에 놀란 양치승 관장 #김민경 #운동뚱 #예능하이라이트",
+        "channel_title": "무비세",
+        "subscriber_count": 3590,
+        "view_count": 103408,
+        "published_at": "2026-09-29T22:15:15+00:00",
+        "score": 28.804456824512535,
+        "url": "https://youtu.be/55-iKrDxGfs",
+        "rank": 51,
+        "matched_queries": [
+          "김민경 운동"
+        ],
+        "description": "출처 : 시켜서 한다! 오늘부터 운동뚱\n출연 : 김민경\n\n구독과 좋아요는 큰 힘이 됩니다!📺\n\n\n\n비지니스 문의 : pabilsag154@gmail.com\nAI목소리를 활용하여 제작되었습니다.",
+        "duration": "PT17S"
+      }
+    ]
+  },
+  "second": {
+    "checked_at": "2026-10-21T12:48:35.283070+00:00",
+    "budget": 3400,
+    "prior_ledger_units": 6379,
+    "units_used": 2918,
+    "search_calls": 29,
+    "scans": [
+      {
+        "keyword": "강남 이상화 슬라이드보드",
+        "count": 1,
+        "units": 102
+      },
+      {
+        "keyword": "이상화 홈트 운동기구",
+        "count": 1,
+        "units": 100
+      },
+      {
+        "keyword": "전소미 운동 밴드",
+        "count": 1,
+        "units": 102
+      },
+      {
+        "keyword": "윤아 안보현 운동 필수템",
+        "count": 0,
+        "units": 102
+      },
+      {
+        "keyword": "연예인 운동 밴드 추천",
+        "count": 0,
+        "units": 102
+      },
+      {
+        "keyword": "셀럽 폼롤러",
+        "count": 0,
+        "units": 102
+      },
+      {
+        "keyword": "손담비 지압 스텝퍼",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "최화정 운동기구",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "한혜진 스텝퍼",
+        "count": 0,
+        "units": 102
+      },
+      {
+        "keyword": "한가인 장요근 운동",
+        "count": 1,
+        "units": 102
+      },
+      {
+        "keyword": "채정안 마사지볼",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "이청아 스트레칭 도구",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "김종국 홈트 밴드",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "한혜진 요가링",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "소유 폼롤러",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "엄정화 폼롤러",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "연예인 스텝박스",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "김지훈 푸쉬업바",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "김완선 운동",
+        "count": 0,
+        "units": 102
+      },
+      {
+        "keyword": "진서연 운동기구",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "박나래 케틀벨",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "연예인 슬라이드 보드",
+        "count": 1,
+        "units": 100
+      },
+      {
+        "keyword": "김혜수 훌라후프",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "장영란 운동기구",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "홍현희 운동기구",
+        "count": 0,
+        "units": 102
+      },
+      {
+        "keyword": "윤은혜 스트레칭 도구",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "한혜진 근력 밴드",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "전소미 발라링",
+        "count": 0,
+        "units": 100
+      },
+      {
+        "keyword": "셀럽 홈트 추천템",
+        "count": 0,
+        "units": 100
+      }
+    ],
+    "errors": [
+      {
+        "keyword": "연예인 운동용품 추천",
+        "error": "YouTube API 오류 (rateLimitExceeded): Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:809521089306'."
+      }
+    ],
+    "videos": [
+      {
+        "video_id": "ISVJSOKyiKI",
+        "title": "강남이 1분 만에 뻗어버린 이상화가 만든 홈트 보드 #강남 #이상화 #슬라이드보드 #홈트 #유튜브쇼핑",
+        "channel_title": "별템별픽",
+        "subscriber_count": 1330,
+        "view_count": 1045862,
+        "published_at": "2026-10-03T21:30:33+00:00",
+        "score": 786.3624060150375,
+        "url": "https://youtu.be/ISVJSOKyiKI",
+        "rank": 1,
+        "matched_queries": [
+          "강남 이상화 슬라이드보드",
+          "이상화 홈트 운동기구",
+          "연예인 슬라이드 보드"
+        ]
+      },
+      {
+        "video_id": "KNZ0egxNyuE",
+        "title": "45세 한가인이 콕 집어 배우는 ‘이 근육’…50대라면 알아두세요",
+        "channel_title": "인생1막과2막사이~~",
+        "subscriber_count": 627,
+        "view_count": 276166,
+        "published_at": "2026-10-02T14:34:48+00:00",
+        "score": 440.4561403508772,
+        "url": "https://youtu.be/KNZ0egxNyuE",
+        "rank": 1,
+        "matched_queries": [
+          "한가인 장요근 운동"
+        ]
+      },
+      {
+        "video_id": "OtpyQQvH0nU",
+        "title": "3천원대 고무밴드로 집에서 전소미 직각 어깨 만드는 법 #쇼츠",
+        "channel_title": "엔나pick",
+        "subscriber_count": 3720,
+        "view_count": 152133,
+        "published_at": "2026-09-29T09:00:06+00:00",
+        "score": 40.895967741935486,
+        "url": "https://youtu.be/OtpyQQvH0nU",
+        "rank": 1,
+        "matched_queries": [
+          "전소미 운동 밴드"
+        ]
+      }
+    ]
+  },
+  "merged": [
+    {
+      "video_id": "Al1DhqTA9sk",
+      "title": "어우 근데 진짜 쎄요",
+      "channel_title": "피자가게",
+      "subscriber_count": 394,
+      "view_count": 1374755,
+      "published_at": "2026-09-29T10:01:01+00:00",
+      "score": 3489.2258883248733,
+      "url": "https://youtu.be/Al1DhqTA9sk",
+      "rank": 1,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "맛있는 녀석들의 세계관을 확장하는 맛녀석 유니버스 1탄! 5년 동안 먹방을 평정했던 맛있는 녀석들이 시청자들이 시키는 대로 건강하게 더 잘 먹기 위한 맞춤 건강 프로젝트\n\n#운동뚱 #오늘부터운동뚱 #김민경 #킥복싱",
+      "duration": "PT56S"
+    },
+    {
+      "video_id": "3QA3-9P5OP4",
+      "title": "이번엔 유도다",
+      "channel_title": "피자가게",
+      "subscriber_count": 394,
+      "view_count": 1364775,
+      "published_at": "2026-10-08T11:00:25+00:00",
+      "score": 3463.895939086294,
+      "url": "https://youtu.be/3QA3-9P5OP4",
+      "rank": 2,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "맛있는 녀석들의 세계관을 확장하는 맛녀석 유니버스 1탄! 5년 동안 먹방을 평정했던 맛있는 녀석들이 시청자들이 시키는 대로 건강하게 더 잘 먹기 위한 맞춤 건강 프로젝트\n\n#운동뚱 #오늘부터운동뚱 #김민경 #민경장군 #영식이형 #유도 #금메달 #금메달리스트 #볼링",
+      "duration": "PT1M"
+    },
+    {
+      "video_id": "uP4V9dqbYMM",
+      "title": "장원영과 지수를 만난 디올 디자이너, 묘하게 다른 바이브 ㅋㅋ",
+      "channel_title": "멍이뉴스",
+      "subscriber_count": 1560,
+      "view_count": 2755939,
+      "published_at": "2026-10-01T03:00:33+00:00",
+      "score": 1766.627564102564,
+      "url": "https://youtu.be/uP4V9dqbYMM",
+      "rank": 1,
+      "matched_queries": [
+        "장원영 운동"
+      ],
+      "description": "",
+      "duration": "PT20S"
+    },
+    {
+      "video_id": "A_cdVTQI1gc",
+      "title": "주짓수는 기술이라더니 상대가 김민경이면??ㅋㅋ #운동뚱 #김민경 #오늘부터운동뚱 #민경장군 #영식이형",
+      "channel_title": "볼고양",
+      "subscriber_count": 561,
+      "view_count": 909488,
+      "published_at": "2026-09-28T15:59:04+00:00",
+      "score": 1621.1907308377897,
+      "url": "https://youtu.be/A_cdVTQI1gc",
+      "rank": 3,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "",
+      "duration": "PT21S"
+    },
+    {
+      "video_id": "pztJRpNYAm8",
+      "title": "아니 안 쓴 힘을 어떻게 빼요 ㅋㅋ #운동뚱 #오늘부터운동뚱 #김민경 #민경장군 #영식이형 #주짓수",
+      "channel_title": "볼고양",
+      "subscriber_count": 561,
+      "view_count": 656260,
+      "published_at": "2026-09-29T02:29:38+00:00",
+      "score": 1169.8039215686274,
+      "url": "https://youtu.be/pztJRpNYAm8",
+      "rank": 4,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "",
+      "duration": "PT21S"
+    },
+    {
+      "video_id": "pc41hOG4S_Q",
+      "title": "관장님,코치님을 휘청거리게만든 민경장군님?? #운동뚱 #오늘부터운동뚱 #김민경 #민경장군 #영식이형 #킥복싱",
+      "channel_title": "아자유튜브",
+      "subscriber_count": 779,
+      "view_count": 801193,
+      "published_at": "2026-09-22T03:50:15+00:00",
+      "score": 1028.4890885750963,
+      "url": "https://youtu.be/pc41hOG4S_Q",
+      "rank": 5,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "위 영상은 일부 장면을 편집한 쇼츠입니다.\n\n맛있는 녀석들의 세계관을 확장하는 맛녀석 유니버스 1탄! 5년 동안 먹방을 평정했던 맛있는 녀석들이 시청자들이 시키는 대로 건강하게 더 잘 먹기 위한 맞춤 건강 프로젝트\n\n#운동뚱 #오늘부터운동뚱 #김민경 #민경장군 #영식이형",
+      "duration": "PT42S"
+    },
+    {
+      "video_id": "V0KEtSSVFN0",
+      "title": "민경장군은 손으로 헬멧을 찢어.. #운동뚱 #김민경 #오늘부터운동뚱",
+      "channel_title": "공감TV",
+      "subscriber_count": 2230,
+      "view_count": 2013067,
+      "published_at": "2026-09-23T05:00:21+00:00",
+      "score": 902.7206278026906,
+      "url": "https://youtu.be/V0KEtSSVFN0",
+      "rank": 6,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "#운동뚱 #오늘부터운동뚱 #김민경 #민경장군 #영식이형",
+      "duration": "PT54S"
+    },
+    {
+      "video_id": "gmO5Gpi3CNU",
+      "title": "결국 한마디 하는 카즈하 ! 참을 만큼 참은 카즈하의 경고가 기안에게 향하는데 #대환장기안장2 #기안장2",
+      "channel_title": "너굴양",
+      "subscriber_count": 864,
+      "view_count": 719719,
+      "published_at": "2026-09-29T13:28:10+00:00",
+      "score": 833.0081018518518,
+      "url": "https://youtu.be/gmO5Gpi3CNU",
+      "rank": 1,
+      "matched_queries": [
+        "카즈하 복근 운동"
+      ],
+      "description": "넷플릭스 대환장 기안장 시즌2 장면을 리뷰한 영상입니다.\n\n기안84가 직접 운영하는 민박집 ‘기안장’에\n새로운 투숙객들이 찾아옵니다.\n\n각양각색의 손님들과 함께하며 벌어지는\n예측불허의 상황들.\n\n기안장만의 독특한 분위기 속에서\n웃음과 황당한 사건이 끊이지 않는데요.\n\n과연 이번 시즌에는\n어떤 대환장 에피소드가 펼쳐질까요?\n\n#드라마추천 #드라마리뷰 #드라마몰아보기",
+      "duration": "PT44S"
+    },
+    {
+      "video_id": "ISVJSOKyiKI",
+      "title": "강남이 1분 만에 뻗어버린 이상화가 만든 홈트 보드 #강남 #이상화 #슬라이드보드 #홈트 #유튜브쇼핑",
+      "channel_title": "별템별픽",
+      "subscriber_count": 1330,
+      "view_count": 1045862,
+      "published_at": "2026-10-03T21:30:33+00:00",
+      "score": 786.3624060150375,
+      "url": "https://youtu.be/ISVJSOKyiKI",
+      "rank": 1,
+      "matched_queries": [
+        "연예인 홈트 운동기구",
+        "강남 이상화 슬라이드보드",
+        "이상화 홈트 운동기구",
+        "연예인 슬라이드 보드"
+      ],
+      "description": "\"보기엔 안 힘들어 보이죠? 1분도 안 돼서...\"\n\n강남이 땀을 쏟은 슬라이드 보드입니다.\n아내 이상화가 만든 제품이라고 해요.\n\n✔️ 실제 스케이트 선수들이 하는 훈련 방식\n✔️ 양옆으로 스케이트 타듯 밀어내는 동작\n✔️ 집 거실에 펼쳐놓고 바로 할 수 있는 크기\n\n\"대단한 친구예요\" — 강남이 아내에게 한 말.\n\n스타가 실제로 쓰는 물건만 골라 보여드립니다.\n구독하고 다음 별템도 놓치지 마세요 ⭐\n\n출처 : 동네친구 강나미\n\n#강남 #이상화 #슬라이드보드\n#강남이상화 #동네친구강나미 #연예인부부 #셀럽템 #슬라이드보드 #홈트기구 #운동기구 #실내운동기구 #스케이트보드운동 #홈트 #홈트레이닝 #집에서운동 #유산소 #하체운동 #운동초보 #금메달리스트 #스피드스케이팅 #선수운동법 #전문가추천 #운동템 #거실운동 #짧은운동 #1분운동 #강나미 #슬라이딩보드 #홈트템 #스케이트운동 #유산소운동 #다이어트운동 #실내운동 #연예인운동 #부부유튜버 #연예인추천템 #쇼핑추천 #내돈내산 #유튜브쇼핑",
+      "duration": "PT20S"
+    },
+    {
+      "video_id": "5uxG1vGyanI",
+      "title": "말라깽이 된다구요..?",
+      "channel_title": "피자가게",
+      "subscriber_count": 394,
+      "view_count": 298939,
+      "published_at": "2026-10-02T08:00:22+00:00",
+      "score": 758.7284263959391,
+      "url": "https://youtu.be/5uxG1vGyanI",
+      "rank": 7,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "맛있는 녀석들의 세계관을 확장하는 맛녀석 유니버스 1탄! 5년 동안 먹방을 평정했던 맛있는 녀석들이 시청자들이 시키는 대로 건강하게 더 잘 먹기 위한 맞춤 건강 프로젝트\n\n#운동뚱 #오늘부터운동뚱 #김민경 #복싱 #파퀴아오",
+      "duration": "PT50S"
+    },
+    {
+      "video_id": "FUpAp0-LkwM",
+      "title": "쫄았어요?",
+      "channel_title": "피자가게",
+      "subscriber_count": 394,
+      "view_count": 266205,
+      "published_at": "2026-09-23T07:30:38+00:00",
+      "score": 675.6472081218274,
+      "url": "https://youtu.be/FUpAp0-LkwM",
+      "rank": 8,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "맛있는 녀석들의 세계관을 확장하는 맛녀석 유니버스 1탄! 5년 동안 먹방을 평정했던 맛있는 녀석들이 시청자들이 시키는 대로 건강하게 더 잘 먹기 위한 맞춤 건강 프로젝트\n\n#운동뚱 #오늘부터운동뚱 #김민경 #김동현 #황인수 #종합격투기",
+      "duration": "PT57S"
+    },
+    {
+      "video_id": "gB-K64JKgro",
+      "title": "코치님 따라오지마세요",
+      "channel_title": "웃쇼",
+      "subscriber_count": 563,
+      "view_count": 352006,
+      "published_at": "2026-10-05T07:38:23+00:00",
+      "score": 625.2326820603907,
+      "url": "https://youtu.be/gB-K64JKgro",
+      "rank": 9,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "#운동뚱 #오늘부터운동뚱 #김민경 #민경장군 #영식이형 #킥복싱",
+      "duration": "PT30S"
+    },
+    {
+      "video_id": "hmGhmuVbDTM",
+      "title": "UDT의 아들인 조카를 강하게 키우는 덱스 #덱스 #예능레전드 #예능",
+      "channel_title": "예능피디",
+      "subscriber_count": 2660,
+      "view_count": 1579871,
+      "published_at": "2026-09-22T10:30:15+00:00",
+      "score": 593.9364661654135,
+      "url": "https://youtu.be/hmGhmuVbDTM",
+      "rank": 1,
+      "matched_queries": [
+        "덱스 운동"
+      ],
+      "description": "#덱스 #예능레전드 #예능",
+      "duration": "PT40S"
+    },
+    {
+      "video_id": "-qJbfAKF_kU",
+      "title": "사람이 날라가진 않는데..",
+      "channel_title": "웃쇼",
+      "subscriber_count": 563,
+      "view_count": 333947,
+      "published_at": "2026-09-24T01:06:28+00:00",
+      "score": 593.1563055062167,
+      "url": "https://youtu.be/-qJbfAKF_kU",
+      "rank": 10,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "출처 : 시켜서 한다! 오늘부터 운동뚱 42회\n\n#운동뚱 #오늘부터운동뚱 #김민경 #민경장군 #주짓수",
+      "duration": "PT42S"
+    },
+    {
+      "video_id": "KNZ0egxNyuE",
+      "title": "45세 한가인이 콕 집어 배우는 ‘이 근육’…50대라면 알아두세요",
+      "channel_title": "인생1막과2막사이~~",
+      "subscriber_count": 627,
+      "view_count": 276166,
+      "published_at": "2026-10-02T14:34:48+00:00",
+      "score": 440.4561403508772,
+      "url": "https://youtu.be/KNZ0egxNyuE",
+      "rank": 1,
+      "matched_queries": [
+        "한가인 운동",
+        "한가인 장요근 운동"
+      ],
+      "description": "장요근, 이름은 들어봤는데 도대체 어디에 있는 근육일까요?🤔\n\n한가인이 선생님께 직접 배우는 장요근 운동을 보면 위치와 동작을 이해하기 훨씬 쉽습니다.\n\n장요근은 허리와 골반, 허벅지 쪽을 연결하는 깊은 근육으로 일상적인 움직임에도 관여합니다.\n\n특히 50대 이후에는 무조건 강하게 운동하기보다 내 몸에 맞게 천천히 움직이는 것이 중요합니다.\n\n영상 속 동작도 처음에는 무리하지 말고 통증 없는 범위에서 따라 해보세요.\n\n📌 장요근 위치가 헷갈린다면 저장해두고 운동할 때 다시 확인하세요!\n\n#한가인 #장요근 #장요근운동 #50대운동 #중년운동 #홈트 #근력운동 #건강운동 #운동루틴 #쇼츠",
+      "duration": "PT29S"
+    },
+    {
+      "video_id": "9x-e2bUDK1Y",
+      "title": "민경장군이 운동을 잘하는 진짜 이유 #운동뚱 #오늘부터운동뚱 #김민경 #민경장군 #영식이형",
+      "channel_title": "볼고양",
+      "subscriber_count": 561,
+      "view_count": 222455,
+      "published_at": "2026-09-29T21:45:32+00:00",
+      "score": 396.5329768270945,
+      "url": "https://youtu.be/9x-e2bUDK1Y",
+      "rank": 11,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "",
+      "duration": "PT29S"
+    },
+    {
+      "video_id": "RvaLw6P5M9c",
+      "title": "민경장군 주짓수 기술에 김동현이 놀란 이유? #운동뚱 #오늘부터운동뚱 #김민경 #민경장군 #김동현 #예능",
+      "channel_title": "아자유튜브",
+      "subscriber_count": 779,
+      "view_count": 280285,
+      "published_at": "2026-10-02T03:00:23+00:00",
+      "score": 359.801026957638,
+      "url": "https://youtu.be/RvaLw6P5M9c",
+      "rank": 11,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "위 영상은 일부 장면을 편집한 쇼츠입니다.\n\n맛있는 녀석들의 세계관을 확장하는 맛녀석 유니버스 1탄! 5년 동안 먹방을 평정했던 맛있는 녀석들이 시청자들이 시키는 대로 건강하게 더 잘 먹기 위한 맞춤 건강 프로젝트\n\n#운동뚱 #오늘부터운동뚱 #김민경 #민경장군 #영식이형#예능 #김동현",
+      "duration": "PT28S"
+    },
+    {
+      "video_id": "oV5wq1I-G1A",
+      "title": "이 무게를 든다고? 관장님도 소름 돋은 순간",
+      "channel_title": "롱폼1",
+      "subscriber_count": 2860,
+      "view_count": 950640,
+      "published_at": "2026-09-24T07:05:04+00:00",
+      "score": 332.3916083916084,
+      "url": "https://youtu.be/oV5wq1I-G1A",
+      "rank": 12,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "무거운 기구를 머리 위까지 들어 올린 김민경. 양치승 관장도 소리를 지르며 놀랍니다.\n\n#김민경 #운동뚱 #쇼츠",
+      "duration": "PT13S"
+    },
+    {
+      "video_id": "kqWJjRrB9rM",
+      "title": "배트를 잡자마자 스윙부터 달라짐",
+      "channel_title": "롱폼1",
+      "subscriber_count": 2860,
+      "view_count": 914862,
+      "published_at": "2026-10-09T07:00:29+00:00",
+      "score": 319.8818181818182,
+      "url": "https://youtu.be/kqWJjRrB9rM",
+      "rank": 13,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "양준혁에게 야구 타격을 배우는 김민경. 힘찬 연습 스윙에 이어 날아오는 공을 실제로 치는 모습을 담았습니다.\n\n원본: https://www.youtube.com/watch?v=k5roWR4wMzM\n#김민경 #운동뚱 #쇼츠",
+      "duration": "PT30S"
+    },
+    {
+      "video_id": "T90KzmJ14Eo",
+      "title": "헬스 10년 차 VS 운동 3주 차",
+      "channel_title": "롱폼1",
+      "subscriber_count": 2860,
+      "view_count": 713131,
+      "published_at": "2026-10-05T22:00:29+00:00",
+      "score": 249.3465034965035,
+      "url": "https://youtu.be/T90KzmJ14Eo",
+      "rank": 14,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "헬스 10년 차 트레이너와 허벅지 씨름에 나선 김민경. 준비부터 힘겨루기, 트레이너의 다리가 벌어지는 순간과 현장 반응을 담았습니다.\n\n원본: https://www.youtube.com/watch?v=1HtZrh5Y4oU\n#김민경 #운동뚱 #쇼츠",
+      "duration": "PT26S"
+    },
+    {
+      "video_id": "HmSQJpdc0Kc",
+      "title": "비가 버티고 있는데 다리가 벌어져 버림 | 김민경",
+      "channel_title": "롱폼1",
+      "subscriber_count": 2860,
+      "view_count": 637512,
+      "published_at": "2026-09-28T22:05:35+00:00",
+      "score": 222.9062937062937,
+      "url": "https://youtu.be/HmSQJpdc0Kc",
+      "rank": 15,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "비와 김민경의 허벅지 씨름. 시작 신호부터 버티는 과정, 비의 다리가 벌어지는 순간과 현장의 반응까지 담았습니다.\n\n원본: https://www.youtube.com/watch?v=wZmUYT8g89U\n#김민경 #운동뚱 #허벅지씨름 #쇼츠",
+      "duration": "PT38S"
+    },
+    {
+      "video_id": "7vT_nwYHt-Y",
+      "title": "ROAD FC 출신 상대로 카운터 한 방에 주저앉힘",
+      "channel_title": "롱폼1",
+      "subscriber_count": 2860,
+      "view_count": 626075,
+      "published_at": "2026-10-05T07:00:25+00:00",
+      "score": 218.90734265734267,
+      "url": "https://youtu.be/7vT_nwYHt-Y",
+      "rank": 16,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "ROAD FC 출신 이승윤과 스파링하는 김민경. 방어하다가 몸통으로 반격한 순간과 주저앉은 상대의 직후 반응을 담았습니다.\n\n원본: https://www.youtube.com/watch?v=lIKB0hZVsqk\n#김민경 #운동뚱 #쇼츠",
+      "duration": "PT15S"
+    },
+    {
+      "video_id": "qkkS8-LUqFc",
+      "title": "김동현을 들어 올려 그대로 업어치기 | 김민경",
+      "channel_title": "롱폼1",
+      "subscriber_count": 2860,
+      "view_count": 594277,
+      "published_at": "2026-10-03T04:00:08+00:00",
+      "score": 207.78916083916084,
+      "url": "https://youtu.be/qkkS8-LUqFc",
+      "rank": 17,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "격투기 선수 김동현과 업어치기를 연습하는 김민경. 함께 기술을 연습하는 장면이며 실제 승부 결과가 아닙니다.\n\n원본: https://www.youtube.com/watch?v=cT4vbP0ZMy0\n#김민경 #운동뚱 #쇼츠",
+      "duration": "PT15S"
+    },
+    {
+      "video_id": "SB0JLO8peoM",
+      "title": "더 세게 차라고 했더니 바로 주저앉은 상대",
+      "channel_title": "롱폼1",
+      "subscriber_count": 2860,
+      "view_count": 550900,
+      "published_at": "2026-10-04T22:00:21+00:00",
+      "score": 192.62237762237763,
+      "url": "https://youtu.be/SB0JLO8peoM",
+      "rank": 18,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "전자호구로 발차기 파워를 확인하는 김민경. 더 강하게 차보라는 요청 뒤, 발차기를 받은 상대의 반응을 담았습니다.\n\n원본: https://www.youtube.com/watch?v=ji3Xw9ej-gg\n#김민경 #운동뚱 #쇼츠",
+      "duration": "PT16S"
+    },
+    {
+      "video_id": "Nk85BMQ2sZk",
+      "title": "자신 있게 나선 김동현, 김민경에게 바로 탭ㅋㅋ",
+      "channel_title": "롱폼1",
+      "subscriber_count": 2860,
+      "view_count": 511321,
+      "published_at": "2026-09-22T01:05:00+00:00",
+      "score": 178.78356643356642,
+      "url": "https://youtu.be/Nk85BMQ2sZk",
+      "rank": 19,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "김민경의 백초크 연습 상대를 자청한 김동현. 자신 있게 나섰지만 힘이 들어가자 곧바로 탭합니다.\n\n#운동뚱 #김민경 #예능 #shorts",
+      "duration": "PT13S"
+    },
+    {
+      "video_id": "6sC449v8Dck",
+      "title": "전 챔피언 기록은 80cm, 김민경이 한 번 차면?",
+      "channel_title": "롱폼1",
+      "subscriber_count": 2860,
+      "view_count": 477327,
+      "published_at": "2026-09-23T04:05:12+00:00",
+      "score": 166.89755244755244,
+      "url": "https://youtu.be/6sC449v8Dck",
+      "rank": 20,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "발차기로 방패 든 제작진을 밀어내는 거리 대결. 전 챔피언의 80cm 기록 앞에서 김민경은 97cm를 기록했습니다.\n원본: https://www.youtube.com/watch?v=-pMrkAztJtY\n#김민경 #운동뚱 #쇼츠",
+      "duration": "PT11S"
+    },
+    {
+      "video_id": "QeIIA2t0AHc",
+      "title": "PD가 뒤에서 잡았는데 그대로 업어서 쾅!",
+      "channel_title": "롱폼1",
+      "subscriber_count": 2860,
+      "view_count": 451853,
+      "published_at": "2026-09-24T22:05:34+00:00",
+      "score": 157.99055944055945,
+      "url": "https://youtu.be/QeIIA2t0AHc",
+      "rank": 21,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "뒤에서 잡혔을 때의 대응을 연습하던 김민경. PD를 매트로 넘긴 뒤 두 사람이 나누는 반응을 담았습니다.\n\n#김민경 #운동뚱 #쇼츠",
+      "duration": "PT11S"
+    },
+    {
+      "video_id": "qkW-pwGhyN8",
+      "title": "못 든다던 무게를 번쩍 들었다 #운동뚱 #오늘부터운동뚱 #김민경 #민경장군 #영식이형",
+      "channel_title": "우낄라꼬",
+      "subscriber_count": 1300,
+      "view_count": 201131,
+      "published_at": "2026-09-24T05:00:24+00:00",
+      "score": 154.71615384615384,
+      "url": "https://youtu.be/qkW-pwGhyN8",
+      "rank": 23,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "영식이형도 못 들던 무게를 김민경이 번쩍 들자 관장님이 소름 돋았다고 했다.\n\n출처: 시켜서 한다! 오늘부터 운동뚱\n\n#운동뚱 #오늘부터운동뚱 #김민경 #민경장군 #영식이형",
+      "duration": "PT33S"
+    },
+    {
+      "video_id": "T1QlbakMdtU",
+      "title": "기술 배우고 다시 붙었다! 달라진 김민경의 팔씨름",
+      "channel_title": "롱폼1",
+      "subscriber_count": 2860,
+      "view_count": 332394,
+      "published_at": "2026-09-22T04:05:23+00:00",
+      "score": 116.22167832167833,
+      "url": "https://youtu.be/T1QlbakMdtU",
+      "rank": 22,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "정지민과 다시 맞붙은 김민경. 배운 기술을 활용한 손목 움직임과 달라진 승부를 담았습니다.\n\n#운동뚱 #김민경 #예능 #shorts",
+      "duration": "PT19S"
+    },
+    {
+      "video_id": "3M40mymENiA",
+      "title": "숨길 수 없는 타고난 힘",
+      "channel_title": "팝콘가게",
+      "subscriber_count": 1690,
+      "view_count": 189846,
+      "published_at": "2026-09-22T08:30:26+00:00",
+      "score": 112.33491124260355,
+      "url": "https://youtu.be/3M40mymENiA",
+      "rank": 25,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "맛있는 녀석들의 세계관을 확장하는 맛녀석 유니버스 1탄! 5년 동안 먹방을 평정했던 맛있는 녀석들이 시청자들이 시키는 대로 건강하게 더 잘 먹기 위한 맞춤 건강 프로젝트 \n\n#운동뚱 #오늘부터운동뚱 #김민경 #민경장군 #영식이형",
+      "duration": "PT56S"
+    },
+    {
+      "video_id": "v8--VZ4kWAI",
+      "title": "병뚜껑 챌린지에 도전한 김민경, 발차기에 터진 박수",
+      "channel_title": "롱폼1",
+      "subscriber_count": 2860,
+      "view_count": 316630,
+      "published_at": "2026-09-21T22:05:01+00:00",
+      "score": 110.70979020979021,
+      "url": "https://youtu.be/v8--VZ4kWAI",
+      "rank": 23,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "병뚜껑을 발로 여는 도전에 나선 김민경. 자세를 잡고 돌려차기를 선보이자 태권도 선수들의 박수가 터집니다.\n\n#운동뚱 #김민경 #예능 #shorts",
+      "duration": "PT12S"
+    },
+    {
+      "video_id": "1fmUmuoybRY",
+      "title": "보호대의 역할 #김민경 #운동뚱 #예능하이라이트",
+      "channel_title": "무비세",
+      "subscriber_count": 3590,
+      "view_count": 361485,
+      "published_at": "2026-09-28T08:45:18+00:00",
+      "score": 100.69220055710306,
+      "url": "https://youtu.be/1fmUmuoybRY",
+      "rank": 24,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "출처 : 시켜서 한다! 오늘부터 운동뚱\n출연 : 김민경\n\n\n구독과 좋아요는 큰 힘이 됩니다!📺\n\n#오늘부터운동뚱  #김민경금메달 #낭심차기 #웃긴장면\n\n비지니스 문의 : pabilsag154@gmail.com\nAI목소리를 활용하여 제작되었습니다.",
+      "duration": "PT35S"
+    },
+    {
+      "video_id": "mfh0YIZjY4Y",
+      "title": "연습으로 찬 발차기 한 방에 파워 80",
+      "channel_title": "롱폼1",
+      "subscriber_count": 2860,
+      "view_count": 284583,
+      "published_at": "2026-10-14T04:00:05+00:00",
+      "score": 99.50454545454545,
+      "url": "https://youtu.be/mfh0YIZjY4Y",
+      "rank": 28,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "태권도 발차기 파워 측정에 도전하는 김민경. 김민경이 직접 발차기를 하고 80점이 나오는 장면입니다.\n\n원본: https://www.youtube.com/watch?v=zZlzvABWigQ\n#김민경 #운동뚱 #쇼츠",
+      "duration": "PT8S"
+    },
+    {
+      "video_id": "M7hAojA9xoI",
+      "title": "제대로 맞은 한 방 비거리 100미터",
+      "channel_title": "롱폼1",
+      "subscriber_count": 2860,
+      "view_count": 246112,
+      "published_at": "2026-10-06T22:00:27+00:00",
+      "score": 86.05314685314686,
+      "url": "https://youtu.be/M7hAojA9xoI",
+      "rank": 25,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "스크린 야구에서 힘껏 스윙하는 김민경. 타구 비거리 100m가 표시되고 양준혁과 마해영이 반응하는 순간입니다.\n\n원본: https://www.youtube.com/watch?v=hz_EC_y8UOI\n#김민경 #운동뚱 #쇼츠",
+      "duration": "PT14S"
+    },
+    {
+      "video_id": "jF7GGFf8cIw",
+      "title": "어퍼컷을 꽂으니까 코치도 웃음이 터짐",
+      "channel_title": "롱폼1",
+      "subscriber_count": 2860,
+      "view_count": 242178,
+      "published_at": "2026-10-03T22:00:04+00:00",
+      "score": 84.67762237762238,
+      "url": "https://youtu.be/jF7GGFf8cIw",
+      "rank": 30,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "미트를 향해 어퍼컷을 치는 김민경. 타격을 받아본 김동현과 훈련을 지켜본 코치의 반응입니다.\n\n원본: https://www.youtube.com/watch?v=LdrPsP_KD5g\n#김민경 #운동뚱 #쇼츠",
+      "duration": "PT14S"
+    },
+    {
+      "video_id": "OLNoORKPBcg",
+      "title": "현재 반응 미친 카즈하 복근",
+      "channel_title": "볼사람",
+      "subscriber_count": 3780,
+      "view_count": 296030,
+      "published_at": "2026-09-25T08:29:23+00:00",
+      "score": 78.31481481481481,
+      "url": "https://youtu.be/OLNoORKPBcg",
+      "rank": 2,
+      "matched_queries": [
+        "카즈하 복근 운동"
+      ],
+      "description": "#kpop #idol #아이돌 #lesserafim #르세라핌 #kazuha #카즈하 #복근 #운동 #shorts",
+      "duration": "PT8S"
+    },
+    {
+      "video_id": "qkKjEwLQVrw",
+      "title": "뒤에서 붙잡았다가 바로 무릎 꿇음",
+      "channel_title": "롱폼1",
+      "subscriber_count": 2860,
+      "view_count": 220016,
+      "published_at": "2026-10-08T04:00:25+00:00",
+      "score": 76.92867132867133,
+      "url": "https://youtu.be/qkKjEwLQVrw",
+      "rank": 31,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "뒤에서 붙잡혔을 때 빠져나오는 크라브마가 훈련. 김민경이 즉시 반격하자 상대가 무릎을 꿇는 순간입니다.\n\n원본: https://www.youtube.com/watch?v=ASIX5vGHezk\n#김민경 #운동뚱 #쇼츠",
+      "duration": "PT13S"
+    },
+    {
+      "video_id": "8gr88-hlY_c",
+      "title": "가르칠수록 무서워지는 김민경의 파워 #운동뚱 #오늘부터운동뚱 #김민경 #민경장군 #영식이형",
+      "channel_title": "팝콘가게",
+      "subscriber_count": 1690,
+      "view_count": 125338,
+      "published_at": "2026-09-27T07:00:39+00:00",
+      "score": 74.16449704142012,
+      "url": "https://youtu.be/8gr88-hlY_c",
+      "rank": 32,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "맛있는 녀석들의 세계관을 확장하는 맛녀석 유니버스 1탄! 5년 동안 먹방을 평정했던 맛있는 녀석들이 시청자들이 시키는 대로 건강하게 더 잘 먹기 위한 맞춤 건강 프로젝트 \n\n#운동뚱 #오늘부터운동뚱 #김민경 #민경장군 #영식이형",
+      "duration": "PT33S"
+    },
+    {
+      "video_id": "2wkAVjo4o7M",
+      "title": "공이나 맞힐까 했는데 양준혁도 놀란 타격",
+      "channel_title": "롱폼1",
+      "subscriber_count": 2860,
+      "view_count": 210370,
+      "published_at": "2026-10-04T01:00:25+00:00",
+      "score": 73.55594405594405,
+      "url": "https://youtu.be/2wkAVjo4o7M",
+      "rank": 33,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "티 위에 놓인 공을 치는 타격 훈련에 나선 김민경. 힘을 실은 스윙과 타격을 지켜본 양준혁의 반응입니다.\n\n원본: https://www.youtube.com/watch?v=nwfQnWYJYTk\n#김민경 #운동뚱 #쇼츠",
+      "duration": "PT13S"
+    },
+    {
+      "video_id": "MfXyXimAKOU",
+      "title": "때려도 되냐던 피디 바로 되돌려받음",
+      "channel_title": "롱폼1",
+      "subscriber_count": 2860,
+      "view_count": 207790,
+      "published_at": "2026-10-07T04:00:36+00:00",
+      "score": 72.65384615384616,
+      "url": "https://youtu.be/MfXyXimAKOU",
+      "rank": 34,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "때려도 되냐고 묻던 영식 PD와 스파링하는 김민경. 공격을 피한 뒤 펀치로 반격하고 PD가 물러나는 장면입니다.\n\n원본: https://www.youtube.com/watch?v=IL5MNATPCj0\n#김민경 #운동뚱 #쇼츠",
+      "duration": "PT22S"
+    },
+    {
+      "video_id": "odoLhmeb3Yc",
+      "title": "밴드를 당기라고 했더니 관장님까지 따라왔다",
+      "channel_title": "롱폼1",
+      "subscriber_count": 2860,
+      "view_count": 197708,
+      "published_at": "2026-09-23T07:05:28+00:00",
+      "score": 69.12867132867133,
+      "url": "https://youtu.be/odoLhmeb3Yc",
+      "rank": 35,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "김민경 뒤에서 밴드를 잡고 버티던 관장님. 발목까지 돌리자 밴드와 함께 앞으로 끌려옵니다.\n원본: https://www.youtube.com/watch?v=XBUpQ1tgwpc\n#김민경 #운동뚱 #쇼츠",
+      "duration": "PT12S"
+    },
+    {
+      "video_id": "D9cp3PdJA4c",
+      "title": "김민경 주먹 받아보니 귀에서 윙 소리가",
+      "channel_title": "롱폼1",
+      "subscriber_count": 2860,
+      "view_count": 194584,
+      "published_at": "2026-10-04T07:00:26+00:00",
+      "score": 68.03636363636363,
+      "url": "https://youtu.be/D9cp3PdJA4c",
+      "rank": 36,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "보호구를 착용한 스파링에서 강한 훅과 몸통 공격을 보여주는 김민경. 주먹을 받아본 이주경의 반응을 담았습니다.\n\n원본: https://www.youtube.com/watch?v=qGgSjr1ZsF8\n#김민경 #운동뚱 #쇼츠",
+      "duration": "PT23S"
+    },
+    {
+      "video_id": "JWJAoKov3tc",
+      "title": "머리만 갖다 댔는데 골망이 흔들림",
+      "channel_title": "롱폼1",
+      "subscriber_count": 2860,
+      "view_count": 185433,
+      "published_at": "2026-10-10T07:00:05+00:00",
+      "score": 64.83671328671329,
+      "url": "https://youtu.be/JWJAoKov3tc",
+      "rank": 37,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "이천수가 던진 공을 헤딩으로 골대에 보내는 김민경. 연습에서 헤딩 골 성공과 이천수의 칭찬까지 이어집니다.\n\n원본: https://www.youtube.com/watch?v=G9JzhxlCvFo\n#김민경 #운동뚱 #쇼츠",
+      "duration": "PT21S"
+    },
+    {
+      "video_id": "hBChXcSr38k",
+      "title": "두 명이 달려들어도 반격부터 나가는 김민경",
+      "channel_title": "롱폼1",
+      "subscriber_count": 2860,
+      "view_count": 175543,
+      "published_at": "2026-10-09T04:00:01+00:00",
+      "score": 61.37867132867133,
+      "url": "https://youtu.be/hBChXcSr38k",
+      "rank": 38,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "보호구를 착용한 두 명을 상대하는 크라브마가 훈련. 김민경이 공격을 막고 반격하며, 뒤에서 붙잡혔을 때 업어치기로 대응합니다.\n\n원본: https://www.youtube.com/watch?v=3Xt6GB7FRL0\n#김민경 #운동뚱 #쇼츠",
+      "duration": "PT25S"
+    },
+    {
+      "video_id": "07Xo9o4LHco",
+      "title": "이효리가 요가 갈 때 무조건 챙긴다는 쌩얼 필수템 공개",
+      "channel_title": "템구름",
+      "subscriber_count": 2020,
+      "view_count": 119063,
+      "published_at": "2026-09-25T09:06:16+00:00",
+      "score": 58.94207920792079,
+      "url": "https://youtu.be/07Xo9o4LHco",
+      "rank": 1,
+      "matched_queries": [
+        "이효리 요가"
+      ],
+      "description": "이효리가 라방에서 직접 보여준 쌩얼 혈색 케어법이 궁금하셨나요? 요가 갈 때나 민낯일 때 10초 만에 생기를 살려주는 비밀 루틴을 영상에서 바로 확인해 보세요!\n품절 대란 나기 전에 아래 링크에서 빠르게 확인하고 쌩얼 자신감을 찾아보세요.\n\n#이효리 #이효리립스틱 #맥립스틱 #이효리민낯 #쇼핑쇼츠 #쌩얼립스틱 #버건디립 #혈색립스틱 #연예인파우치 #이효리라방 #민낯메이크업 #10초케어 #연예인꿀팁 #생기립스틱 #이효리리즈",
+      "duration": "PT18S"
+    },
+    {
+      "video_id": "h2ibuJ5yWTs",
+      "title": "이 팔과 겨루기 전에 먼저 봐야 할 장면 | 김민경",
+      "channel_title": "롱폼1",
+      "subscriber_count": 2860,
+      "view_count": 168159,
+      "published_at": "2026-10-19T01:00:37+00:00",
+      "score": 58.796853146853145,
+      "url": "https://youtu.be/h2ibuJ5yWTs",
+      "rank": 39,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "팔씨름 상대 반응을 질문으로 두고 중량 훈련과 탑 롤 승부를 증거로 회수.\n\n커피를 건 팔씨름｜김민경과 김준호\n팔씨름 보조 훈련｜기구로 60kg 당기기\n팔씨름 탑 롤 연습｜기술 적용과 상대 반응\n\n원본 출처:\nhttps://www.youtube.com/watch?v=nWMfS6-rDwY\nhttps://www.youtube.com/watch?v=vAmsbvSmaNU\nhttps://www.youtube.com/watch?v=G2xMNtBJ0HE\n\n#김민경 #운동뚱 #쇼츠",
+      "duration": "PT46S"
+    },
+    {
+      "video_id": "-ZN3ynAt0Xg",
+      "title": "관장님이 86kg이라는데 그대로 안아서 번쩍!",
+      "channel_title": "롱폼1",
+      "subscriber_count": 2860,
+      "view_count": 159773,
+      "published_at": "2026-09-27T04:05:10+00:00",
+      "score": 55.86468531468532,
+      "url": "https://youtu.be/-ZN3ynAt0Xg",
+      "rank": 40,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "몸무게를 확인한 뒤 86kg 양치승 관장을 들어 올리는 김민경. 반대로 들어 보려던 관장은 포기합니다.\n\n#김민경 #운동뚱 #쇼츠",
+      "duration": "PT9S"
+    },
+    {
+      "video_id": "E25XYK5V564",
+      "title": "제자리에서 찼는데 미트가 번쩍 들림",
+      "channel_title": "롱폼1",
+      "subscriber_count": 2860,
+      "view_count": 158323,
+      "published_at": "2026-09-30T04:00:10+00:00",
+      "score": 55.35769230769231,
+      "url": "https://youtu.be/E25XYK5V564",
+      "rank": 41,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "준비 동작 없이 제자리에서 찬 발차기. 미트가 위로 들리자 코치와 김민경의 웃음이 이어집니다.\n\n원본: https://www.youtube.com/watch?v=ASIX5vGHezk\n\n#김민경 #운동뚱 #shorts",
+      "duration": "PT13S"
+    },
+    {
+      "video_id": "rYBAe-3QXfo",
+      "title": "절대 못빠져 나온다는 주짓수 기술인데 본능으로 쉽게 뒤집는 김민경#김민경#민경장군#주짓수#운동뚱",
+      "channel_title": "득템랩",
+      "subscriber_count": 2220,
+      "view_count": 118685,
+      "published_at": "2026-09-28T08:30:20+00:00",
+      "score": 53.461711711711715,
+      "url": "https://youtu.be/rYBAe-3QXfo",
+      "rank": 42,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "절대 못빠져 나온다는 주짓수 기술인데 본능으로 쉽게 뒤집는 김민경#김민경#민경장군#주짓수#운동뚱",
+      "duration": "PT24S"
+    },
+    {
+      "video_id": "kQZq8OXI4Ao",
+      "title": "무릎만 넣으랬는데 상대가 옆으로 날아감",
+      "channel_title": "롱폼1",
+      "subscriber_count": 2860,
+      "view_count": 145604,
+      "published_at": "2026-09-28T04:05:20+00:00",
+      "score": 50.91048951048951,
+      "url": "https://youtu.be/kQZq8OXI4Ao",
+      "rank": 43,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "상대를 밀어내는 주짓수 연습에서 벌어진 뜻밖의 장면. 상대가 옆으로 넘어가자 김민경과 김동현도 놀랍니다.\n\n#김민경 #운동뚱 #쇼츠",
+      "duration": "PT12S"
+    },
+    {
+      "video_id": "Bl3hzy7HmY4",
+      "title": "발 바꾸는 순간 코치도 당황한 발차기",
+      "channel_title": "롱폼1",
+      "subscriber_count": 2860,
+      "view_count": 140424,
+      "published_at": "2026-10-15T01:00:11+00:00",
+      "score": 49.0993006993007,
+      "url": "https://youtu.be/Bl3hzy7HmY4",
+      "rank": 44,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "킥복싱 공격과 방어를 연습하는 김민경. 발을 바꾸며 들어가는 공격과 이를 받는 코치의 반응입니다.\n\n원본: https://www.youtube.com/watch?v=-pMrkAztJtY\n#김민경 #운동뚱 #쇼츠",
+      "duration": "PT25S"
+    },
+    {
+      "video_id": "IC2FtSTCpzk",
+      "title": "공을 찼을 뿐인데 스프링이 날아감 | 김민경",
+      "channel_title": "롱폼1",
+      "subscriber_count": 2860,
+      "view_count": 138701,
+      "published_at": "2026-09-29T01:05:20+00:00",
+      "score": 48.49685314685315,
+      "url": "https://youtu.be/IC2FtSTCpzk",
+      "rank": 45,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "족구 연습 기구의 공을 찬 김민경. 스프링이 날아가자 코치도 18년 만에 처음이라며 놀랍니다.\n\n원본: https://www.youtube.com/watch?v=OmrkPuWsvqQ\n#김민경 #운동뚱 #족구 #쇼츠",
+      "duration": "PT14S"
+    },
+    {
+      "video_id": "_CdAO4hPjlI",
+      "title": "코치님을 찬다고 생각해 그 말에 더 세진 발차기",
+      "channel_title": "롱폼1",
+      "subscriber_count": 2860,
+      "view_count": 135693,
+      "published_at": "2026-09-27T01:05:10+00:00",
+      "score": 47.4451048951049,
+      "url": "https://youtu.be/_CdAO4hPjlI",
+      "rank": 46,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "코치를 찬다고 생각하며 미트를 차는 김민경. 잘했지만 기분은 이상하다는 코치의 반응을 담았습니다.\n\n#김민경 #운동뚱 #쇼츠",
+      "duration": "PT11S"
+    },
+    {
+      "video_id": "DMmLvyUX1ec",
+      "title": "인파 속 박보검 찾으셨나요? 3개월 전엔 \"제가 할 수 있을까요?\"",
+      "channel_title": "결정적한번",
+      "subscriber_count": 2380,
+      "view_count": 110460,
+      "published_at": "2026-10-02T11:20:04+00:00",
+      "score": 46.411764705882355,
+      "url": "https://youtu.be/DMmLvyUX1ec",
+      "rank": 1,
+      "matched_queries": [
+        "션 러닝"
+      ],
+      "description": "출전 소식 없이 달린 2026 베를린 마라톤.\n팬이 2시간이 넘는 공식 중계를 뒤져 결승 인파 속에서 박보검을 찾아냈습니다.\n\n3개월 전, 션의 제안에 \"선배님, 제가 할수 있을까요?\"라고 묻던 그는\n며칠 뒤 \"선배님 저 한번 도전해볼게요!\"라고 답했고, 42.195km를 완주했습니다.\n그리고 션의 한마디. \"나중에 또 풀코스 뛸거지?^^\"\n\n출처 · BMW BERLIN-MARATHON 공식 YouTube 중계\nhttps://www.youtube.com/watch?v=4bHzqKPj674\n출처 · 션 Instagram @jinusean3000 (글·사진)\n출처 · X @gummyblue_ (참가자 영상 재게시)\n\n#박보검 #ParkBoGum #베를린마라톤 #BerlinMarathon #션 #마라톤 #Shorts",
+      "duration": "PT18S"
+    },
+    {
+      "video_id": "Td_6hPz1ox8",
+      "title": "맞춰준다던 김동현 결국 주저앉았습니다",
+      "channel_title": "롱폼1",
+      "subscriber_count": 2860,
+      "view_count": 122960,
+      "published_at": "2026-10-06T04:00:00+00:00",
+      "score": 42.99300699300699,
+      "url": "https://youtu.be/Td_6hPz1ox8",
+      "rank": 47,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "김동현과 가벼운 스파링을 하는 김민경. 연속 공격을 피하던 김동현이 주저앉고 두 사람이 웃는 장면입니다.\n\n원본: https://www.youtube.com/watch?v=qGgSjr1ZsF8\n#김민경 #운동뚱 #쇼츠",
+      "duration": "PT30S"
+    },
+    {
+      "video_id": "OtpyQQvH0nU",
+      "title": "3천원대 고무밴드로 집에서 전소미 직각 어깨 만드는 법 #쇼츠",
+      "channel_title": "엔나pick",
+      "subscriber_count": 3720,
+      "view_count": 152133,
+      "published_at": "2026-09-29T09:00:06+00:00",
+      "score": 40.895967741935486,
+      "url": "https://youtu.be/OtpyQQvH0nU",
+      "rank": 1,
+      "matched_queries": [
+        "전소미 운동",
+        "전소미 운동 밴드"
+      ],
+      "description": "전소미도 타고난 게 아니라 매일 노력해서 만든 직각 어깨!\n\n집에서 3천원대 가성비 고무밴드로 말린 어깨와 굽은 등 싹 펴주는 1분 스트레칭 루틴입니다.\n\n📌 전소미 어깨 운동 고무밴드 정보 (쿠팡 3천원대)\n\n👉 [인포크링크 주소 또는 쿠팡 파트너스 링크]\n\n(댓글에서도 확인하실 수 있습니다!)\n\n#전소미 #직각어깨 #말린어깨 #굽은등교정 #라텍스밴드 #어깨스트레칭 #홈트레이닝 #가성비운동기구\n\n이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+      "duration": "PT29S"
+    },
+    {
+      "video_id": "lkDfy-dKvH4",
+      "title": "자세까지 따라 해도 손목이 꺾여버림",
+      "channel_title": "롱폼1",
+      "subscriber_count": 2860,
+      "view_count": 111438,
+      "published_at": "2026-10-11T07:00:15+00:00",
+      "score": 38.964335664335664,
+      "url": "https://youtu.be/lkDfy-dKvH4",
+      "rank": 48,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "김민경의 자세를 따라 한 상대와 팔씨름 재대결. 레디, 고 신호 뒤 손목 기술과 체중 이동을 보여주고, 원본의 2 대 0 스코어로 마무리합니다.\n\n원본: https://www.youtube.com/watch?v=vAmsbvSmaNU\n#김민경 #운동뚱 #쇼츠",
+      "duration": "PT15S"
+    },
+    {
+      "video_id": "K7ig64MNGHs",
+      "title": "피디가 못 민 80kg, 김민경이 앉으면 달라짐",
+      "channel_title": "롱폼1",
+      "subscriber_count": 2860,
+      "view_count": 106006,
+      "published_at": "2026-09-22T22:05:01+00:00",
+      "score": 37.06503496503497,
+      "url": "https://youtu.be/K7ig64MNGHs",
+      "rank": 49,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "영식 피디가 못 민 80kg 기구. 같은 자리에 앉은 김민경의 힘에 양치승 관장도 감탄합니다.\n원본: https://www.youtube.com/watch?v=tK3jDMH0pDo\n#김민경 #운동뚱 #쇼츠",
+      "duration": "PT16S"
+    },
+    {
+      "video_id": "ZS1DYAlfMjU",
+      "title": "손 위치만 바꿨는데 관장님이 바로 주저앉음",
+      "channel_title": "롱폼1",
+      "subscriber_count": 2860,
+      "view_count": 101667,
+      "published_at": "2026-09-24T01:05:27+00:00",
+      "score": 35.547902097902096,
+      "url": "https://youtu.be/ZS1DYAlfMjU",
+      "rank": 50,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "클린치 연습 중 손 위치를 바꾸자 관장님의 자세가 무너집니다. 당황한 김민경의 반응까지 담았습니다.\n\n#김민경 #운동뚱 #쇼츠",
+      "duration": "PT9S"
+    },
+    {
+      "video_id": "55-iKrDxGfs",
+      "title": "민경장군에 놀란 양치승 관장 #김민경 #운동뚱 #예능하이라이트",
+      "channel_title": "무비세",
+      "subscriber_count": 3590,
+      "view_count": 103408,
+      "published_at": "2026-09-29T22:15:15+00:00",
+      "score": 28.804456824512535,
+      "url": "https://youtu.be/55-iKrDxGfs",
+      "rank": 51,
+      "matched_queries": [
+        "김민경 운동"
+      ],
+      "description": "출처 : 시켜서 한다! 오늘부터 운동뚱\n출연 : 김민경\n\n구독과 좋아요는 큰 힘이 됩니다!📺\n\n\n\n비지니스 문의 : pabilsag154@gmail.com\nAI목소리를 활용하여 제작되었습니다.",
+      "duration": "PT17S"
+    }
+  ]
+}
