@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-20T09:12:33.772Z",
+  "updated_at": "2026-10-24T18:12:00+09:00",
   "purpose": "Persistent memory for the scheduled agent's query selection and final report deduplication. Raw runner reports/history remain complete; the scheduled agent reads and updates this ledger.",
   "policy": {
     "query_topic_cooldown_days": 14,
@@ -134,10 +134,10 @@
       "video_id": "v1g7tTWxWyE",
       "title": "바쁜 아침에 이거 무조건 드세요! 한혜진 가족이 반한 역대급 식습관",
       "url": "https://youtu.be/v1g7tTWxWyE",
-      "last_reported_view_count": 170294,
-      "last_reported_subscriber_count": 1800,
-      "metrics_checked_on": "2026-10-20",
-      "last_reported_on": "2026-10-20",
+      "last_reported_view_count": 270962,
+      "last_reported_subscriber_count": 1870,
+      "metrics_checked_on": "2026-10-24",
+      "last_reported_on": "2026-10-24",
       "status": "일반 후보",
       "verification_note": "유튜브 표시 스크립트 확인: 오트밀+우유+요거트를 섞어 밤새 냉장; 사과/블루베리/시리얼 토핑. BsB09dMt9Bw와 같은 오나오 소재·공통 기초 조리법 확인. 동일브랜드/정확한분량 미확인. 감량·혈당효과 미채택.",
       "report_history": [
@@ -146,6 +146,18 @@
           "view_count": 96943,
           "subscriber_count": 1740,
           "verification_note": "배우 한혜진의 오나오 아침 공개 보도는 있음. 쇼츠 속 인물·음식 일치 미확인; 모델 한혜진과 혼동 주의."
+        },
+        {
+          "video_id": "v1g7tTWxWyE",
+          "title": "바쁜 아침에 이거 무조건 드세요! 한혜진 가족이 반한 역대급 식습관",
+          "url": "https://youtu.be/v1g7tTWxWyE",
+          "last_reported_view_count": 170294,
+          "last_reported_subscriber_count": 1800,
+          "metrics_checked_on": "2026-10-20",
+          "last_reported_on": "2026-10-20",
+          "status": "일반 후보",
+          "verification_note": "유튜브 표시 스크립트 확인: 오트밀+우유+요거트를 섞어 밤새 냉장; 사과/블루베리/시리얼 토핑. BsB09dMt9Bw와 같은 오나오 소재·공통 기초 조리법 확인. 동일브랜드/정확한분량 미확인. 감량·혈당효과 미채택.",
+          "verification_checked_on": "2026-10-20"
         }
       ],
       "verification_checked_on": "2026-10-20"
@@ -468,6 +480,17 @@
       "last_reported_on": "2026-10-20",
       "status": "검토·기존소재 참고",
       "verification_note": "기보고8sGeBqBYd9M와 표시 자막의 건과일 과자 식감 설명·맛 평가 구간이 겹침. 새소재0건으로 집계. 동일브랜드/SKU는 미확인. 건강·저당·고단백 간식으로 추천하지 않음."
+    },
+    {
+      "video_id": "fsTo69hoFCU",
+      "title": "소식좌 안소희가 매일저녁 챙겨먹는다는 감자에그샐러드 핵심 재료",
+      "url": "https://youtu.be/fsTo69hoFCU",
+      "last_reported_view_count": 746577,
+      "last_reported_subscriber_count": 2180,
+      "metrics_checked_on": "2026-10-24",
+      "last_reported_on": "2026-10-24",
+      "status": "일반 후보",
+      "verification_note": "쇼츠 공개 설명 #그릭요거트 및 표시스크립트3~11초에서 감자·달걀·마요네즈 대신 요거트 문맥 확인(ASR오탈자). 얼루어2026-09-04가 본인 레시피 소개를 보도. 정확브랜드·SKU·원본영상과 전체 일치 미확인. 품절대란·매일저녁·칼로리감량 주장 미채택."
     }
   ],
   "query_history": [
@@ -12927,6 +12950,2484 @@
       "quota_used": 100,
       "successful": true,
       "reason": "새 인물/소재 공개 신호: https://health.chosun.com/site/data/html_dir/2026/10/15/2026101503293.html ; 직접 언급·동일상품 원본검증 필요. 건강효과·극단적식단 미채택."
+    },
+    {
+      "keyword": "김수미 찐고구마 단백질",
+      "last_completed_at": "2026-10-24T09:10:30.518161+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김수미|찐고구마단백질",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+    },
+    {
+      "keyword": "안소희 파워 플레이트",
+      "last_completed_at": "2026-10-24T09:10:30.305268+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "안소희|파워플레이트",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+    },
+    {
+      "keyword": "안소희 단백질 쉐이크",
+      "last_completed_at": "2026-10-24T09:10:30.139683+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "안소희|단백질쉐이크",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+    },
+    {
+      "keyword": "안소희 올레샷",
+      "last_completed_at": "2026-10-24T09:10:29.744075+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "안소희|올레샷",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+    },
+    {
+      "keyword": "안소희 손목 발목 스트레칭",
+      "last_completed_at": "2026-10-24T09:10:29.445669+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "안소희|손목발목스트레칭",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+    },
+    {
+      "keyword": "안소희 사우나 목욕 루틴",
+      "last_completed_at": "2026-10-24T09:10:29.274942+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "안소희|사우나목욕루틴",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+    },
+    {
+      "keyword": "소지섭 운동 후 음식",
+      "last_completed_at": "2026-10-24T09:08:32.134939+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "소지섭|운동후식단",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "전지현 오전 운동",
+      "last_completed_at": "2026-10-24T09:08:32.133470+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "전지현|오전운동",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "권상우 운동 루틴",
+      "last_completed_at": "2026-10-24T09:08:32.131957+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "권상우|운동루틴",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "김영옥 아침 스트레칭",
+      "last_completed_at": "2026-10-24T09:08:32.130512+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김영옥|아침스트레칭",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "강민경 레몬수",
+      "last_completed_at": "2026-10-24T09:08:32.129044+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "강민경|레몬수",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "박재범 바다이끼 스무디",
+      "last_completed_at": "2026-10-24T09:08:32.127552+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "박재범|바다이끼스무디",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "권나라 닭가슴살 만두",
+      "last_completed_at": "2026-10-24T09:08:32.126073+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "권나라|닭가슴살만두",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "장윤주 만보 걷기",
+      "last_completed_at": "2026-10-24T09:08:32.124603+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "장윤주모델|만보걷기",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "임시완 닭가슴살 샐러드",
+      "last_completed_at": "2026-10-24T09:08:32.123126+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "임시완|닭가슴살샐러드",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "임시완 복싱",
+      "last_completed_at": "2026-10-24T09:08:32.121622+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "임시완|복싱",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "백진희 조금씩 자주 간식",
+      "last_completed_at": "2026-10-24T09:08:32.120071+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "백진희|소량간식",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "한지혜 천국의 계단",
+      "last_completed_at": "2026-10-24T09:08:32.118578+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "한지혜|계단유산소",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "한지혜 훈제 달걀 두유",
+      "last_completed_at": "2026-10-24T09:08:32.117068+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "한지혜|훈제달걀두유",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "한지혜 케틀벨",
+      "last_completed_at": "2026-10-24T09:08:32.115555+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "한지혜|케틀벨",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "김완선 팽이버섯 레시피",
+      "last_completed_at": "2026-10-24T09:08:32.113942+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김완선|팽이버섯",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "검증 예외: 원본·성분·기구 식별 및 기존 미완료검증. 신규소재로 가산하지 않음. 동일 검색 재실행 아닌 별도 문맥."
+    },
+    {
+      "keyword": "안소희 감자에그샐러드 재료",
+      "last_completed_at": "2026-10-24T09:08:32.112274+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "안소희|감자에그샐러드",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "검증 예외: 원본·성분·기구 식별 및 기존 미완료검증. 신규소재로 가산하지 않음. 동일 검색 재실행 아닌 별도 문맥."
+    },
+    {
+      "keyword": "천우희 건과일 크래커",
+      "last_completed_at": "2026-10-24T09:08:32.110414+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "천우희|건과일과자",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "검증 예외: 원본·성분·기구 식별 및 기존 미완료검증. 신규소재로 가산하지 않음. 동일 검색 재실행 아닌 별도 문맥."
+    },
+    {
+      "keyword": "임지연 견과 닭가슴살 간식",
+      "last_completed_at": "2026-10-24T09:08:31.749190+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "임지연|닭가슴살간식",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "검증 예외: 원본·성분·기구 식별 및 기존 미완료검증. 신규소재로 가산하지 않음. 동일 검색 재실행 아닌 별도 문맥."
+    },
+    {
+      "keyword": "류수영 두부조림 원팬",
+      "last_completed_at": "2026-10-24T09:08:31.584912+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "류수영|두부조림",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "검증 예외: 원본·성분·기구 식별 및 기존 미완료검증. 신규소재로 가산하지 않음. 동일 검색 재실행 아닌 별도 문맥."
+    },
+    {
+      "keyword": "김완선 팽이버섯 레시피",
+      "last_completed_at": "2026-10-24T09:08:31.434194+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김완선|팽이버섯",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "검증 예외: 원본·성분·기구 식별 및 기존 미완료검증. 신규소재로 가산하지 않음. 동일 검색 재실행 아닌 별도 문맥."
+    },
+    {
+      "keyword": "선우용여 엔초비 파스타 브랜드",
+      "last_completed_at": "2026-10-24T09:08:31.144690+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "선우용여|엔초비파스타",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "검증 예외: 원본·성분·기구 식별 및 기존 미완료검증. 신규소재로 가산하지 않음. 동일 검색 재실행 아닌 별도 문맥."
+    },
+    {
+      "keyword": "이효리 이상순 수건 스트레칭",
+      "last_completed_at": "2026-10-24T09:08:30.813412+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "이효리|수건요가",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "검증 예외: 원본·성분·기구 식별 및 기존 미완료검증. 신규소재로 가산하지 않음. 동일 검색 재실행 아닌 별도 문맥."
+    },
+    {
+      "keyword": "손예진 흑미밥",
+      "last_completed_at": "2026-10-24T09:08:30.609459+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "손예진|잡곡밥",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "검증 예외: 원본·성분·기구 식별 및 기존 미완료검증. 신규소재로 가산하지 않음. 동일 검색 재실행 아닌 별도 문맥."
+    },
+    {
+      "keyword": "전혜빈 쌀빵 브랜드",
+      "last_completed_at": "2026-10-24T09:08:30.456336+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "전혜빈|쌀모닝빵",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "검증 예외: 원본·성분·기구 식별 및 기존 미완료검증. 신규소재로 가산하지 않음. 동일 검색 재실행 아닌 별도 문맥."
+    },
+    {
+      "keyword": "정려원 닭가슴살 브랜드",
+      "last_completed_at": "2026-10-24T09:08:30.299522+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "정려원|닭가슴살아침",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "검증 예외: 원본·성분·기구 식별 및 기존 미완료검증. 신규소재로 가산하지 않음. 동일 검색 재실행 아닌 별도 문맥."
+    },
+    {
+      "keyword": "브라이언 더브라이언 건강",
+      "last_completed_at": "2026-10-24T09:08:30.129584+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "브라이언|영양제루틴",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "검증 예외: 원본·성분·기구 식별 및 기존 미완료검증. 신규소재로 가산하지 않음. 동일 검색 재실행 아닌 별도 문맥."
+    },
+    {
+      "keyword": "한그루 요가 기구 광예원",
+      "last_completed_at": "2026-10-24T09:08:29.766187+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "한그루|요가해먹",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "검증 예외: 원본·성분·기구 식별 및 기존 미완료검증. 신규소재로 가산하지 않음. 동일 검색 재실행 아닌 별도 문맥."
+    },
+    {
+      "keyword": "안소희 감자에그샐러드 재료",
+      "last_completed_at": "2026-10-24T09:08:29.435261+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "안소희|감자에그샐러드",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "검증 예외: 원본·성분·기구 식별 및 기존 미완료검증. 신규소재로 가산하지 않음. 동일 검색 재실행 아닌 별도 문맥."
+    },
+    {
+      "keyword": "김영옥 건강 습관",
+      "last_completed_at": "2026-10-24T09:08:29.071247+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김영옥|건강습관",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "이효리 명상 호흡",
+      "last_completed_at": "2026-10-24T09:08:28.636362+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "이효리|명상호흡",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "김희선 회복 루틴",
+      "last_completed_at": "2026-10-24T09:08:28.455262+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김희선|회복루틴",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "전혜빈 수면 루틴",
+      "last_completed_at": "2026-10-24T09:08:28.281452+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "전혜빈|수면루틴",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "정려원 스트레칭",
+      "last_completed_at": "2026-10-24T09:08:28.072441+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "정려원|스트레칭",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "손태영 운동 루틴",
+      "last_completed_at": "2026-10-24T09:08:27.858858+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "손태영|운동루틴",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "윤혜진 운동 식단",
+      "last_completed_at": "2026-10-24T09:08:27.691674+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "윤혜진|운동식단",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "가희 식사 순서",
+      "last_completed_at": "2026-10-24T09:08:27.343208+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "가희|식사순서",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "최수종 고구마 채소",
+      "last_completed_at": "2026-10-24T09:08:27.155844+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "최수종|고구마채소",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "백지연 단백질",
+      "last_completed_at": "2026-10-24T09:08:26.960692+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "백지연|단백질",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "한그루 분리수면",
+      "last_completed_at": "2026-10-24T09:08:26.655788+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "한그루|분리수면",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "이민정 스트레칭",
+      "last_completed_at": "2026-10-24T09:08:26.467358+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "이민정|스트레칭",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "장윤정 좋은 지방",
+      "last_completed_at": "2026-10-24T09:08:26.297011+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "장윤정|지방식단",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "한고은 댄스 운동",
+      "last_completed_at": "2026-10-24T09:08:25.994310+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "한고은|댄스운동",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "소지섭 운동 후 음식",
+      "last_completed_at": "2026-10-24T09:08:25.800622+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "소지섭|운동후식단",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "전지현 오전 운동",
+      "last_completed_at": "2026-10-24T09:08:25.633611+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "전지현|오전운동",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "권상우 운동 루틴",
+      "last_completed_at": "2026-10-24T09:08:25.457653+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "권상우|운동루틴",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "김영옥 아침 스트레칭",
+      "last_completed_at": "2026-10-24T09:08:25.302590+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김영옥|아침스트레칭",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "강민경 레몬수",
+      "last_completed_at": "2026-10-24T09:08:25.107023+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "강민경|레몬수",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "박재범 바다이끼 스무디",
+      "last_completed_at": "2026-10-24T09:08:24.929141+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "박재범|바다이끼스무디",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "권나라 닭가슴살 만두",
+      "last_completed_at": "2026-10-24T09:08:24.743556+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "권나라|닭가슴살만두",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "장윤주 만보 걷기",
+      "last_completed_at": "2026-10-24T09:08:24.564702+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "장윤주모델|만보걷기",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "임시완 닭가슴살 샐러드",
+      "last_completed_at": "2026-10-24T09:08:24.411014+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "임시완|닭가슴살샐러드",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "임시완 복싱",
+      "last_completed_at": "2026-10-24T09:08:24.230955+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "임시완|복싱",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "백진희 조금씩 자주 간식",
+      "last_completed_at": "2026-10-24T09:08:24.047003+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "백진희|소량간식",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "한지혜 천국의 계단",
+      "last_completed_at": "2026-10-24T09:08:23.839556+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "한지혜|계단유산소",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "한지혜 훈제 달걀 두유",
+      "last_completed_at": "2026-10-24T09:08:23.672755+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "한지혜|훈제달걀두유",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "한지혜 케틀벨",
+      "last_completed_at": "2026-10-24T09:08:23.285069+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "한지혜|케틀벨",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "신규 인물/새 소재 확장. 현재·관련 공개자료 기반 탐색 가설, 실제 사용·브랜드·효과 확정 아님; 패션 제외."
+    },
+    {
+      "keyword": "이창훈 근력 루틴",
+      "last_completed_at": "2026-10-24T09:07:07.745419+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "이창훈|근력루틴",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/22/2026102202696.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "이창훈 다이어트 운동",
+      "last_completed_at": "2026-10-24T09:07:07.744250+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "이창훈|다이어트운동",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/22/2026102202696.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "김희선 2만보 걷기",
+      "last_completed_at": "2026-10-24T09:07:07.743104+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김희선|밤산책",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/21/2026102102710.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "김희선 밤 산책",
+      "last_completed_at": "2026-10-24T09:07:07.741937+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김희선|밤산책",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/21/2026102102710.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "가희 복근 운동",
+      "last_completed_at": "2026-10-24T09:07:07.740794+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "가희|복근운동",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/22/2026102201957.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "가희 댄스 운동",
+      "last_completed_at": "2026-10-24T09:07:07.739629+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "가희|댄스운동",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/22/2026102201957.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "최수종 아침 루틴",
+      "last_completed_at": "2026-10-24T09:07:07.738453+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "최수종|아침루틴",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/21/2026102102082.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "최수종 체중 관리 습관",
+      "last_completed_at": "2026-10-24T09:07:07.737304+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "최수종|체중관리습관",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/21/2026102102082.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "최수종 식사 시간",
+      "last_completed_at": "2026-10-24T09:07:07.736171+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "최수종|식사시간",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/21/2026102102082.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "손예진 집밥 식단",
+      "last_completed_at": "2026-10-24T09:07:07.735033+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "손예진|집밥식단",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/22/2026102202335.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "손예진 잡곡밥",
+      "last_completed_at": "2026-10-24T09:07:07.733852+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "손예진|잡곡밥",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/22/2026102202335.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "전혜빈 아침 빵",
+      "last_completed_at": "2026-10-24T09:07:07.732640+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "전혜빈|쌀모닝빵",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/21/2026102102713.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "전혜빈 쌀 모닝빵",
+      "last_completed_at": "2026-10-24T09:07:07.731445+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "전혜빈|쌀모닝빵",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/21/2026102102713.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "정려원 브로콜리 토마토",
+      "last_completed_at": "2026-10-24T09:07:07.730270+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "정려원|닭가슴살아침",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/21/2026102102896.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "정려원 닭가슴살 아침",
+      "last_completed_at": "2026-10-24T09:07:07.729062+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "정려원|닭가슴살아침",
+      "stage": "deep",
+      "quota_used": 0,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/21/2026102102896.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "연예인 식단",
+      "last_completed_at": "2026-10-24T09:07:07.727602+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "일반|연예인 식단",
+      "stage": "deep",
+      "quota_used": 204,
+      "successful": true,
+      "reason": "필수 일반검색; 14일 예외: 주간 신규 업로드·새 셀럽 발견용. 기존 소재는 영구장부 대조 후 제외."
+    },
+    {
+      "keyword": "연예인 홈트 용품",
+      "last_completed_at": "2026-10-24T09:07:06.440705+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "일반|연예인 홈트 용품",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "필수 일반검색; 14일 예외: 주간 신규 업로드·새 셀럽 발견용. 기존 소재는 영구장부 대조 후 제외."
+    },
+    {
+      "keyword": "연예인 운동 루틴",
+      "last_completed_at": "2026-10-24T09:07:06.250842+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "일반|연예인 운동 루틴",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "필수 일반검색; 14일 예외: 주간 신규 업로드·새 셀럽 발견용. 기존 소재는 영구장부 대조 후 제외."
+    },
+    {
+      "keyword": "연예인 다이어트 식품",
+      "last_completed_at": "2026-10-24T09:07:05.835483+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "일반|연예인 다이어트 식품",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "필수 일반검색; 14일 예외: 주간 신규 업로드·새 셀럽 발견용. 기존 소재는 영구장부 대조 후 제외."
+    },
+    {
+      "keyword": "연예인 식단",
+      "last_completed_at": "2026-10-24T09:07:05.454666+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "일반|연예인 식단",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "필수 일반검색; 14일 예외: 주간 신규 업로드·새 셀럽 발견용. 기존 소재는 영구장부 대조 후 제외."
+    },
+    {
+      "keyword": "연예인 건강관리",
+      "last_completed_at": "2026-10-24T09:07:04.950266+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "일반|연예인 건강관리",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "필수 일반검색; 14일 예외: 주간 신규 업로드·새 셀럽 발견용. 기존 소재는 영구장부 대조 후 제외."
+    },
+    {
+      "keyword": "손태영 시나몬 시리얼",
+      "last_completed_at": "2026-10-24T09:07:04.447402+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "손태영|요거트아침",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/08/19/2026081901077.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "손태영 블루베리 아침",
+      "last_completed_at": "2026-10-24T09:07:04.232461+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "손태영|요거트아침",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/08/19/2026081901077.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "손태영 그릭요거트 호두",
+      "last_completed_at": "2026-10-24T09:07:04.012179+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "손태영|요거트아침",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/08/19/2026081901077.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "백지연 수면 관리",
+      "last_completed_at": "2026-10-24T09:07:03.537765+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "백지연|수면관리",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/20/2026102002406.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "백지연 건강관리 루틴",
+      "last_completed_at": "2026-10-24T09:07:03.104848+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "백지연|건강관리루틴",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/20/2026102002406.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "백지연 디저트 절제",
+      "last_completed_at": "2026-10-24T09:07:02.940083+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "백지연|디저트절제",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/20/2026102002406.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "이상순 호흡 루틴",
+      "last_completed_at": "2026-10-24T09:07:02.766817+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "이상순|호흡루틴",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/list_life.html?menu=ct&more_menu=1134&more_smenu=&nowcode=0&pn=2&type=. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "이상순 요가 회복",
+      "last_completed_at": "2026-10-24T09:07:02.597272+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "이상순|요가회복",
+      "stage": "shallow",
+      "quota_used": 101,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/list_life.html?menu=ct&more_menu=1134&more_smenu=&nowcode=0&pn=2&type=. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "이효리 요가 스트레칭",
+      "last_completed_at": "2026-10-24T09:07:02.332946+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "이효리|요가스트레칭",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/list_life.html?menu=ct&more_menu=1134&more_smenu=&nowcode=0&pn=2&type=. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "이효리 수건 요가",
+      "last_completed_at": "2026-10-24T09:07:01.981356+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "이효리|수건요가",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/list_life.html?menu=ct&more_menu=1134&more_smenu=&nowcode=0&pn=2&type=. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "브라이언 건강관리 습관",
+      "last_completed_at": "2026-10-24T09:07:01.797463+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "브라이언|건강관리습관",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/21/2026102102706.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "브라이언 마그네슘",
+      "last_completed_at": "2026-10-24T09:07:01.598391+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "브라이언|마그네슘",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/21/2026102102706.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "브라이언 영양제 루틴",
+      "last_completed_at": "2026-10-24T09:07:01.213807+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "브라이언|영양제루틴",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/21/2026102102706.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "한그루 플라잉 요가",
+      "last_completed_at": "2026-10-24T09:07:01.051277+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "한그루|요가해먹",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/12/2026101201612.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "한그루 폼롤러 스트레칭",
+      "last_completed_at": "2026-10-24T09:07:00.675202+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "한그루|폼롤러스트레칭",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/12/2026101201612.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "한그루 요가 해먹",
+      "last_completed_at": "2026-10-24T09:07:00.472318+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "한그루|요가해먹",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/12/2026101201612.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "이민정 폭식 관리",
+      "last_completed_at": "2026-10-24T09:07:00.300975+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "이민정|폭식관리",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/22/2026102202776.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "이민정 수분 섭취",
+      "last_completed_at": "2026-10-24T09:07:00.118735+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "이민정|수분섭취",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/22/2026102202776.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "강소라 다이어트 식단",
+      "last_completed_at": "2026-10-24T09:06:59.950166+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "강소라|다이어트식단",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/22/2026102201295.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "강소라 간식 줄이기",
+      "last_completed_at": "2026-10-24T09:06:59.420451+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "강소라|간식줄이기",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/22/2026102201295.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "이창훈 근력 루틴",
+      "last_completed_at": "2026-10-24T09:06:59.233935+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "이창훈|근력루틴",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/22/2026102202696.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "이창훈 다이어트 운동",
+      "last_completed_at": "2026-10-24T09:06:59.063428+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "이창훈|다이어트운동",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/22/2026102202696.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "김희선 2만보 걷기",
+      "last_completed_at": "2026-10-24T09:06:58.875395+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김희선|밤산책",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/21/2026102102710.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "김희선 밤 산책",
+      "last_completed_at": "2026-10-24T09:06:58.517719+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김희선|밤산책",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/21/2026102102710.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "가희 복근 운동",
+      "last_completed_at": "2026-10-24T09:06:58.125384+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "가희|복근운동",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/22/2026102201957.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "가희 댄스 운동",
+      "last_completed_at": "2026-10-24T09:06:57.946496+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "가희|댄스운동",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/22/2026102201957.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "최수종 아침 루틴",
+      "last_completed_at": "2026-10-24T09:06:57.728884+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "최수종|아침루틴",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/21/2026102102082.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "최수종 체중 관리 습관",
+      "last_completed_at": "2026-10-24T09:06:57.430732+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "최수종|체중관리습관",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/21/2026102102082.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "최수종 식사 시간",
+      "last_completed_at": "2026-10-24T09:06:57.247576+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "최수종|식사시간",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/21/2026102102082.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "손예진 집밥 식단",
+      "last_completed_at": "2026-10-24T09:06:57.045941+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "손예진|집밥식단",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/22/2026102202335.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "손예진 잡곡밥",
+      "last_completed_at": "2026-10-24T09:06:56.538927+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "손예진|잡곡밥",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/22/2026102202335.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "전혜빈 아침 빵",
+      "last_completed_at": "2026-10-24T09:06:56.356265+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "전혜빈|쌀모닝빵",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/21/2026102102713.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "전혜빈 쌀 모닝빵",
+      "last_completed_at": "2026-10-24T09:06:56.009349+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "전혜빈|쌀모닝빵",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/21/2026102102713.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "정려원 브로콜리 토마토",
+      "last_completed_at": "2026-10-24T09:06:55.652418+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "정려원|닭가슴살아침",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/21/2026102102896.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
+    },
+    {
+      "keyword": "정려원 닭가슴살 아침",
+      "last_completed_at": "2026-10-24T09:06:55.483376+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "정려원|닭가슴살아침",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "공개루틴 신호 https://health.chosun.com/site/data/html_dir/2026/10/21/2026102102896.html. 관련 소재 탐색 가설이며 각 동작·제품 사용 원본 확인 필요. 건강효과·감량인과 미채택; 영양제 과량복용 추천 제외."
     }
   ],
   "topic_groups": [
@@ -13025,6 +15526,18 @@
         "https://www.youtube.com/watch?v=uldGliiQtNA",
         "https://www.youtube.com/watch?v=8sGeBqBYd9M"
       ]
+    },
+    {
+      "topic_key": "안소희|감자에그샐러드",
+      "representative_video_id": "fsTo69hoFCU",
+      "reference_video_ids": [],
+      "verification": "쇼츠 공개 설명 #그릭요거트 및 표시스크립트3~11초에서 감자·달걀·마요네즈 대신 요거트 문맥 확인(ASR오탈자). 얼루어2026-09-04가 본인 레시피 소개를 보도. 정확브랜드·SKU·원본영상과 전체 일치 미확인. 품절대란·매일저녁·칼로리감량 주장 미채택.",
+      "evidence_urls": [
+        "https://youtu.be/fsTo69hoFCU",
+        "https://www.allurekorea.com/2026/09/04/감자-다이어트-vs-고구마-다이어트-셀럽들의-선택은/"
+      ],
+      "same_recipe_confirmed": false,
+      "product_brand_confirmed": false
     }
   ],
   "notes": [
@@ -13218,6 +15731,71 @@
       "url": "https://youtu.be/uldGliiQtNA",
       "checked_on": "2026-10-20",
       "source": "YouTube Data API"
+    },
+    {
+      "video_id": "VSQhC7UUB3E",
+      "title": "김완선이 평소에서 관리하며 먹는 급찐급빠 단백질챙기며 다이어트 하는 초간단 레시피공개",
+      "channel_title": "셀럽잇템",
+      "subscriber_count": 1870,
+      "view_count": 144469,
+      "published_at": "2026-10-09T05:31:28+00:00",
+      "score": 77.25614973262032,
+      "rank": 1,
+      "url": "https://youtu.be/VSQhC7UUB3E",
+      "checked_on": "2026-10-24",
+      "source": "YouTube Data API"
+    },
+    {
+      "video_id": "fsTo69hoFCU",
+      "title": "소식좌 안소희가 매일저녁 챙겨먹는다는 감자에그샐러드 핵심 재료",
+      "channel_title": "셀럽쇼핑백",
+      "subscriber_count": 2180,
+      "view_count": 746577,
+      "published_at": "2026-10-09T09:00:23+00:00",
+      "score": 342.46651376146787,
+      "rank": 2,
+      "url": "https://youtu.be/fsTo69hoFCU",
+      "checked_on": "2026-10-24",
+      "source": "YouTube Data API"
+    },
+    {
+      "video_id": "0I7Xt2YcZ_Q",
+      "title": "김완선 다이어트 식단",
+      "channel_title": "셀럽온리",
+      "subscriber_count": 3020,
+      "view_count": 1389589,
+      "published_at": "2026-10-08T09:00:05+00:00",
+      "score": 460.1288079470199,
+      "rank": 1,
+      "url": "https://youtu.be/0I7Xt2YcZ_Q",
+      "checked_on": "2026-10-24",
+      "source": "YouTube Data API"
+    },
+    {
+      "video_id": "v14cdJTXtEE",
+      "title": "관리하는 여배우들이 아침마다 챙기는 땅콩버터의 정체",
+      "channel_title": "세콩픽쇼츠",
+      "subscriber_count": 2290,
+      "view_count": 552938,
+      "published_at": "2026-10-10T09:00:36+00:00",
+      "score": 241.45764192139737,
+      "rank": 3,
+      "url": "https://youtu.be/v14cdJTXtEE",
+      "checked_on": "2026-10-24",
+      "source": "YouTube Data API"
+    },
+    {
+      "video_id": "v1g7tTWxWyE",
+      "title": "바쁜 아침에 이거 무조건 드세요! 한혜진 가족이 반한 역대급 식습관",
+      "channel_title": "셀럽잇템",
+      "subscriber_count": 1870,
+      "view_count": 270962,
+      "published_at": "2026-10-13T07:00:01+00:00",
+      "score": 144.89946524064172,
+      "rank": 4,
+      "url": "https://youtu.be/v1g7tTWxWyE",
+      "checked_on": "2026-10-24",
+      "source": "YouTube Data API"
     }
   ],
   "runs": [
@@ -13292,6 +15870,28 @@
       "new_false_positive_excluded": 0,
       "halt_reason": "Further40-input update rejected by safety review due remaining daily budget. No input change or third Actions run. No YouTube quota/rate error today.",
       "optional_third_batch_executed": false
+    },
+    {
+      "date": "2026-10-24",
+      "run_ids": [
+        40080651231,
+        40080745753,
+        40080885607
+      ],
+      "unique_successful_queries": 86,
+      "units_used": 8861,
+      "ledger_remaining": 1139,
+      "new_video_ids": [
+        "fsTo69hoFCU"
+      ],
+      "meaningful_update_ids": [
+        "v1g7tTWxWyE"
+      ],
+      "unchanged_existing_omitted": 3,
+      "pending_query_count": 34,
+      "analysis_status": "partial",
+      "halt_reason": "rateLimitExceeded: Search Queries per day",
+      "continuation_scheduled": false
     }
   ],
   "excluded_videos": [
@@ -13441,6 +16041,12 @@
         "published_on": "2026-09-20",
         "overlap": "8s dried-fruit cracker texture matches new uldGliiQtNA at8s; same topic, exact SKU unconfirmed"
       }
+    },
+    {
+      "date": "2026-10-24",
+      "video_id": "fsTo69hoFCU",
+      "method": "Public YouTube expanded description + displayed auto transcript; Allure report. Not full-frame playback",
+      "findings": "쇼츠 공개 설명 #그릭요거트 및 표시스크립트3~11초에서 감자·달걀·마요네즈 대신 요거트 문맥 확인(ASR오탈자). 얼루어2026-09-04가 본인 레시피 소개를 보도. 정확브랜드·SKU·원본영상과 전체 일치 미확인. 품절대란·매일저녁·칼로리감량 주장 미채택."
     }
   ]
 }
