@@ -1,0 +1,333 @@
+{
+  "as_of": "2026-10-24",
+  "mode": "celebrity",
+  "pending_keywords": [
+    {
+      "keyword": "정국 아보카도 스시피자",
+      "category": "식단",
+      "topic_key": "정국|아보카도스시피자",
+      "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+    },
+    {
+      "keyword": "션 오트밀 바나나",
+      "category": "식단",
+      "topic_key": "션|오트밀바나나",
+      "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+    },
+    {
+      "keyword": "이창훈 운동 도구",
+      "category": "운동",
+      "topic_key": "이창훈|운동도구",
+      "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+    },
+    {
+      "keyword": "전지현 스텝밀",
+      "category": "운동",
+      "topic_key": "전지현|스텝밀",
+      "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+    },
+    {
+      "keyword": "소지섭 복싱",
+      "category": "운동",
+      "topic_key": "소지섭|복싱",
+      "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+    },
+    {
+      "keyword": "윤혜진 발레 스트레칭",
+      "category": "운동",
+      "topic_key": "윤혜진|발레스트레칭",
+      "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+    },
+    {
+      "keyword": "권상우 유산소 운동",
+      "category": "운동",
+      "topic_key": "권상우|유산소운동",
+      "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+    },
+    {
+      "keyword": "김영옥 의자 스트레칭",
+      "category": "운동",
+      "topic_key": "김영옥|의자스트레칭",
+      "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+    },
+    {
+      "keyword": "한지혜 바벨 운동",
+      "category": "운동",
+      "topic_key": "한지혜|바벨운동",
+      "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+    },
+    {
+      "keyword": "백진희 간식 종류",
+      "category": "식단",
+      "topic_key": "백진희|간식종류",
+      "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+    },
+    {
+      "keyword": "이청아 숙면 조명",
+      "category": "건강",
+      "topic_key": "이청아|숙면조명",
+      "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+    },
+    {
+      "keyword": "박재범 회복 루틴",
+      "category": "건강",
+      "topic_key": "박재범|회복루틴",
+      "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+    },
+    {
+      "keyword": "강민경 운동 회복",
+      "category": "건강",
+      "topic_key": "강민경|운동회복",
+      "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+    },
+    {
+      "keyword": "손태영 수면 습관",
+      "category": "건강",
+      "topic_key": "손태영|수면습관",
+      "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+    },
+    {
+      "keyword": "장윤정 단백질 간식",
+      "category": "식단",
+      "topic_key": "장윤정|단백질간식",
+      "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+    },
+    {
+      "keyword": "가희 홈트 도구",
+      "category": "운동",
+      "topic_key": "가희|홈트도구",
+      "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+    },
+    {
+      "keyword": "이효리 요가 블록",
+      "category": "운동",
+      "topic_key": "이효리|요가블록",
+      "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+    },
+    {
+      "keyword": "이상순 스트레칭 도구",
+      "category": "운동",
+      "topic_key": "이상순|스트레칭도구",
+      "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+    },
+    {
+      "keyword": "한그루 코어 운동",
+      "category": "운동",
+      "topic_key": "한그루|코어운동",
+      "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+    },
+    {
+      "keyword": "정려원 운동 후 식단",
+      "category": "식단",
+      "topic_key": "정려원|운동후식단",
+      "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+    },
+    {
+      "keyword": "전혜빈 건강 간식",
+      "category": "식단",
+      "topic_key": "전혜빈|건강간식",
+      "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+    },
+    {
+      "keyword": "손예진 식사 준비",
+      "category": "식단",
+      "topic_key": "손예진|식사준비",
+      "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+    },
+    {
+      "keyword": "브라이언 영양제 성분",
+      "category": "건강",
+      "topic_key": "브라이언|영양제성분",
+      "reason": "검증예외: 원본·상품 식별 목적. 기존 소재 신규 가산 금지."
+    },
+    {
+      "keyword": "최수종 야식 습관",
+      "category": "건강",
+      "topic_key": "최수종|야식습관",
+      "reason": "검증예외: 원본·상품 식별 목적. 기존 소재 신규 가산 금지."
+    },
+    {
+      "keyword": "한지혜 운동 후 두유 브랜드",
+      "category": "식단",
+      "topic_key": "한지혜|운동후두유브랜드",
+      "reason": "검증예외: 원본·상품 식별 목적. 기존 소재 신규 가산 금지."
+    },
+    {
+      "keyword": "안소희 감자샐러드 그릭요거트 브랜드",
+      "category": "식단",
+      "topic_key": "안소희|감자샐러드그릭요거트브랜드",
+      "reason": "검증예외: 원본·상품 식별 목적. 기존 소재 신규 가산 금지."
+    },
+    {
+      "keyword": "김완선 김쌈 원본",
+      "category": "식단",
+      "topic_key": "김완선|김쌈원본",
+      "reason": "검증예외: 원본·상품 식별 목적. 기존 소재 신규 가산 금지."
+    },
+    {
+      "keyword": "한혜진 가족 오나오 원본",
+      "category": "식단",
+      "topic_key": "한혜진|가족오나오원본",
+      "reason": "검증예외: 원본·상품 식별 목적. 기존 소재 신규 가산 금지."
+    },
+    {
+      "keyword": "한그루 폼롤러 원본",
+      "category": "운동",
+      "topic_key": "한그루|폼롤러원본",
+      "reason": "검증예외: 원본·상품 식별 목적. 기존 소재 신규 가산 금지."
+    },
+    {
+      "keyword": "이민정 스트레칭 원본",
+      "category": "운동",
+      "topic_key": "이민정|스트레칭원본",
+      "reason": "검증예외: 원본·상품 식별 목적. 기존 소재 신규 가산 금지."
+    },
+    {
+      "keyword": "가희 댄스 원본",
+      "category": "운동",
+      "topic_key": "가희|댄스원본",
+      "reason": "검증예외: 원본·상품 식별 목적. 기존 소재 신규 가산 금지."
+    },
+    {
+      "keyword": "선우용여 리졸리 엔초비",
+      "category": "식단",
+      "topic_key": "선우용여|리졸리엔초비",
+      "reason": "검증예외: 원본·상품 식별 목적. 기존 소재 신규 가산 금지."
+    },
+    {
+      "keyword": "류수영 두부조림 KBS",
+      "category": "식단",
+      "topic_key": "류수영|두부조림KBS",
+      "reason": "검증예외: 원본·상품 식별 목적. 기존 소재 신규 가산 금지."
+    },
+    {
+      "keyword": "천우희 크래커 원본 브랜드",
+      "category": "식단",
+      "topic_key": "천우희|크래커원본브랜드",
+      "reason": "검증예외: 원본·상품 식별 목적. 기존 소재 신규 가산 금지."
+    }
+  ],
+  "completed_keywords": [
+    "김수미 찐고구마 단백질",
+    "안소희 파워 플레이트",
+    "안소희 단백질 쉐이크",
+    "안소희 올레샷",
+    "안소희 손목 발목 스트레칭",
+    "안소희 사우나 목욕 루틴",
+    "소지섭 운동 후 음식",
+    "전지현 오전 운동",
+    "권상우 운동 루틴",
+    "김영옥 아침 스트레칭",
+    "강민경 레몬수",
+    "박재범 바다이끼 스무디",
+    "권나라 닭가슴살 만두",
+    "장윤주 만보 걷기",
+    "임시완 닭가슴살 샐러드",
+    "임시완 복싱",
+    "백진희 조금씩 자주 간식",
+    "한지혜 천국의 계단",
+    "한지혜 훈제 달걀 두유",
+    "한지혜 케틀벨",
+    "김완선 팽이버섯 레시피",
+    "안소희 감자에그샐러드 재료",
+    "천우희 건과일 크래커",
+    "임지연 견과 닭가슴살 간식",
+    "류수영 두부조림 원팬",
+    "선우용여 엔초비 파스타 브랜드",
+    "이효리 이상순 수건 스트레칭",
+    "손예진 흑미밥",
+    "전혜빈 쌀빵 브랜드",
+    "정려원 닭가슴살 브랜드",
+    "브라이언 더브라이언 건강",
+    "한그루 요가 기구 광예원",
+    "김영옥 건강 습관",
+    "이효리 명상 호흡",
+    "김희선 회복 루틴",
+    "전혜빈 수면 루틴",
+    "정려원 스트레칭",
+    "손태영 운동 루틴",
+    "윤혜진 운동 식단",
+    "가희 식사 순서",
+    "최수종 고구마 채소",
+    "백지연 단백질",
+    "한그루 분리수면",
+    "이민정 스트레칭",
+    "장윤정 좋은 지방",
+    "한고은 댄스 운동",
+    "이창훈 근력 루틴",
+    "이창훈 다이어트 운동",
+    "김희선 2만보 걷기",
+    "김희선 밤 산책",
+    "가희 복근 운동",
+    "가희 댄스 운동",
+    "최수종 아침 루틴",
+    "최수종 체중 관리 습관",
+    "최수종 식사 시간",
+    "손예진 집밥 식단",
+    "손예진 잡곡밥",
+    "전혜빈 아침 빵",
+    "전혜빈 쌀 모닝빵",
+    "정려원 브로콜리 토마토",
+    "정려원 닭가슴살 아침",
+    "연예인 식단",
+    "연예인 홈트 용품",
+    "연예인 운동 루틴",
+    "연예인 다이어트 식품",
+    "연예인 건강관리",
+    "손태영 시나몬 시리얼",
+    "손태영 블루베리 아침",
+    "손태영 그릭요거트 호두",
+    "백지연 수면 관리",
+    "백지연 건강관리 루틴",
+    "백지연 디저트 절제",
+    "이상순 호흡 루틴",
+    "이상순 요가 회복",
+    "이효리 요가 스트레칭",
+    "이효리 수건 요가",
+    "브라이언 건강관리 습관",
+    "브라이언 마그네슘",
+    "브라이언 영양제 루틴",
+    "한그루 플라잉 요가",
+    "한그루 폼롤러 스트레칭",
+    "한그루 요가 해먹",
+    "이민정 폭식 관리",
+    "이민정 수분 섭취",
+    "강소라 다이어트 식단",
+    "강소라 간식 줄이기"
+  ],
+  "completed_video_ids": [
+    "VSQhC7UUB3E",
+    "fsTo69hoFCU",
+    "0I7Xt2YcZ_Q",
+    "v14cdJTXtEE",
+    "v1g7tTWxWyE"
+  ],
+  "analysis_status": "partial",
+  "pending_verifications": [
+    "fsTo69hoFCU",
+    "BsB09dMt9Bw",
+    "-RRPf-OKfMg",
+    "IoQ_ECXq2xk",
+    "VSQhC7UUB3E",
+    "TAM1jor-MKA"
+  ],
+  "units_used": 8861,
+  "ledger_remaining": 1139,
+  "halt_reason": "Search Queries per day rateLimitExceeded; no retry",
+  "continuation_scheduled": false,
+  "continuation_reason": "Automation-run instruction forbids automations.create; do not claim next-day execution is scheduled. Preserve for next authorized run.",
+  "filters": {
+    "min_subscribers": 200,
+    "max_subscribers": 5000,
+    "min_views": 100000,
+    "days": 30
+  },
+  "policy_path": "routine_inputs/celebrity-discovery-state.json",
+  "execution": "Update routine_inputs/celebrity.json with current SHA, exactly40 test:false keywords; push main triggers routine-scan.yml; wait for commit-linked run and saved results before next write.",
+  "scope": "health/diet/exercise; exclude fashion, gossip,politics/incidents; retain14day semantic cooldown;70%new; preserve all existing state; no trending",
+  "run_ids": [
+    40080651231,
+    40080745753,
+    40080885607
+  ]
+}
