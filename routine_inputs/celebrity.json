@@ -1,44 +1,9 @@
 {
   "mode": "celebrity",
   "test": false,
-  "generated_at": "2026-10-24T18:10:04.000+09:00",
+  "generated_at": "2026-10-28",
+  "source": "User-authorized continuation of 34 pending queries from 2026-10-24 plus six new discovery queries; no schedule/config change",
   "keywords": [
-    {
-      "keyword": "안소희 사우나 목욕 루틴",
-      "category": "건강",
-      "topic_key": "안소희|사우나목욕루틴",
-      "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
-    },
-    {
-      "keyword": "안소희 손목 발목 스트레칭",
-      "category": "운동",
-      "topic_key": "안소희|손목발목스트레칭",
-      "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
-    },
-    {
-      "keyword": "안소희 올레샷",
-      "category": "식단",
-      "topic_key": "안소희|올레샷",
-      "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
-    },
-    {
-      "keyword": "안소희 단백질 쉐이크",
-      "category": "식단",
-      "topic_key": "안소희|단백질쉐이크",
-      "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
-    },
-    {
-      "keyword": "안소희 파워 플레이트",
-      "category": "운동",
-      "topic_key": "안소희|파워플레이트",
-      "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
-    },
-    {
-      "keyword": "김수미 찐고구마 단백질",
-      "category": "식단",
-      "topic_key": "김수미|찐고구마단백질",
-      "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
-    },
     {
       "keyword": "정국 아보카도 스시피자",
       "category": "식단",
@@ -242,6 +207,42 @@
       "category": "식단",
       "topic_key": "천우희|크래커원본브랜드",
       "reason": "검증예외: 원본·상품 식별 목적. 기존 소재 신규 가산 금지."
+    },
+    {
+      "keyword": "박진영 꿀마늘 아침 식단",
+      "category": "식단",
+      "topic_key": "박진영|꿀마늘",
+      "reason": "추가 신규 탐색. 2026-07-27 공개보도에서 아침 꿀마늘 섭취 맥락 확인; 최근30일 쇼츠 반응 탐색. https://www.twig24.com/news/entertainments/celebrity/2026/07/27/20260727500169 건강효과·브랜드 미채택."
+    },
+    {
+      "keyword": "안은진 현미밥 포케",
+      "category": "식단",
+      "topic_key": "안은진|현미포케",
+      "reason": "추가 신규 탐색. 공개 식사 보도 https://www.mt.co.kr/society/2026/06/18/2026061805495881747 감량인과 미채택. 정확상품 미확인."
+    },
+    {
+      "keyword": "호날두 오트밀크 식단",
+      "category": "식단",
+      "topic_key": "호날두|식물성대체유",
+      "reason": "추가 신규 탐색. 전담셰프 발언을 전한 보도 단서 https://www.mt.co.kr/world/2026/04/27/2026042706070181823 실제 최근 본인사용·상품 미확인, 유제품 유해 주장 채택안함."
+    },
+    {
+      "keyword": "셔누 모닝 스트레칭",
+      "category": "운동",
+      "topic_key": "셔누|모닝스트레칭",
+      "reason": "추가 신규 탐색 가설. 10min루틴 출연목록 단서, 본인원본·사용도구 확인 전 추천보류."
+    },
+    {
+      "keyword": "예지 인터벌 러닝",
+      "category": "운동",
+      "topic_key": "예지|인터벌러닝",
+      "reason": "추가 신규 탐색 가설. 10min루틴 출연목록 단서, 본인원본·사용도구 확인 전 추천보류."
+    },
+    {
+      "keyword": "킥플립 주왕 상체 운동",
+      "category": "운동",
+      "topic_key": "주왕|상체운동",
+      "reason": "추가 신규 탐색 가설. 10min루틴 출연목록 단서, 본인원본·사용도구 확인 전 추천보류."
     }
   ]
 }
