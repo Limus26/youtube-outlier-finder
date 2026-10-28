@@ -1,0 +1,1449 @@
+{
+  "as_of": "2026-10-28",
+  "run_id": 40647801107,
+  "input": {
+    "mode": "celebrity",
+    "test": false,
+    "generated_at": "2026-10-28",
+    "source": "User-authorized continuation of 34 pending queries from 2026-10-24 plus six new discovery queries; no schedule/config change",
+    "keywords": [
+      {
+        "keyword": "정국 아보카도 스시피자",
+        "category": "식단",
+        "topic_key": "정국|아보카도스시피자",
+        "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+      },
+      {
+        "keyword": "션 오트밀 바나나",
+        "category": "식단",
+        "topic_key": "션|오트밀바나나",
+        "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+      },
+      {
+        "keyword": "이창훈 운동 도구",
+        "category": "운동",
+        "topic_key": "이창훈|운동도구",
+        "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+      },
+      {
+        "keyword": "전지현 스텝밀",
+        "category": "운동",
+        "topic_key": "전지현|스텝밀",
+        "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+      },
+      {
+        "keyword": "소지섭 복싱",
+        "category": "운동",
+        "topic_key": "소지섭|복싱",
+        "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+      },
+      {
+        "keyword": "윤혜진 발레 스트레칭",
+        "category": "운동",
+        "topic_key": "윤혜진|발레스트레칭",
+        "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+      },
+      {
+        "keyword": "권상우 유산소 운동",
+        "category": "운동",
+        "topic_key": "권상우|유산소운동",
+        "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+      },
+      {
+        "keyword": "김영옥 의자 스트레칭",
+        "category": "운동",
+        "topic_key": "김영옥|의자스트레칭",
+        "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+      },
+      {
+        "keyword": "한지혜 바벨 운동",
+        "category": "운동",
+        "topic_key": "한지혜|바벨운동",
+        "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+      },
+      {
+        "keyword": "백진희 간식 종류",
+        "category": "식단",
+        "topic_key": "백진희|간식종류",
+        "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+      },
+      {
+        "keyword": "이청아 숙면 조명",
+        "category": "건강",
+        "topic_key": "이청아|숙면조명",
+        "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+      },
+      {
+        "keyword": "박재범 회복 루틴",
+        "category": "건강",
+        "topic_key": "박재범|회복루틴",
+        "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+      },
+      {
+        "keyword": "강민경 운동 회복",
+        "category": "건강",
+        "topic_key": "강민경|운동회복",
+        "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+      },
+      {
+        "keyword": "손태영 수면 습관",
+        "category": "건강",
+        "topic_key": "손태영|수면습관",
+        "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+      },
+      {
+        "keyword": "장윤정 단백질 간식",
+        "category": "식단",
+        "topic_key": "장윤정|단백질간식",
+        "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+      },
+      {
+        "keyword": "가희 홈트 도구",
+        "category": "운동",
+        "topic_key": "가희|홈트도구",
+        "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+      },
+      {
+        "keyword": "이효리 요가 블록",
+        "category": "운동",
+        "topic_key": "이효리|요가블록",
+        "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+      },
+      {
+        "keyword": "이상순 스트레칭 도구",
+        "category": "운동",
+        "topic_key": "이상순|스트레칭도구",
+        "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+      },
+      {
+        "keyword": "한그루 코어 운동",
+        "category": "운동",
+        "topic_key": "한그루|코어운동",
+        "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+      },
+      {
+        "keyword": "정려원 운동 후 식단",
+        "category": "식단",
+        "topic_key": "정려원|운동후식단",
+        "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+      },
+      {
+        "keyword": "전혜빈 건강 간식",
+        "category": "식단",
+        "topic_key": "전혜빈|건강간식",
+        "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+      },
+      {
+        "keyword": "손예진 식사 준비",
+        "category": "식단",
+        "topic_key": "손예진|식사준비",
+        "reason": "신규관련 소재 탐색 가설. 공개사용·브랜드 미확인시 추천보류. 패션 제외."
+      },
+      {
+        "keyword": "브라이언 영양제 성분",
+        "category": "건강",
+        "topic_key": "브라이언|영양제성분",
+        "reason": "검증예외: 원본·상품 식별 목적. 기존 소재 신규 가산 금지."
+      },
+      {
+        "keyword": "최수종 야식 습관",
+        "category": "건강",
+        "topic_key": "최수종|야식습관",
+        "reason": "검증예외: 원본·상품 식별 목적. 기존 소재 신규 가산 금지."
+      },
+      {
+        "keyword": "한지혜 운동 후 두유 브랜드",
+        "category": "식단",
+        "topic_key": "한지혜|운동후두유브랜드",
+        "reason": "검증예외: 원본·상품 식별 목적. 기존 소재 신규 가산 금지."
+      },
+      {
+        "keyword": "안소희 감자샐러드 그릭요거트 브랜드",
+        "category": "식단",
+        "topic_key": "안소희|감자샐러드그릭요거트브랜드",
+        "reason": "검증예외: 원본·상품 식별 목적. 기존 소재 신규 가산 금지."
+      },
+      {
+        "keyword": "김완선 김쌈 원본",
+        "category": "식단",
+        "topic_key": "김완선|김쌈원본",
+        "reason": "검증예외: 원본·상품 식별 목적. 기존 소재 신규 가산 금지."
+      },
+      {
+        "keyword": "한혜진 가족 오나오 원본",
+        "category": "식단",
+        "topic_key": "한혜진|가족오나오원본",
+        "reason": "검증예외: 원본·상품 식별 목적. 기존 소재 신규 가산 금지."
+      },
+      {
+        "keyword": "한그루 폼롤러 원본",
+        "category": "운동",
+        "topic_key": "한그루|폼롤러원본",
+        "reason": "검증예외: 원본·상품 식별 목적. 기존 소재 신규 가산 금지."
+      },
+      {
+        "keyword": "이민정 스트레칭 원본",
+        "category": "운동",
+        "topic_key": "이민정|스트레칭원본",
+        "reason": "검증예외: 원본·상품 식별 목적. 기존 소재 신규 가산 금지."
+      },
+      {
+        "keyword": "가희 댄스 원본",
+        "category": "운동",
+        "topic_key": "가희|댄스원본",
+        "reason": "검증예외: 원본·상품 식별 목적. 기존 소재 신규 가산 금지."
+      },
+      {
+        "keyword": "선우용여 리졸리 엔초비",
+        "category": "식단",
+        "topic_key": "선우용여|리졸리엔초비",
+        "reason": "검증예외: 원본·상품 식별 목적. 기존 소재 신규 가산 금지."
+      },
+      {
+        "keyword": "류수영 두부조림 KBS",
+        "category": "식단",
+        "topic_key": "류수영|두부조림KBS",
+        "reason": "검증예외: 원본·상품 식별 목적. 기존 소재 신규 가산 금지."
+      },
+      {
+        "keyword": "천우희 크래커 원본 브랜드",
+        "category": "식단",
+        "topic_key": "천우희|크래커원본브랜드",
+        "reason": "검증예외: 원본·상품 식별 목적. 기존 소재 신규 가산 금지."
+      },
+      {
+        "keyword": "박진영 꿀마늘 아침 식단",
+        "category": "식단",
+        "topic_key": "박진영|꿀마늘",
+        "reason": "추가 신규 탐색. 2026-07-27 공개보도에서 아침 꿀마늘 섭취 맥락 확인; 최근30일 쇼츠 반응 탐색. https://www.twig24.com/news/entertainments/celebrity/2026/07/27/20260727500169 건강효과·브랜드 미채택."
+      },
+      {
+        "keyword": "안은진 현미밥 포케",
+        "category": "식단",
+        "topic_key": "안은진|현미포케",
+        "reason": "추가 신규 탐색. 공개 식사 보도 https://www.mt.co.kr/society/2026/06/18/2026061805495881747 감량인과 미채택. 정확상품 미확인."
+      },
+      {
+        "keyword": "호날두 오트밀크 식단",
+        "category": "식단",
+        "topic_key": "호날두|식물성대체유",
+        "reason": "추가 신규 탐색. 전담셰프 발언을 전한 보도 단서 https://www.mt.co.kr/world/2026/04/27/2026042706070181823 실제 최근 본인사용·상품 미확인, 유제품 유해 주장 채택안함."
+      },
+      {
+        "keyword": "셔누 모닝 스트레칭",
+        "category": "운동",
+        "topic_key": "셔누|모닝스트레칭",
+        "reason": "추가 신규 탐색 가설. 10min루틴 출연목록 단서, 본인원본·사용도구 확인 전 추천보류."
+      },
+      {
+        "keyword": "예지 인터벌 러닝",
+        "category": "운동",
+        "topic_key": "예지|인터벌러닝",
+        "reason": "추가 신규 탐색 가설. 10min루틴 출연목록 단서, 본인원본·사용도구 확인 전 추천보류."
+      },
+      {
+        "keyword": "킥플립 주왕 상체 운동",
+        "category": "운동",
+        "topic_key": "주왕|상체운동",
+        "reason": "추가 신규 탐색 가설. 10min루틴 출연목록 단서, 본인원본·사용도구 확인 전 추천보류."
+      }
+    ]
+  },
+  "successful_query_count": 40,
+  "history_entries": [
+    {
+      "timestamp": "2026-10-28T07:05:36.968232+00:00",
+      "keyword": "장윤정 단백질 간식",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 0,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:36.966330+00:00",
+      "keyword": "손태영 수면 습관",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 0,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:36.964401+00:00",
+      "keyword": "강민경 운동 회복",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 0,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:36.962495+00:00",
+      "keyword": "박재범 회복 루틴",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 0,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:36.960541+00:00",
+      "keyword": "이청아 숙면 조명",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 0,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:36.958629+00:00",
+      "keyword": "백진희 간식 종류",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 0,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:36.956695+00:00",
+      "keyword": "한지혜 바벨 운동",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 0,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:36.954741+00:00",
+      "keyword": "김영옥 의자 스트레칭",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 0,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:36.952818+00:00",
+      "keyword": "권상우 유산소 운동",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 0,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:36.950896+00:00",
+      "keyword": "윤혜진 발레 스트레칭",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 0,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:36.948932+00:00",
+      "keyword": "소지섭 복싱",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 0,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:36.946996+00:00",
+      "keyword": "전지현 스텝밀",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 0,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:36.945042+00:00",
+      "keyword": "이창훈 운동 도구",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 0,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:36.943111+00:00",
+      "keyword": "션 오트밀 바나나",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 0,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:36.941092+00:00",
+      "keyword": "정국 아보카도 스시피자",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 0,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:36.939077+00:00",
+      "keyword": "류수영 두부조림 KBS",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 150,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 1,
+      "quota_used": 0,
+      "rows": [
+        {
+          "video_id": "-RRPf-OKfMg",
+          "title": "차원이 다른 류수영 두부조림",
+          "channel_title": "1분요리",
+          "subscriber_count": 3830,
+          "view_count": 344981,
+          "published_at": "2026-10-13T09:33:22+00:00",
+          "score": 90.0733681462141,
+          "rank": 1,
+          "url": "https://youtu.be/-RRPf-OKfMg"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-10-28T07:05:36.936911+00:00",
+      "keyword": "킥플립 주왕 상체 운동",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 102,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:36.608982+00:00",
+      "keyword": "예지 인터벌 러닝",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 100,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:36.474360+00:00",
+      "keyword": "셔누 모닝 스트레칭",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 100,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:36.256268+00:00",
+      "keyword": "호날두 오트밀크 식단",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 100,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:36.019748+00:00",
+      "keyword": "안은진 현미밥 포케",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 100,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:35.878977+00:00",
+      "keyword": "박진영 꿀마늘 아침 식단",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 100,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:35.728778+00:00",
+      "keyword": "천우희 크래커 원본 브랜드",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 100,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:35.587355+00:00",
+      "keyword": "류수영 두부조림 KBS",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 1,
+      "quota_used": 102,
+      "rows": [
+        {
+          "video_id": "-RRPf-OKfMg",
+          "title": "차원이 다른 류수영 두부조림",
+          "channel_title": "1분요리",
+          "subscriber_count": 3830,
+          "view_count": 344981,
+          "published_at": "2026-10-13T09:33:22+00:00",
+          "score": 90.0733681462141,
+          "rank": 1,
+          "url": "https://youtu.be/-RRPf-OKfMg"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-10-28T07:05:35.331877+00:00",
+      "keyword": "선우용여 리졸리 엔초비",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 100,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:35.202774+00:00",
+      "keyword": "가희 댄스 원본",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 100,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:35.088784+00:00",
+      "keyword": "이민정 스트레칭 원본",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 100,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:34.957201+00:00",
+      "keyword": "한그루 폼롤러 원본",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 100,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:34.815409+00:00",
+      "keyword": "한혜진 가족 오나오 원본",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 102,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:34.580527+00:00",
+      "keyword": "김완선 김쌈 원본",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 100,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:34.448257+00:00",
+      "keyword": "안소희 감자샐러드 그릭요거트 브랜드",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 100,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:34.310587+00:00",
+      "keyword": "한지혜 운동 후 두유 브랜드",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 100,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:34.181628+00:00",
+      "keyword": "최수종 야식 습관",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 100,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:33.984046+00:00",
+      "keyword": "브라이언 영양제 성분",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 102,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:33.720679+00:00",
+      "keyword": "손예진 식사 준비",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 102,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:33.375800+00:00",
+      "keyword": "전혜빈 건강 간식",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 100,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:33.264037+00:00",
+      "keyword": "정려원 운동 후 식단",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 100,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:33.138661+00:00",
+      "keyword": "한그루 코어 운동",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 100,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:33.045571+00:00",
+      "keyword": "이상순 스트레칭 도구",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 100,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:32.844934+00:00",
+      "keyword": "이효리 요가 블록",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 100,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:32.720769+00:00",
+      "keyword": "가희 홈트 도구",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 100,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:32.591518+00:00",
+      "keyword": "장윤정 단백질 간식",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 100,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:32.444072+00:00",
+      "keyword": "손태영 수면 습관",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 100,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:32.341273+00:00",
+      "keyword": "강민경 운동 회복",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 100,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:32.205666+00:00",
+      "keyword": "박재범 회복 루틴",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 100,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:32.072760+00:00",
+      "keyword": "이청아 숙면 조명",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 100,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:31.880852+00:00",
+      "keyword": "백진희 간식 종류",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 100,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:31.765602+00:00",
+      "keyword": "한지혜 바벨 운동",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 100,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:31.625699+00:00",
+      "keyword": "김영옥 의자 스트레칭",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 100,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:31.515092+00:00",
+      "keyword": "권상우 유산소 운동",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 100,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:31.374354+00:00",
+      "keyword": "윤혜진 발레 스트레칭",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 102,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:31.162946+00:00",
+      "keyword": "소지섭 복싱",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 100,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:31.035620+00:00",
+      "keyword": "전지현 스텝밀",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 100,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:30.881922+00:00",
+      "keyword": "이창훈 운동 도구",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 100,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:30.645729+00:00",
+      "keyword": "션 오트밀 바나나",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 100,
+      "rows": []
+    },
+    {
+      "timestamp": "2026-10-28T07:05:30.519449+00:00",
+      "keyword": "정국 아보카도 스시피자",
+      "source": "routine",
+      "options": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "result_count": 0,
+      "quota_used": 100,
+      "rows": []
+    }
+  ],
+  "unique_filtered_rows": [
+    {
+      "video_id": "-RRPf-OKfMg",
+      "title": "차원이 다른 류수영 두부조림",
+      "channel_title": "1분요리",
+      "subscriber_count": 3830,
+      "view_count": 344981,
+      "published_at": "2026-10-13T09:33:22+00:00",
+      "score": 90.0733681462141,
+      "rank": 1,
+      "url": "https://youtu.be/-RRPf-OKfMg"
+    }
+  ],
+  "observations": [
+    {
+      "video_id": "-RRPf-OKfMg",
+      "title": "차원이 다른 류수영 두부조림",
+      "channel_title": "1분요리",
+      "subscriber_count": 3830,
+      "view_count": 344981,
+      "published_at": "2026-10-13T09:33:22+00:00",
+      "score": 90.0733681462141,
+      "rank": 1,
+      "url": "https://youtu.be/-RRPf-OKfMg",
+      "checked_on": "2026-10-28",
+      "last_reported_view_count": 301030,
+      "view_growth": 43951,
+      "relative_view_growth": 0.14600205959538926,
+      "status": "기보고 변화기준 미달; 사용자 신규·업데이트 목록에서 제외",
+      "verification_note": "정확상품·원본 동일성 확인 진전 없음"
+    }
+  ],
+  "units_used": 4012,
+  "ledger_remaining": 5988,
+  "new_video_ids": [],
+  "meaningful_update_ids": [],
+  "pending_keywords": [],
+  "pending_verifications": [
+    "fsTo69hoFCU",
+    "BsB09dMt9Bw",
+    "-RRPf-OKfMg",
+    "IoQ_ECXq2xk",
+    "VSQhC7UUB3E",
+    "TAM1jor-MKA"
+  ],
+  "verification_status": "No new full-frame original/product match completed",
+  "evidence_urls": [
+    "https://www.allurekorea.com/2026/09/04/감자-다이어트-vs-고구마-다이어트-셀럽들의-선택은/",
+    "https://v.daum.net/v/20250403060905662?s=print_news"
+  ]
+}
