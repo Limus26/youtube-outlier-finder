@@ -1,0 +1,299 @@
+{
+  "as_of": "2026-10-31",
+  "mode": "celebrity",
+  "pending_keywords": [
+    {
+      "keyword": "남지현 바레",
+      "category": "운동",
+      "reason": "6/18 본인 스튜디오 및 설명 보도; 동명배우 구분. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "황보라 바레 운동",
+      "category": "운동",
+      "reason": "6/18 본인체험 보도. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "유라 바레 운동",
+      "category": "운동",
+      "reason": "6/18 본인체험 보도. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "차오루 바레 운동",
+      "category": "운동",
+      "reason": "6/18 본인체험 보도. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "효민 바레 운동",
+      "category": "운동",
+      "reason": "6/18 공개 운동 보도. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "손연재 바레 운동",
+      "category": "운동",
+      "reason": "6/18 공개 운동 보도. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "백지연 마누카꿀 아몬드",
+      "category": "식단",
+      "reason": "10/09 본인채널 조합 보도; 2차 아몬드절구와 겹치면 같은소재 참고. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "유리 스쿠버 다이빙",
+      "category": "운동",
+      "reason": "8/28 본인SNS 보도; 복장·장비패션 제외. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "이준호 마그네슘 냉터뷰 원본",
+      "category": "건강",
+      "reason": "검증예외:1차 수면영양제의 본인제품·발언 명확화; 동일소재 신규가산 금지. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "노사연 운동 후 회복",
+      "category": "건강",
+      "reason": "10/29 운동영상 단서 확장가설, 실제사용확인 필요. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "하희라 건강 아침 식사",
+      "category": "식단",
+      "reason": "신규 가설, 본인공개·정확제품 확인 전 후보보류. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "정보석 건강 간식",
+      "category": "식단",
+      "reason": "신규 가설, 낫토와 다른 소재만 검토. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "안은진 운동 소도구",
+      "category": "운동",
+      "reason": "SNS운동 보도 확장가설, 실제도구 확인 전 보류. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "효연 운동 후 단백질",
+      "category": "식단",
+      "reason": "신규 가설, 본인공개 확인 필요. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "유리 아침 건강 레시피",
+      "category": "식단",
+      "reason": "신규 가설, 요가·스쿠버와 별도식사만 검토. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "수영 고단백 간식",
+      "category": "식단",
+      "reason": "신규 가설, 소고기 아침과 별도식품만 검토. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "효민 샐러드 레시피",
+      "category": "식단",
+      "reason": "신규 가설, 본인공개 확인 필요. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "손연재 단백질 간식",
+      "category": "식단",
+      "reason": "신규 가설, 본인공개 확인 필요. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "남지현 운동 스트레칭 도구",
+      "category": "운동",
+      "reason": "바레교육 보도 확장, 본인도구 미확인. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "황보라 운동 후 회복 도구",
+      "category": "건강",
+      "reason": "신규 가설, 실제사용·원본 미확인. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "유라 수면 관리 용품",
+      "category": "건강",
+      "reason": "신규 가설, 실제사용·원본 미확인. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "차오루 건강 식단",
+      "category": "식단",
+      "reason": "신규 가설, 실제사용·원본 미확인. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "이종석 수분 섭취 루틴",
+      "category": "건강",
+      "reason": "신규 가설, 규칙운동과 별도생활습관만 검토. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "김정난 저녁 샐러드",
+      "category": "식단",
+      "reason": "10/31 MBN발언 보도, 아침 두유달걀과 다른식사. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "서현진 도시락 식단",
+      "category": "식단",
+      "reason": "신규 가설, 해산물나물과 같으면 참고 통합. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "장윤정 콜리플라워 볶음밥 원본 KBS",
+      "category": "식단",
+      "reason": "검증예외:10/29 신규 원본 구체 재료 대조, 2차와 중복신규 불가. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "차예련 두부면 제품 브랜드",
+      "category": "식단",
+      "reason": "검증예외:2차 레시피 사용상품 식별. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "태양 그린빈 원본 지드래곤 대성",
+      "category": "식단",
+      "reason": "검증예외:간접증언·실제본인사용 구분, 2차중복신규 불가. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "혜리 수면 ASMR 더블유",
+      "category": "건강",
+      "reason": "검증예외:10/24 원본 출처 확인. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "김현정 저칼로리 젤리 브랜드",
+      "category": "식단",
+      "reason": "검증예외:2차 실제제품 식별. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "전소미 덤벨 운동 원본",
+      "category": "운동",
+      "reason": "검증예외:2차 동일 루틴 출처·도구 확인. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "하희라 철봉 매달리기 원본",
+      "category": "운동",
+      "reason": "검증예외:10/29 SBS 본인발언 확인. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "노사연 자전거 원본 유튜브",
+      "category": "운동",
+      "reason": "검증예외:10/29 공개발언 원본 확인. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    }
+  ],
+  "pending_verifications": [
+    "fsTo69hoFCU",
+    "BsB09dMt9Bw",
+    "IoQ_ECXq2xk",
+    "VSQhC7UUB3E",
+    "TAM1jor-MKA"
+  ],
+  "completed_keywords": [
+    "백지영 낫또 샐러드",
+    "고소영 영양제 줄이기",
+    "신하균 취침 전 휴대폰",
+    "신하균 커피 금주 수면",
+    "준호 숙면 영양제",
+    "차정원 리추얼 오메가3",
+    "차정원 레미 유산균 구미",
+    "채정안 오니스트 콜라겐",
+    "채정안 리포스페릭 비타민C",
+    "고소영 나이트 리커버",
+    "브라이언 일룸 매트리스",
+    "나연 멜라토닌 멜라드림",
+    "이민정 필로우 미스트",
+    "채정안 아침 건강 식단",
+    "한가인 러닝 스트레칭",
+    "연예인 식단",
+    "연예인 홈트 용품",
+    "연예인 운동 루틴",
+    "연예인 다이어트 식품",
+    "연예인 건강관리",
+    "준호 홈트 운동기구",
+    "나연 홈트 운동 밴드",
+    "이민정 필라테스 운동",
+    "장윤주 근력 루틴",
+    "조여정 현대무용",
+    "조여정 수영 루틴",
+    "조여정 버피 테스트",
+    "홍정기 설탕 뽀개기 운동",
+    "곽범 러닝 루틴",
+    "한가인 요가 시작",
+    "한가인 러닝 션",
+    "곽범 러닝 후 식단",
+    "신하균 아침 식단",
+    "준호 운동 식단 단백질",
+    "차정원 건강 간식",
+    "나연 단백질 간식",
+    "조여정 고구마 식단",
+    "고소영 구운 치킨",
+    "장윤주 요거트 에그 토스트",
+    "홍진경 항정살 두부",
+    "이준호 글루콤",
+    "차정원 PMS 드롭",
+    "이민정 숙면 여행 백색소음",
+    "백지연 아몬드 절구",
+    "혜리 수면 루틴",
+    "유진 이뮨 부스터샷",
+    "유진 비타채움 비타민C",
+    "김현정 현미죽 식단",
+    "김현정 저칼로리 젤리",
+    "서현진 해산물 나물 식단",
+    "안은진 김밥 채소쌈",
+    "태양 냉동 그린빈",
+    "김정난 두유 삶은 달걀",
+    "도경완 장윤정 콜리플라워 볶음밥",
+    "차예련 주상욱 두부면 콩국수",
+    "이민정 김치김밥 레시피",
+    "임지연 최애 간식 닭가슴살포",
+    "선우용여 파스타 디벨라 라구 리졸리",
+    "류수영 두부조림 공식 레시피",
+    "한혜진 오나오 원본 영상",
+    "김완선 순두부 팽이버섯 달걀 원본",
+    "안소희 감자에그샐러드 원본",
+    "정보석 낫또 아침",
+    "홍현희 조기 낫토",
+    "김현정 저지방 우유",
+    "차예련 두부면 간장국수",
+    "이효리 바레 운동",
+    "수영 바레 운동",
+    "안은진 필라테스",
+    "안은진 줌바댄스",
+    "김현정 댄스 운동",
+    "전소미 케이블 암풀다운",
+    "전소미 링 덤벨 숄더프레스",
+    "정은지 복싱",
+    "정은지 쉬림프 스쿼트",
+    "이종석 주4회 운동",
+    "하희라 아침 스트레칭",
+    "하희라 철봉 매달리기",
+    "노사연 자전거 운동",
+    "이민정 족욕",
+    "수영 웨이트 트레이닝",
+    "유리 일출 요가",
+    "효연 리포머 필라테스",
+    "이민정 입욕제 숙면",
+    "이민정 바디필로우 수면",
+    "김현정 아몬드 간식",
+    "수영 소고기 아침 식단"
+  ],
+  "completed_video_ids": [
+    "v14cdJTXtEE",
+    "KNZ0egxNyuE",
+    "0I7Xt2YcZ_Q",
+    "EXROYY7ZRmo",
+    "v1g7tTWxWyE"
+  ],
+  "analysis_status": "partial_search_limit",
+  "analysis_position": "New EXROYY7ZRmo excluded by displayed transcript. RRP basic official recipe matched;5 original/product verifications remain. Pending33: first failed query 남지현 바레;no retries.",
+  "units_used": 8969,
+  "ledger_remaining": 1031,
+  "actual_google_remaining": "unavailable",
+  "halt_reason": "rateLimitExceeded: Search Queries per day",
+  "continuation_scheduled": false,
+  "requested_next_kst": "2026-11-01T18:00:00+09:00",
+  "continuation_limitation": "No enabled continuation exists. A new follow-up automation could not be created in this execution. Weekly routine remains unchanged; pending work preserved for next authorized run.",
+  "filters": {
+    "min_subscribers": 200,
+    "max_subscribers": 5000,
+    "min_views": 100000,
+    "days": 30
+  },
+  "policy_path": "routine_inputs/celebrity-discovery-state.json",
+  "scope": "health/diet/exercise; no fashion,gossip,politics,incidents; no trending",
+  "execution": "Read fresh ledger+code+state. Update routine_inputs/celebrity.json currentSHA,exact40 test:false KSTgenerated_at. main push triggers routine-scan.yml. Wait commit-linked Actions and saved results;then sequential additional batches;BudgetClient bounds to10000 minus50 reserve. Never rerun complete queries merely to spend.",
+  "dedup": "14day exact timestamp semantic topic cooldown;70%new target; NS윤지=김윤지,actor/model한혜진separate. ReportedIDs not new;same source/product/recipe group with evidence;updates from last reported >=50% AND >=50000 or completed original/product verification/correction. Preserveallstate/history/migration;do not mark unreported raw IDs reported.",
+  "run_ids": [
+    41186728219,
+    41186924379,
+    41187145791
+  ],
+  "session_path": "reports/celebrity-session-2026-10-31.json"
+}
