@@ -1,6 +1,6 @@
 {
   "date": "2026-10-31",
-  "status": "in_progress",
+  "status": "partial_search_limit",
   "filters": {
     "min_subscribers": 200,
     "max_subscribers": 5000,
@@ -1483,6 +1483,1726 @@
         "date": "2026-10-31",
         "units_used": 4236
       }
+    },
+    {
+      "input": {
+        "mode": "celebrity",
+        "test": false,
+        "generated_at": "2026-10-31T18:00:36+09:00",
+        "keywords": [
+          {
+            "keyword": "차예련 주상욱 두부면 콩국수",
+            "category": "식단",
+            "reason": "10/30 본인채널 조리 보도. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정."
+          },
+          {
+            "keyword": "도경완 장윤정 콜리플라워 볶음밥",
+            "category": "식단",
+            "reason": "10/29 편스토랑 조리 보도. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정."
+          },
+          {
+            "keyword": "김정난 두유 삶은 달걀",
+            "category": "식단",
+            "reason": "10/31 MBN 본인 식단 발언 보도. 기존 두유제조기·잡곡밥과 다른 조합. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정."
+          },
+          {
+            "keyword": "태양 냉동 그린빈",
+            "category": "식단",
+            "reason": "10/28 지드래곤채널 대성 증언 보도. 본인 직접 사용과 간접증언 구분. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정."
+          },
+          {
+            "keyword": "안은진 김밥 채소쌈",
+            "category": "식단",
+            "reason": "10/26 주말연석극 본인 발언 보도. 현미포케와 다른 소재. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정."
+          },
+          {
+            "keyword": "서현진 해산물 나물 식단",
+            "category": "식단",
+            "reason": "틈만나면 본인 발언 단서. 8체질 이론과 효과는 미채택. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정."
+          },
+          {
+            "keyword": "김현정 저칼로리 젤리",
+            "category": "식단",
+            "reason": "9/07 본인채널 식단 소개 보도. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정."
+          },
+          {
+            "keyword": "김현정 현미죽 식단",
+            "category": "식단",
+            "reason": "9/07 본인채널 식단 보도; 위 젤리와 다른 소재. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정."
+          },
+          {
+            "keyword": "유진 비타채움 비타민C",
+            "category": "건강",
+            "reason": "10/13 본인채널 제품소개 보도. 질병효과 미채택. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정."
+          },
+          {
+            "keyword": "유진 이뮨 부스터샷",
+            "category": "건강",
+            "reason": "10/13 본인 사용 보도. 비타민C와 다른 상품군. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정."
+          },
+          {
+            "keyword": "혜리 수면 루틴",
+            "category": "건강",
+            "reason": "10/24 W코리아 수면루틴 영상 공개 단서. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정."
+          },
+          {
+            "keyword": "백지연 아몬드 절구",
+            "category": "건강",
+            "reason": "10/09 지금백지연 자기전 아몬드·절구 보도. 기존 포괄수면 소재 검증예외, 구체 도구 식별. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정."
+          },
+          {
+            "keyword": "이민정 숙면 여행 백색소음",
+            "category": "건강",
+            "reason": "10/09 본인 수면콘텐츠 사용 보도. 미스트와 다른 소재. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정."
+          },
+          {
+            "keyword": "차정원 PMS 드롭",
+            "category": "건강",
+            "reason": "10/13 본인 섭취 보도; 증상치료·효과 미채택. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정."
+          },
+          {
+            "keyword": "이준호 글루콤",
+            "category": "건강",
+            "reason": "10/09 냉터뷰 언급 보도. 수면용품과 다른 피로회복 소재, 의약품 판매유도 금지. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정."
+          },
+          {
+            "keyword": "이민정 족욕",
+            "category": "건강",
+            "reason": "3/17 숙면아이템 원본 보도 단서. 본인 도구사용 확인 전 보류. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정."
+          },
+          {
+            "keyword": "노사연 자전거 운동",
+            "category": "운동",
+            "reason": "10/29 본인채널 발언 보도. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정."
+          },
+          {
+            "keyword": "하희라 철봉 매달리기",
+            "category": "운동",
+            "reason": "10/29 SBS라디오 본인발언 보도. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정."
+          },
+          {
+            "keyword": "하희라 아침 스트레칭",
+            "category": "운동",
+            "reason": "10/29 SBS라디오 다리·어깨 운동 발언. 철봉과 별도동작. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정."
+          },
+          {
+            "keyword": "이종석 주4회 운동",
+            "category": "운동",
+            "reason": "10/31 하지영채널 본인발언 보도; 피부치료효과 미채택. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정."
+          },
+          {
+            "keyword": "정은지 쉬림프 스쿼트",
+            "category": "운동",
+            "reason": "10/04 본인루틴 보도. 기존 밴드·힙업과 같은 전체루틴이면 병합. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정."
+          },
+          {
+            "keyword": "정은지 복싱",
+            "category": "운동",
+            "reason": "10/04 복싱3년 보도. 근력루틴과 다른 종목. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정."
+          },
+          {
+            "keyword": "전소미 링 덤벨 숄더프레스",
+            "category": "운동",
+            "reason": "10/04 운동도구 보도. 기존9/29 밴드와 다른 도구. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정."
+          },
+          {
+            "keyword": "전소미 케이블 암풀다운",
+            "category": "운동",
+            "reason": "10/04 본인루틴 보도; 밴드와 같은 전체루틴일 경우 참고통합. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정."
+          },
+          {
+            "keyword": "김현정 댄스 운동",
+            "category": "운동",
+            "reason": "9/07 본인채널 헬스·댄스 소개 보도. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정."
+          },
+          {
+            "keyword": "안은진 줌바댄스",
+            "category": "운동",
+            "reason": "10/26 SNS 공개 보도. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정."
+          },
+          {
+            "keyword": "안은진 필라테스",
+            "category": "운동",
+            "reason": "10/26 SNS 공개 보도, 정확동작·도구 미확인. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정."
+          },
+          {
+            "keyword": "수영 바레 운동",
+            "category": "운동",
+            "reason": "6/18 바레 트렌드 기사 단서. 본인 해당 여부 미확인 가설. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정."
+          },
+          {
+            "keyword": "이효리 바레 운동",
+            "category": "운동",
+            "reason": "8/28 운동기사 단서; 기존요가와 다른소재 가설, 원본 미확인. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정."
+          },
+          {
+            "keyword": "차예련 두부면 간장국수",
+            "category": "식단",
+            "reason": "10/30 본인채널 간장·참기름 조리보도. 같은 영상의 별도 레시피, 내용 확인 전 통합금지. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정."
+          },
+          {
+            "keyword": "김현정 저지방 우유",
+            "category": "식단",
+            "reason": "9/07 본인 식단공개 보도. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정."
+          },
+          {
+            "keyword": "홍현희 조기 낫토",
+            "category": "식단",
+            "reason": "6/04 SNS 식단공개 보도, 기존 오트밀과 다른소재. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정."
+          },
+          {
+            "keyword": "정보석 낫또 아침",
+            "category": "식단",
+            "reason": "10/18 재편집 영상 공개 단서, 본인원본 확인 필요. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정."
+          },
+          {
+            "keyword": "이민정 김치김밥 레시피",
+            "category": "식단",
+            "reason": "검증예외:1차 신규 EXROYY7ZRmo 원본 동일성·건강식 적합성 검증. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정."
+          },
+          {
+            "keyword": "안소희 감자에그샐러드 원본",
+            "category": "식단",
+            "reason": "검증예외:계정폐쇄로 기존쇼츠 접근불가 확인, 대체 원본 찾기. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정."
+          },
+          {
+            "keyword": "김완선 순두부 팽이버섯 달걀 원본",
+            "category": "식단",
+            "reason": "검증예외:기보고 VSQhC7UUB3E 동일 조리법·제품 검증. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정."
+          },
+          {
+            "keyword": "한혜진 오나오 원본 영상",
+            "category": "식단",
+            "reason": "검증예외:기보고 원본·정확재료 비교. 신규소재 가산 금지. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정."
+          },
+          {
+            "keyword": "류수영 두부조림 공식 레시피",
+            "category": "식단",
+            "reason": "검증예외:기보고 -RRPf-OKfMg 원본 동일성 확인. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정."
+          },
+          {
+            "keyword": "선우용여 파스타 디벨라 라구 리졸리",
+            "category": "식단",
+            "reason": "검증예외:기보고 TAM1jor-MKA 원본 라벨·SKU 대조. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정."
+          },
+          {
+            "keyword": "임지연 최애 간식 닭가슴살포",
+            "category": "식단",
+            "reason": "검증예외:과거기보고 IoQ_ECXq2xk 정체 확인; 최근30일 밖 과거영상은신규불가. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정."
+          }
+        ]
+      },
+      "input_commit": "751ad5961329983db42aa7956e816471a4204b46",
+      "run_id": 41186924379,
+      "report": "# 유튜브 셀럽훅 쇼츠 영상 발굴 리포트 (2026-10-31)\n\n> 이 리포트는 미래 예측이 아니라, 최근 유튜브 데이터에 이미 나타난 신호를 찾은 결과입니다.\n\n- 생성 시각: 2026-10-31 18:01 KST\n- 키워드 생성 시각: 2026-10-31T18:00:36+09:00\n- 이번 실행 사용량: **4,029유닛**\n- 오늘 루틴 누적 사용량: **8,265 / 10,000유닛**\n- 검색 프로필: 얕은 스캔 50개 / 딥다이브 150개 / 최근 30일 / KR·ko\n\n## 키워드 랭킹\n\n| 순위 | 키워드 | 영역 | 결과수 | 점수 20↑ | 최고점수 | 딥다이브 |\n|---:|---|---|---:|---:|---:|---|\n| 1 | 이민정 김치김밥 레시피 | 식단 | 1 | 1 | 294.79 | 완료 |\n| 2 | 차예련 주상욱 두부면 콩국수 | 식단 | 0 | 0 | N/A | 완료 |\n| 3 | 도경완 장윤정 콜리플라워 볶음밥 | 식단 | 0 | 0 | N/A | 완료 |\n| 4 | 김정난 두유 삶은 달걀 | 식단 | 0 | 0 | N/A | 완료 |\n| 5 | 태양 냉동 그린빈 | 식단 | 0 | 0 | N/A | 완료 |\n| 6 | 안은진 김밥 채소쌈 | 식단 | 0 | 0 | N/A | 완료 |\n| 7 | 서현진 해산물 나물 식단 | 식단 | 0 | 0 | N/A | 완료 |\n| 8 | 김현정 저칼로리 젤리 | 식단 | 0 | 0 | N/A | 완료 |\n| 9 | 김현정 현미죽 식단 | 식단 | 0 | 0 | N/A | 완료 |\n| 10 | 유진 비타채움 비타민C | 건강 | 0 | 0 | N/A | 완료 |\n| 11 | 유진 이뮨 부스터샷 | 건강 | 0 | 0 | N/A | 완료 |\n| 12 | 혜리 수면 루틴 | 건강 | 0 | 0 | N/A | 완료 |\n| 13 | 백지연 아몬드 절구 | 건강 | 0 | 0 | N/A | 완료 |\n| 14 | 이민정 숙면 여행 백색소음 | 건강 | 0 | 0 | N/A | 완료 |\n| 15 | 차정원 PMS 드롭 | 건강 | 0 | 0 | N/A | 완료 |\n| 16 | 이준호 글루콤 | 건강 | 0 | 0 | N/A | 완료 |\n| 17 | 이민정 족욕 | 건강 | 0 | 0 | N/A | - |\n| 18 | 노사연 자전거 운동 | 운동 | 0 | 0 | N/A | - |\n| 19 | 하희라 철봉 매달리기 | 운동 | 0 | 0 | N/A | - |\n| 20 | 하희라 아침 스트레칭 | 운동 | 0 | 0 | N/A | - |\n| 21 | 이종석 주4회 운동 | 운동 | 0 | 0 | N/A | - |\n| 22 | 정은지 쉬림프 스쿼트 | 운동 | 0 | 0 | N/A | - |\n| 23 | 정은지 복싱 | 운동 | 0 | 0 | N/A | - |\n| 24 | 전소미 링 덤벨 숄더프레스 | 운동 | 0 | 0 | N/A | - |\n| 25 | 전소미 케이블 암풀다운 | 운동 | 0 | 0 | N/A | - |\n| 26 | 김현정 댄스 운동 | 운동 | 0 | 0 | N/A | - |\n| 27 | 안은진 줌바댄스 | 운동 | 0 | 0 | N/A | - |\n| 28 | 안은진 필라테스 | 운동 | 0 | 0 | N/A | - |\n| 29 | 수영 바레 운동 | 운동 | 0 | 0 | N/A | - |\n| 30 | 이효리 바레 운동 | 운동 | 0 | 0 | N/A | - |\n| 31 | 차예련 두부면 간장국수 | 식단 | 0 | 0 | N/A | - |\n| 32 | 김현정 저지방 우유 | 식단 | 0 | 0 | N/A | - |\n| 33 | 홍현희 조기 낫토 | 식단 | 0 | 0 | N/A | - |\n| 34 | 정보석 낫또 아침 | 식단 | 0 | 0 | N/A | - |\n| 35 | 안소희 감자에그샐러드 원본 | 식단 | 0 | 0 | N/A | - |\n| 36 | 김완선 순두부 팽이버섯 달걀 원본 | 식단 | 0 | 0 | N/A | - |\n| 37 | 한혜진 오나오 원본 영상 | 식단 | 0 | 0 | N/A | - |\n| 38 | 류수영 두부조림 공식 레시피 | 식단 | 0 | 0 | N/A | - |\n| 39 | 선우용여 파스타 디벨라 라구 리졸리 | 식단 | 0 | 0 | N/A | - |\n| 40 | 임지연 최애 간식 닭가슴살포 | 식단 | 0 | 0 | N/A | - |\n\n## 딥다이브 상세\n\n### 이민정 김치김밥 레시피\n\n선정 이유: 얕은 스캔에서 점수 20 이상 1개, 최고점수 294.79.\n\n**1위:** [이민정 김치김밥#다이어트#연예인#김밥#레시피](https://youtu.be/EXROYY7ZRmo) — 숏마니, 구독자 4,330, 조회수 1,276,446, 점수 294.79\n\n| 순위 | 제목 | 채널 | 구독자 | 조회수 | 점수 | 게시일 |\n|---:|---|---|---:|---:|---:|---|\n| 1 | [이민정 김치김밥#다이어트#연예인#김밥#레시피](https://youtu.be/EXROYY7ZRmo) | 숏마니 | 4,330 | 1,276,446 | 294.79 | 2026-10-18 |\n\n패턴 코멘트: 제목에서 셀럽·상품 훅은 확인할 수 있지만, 상품명 숨김 및 제휴태그는 YouTube Data API의 현재 수집 항목만으로 확정할 수 없어 원문 확인이 필요합니다.\n\n### 차예련 주상욱 두부면 콩국수\n\n선정 이유: 얕은 스캔에서 점수 20 이상 0개, 최고점수 N/A.\n\n딥다이브 필터 조건을 만족하는 영상이 없습니다.\n\n### 도경완 장윤정 콜리플라워 볶음밥\n\n선정 이유: 얕은 스캔에서 점수 20 이상 0개, 최고점수 N/A.\n\n딥다이브 필터 조건을 만족하는 영상이 없습니다.\n\n### 김정난 두유 삶은 달걀\n\n선정 이유: 얕은 스캔에서 점수 20 이상 0개, 최고점수 N/A.\n\n딥다이브 필터 조건을 만족하는 영상이 없습니다.\n\n### 태양 냉동 그린빈\n\n선정 이유: 얕은 스캔에서 점수 20 이상 0개, 최고점수 N/A.\n\n딥다이브 필터 조건을 만족하는 영상이 없습니다.\n\n### 안은진 김밥 채소쌈\n\n선정 이유: 얕은 스캔에서 점수 20 이상 0개, 최고점수 N/A.\n\n딥다이브 필터 조건을 만족하는 영상이 없습니다.\n\n### 서현진 해산물 나물 식단\n\n선정 이유: 얕은 스캔에서 점수 20 이상 0개, 최고점수 N/A.\n\n딥다이브 필터 조건을 만족하는 영상이 없습니다.\n\n### 김현정 저칼로리 젤리\n\n선정 이유: 얕은 스캔에서 점수 20 이상 0개, 최고점수 N/A.\n\n딥다이브 필터 조건을 만족하는 영상이 없습니다.\n\n### 김현정 현미죽 식단\n\n선정 이유: 얕은 스캔에서 점수 20 이상 0개, 최고점수 N/A.\n\n딥다이브 필터 조건을 만족하는 영상이 없습니다.\n\n### 유진 비타채움 비타민C\n\n선정 이유: 얕은 스캔에서 점수 20 이상 0개, 최고점수 N/A.\n\n딥다이브 필터 조건을 만족하는 영상이 없습니다.\n\n### 유진 이뮨 부스터샷\n\n선정 이유: 얕은 스캔에서 점수 20 이상 0개, 최고점수 N/A.\n\n딥다이브 필터 조건을 만족하는 영상이 없습니다.\n\n### 혜리 수면 루틴\n\n선정 이유: 얕은 스캔에서 점수 20 이상 0개, 최고점수 N/A.\n\n딥다이브 필터 조건을 만족하는 영상이 없습니다.\n\n### 백지연 아몬드 절구\n\n선정 이유: 얕은 스캔에서 점수 20 이상 0개, 최고점수 N/A.\n\n딥다이브 필터 조건을 만족하는 영상이 없습니다.\n\n### 이민정 숙면 여행 백색소음\n\n선정 이유: 얕은 스캔에서 점수 20 이상 0개, 최고점수 N/A.\n\n딥다이브 필터 조건을 만족하는 영상이 없습니다.\n\n### 차정원 PMS 드롭\n\n선정 이유: 얕은 스캔에서 점수 20 이상 0개, 최고점수 N/A.\n\n딥다이브 필터 조건을 만족하는 영상이 없습니다.\n\n### 이준호 글루콤\n\n선정 이유: 얕은 스캔에서 점수 20 이상 0개, 최고점수 N/A.\n\n딥다이브 필터 조건을 만족하는 영상이 없습니다.\n",
+      "history": [
+        {
+          "timestamp": "2026-10-31T09:01:41.490823+00:00",
+          "keyword": "이준호 글루콤",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 150,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 0,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:41.489099+00:00",
+          "keyword": "차정원 PMS 드롭",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 150,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 0,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:41.487453+00:00",
+          "keyword": "이민정 숙면 여행 백색소음",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 150,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 0,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:41.486016+00:00",
+          "keyword": "백지연 아몬드 절구",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 150,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 0,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:41.484530+00:00",
+          "keyword": "혜리 수면 루틴",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 150,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 0,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:41.483066+00:00",
+          "keyword": "유진 이뮨 부스터샷",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 150,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 0,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:41.481587+00:00",
+          "keyword": "유진 비타채움 비타민C",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 150,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 0,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:41.480125+00:00",
+          "keyword": "김현정 현미죽 식단",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 150,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 0,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:41.478619+00:00",
+          "keyword": "김현정 저칼로리 젤리",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 150,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 0,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:41.477149+00:00",
+          "keyword": "서현진 해산물 나물 식단",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 150,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 0,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:41.475627+00:00",
+          "keyword": "안은진 김밥 채소쌈",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 150,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 0,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:41.474170+00:00",
+          "keyword": "태양 냉동 그린빈",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 150,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 0,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:41.472668+00:00",
+          "keyword": "김정난 두유 삶은 달걀",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 150,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 0,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:41.471183+00:00",
+          "keyword": "도경완 장윤정 콜리플라워 볶음밥",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 150,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 0,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:41.469659+00:00",
+          "keyword": "차예련 주상욱 두부면 콩국수",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 150,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 0,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:41.468139+00:00",
+          "keyword": "이민정 김치김밥 레시피",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 150,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 1,
+          "quota_used": 0,
+          "rows": [
+            {
+              "video_id": "EXROYY7ZRmo",
+              "title": "이민정 김치김밥#다이어트#연예인#김밥#레시피",
+              "channel_title": "숏마니",
+              "subscriber_count": 4330,
+              "view_count": 1276446,
+              "published_at": "2026-10-17T22:00:20+00:00",
+              "score": 294.79122401847576,
+              "rank": 1,
+              "url": "https://youtu.be/EXROYY7ZRmo"
+            }
+          ]
+        },
+        {
+          "timestamp": "2026-10-31T09:01:41.466419+00:00",
+          "keyword": "임지연 최애 간식 닭가슴살포",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 100,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:41.274369+00:00",
+          "keyword": "선우용여 파스타 디벨라 라구 리졸리",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 100,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:41.057570+00:00",
+          "keyword": "류수영 두부조림 공식 레시피",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 102,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:40.594416+00:00",
+          "keyword": "한혜진 오나오 원본 영상",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 101,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:40.305812+00:00",
+          "keyword": "김완선 순두부 팽이버섯 달걀 원본",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 100,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:40.134605+00:00",
+          "keyword": "안소희 감자에그샐러드 원본",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 100,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:39.916915+00:00",
+          "keyword": "이민정 김치김밥 레시피",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 1,
+          "quota_used": 102,
+          "rows": [
+            {
+              "video_id": "EXROYY7ZRmo",
+              "title": "이민정 김치김밥#다이어트#연예인#김밥#레시피",
+              "channel_title": "숏마니",
+              "subscriber_count": 4330,
+              "view_count": 1276446,
+              "published_at": "2026-10-17T22:00:20+00:00",
+              "score": 294.79122401847576,
+              "rank": 1,
+              "url": "https://youtu.be/EXROYY7ZRmo"
+            }
+          ]
+        },
+        {
+          "timestamp": "2026-10-31T09:01:39.470389+00:00",
+          "keyword": "정보석 낫또 아침",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 102,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:39.011456+00:00",
+          "keyword": "홍현희 조기 낫토",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 100,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:38.845234+00:00",
+          "keyword": "김현정 저지방 우유",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 100,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:38.657700+00:00",
+          "keyword": "차예련 두부면 간장국수",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 102,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:38.257005+00:00",
+          "keyword": "이효리 바레 운동",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 100,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:38.063276+00:00",
+          "keyword": "수영 바레 운동",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 102,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:37.665094+00:00",
+          "keyword": "안은진 필라테스",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 100,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:37.445125+00:00",
+          "keyword": "안은진 줌바댄스",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 100,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:37.241864+00:00",
+          "keyword": "김현정 댄스 운동",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 102,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:36.833499+00:00",
+          "keyword": "전소미 케이블 암풀다운",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 100,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:36.648225+00:00",
+          "keyword": "전소미 링 덤벨 숄더프레스",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 100,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:36.466257+00:00",
+          "keyword": "정은지 복싱",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 100,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:36.264106+00:00",
+          "keyword": "정은지 쉬림프 스쿼트",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 100,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:36.076387+00:00",
+          "keyword": "이종석 주4회 운동",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 100,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:35.883328+00:00",
+          "keyword": "하희라 아침 스트레칭",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 102,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:35.447426+00:00",
+          "keyword": "하희라 철봉 매달리기",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 102,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:35.036578+00:00",
+          "keyword": "노사연 자전거 운동",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 100,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:34.833450+00:00",
+          "keyword": "이민정 족욕",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 102,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:34.448224+00:00",
+          "keyword": "이준호 글루콤",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 102,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:34.026554+00:00",
+          "keyword": "차정원 PMS 드롭",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 100,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:33.823418+00:00",
+          "keyword": "이민정 숙면 여행 백색소음",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 100,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:33.589500+00:00",
+          "keyword": "백지연 아몬드 절구",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 100,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:33.345928+00:00",
+          "keyword": "혜리 수면 루틴",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 102,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:32.932477+00:00",
+          "keyword": "유진 이뮨 부스터샷",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 100,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:32.733209+00:00",
+          "keyword": "유진 비타채움 비타민C",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 100,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:32.409100+00:00",
+          "keyword": "김현정 현미죽 식단",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 100,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:32.205927+00:00",
+          "keyword": "김현정 저칼로리 젤리",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 100,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:31.979227+00:00",
+          "keyword": "서현진 해산물 나물 식단",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 102,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:31.568816+00:00",
+          "keyword": "안은진 김밥 채소쌈",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 100,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:31.376356+00:00",
+          "keyword": "태양 냉동 그린빈",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 100,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:31.165918+00:00",
+          "keyword": "김정난 두유 삶은 달걀",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 100,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:30.949353+00:00",
+          "keyword": "도경완 장윤정 콜리플라워 볶음밥",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 102,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:01:30.496798+00:00",
+          "keyword": "차예련 주상욱 두부면 콩국수",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 102,
+          "rows": []
+        }
+      ],
+      "quota": {
+        "date": "2026-10-31",
+        "units_used": 8265
+      }
+    },
+    {
+      "input": {
+        "mode": "celebrity",
+        "test": false,
+        "generated_at": "2026-10-31T18:02:54+09:00",
+        "keywords": [
+          {
+            "keyword": "수영 소고기 아침 식단",
+            "category": "식단",
+            "reason": "8/28 공개 식단 보도, 린매스업 건강효과 단정 금지. 건강·식단·운동만, 패션 제외. 효과 미채택."
+          },
+          {
+            "keyword": "김현정 아몬드 간식",
+            "category": "식단",
+            "reason": "9/07 본인 식단 소개 보도, 젤리·현미죽과 다른 재료. 건강·식단·운동만, 패션 제외. 효과 미채택."
+          },
+          {
+            "keyword": "이민정 바디필로우 수면",
+            "category": "건강",
+            "reason": "3/17 본인 사용 보도, 미스트·족욕과 다른 구매대상. 건강·식단·운동만, 패션 제외. 효과 미채택."
+          },
+          {
+            "keyword": "이민정 입욕제 숙면",
+            "category": "건강",
+            "reason": "10/09 수면아이템 언급 보도, 정확제품 미확인. 건강·식단·운동만, 패션 제외. 효과 미채택."
+          },
+          {
+            "keyword": "효연 리포머 필라테스",
+            "category": "운동",
+            "reason": "8/28 SNS 운동보도. 건강·식단·운동만, 패션 제외. 효과 미채택."
+          },
+          {
+            "keyword": "유리 일출 요가",
+            "category": "운동",
+            "reason": "8/28 나혼자산다 공개 보도. 건강·식단·운동만, 패션 제외. 효과 미채택."
+          },
+          {
+            "keyword": "수영 웨이트 트레이닝",
+            "category": "운동",
+            "reason": "8/28 공개 루틴 보도. 바레가 아닌 실제웨이트 확인 목적. 건강·식단·운동만, 패션 제외. 효과 미채택."
+          },
+          {
+            "keyword": "남지현 바레",
+            "category": "운동",
+            "reason": "6/18 본인 스튜디오 및 설명 보도; 동명배우 구분. 건강·식단·운동만, 패션 제외. 효과 미채택."
+          },
+          {
+            "keyword": "황보라 바레 운동",
+            "category": "운동",
+            "reason": "6/18 본인체험 보도. 건강·식단·운동만, 패션 제외. 효과 미채택."
+          },
+          {
+            "keyword": "유라 바레 운동",
+            "category": "운동",
+            "reason": "6/18 본인체험 보도. 건강·식단·운동만, 패션 제외. 효과 미채택."
+          },
+          {
+            "keyword": "차오루 바레 운동",
+            "category": "운동",
+            "reason": "6/18 본인체험 보도. 건강·식단·운동만, 패션 제외. 효과 미채택."
+          },
+          {
+            "keyword": "효민 바레 운동",
+            "category": "운동",
+            "reason": "6/18 공개 운동 보도. 건강·식단·운동만, 패션 제외. 효과 미채택."
+          },
+          {
+            "keyword": "손연재 바레 운동",
+            "category": "운동",
+            "reason": "6/18 공개 운동 보도. 건강·식단·운동만, 패션 제외. 효과 미채택."
+          },
+          {
+            "keyword": "백지연 마누카꿀 아몬드",
+            "category": "식단",
+            "reason": "10/09 본인채널 조합 보도; 2차 아몬드절구와 겹치면 같은소재 참고. 건강·식단·운동만, 패션 제외. 효과 미채택."
+          },
+          {
+            "keyword": "유리 스쿠버 다이빙",
+            "category": "운동",
+            "reason": "8/28 본인SNS 보도; 복장·장비패션 제외. 건강·식단·운동만, 패션 제외. 효과 미채택."
+          },
+          {
+            "keyword": "이준호 마그네슘 냉터뷰 원본",
+            "category": "건강",
+            "reason": "검증예외:1차 수면영양제의 본인제품·발언 명확화; 동일소재 신규가산 금지. 건강·식단·운동만, 패션 제외. 효과 미채택."
+          },
+          {
+            "keyword": "노사연 운동 후 회복",
+            "category": "건강",
+            "reason": "10/29 운동영상 단서 확장가설, 실제사용확인 필요. 건강·식단·운동만, 패션 제외. 효과 미채택."
+          },
+          {
+            "keyword": "하희라 건강 아침 식사",
+            "category": "식단",
+            "reason": "신규 가설, 본인공개·정확제품 확인 전 후보보류. 건강·식단·운동만, 패션 제외. 효과 미채택."
+          },
+          {
+            "keyword": "정보석 건강 간식",
+            "category": "식단",
+            "reason": "신규 가설, 낫토와 다른 소재만 검토. 건강·식단·운동만, 패션 제외. 효과 미채택."
+          },
+          {
+            "keyword": "안은진 운동 소도구",
+            "category": "운동",
+            "reason": "SNS운동 보도 확장가설, 실제도구 확인 전 보류. 건강·식단·운동만, 패션 제외. 효과 미채택."
+          },
+          {
+            "keyword": "효연 운동 후 단백질",
+            "category": "식단",
+            "reason": "신규 가설, 본인공개 확인 필요. 건강·식단·운동만, 패션 제외. 효과 미채택."
+          },
+          {
+            "keyword": "유리 아침 건강 레시피",
+            "category": "식단",
+            "reason": "신규 가설, 요가·스쿠버와 별도식사만 검토. 건강·식단·운동만, 패션 제외. 효과 미채택."
+          },
+          {
+            "keyword": "수영 고단백 간식",
+            "category": "식단",
+            "reason": "신규 가설, 소고기 아침과 별도식품만 검토. 건강·식단·운동만, 패션 제외. 효과 미채택."
+          },
+          {
+            "keyword": "효민 샐러드 레시피",
+            "category": "식단",
+            "reason": "신규 가설, 본인공개 확인 필요. 건강·식단·운동만, 패션 제외. 효과 미채택."
+          },
+          {
+            "keyword": "손연재 단백질 간식",
+            "category": "식단",
+            "reason": "신규 가설, 본인공개 확인 필요. 건강·식단·운동만, 패션 제외. 효과 미채택."
+          },
+          {
+            "keyword": "남지현 운동 스트레칭 도구",
+            "category": "운동",
+            "reason": "바레교육 보도 확장, 본인도구 미확인. 건강·식단·운동만, 패션 제외. 효과 미채택."
+          },
+          {
+            "keyword": "황보라 운동 후 회복 도구",
+            "category": "건강",
+            "reason": "신규 가설, 실제사용·원본 미확인. 건강·식단·운동만, 패션 제외. 효과 미채택."
+          },
+          {
+            "keyword": "유라 수면 관리 용품",
+            "category": "건강",
+            "reason": "신규 가설, 실제사용·원본 미확인. 건강·식단·운동만, 패션 제외. 효과 미채택."
+          },
+          {
+            "keyword": "차오루 건강 식단",
+            "category": "식단",
+            "reason": "신규 가설, 실제사용·원본 미확인. 건강·식단·운동만, 패션 제외. 효과 미채택."
+          },
+          {
+            "keyword": "이종석 수분 섭취 루틴",
+            "category": "건강",
+            "reason": "신규 가설, 규칙운동과 별도생활습관만 검토. 건강·식단·운동만, 패션 제외. 효과 미채택."
+          },
+          {
+            "keyword": "김정난 저녁 샐러드",
+            "category": "식단",
+            "reason": "10/31 MBN발언 보도, 아침 두유달걀과 다른식사. 건강·식단·운동만, 패션 제외. 효과 미채택."
+          },
+          {
+            "keyword": "서현진 도시락 식단",
+            "category": "식단",
+            "reason": "신규 가설, 해산물나물과 같으면 참고 통합. 건강·식단·운동만, 패션 제외. 효과 미채택."
+          },
+          {
+            "keyword": "장윤정 콜리플라워 볶음밥 원본 KBS",
+            "category": "식단",
+            "reason": "검증예외:10/29 신규 원본 구체 재료 대조, 2차와 중복신규 불가. 건강·식단·운동만, 패션 제외. 효과 미채택."
+          },
+          {
+            "keyword": "차예련 두부면 제품 브랜드",
+            "category": "식단",
+            "reason": "검증예외:2차 레시피 사용상품 식별. 건강·식단·운동만, 패션 제외. 효과 미채택."
+          },
+          {
+            "keyword": "태양 그린빈 원본 지드래곤 대성",
+            "category": "식단",
+            "reason": "검증예외:간접증언·실제본인사용 구분, 2차중복신규 불가. 건강·식단·운동만, 패션 제외. 효과 미채택."
+          },
+          {
+            "keyword": "혜리 수면 ASMR 더블유",
+            "category": "건강",
+            "reason": "검증예외:10/24 원본 출처 확인. 건강·식단·운동만, 패션 제외. 효과 미채택."
+          },
+          {
+            "keyword": "김현정 저칼로리 젤리 브랜드",
+            "category": "식단",
+            "reason": "검증예외:2차 실제제품 식별. 건강·식단·운동만, 패션 제외. 효과 미채택."
+          },
+          {
+            "keyword": "전소미 덤벨 운동 원본",
+            "category": "운동",
+            "reason": "검증예외:2차 동일 루틴 출처·도구 확인. 건강·식단·운동만, 패션 제외. 효과 미채택."
+          },
+          {
+            "keyword": "하희라 철봉 매달리기 원본",
+            "category": "운동",
+            "reason": "검증예외:10/29 SBS 본인발언 확인. 건강·식단·운동만, 패션 제외. 효과 미채택."
+          },
+          {
+            "keyword": "노사연 자전거 원본 유튜브",
+            "category": "운동",
+            "reason": "검증예외:10/29 공개발언 원본 확인. 건강·식단·운동만, 패션 제외. 효과 미채택."
+          }
+        ]
+      },
+      "input_commit": "2dff69e8945e197d7fac937d828b56cccfb2c0ce",
+      "run_id": 41187145791,
+      "report": "# 유튜브 셀럽훅 쇼츠 영상 발굴 리포트 (2026-10-31)\n\n> 이 리포트는 미래 예측이 아니라, 최근 유튜브 데이터에 이미 나타난 신호를 찾은 결과입니다.\n\n- 생성 시각: 2026-10-31 18:04 KST\n- 키워드 생성 시각: 2026-10-31T18:02:54+09:00\n- 이번 실행 사용량: **704유닛**\n- 오늘 루틴 누적 사용량: **8,969 / 10,000유닛**\n- 검색 프로필: 얕은 스캔 50개 / 딥다이브 150개 / 최근 30일 / KR·ko\n\n## 키워드 랭킹\n\n| 순위 | 키워드 | 영역 | 결과수 | 점수 20↑ | 최고점수 | 딥다이브 |\n|---:|---|---|---:|---:|---:|---|\n| 1 | 수영 소고기 아침 식단 | 식단 | 0 | 0 | N/A | - |\n| 2 | 김현정 아몬드 간식 | 식단 | 0 | 0 | N/A | - |\n| 3 | 이민정 바디필로우 수면 | 건강 | 0 | 0 | N/A | - |\n| 4 | 이민정 입욕제 숙면 | 건강 | 0 | 0 | N/A | - |\n| 5 | 효연 리포머 필라테스 | 운동 | 0 | 0 | N/A | - |\n| 6 | 유리 일출 요가 | 운동 | 0 | 0 | N/A | - |\n| 7 | 수영 웨이트 트레이닝 | 운동 | 0 | 0 | N/A | - |\n| 8 | 남지현 바레 | 운동 | 0 | 0 | N/A | - |\n\n## 딥다이브 상세\n\n## 실패·건너뜀\n\n- 남지현 바레: YouTube API 오류 (rateLimitExceeded): Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:809521089306'.\n- API 오류 이후 추가 호출 중단: YouTube API 오류 (rateLimitExceeded): Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:809521089306'.\n",
+      "history": [
+        {
+          "timestamp": "2026-10-31T09:04:37.675276+00:00",
+          "keyword": "수영 웨이트 트레이닝",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 102,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:04:37.145532+00:00",
+          "keyword": "유리 일출 요가",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 100,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:04:36.946595+00:00",
+          "keyword": "효연 리포머 필라테스",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 100,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:04:36.748215+00:00",
+          "keyword": "이민정 입욕제 숙면",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 102,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:04:36.321186+00:00",
+          "keyword": "이민정 바디필로우 수면",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 100,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:04:36.158327+00:00",
+          "keyword": "김현정 아몬드 간식",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 100,
+          "rows": []
+        },
+        {
+          "timestamp": "2026-10-31T09:04:35.989983+00:00",
+          "keyword": "수영 소고기 아침 식단",
+          "source": "routine",
+          "options": {
+            "order": "viewCount",
+            "sort_by": "score",
+            "max_results": 50,
+            "days": 30,
+            "min_views": 100000,
+            "min_subscribers": 200,
+            "max_subscribers": 5000,
+            "score_mode": "simple",
+            "region": "KR",
+            "language": "ko"
+          },
+          "result_count": 0,
+          "quota_used": 100,
+          "rows": []
+        }
+      ],
+      "quota": {
+        "date": "2026-10-31",
+        "units_used": 8969
+      }
     }
   ],
   "verification_attempts": [
@@ -1492,6 +3212,31 @@
       "method": "Cloud browser public YouTube page",
       "finding": "업로드한 사용자가 YouTube 계정을 폐쇄하여 더 이상 볼 수 없는 동영상입니다.",
       "complete": false
+    },
+    {
+      "video_id": "EXROYY7ZRmo",
+      "checked_on": "2026-10-31",
+      "method": "YouTube expanded description and displayed transcript",
+      "finding": "0-11s family talk;11s mother-in-law kimchi gimbap;13s perilla oil;20s kimchi quality. No verified lowcarb/highprotein or health-food basis. Exclude recommendation: general recipe/family-content false positive from diet hashtag.",
+      "status": "excluded"
+    },
+    {
+      "video_id": "-RRPf-OKfMg",
+      "checked_on": "2026-10-31",
+      "method": "Public YouTube expanded official KBS description compared with Shorts displayed auto-transcript; no full frame playback",
+      "original_video_id": "As8bN8Yr8oQ",
+      "original_url": "https://www.youtube.com/watch?v=As8bN8Yr8oQ",
+      "finding": "Shorts 1-15s tofu moisture removal/no prefrying;15-40s dry-brown onion+scallion then oil/garlic/sugar;43-60s off-heat soy/oyster sauce and chili;1:03-1:20 tofu,one cup water,covered low heat10min. Matches KBS official recipe's basic ingredient combination and cooking sequence. ASR has errors so exact quantities and brand/SKU not verified.",
+      "original_context_confirmed": true,
+      "shared_basic_recipe_confirmed": true,
+      "full_visual_match_confirmed": false,
+      "product_brand_confirmed": false,
+      "view_count": 345539,
+      "subscriber_count": 3870,
+      "score": 89.28656330749354,
+      "previous_reported_on": "2026-10-18",
+      "previous_reported_view_count": 301030,
+      "update_reason": "New official original provenance/basic recipe comparison; view-growth threshold alone not met"
     }
   ],
   "planned_batch2": {
@@ -1701,5 +3446,422 @@
       }
     ]
   },
-  "policy_path": "routine_inputs/celebrity-discovery-state.json"
+  "policy_path": "routine_inputs/celebrity-discovery-state.json",
+  "planned_batch3": {
+    "mode": "celebrity",
+    "test": false,
+    "generated_at": "2026-10-31T18:02:54+09:00",
+    "keywords": [
+      {
+        "keyword": "수영 소고기 아침 식단",
+        "category": "식단",
+        "reason": "8/28 공개 식단 보도, 린매스업 건강효과 단정 금지. 건강·식단·운동만, 패션 제외. 효과 미채택."
+      },
+      {
+        "keyword": "김현정 아몬드 간식",
+        "category": "식단",
+        "reason": "9/07 본인 식단 소개 보도, 젤리·현미죽과 다른 재료. 건강·식단·운동만, 패션 제외. 효과 미채택."
+      },
+      {
+        "keyword": "이민정 바디필로우 수면",
+        "category": "건강",
+        "reason": "3/17 본인 사용 보도, 미스트·족욕과 다른 구매대상. 건강·식단·운동만, 패션 제외. 효과 미채택."
+      },
+      {
+        "keyword": "이민정 입욕제 숙면",
+        "category": "건강",
+        "reason": "10/09 수면아이템 언급 보도, 정확제품 미확인. 건강·식단·운동만, 패션 제외. 효과 미채택."
+      },
+      {
+        "keyword": "효연 리포머 필라테스",
+        "category": "운동",
+        "reason": "8/28 SNS 운동보도. 건강·식단·운동만, 패션 제외. 효과 미채택."
+      },
+      {
+        "keyword": "유리 일출 요가",
+        "category": "운동",
+        "reason": "8/28 나혼자산다 공개 보도. 건강·식단·운동만, 패션 제외. 효과 미채택."
+      },
+      {
+        "keyword": "수영 웨이트 트레이닝",
+        "category": "운동",
+        "reason": "8/28 공개 루틴 보도. 바레가 아닌 실제웨이트 확인 목적. 건강·식단·운동만, 패션 제외. 효과 미채택."
+      },
+      {
+        "keyword": "남지현 바레",
+        "category": "운동",
+        "reason": "6/18 본인 스튜디오 및 설명 보도; 동명배우 구분. 건강·식단·운동만, 패션 제외. 효과 미채택."
+      },
+      {
+        "keyword": "황보라 바레 운동",
+        "category": "운동",
+        "reason": "6/18 본인체험 보도. 건강·식단·운동만, 패션 제외. 효과 미채택."
+      },
+      {
+        "keyword": "유라 바레 운동",
+        "category": "운동",
+        "reason": "6/18 본인체험 보도. 건강·식단·운동만, 패션 제외. 효과 미채택."
+      },
+      {
+        "keyword": "차오루 바레 운동",
+        "category": "운동",
+        "reason": "6/18 본인체험 보도. 건강·식단·운동만, 패션 제외. 효과 미채택."
+      },
+      {
+        "keyword": "효민 바레 운동",
+        "category": "운동",
+        "reason": "6/18 공개 운동 보도. 건강·식단·운동만, 패션 제외. 효과 미채택."
+      },
+      {
+        "keyword": "손연재 바레 운동",
+        "category": "운동",
+        "reason": "6/18 공개 운동 보도. 건강·식단·운동만, 패션 제외. 효과 미채택."
+      },
+      {
+        "keyword": "백지연 마누카꿀 아몬드",
+        "category": "식단",
+        "reason": "10/09 본인채널 조합 보도; 2차 아몬드절구와 겹치면 같은소재 참고. 건강·식단·운동만, 패션 제외. 효과 미채택."
+      },
+      {
+        "keyword": "유리 스쿠버 다이빙",
+        "category": "운동",
+        "reason": "8/28 본인SNS 보도; 복장·장비패션 제외. 건강·식단·운동만, 패션 제외. 효과 미채택."
+      },
+      {
+        "keyword": "이준호 마그네슘 냉터뷰 원본",
+        "category": "건강",
+        "reason": "검증예외:1차 수면영양제의 본인제품·발언 명확화; 동일소재 신규가산 금지. 건강·식단·운동만, 패션 제외. 효과 미채택."
+      },
+      {
+        "keyword": "노사연 운동 후 회복",
+        "category": "건강",
+        "reason": "10/29 운동영상 단서 확장가설, 실제사용확인 필요. 건강·식단·운동만, 패션 제외. 효과 미채택."
+      },
+      {
+        "keyword": "하희라 건강 아침 식사",
+        "category": "식단",
+        "reason": "신규 가설, 본인공개·정확제품 확인 전 후보보류. 건강·식단·운동만, 패션 제외. 효과 미채택."
+      },
+      {
+        "keyword": "정보석 건강 간식",
+        "category": "식단",
+        "reason": "신규 가설, 낫토와 다른 소재만 검토. 건강·식단·운동만, 패션 제외. 효과 미채택."
+      },
+      {
+        "keyword": "안은진 운동 소도구",
+        "category": "운동",
+        "reason": "SNS운동 보도 확장가설, 실제도구 확인 전 보류. 건강·식단·운동만, 패션 제외. 효과 미채택."
+      },
+      {
+        "keyword": "효연 운동 후 단백질",
+        "category": "식단",
+        "reason": "신규 가설, 본인공개 확인 필요. 건강·식단·운동만, 패션 제외. 효과 미채택."
+      },
+      {
+        "keyword": "유리 아침 건강 레시피",
+        "category": "식단",
+        "reason": "신규 가설, 요가·스쿠버와 별도식사만 검토. 건강·식단·운동만, 패션 제외. 효과 미채택."
+      },
+      {
+        "keyword": "수영 고단백 간식",
+        "category": "식단",
+        "reason": "신규 가설, 소고기 아침과 별도식품만 검토. 건강·식단·운동만, 패션 제외. 효과 미채택."
+      },
+      {
+        "keyword": "효민 샐러드 레시피",
+        "category": "식단",
+        "reason": "신규 가설, 본인공개 확인 필요. 건강·식단·운동만, 패션 제외. 효과 미채택."
+      },
+      {
+        "keyword": "손연재 단백질 간식",
+        "category": "식단",
+        "reason": "신규 가설, 본인공개 확인 필요. 건강·식단·운동만, 패션 제외. 효과 미채택."
+      },
+      {
+        "keyword": "남지현 운동 스트레칭 도구",
+        "category": "운동",
+        "reason": "바레교육 보도 확장, 본인도구 미확인. 건강·식단·운동만, 패션 제외. 효과 미채택."
+      },
+      {
+        "keyword": "황보라 운동 후 회복 도구",
+        "category": "건강",
+        "reason": "신규 가설, 실제사용·원본 미확인. 건강·식단·운동만, 패션 제외. 효과 미채택."
+      },
+      {
+        "keyword": "유라 수면 관리 용품",
+        "category": "건강",
+        "reason": "신규 가설, 실제사용·원본 미확인. 건강·식단·운동만, 패션 제외. 효과 미채택."
+      },
+      {
+        "keyword": "차오루 건강 식단",
+        "category": "식단",
+        "reason": "신규 가설, 실제사용·원본 미확인. 건강·식단·운동만, 패션 제외. 효과 미채택."
+      },
+      {
+        "keyword": "이종석 수분 섭취 루틴",
+        "category": "건강",
+        "reason": "신규 가설, 규칙운동과 별도생활습관만 검토. 건강·식단·운동만, 패션 제외. 효과 미채택."
+      },
+      {
+        "keyword": "김정난 저녁 샐러드",
+        "category": "식단",
+        "reason": "10/31 MBN발언 보도, 아침 두유달걀과 다른식사. 건강·식단·운동만, 패션 제외. 효과 미채택."
+      },
+      {
+        "keyword": "서현진 도시락 식단",
+        "category": "식단",
+        "reason": "신규 가설, 해산물나물과 같으면 참고 통합. 건강·식단·운동만, 패션 제외. 효과 미채택."
+      },
+      {
+        "keyword": "장윤정 콜리플라워 볶음밥 원본 KBS",
+        "category": "식단",
+        "reason": "검증예외:10/29 신규 원본 구체 재료 대조, 2차와 중복신규 불가. 건강·식단·운동만, 패션 제외. 효과 미채택."
+      },
+      {
+        "keyword": "차예련 두부면 제품 브랜드",
+        "category": "식단",
+        "reason": "검증예외:2차 레시피 사용상품 식별. 건강·식단·운동만, 패션 제외. 효과 미채택."
+      },
+      {
+        "keyword": "태양 그린빈 원본 지드래곤 대성",
+        "category": "식단",
+        "reason": "검증예외:간접증언·실제본인사용 구분, 2차중복신규 불가. 건강·식단·운동만, 패션 제외. 효과 미채택."
+      },
+      {
+        "keyword": "혜리 수면 ASMR 더블유",
+        "category": "건강",
+        "reason": "검증예외:10/24 원본 출처 확인. 건강·식단·운동만, 패션 제외. 효과 미채택."
+      },
+      {
+        "keyword": "김현정 저칼로리 젤리 브랜드",
+        "category": "식단",
+        "reason": "검증예외:2차 실제제품 식별. 건강·식단·운동만, 패션 제외. 효과 미채택."
+      },
+      {
+        "keyword": "전소미 덤벨 운동 원본",
+        "category": "운동",
+        "reason": "검증예외:2차 동일 루틴 출처·도구 확인. 건강·식단·운동만, 패션 제외. 효과 미채택."
+      },
+      {
+        "keyword": "하희라 철봉 매달리기 원본",
+        "category": "운동",
+        "reason": "검증예외:10/29 SBS 본인발언 확인. 건강·식단·운동만, 패션 제외. 효과 미채택."
+      },
+      {
+        "keyword": "노사연 자전거 원본 유튜브",
+        "category": "운동",
+        "reason": "검증예외:10/29 공개발언 원본 확인. 건강·식단·운동만, 패션 제외. 효과 미채택."
+      }
+    ]
+  },
+  "completed_unique_queries": 87,
+  "units_used": 8969,
+  "cumulative_units": 8969,
+  "ledger_remaining": 1031,
+  "failed_keyword": "남지현 바레",
+  "halt_reason": "rateLimitExceeded: Search Queries per day",
+  "pending_keywords": [
+    {
+      "keyword": "남지현 바레",
+      "category": "운동",
+      "reason": "6/18 본인 스튜디오 및 설명 보도; 동명배우 구분. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "황보라 바레 운동",
+      "category": "운동",
+      "reason": "6/18 본인체험 보도. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "유라 바레 운동",
+      "category": "운동",
+      "reason": "6/18 본인체험 보도. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "차오루 바레 운동",
+      "category": "운동",
+      "reason": "6/18 본인체험 보도. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "효민 바레 운동",
+      "category": "운동",
+      "reason": "6/18 공개 운동 보도. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "손연재 바레 운동",
+      "category": "운동",
+      "reason": "6/18 공개 운동 보도. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "백지연 마누카꿀 아몬드",
+      "category": "식단",
+      "reason": "10/09 본인채널 조합 보도; 2차 아몬드절구와 겹치면 같은소재 참고. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "유리 스쿠버 다이빙",
+      "category": "운동",
+      "reason": "8/28 본인SNS 보도; 복장·장비패션 제외. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "이준호 마그네슘 냉터뷰 원본",
+      "category": "건강",
+      "reason": "검증예외:1차 수면영양제의 본인제품·발언 명확화; 동일소재 신규가산 금지. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "노사연 운동 후 회복",
+      "category": "건강",
+      "reason": "10/29 운동영상 단서 확장가설, 실제사용확인 필요. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "하희라 건강 아침 식사",
+      "category": "식단",
+      "reason": "신규 가설, 본인공개·정확제품 확인 전 후보보류. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "정보석 건강 간식",
+      "category": "식단",
+      "reason": "신규 가설, 낫토와 다른 소재만 검토. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "안은진 운동 소도구",
+      "category": "운동",
+      "reason": "SNS운동 보도 확장가설, 실제도구 확인 전 보류. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "효연 운동 후 단백질",
+      "category": "식단",
+      "reason": "신규 가설, 본인공개 확인 필요. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "유리 아침 건강 레시피",
+      "category": "식단",
+      "reason": "신규 가설, 요가·스쿠버와 별도식사만 검토. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "수영 고단백 간식",
+      "category": "식단",
+      "reason": "신규 가설, 소고기 아침과 별도식품만 검토. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "효민 샐러드 레시피",
+      "category": "식단",
+      "reason": "신규 가설, 본인공개 확인 필요. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "손연재 단백질 간식",
+      "category": "식단",
+      "reason": "신규 가설, 본인공개 확인 필요. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "남지현 운동 스트레칭 도구",
+      "category": "운동",
+      "reason": "바레교육 보도 확장, 본인도구 미확인. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "황보라 운동 후 회복 도구",
+      "category": "건강",
+      "reason": "신규 가설, 실제사용·원본 미확인. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "유라 수면 관리 용품",
+      "category": "건강",
+      "reason": "신규 가설, 실제사용·원본 미확인. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "차오루 건강 식단",
+      "category": "식단",
+      "reason": "신규 가설, 실제사용·원본 미확인. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "이종석 수분 섭취 루틴",
+      "category": "건강",
+      "reason": "신규 가설, 규칙운동과 별도생활습관만 검토. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "김정난 저녁 샐러드",
+      "category": "식단",
+      "reason": "10/31 MBN발언 보도, 아침 두유달걀과 다른식사. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "서현진 도시락 식단",
+      "category": "식단",
+      "reason": "신규 가설, 해산물나물과 같으면 참고 통합. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "장윤정 콜리플라워 볶음밥 원본 KBS",
+      "category": "식단",
+      "reason": "검증예외:10/29 신규 원본 구체 재료 대조, 2차와 중복신규 불가. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "차예련 두부면 제품 브랜드",
+      "category": "식단",
+      "reason": "검증예외:2차 레시피 사용상품 식별. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "태양 그린빈 원본 지드래곤 대성",
+      "category": "식단",
+      "reason": "검증예외:간접증언·실제본인사용 구분, 2차중복신규 불가. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "혜리 수면 ASMR 더블유",
+      "category": "건강",
+      "reason": "검증예외:10/24 원본 출처 확인. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "김현정 저칼로리 젤리 브랜드",
+      "category": "식단",
+      "reason": "검증예외:2차 실제제품 식별. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "전소미 덤벨 운동 원본",
+      "category": "운동",
+      "reason": "검증예외:2차 동일 루틴 출처·도구 확인. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "하희라 철봉 매달리기 원본",
+      "category": "운동",
+      "reason": "검증예외:10/29 SBS 본인발언 확인. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    },
+    {
+      "keyword": "노사연 자전거 원본 유튜브",
+      "category": "운동",
+      "reason": "검증예외:10/29 공개발언 원본 확인. 건강·식단·운동만, 패션 제외. 효과 미채택."
+    }
+  ],
+  "pending_verifications": [
+    "fsTo69hoFCU",
+    "BsB09dMt9Bw",
+    "IoQ_ECXq2xk",
+    "VSQhC7UUB3E",
+    "TAM1jor-MKA"
+  ],
+  "new_topic_count": 0,
+  "meaningful_update_ids": [
+    "-RRPf-OKfMg"
+  ],
+  "availability_corrections": [
+    "fsTo69hoFCU"
+  ],
+  "unchanged_existing_omitted": 4,
+  "new_false_positive_excluded": [
+    "EXROYY7ZRmo"
+  ],
+  "continuation_scheduled": false,
+  "requested_continuation": "2026-11-01T18:00:00+09:00",
+  "continuation_limitation": "No enabled continuation exists. A new follow-up automation could not be created in this execution. Weekly routine remains unchanged; pending work preserved for next authorized run.",
+  "quota_caveat": "Ledger sums successful calls only (search.list100,details1). Failed API calls may not be counted; actual Google project usage/other callers/remaining quota unavailable. Independent search call daily limit reached; no repeat retry.",
+  "initial_input_schema_check": {
+    "mode": "celebrity",
+    "test": false,
+    "keywords": 40,
+    "named_queries": 35,
+    "general_queries": 5,
+    "celebrities": 15,
+    "filters_verified_in_CONFIGS": true
+  },
+  "policy_deviations": [
+    {
+      "keyword": "장윤주 근력 루틴",
+      "reason": "Prior completion2026-10-17T09:04:08Z;batch1 near17:58KST began about6minutes before full14day expiry. It should have been excluded until expiry. Recorded as existing-topic search, never new. Future cooldown uses precise timestamps."
+    }
+  ]
 }
