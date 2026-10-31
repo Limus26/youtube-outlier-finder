@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-31T09:02:54.703Z",
+  "updated_at": "2026-10-31T09:08:24.536Z",
   "purpose": "Persistent memory for the scheduled agent's query selection and final report deduplication. Raw runner reports/history remain complete; the scheduled agent reads and updates this ledger.",
   "policy": {
     "query_topic_cooldown_days": 14,
@@ -59,7 +59,10 @@
         "제니|두피마사지기",
         "이나연|두피마사지기",
         "전혜빈|두피마사지기",
-        "천우희|블루베리호두두유"
+        "천우희|블루베리호두두유",
+        "한가인|러닝",
+        "한가인|요가",
+        "정은지|복싱"
       ]
     }
   },
@@ -443,12 +446,24 @@
       "video_id": "-RRPf-OKfMg",
       "title": "차원이 다른 류수영 두부조림",
       "url": "https://youtu.be/-RRPf-OKfMg",
-      "last_reported_view_count": 301030,
-      "last_reported_subscriber_count": 3150,
-      "metrics_checked_on": "2026-10-18",
-      "last_reported_on": "2026-10-18",
-      "status": "일반 후보·추가참고",
-      "verification_note": "일반 후보·추가참고: 류수영 두부조림 기존 소재군. KBS 방송 공개 근거 있음. 이전 쇼츠와 동일 레시피·브랜드는 미확인. 신규 소재 수로 가산하지 않음."
+      "last_reported_view_count": 345539,
+      "last_reported_subscriber_count": 3870,
+      "metrics_checked_on": "2026-10-31",
+      "last_reported_on": "2026-10-31",
+      "status": "기존 소재·원본 검증 업데이트",
+      "verification_note": "Shorts 1-15s tofu moisture removal/no prefrying;15-40s dry-brown onion+scallion then oil/garlic/sugar;43-60s off-heat soy/oyster sauce and chili;1:03-1:20 tofu,one cup water,covered low heat10min. Matches KBS official recipe's basic ingredient combination and cooking sequence. ASR has errors so exact quantities and brand/SKU not verified.",
+      "reporting_history": [
+        {
+          "reported_on": "2026-10-18",
+          "view_count": 301030,
+          "subscriber_count": 3150,
+          "verification_note": "일반 후보·추가참고: 류수영 두부조림 기존 소재군. KBS 방송 공개 근거 있음. 이전 쇼츠와 동일 레시피·브랜드는 미확인. 신규 소재 수로 가산하지 않음."
+        }
+      ],
+      "original_video_id": "As8bN8Yr8oQ",
+      "original_context_confirmed": true,
+      "shared_basic_recipe_confirmed": true,
+      "product_brand_confirmed": false
     },
     {
       "video_id": "TAM1jor-MKA",
@@ -489,8 +504,71 @@
       "last_reported_subscriber_count": 2180,
       "metrics_checked_on": "2026-10-24",
       "last_reported_on": "2026-10-24",
-      "status": "일반 후보",
-      "verification_note": "쇼츠 공개 설명 #그릭요거트 및 표시스크립트3~11초에서 감자·달걀·마요네즈 대신 요거트 문맥 확인(ASR오탈자). 얼루어2026-09-04가 본인 레시피 소개를 보도. 정확브랜드·SKU·원본영상과 전체 일치 미확인. 품절대란·매일저녁·칼로리감량 주장 미채택."
+      "status": "기존 후보·링크 사용 중단",
+      "verification_note": "쇼츠 공개 설명 #그릭요거트 및 표시스크립트3~11초에서 감자·달걀·마요네즈 대신 요거트 문맥 확인(ASR오탈자). 얼루어2026-09-04가 본인 레시피 소개를 보도. 정확브랜드·SKU·원본영상과 전체 일치 미확인. 품절대란·매일저녁·칼로리감량 주장 미채택.",
+      "availability_checked_on": "2026-10-31",
+      "availability": "Uploader account closed; unavailable",
+      "availability_notice_reported_on": "2026-10-31"
+    },
+    {
+      "video_id": "ISVJSOKyiKI",
+      "title": "강남이 1분 만에 뻗어버린 이상화가 만든 홈트 보드 #강남 #이상화 #슬라이드보드 #홈트 #유튜브쇼핑",
+      "url": "https://youtu.be/ISVJSOKyiKI",
+      "last_reported_view_count": 1045862,
+      "last_reported_subscriber_count": 1330,
+      "metrics_checked_on": "2026-10-21",
+      "last_reported_on": "2026-10-21",
+      "status": "기보고·일회성 우선검토",
+      "verification_note": "Imported only five IDs explicitly shown to user on Oct21. Exact original/product comparison remains unverified. Do not mark other60 raw results reported.",
+      "source_report": "reports/oneoff/exercise-20261021.md@oneoff/exercise-20261021"
+    },
+    {
+      "video_id": "OtpyQQvH0nU",
+      "title": "3천원대 고무밴드로 집에서 전소미 직각 어깨 만드는 법 #쇼츠",
+      "url": "https://youtu.be/OtpyQQvH0nU",
+      "last_reported_view_count": 152133,
+      "last_reported_subscriber_count": 3720,
+      "metrics_checked_on": "2026-10-21",
+      "last_reported_on": "2026-10-21",
+      "status": "기보고·일회성 우선검토",
+      "verification_note": "Imported only five IDs explicitly shown to user on Oct21. Exact original/product comparison remains unverified. Do not mark other60 raw results reported.",
+      "source_report": "reports/oneoff/exercise-20261021.md@oneoff/exercise-20261021"
+    },
+    {
+      "video_id": "odoLhmeb3Yc",
+      "title": "밴드를 당기라고 했더니 관장님까지 따라왔다",
+      "url": "https://youtu.be/odoLhmeb3Yc",
+      "last_reported_view_count": 197708,
+      "last_reported_subscriber_count": 2860,
+      "metrics_checked_on": "2026-10-21",
+      "last_reported_on": "2026-10-21",
+      "status": "기보고·운동 편집참고",
+      "verification_note": "Imported only five IDs explicitly shown to user on Oct21. Exact original/product comparison remains unverified. Do not mark other60 raw results reported.",
+      "source_report": "reports/oneoff/exercise-20261021.md@oneoff/exercise-20261021"
+    },
+    {
+      "video_id": "Al1DhqTA9sk",
+      "title": "어우 근데 진짜 쎄요",
+      "url": "https://youtu.be/Al1DhqTA9sk",
+      "last_reported_view_count": 1374755,
+      "last_reported_subscriber_count": 394,
+      "metrics_checked_on": "2026-10-21",
+      "last_reported_on": "2026-10-21",
+      "status": "기보고·운동 편집참고",
+      "verification_note": "Imported only five IDs explicitly shown to user on Oct21. Exact original/product comparison remains unverified. Do not mark other60 raw results reported.",
+      "source_report": "reports/oneoff/exercise-20261021.md@oneoff/exercise-20261021"
+    },
+    {
+      "video_id": "3QA3-9P5OP4",
+      "title": "이번엔 유도다",
+      "url": "https://youtu.be/3QA3-9P5OP4",
+      "last_reported_view_count": 1364775,
+      "last_reported_subscriber_count": 394,
+      "metrics_checked_on": "2026-10-21",
+      "last_reported_on": "2026-10-21",
+      "status": "기보고·운동 편집참고",
+      "verification_note": "Imported only five IDs explicitly shown to user on Oct21. Exact original/product comparison remains unverified. Do not mark other60 raw results reported.",
+      "source_report": "reports/oneoff/exercise-20261021.md@oneoff/exercise-20261021"
     }
   ],
   "query_history": [
@@ -19124,6 +19202,160 @@
       "successful": true,
       "reason": "10/30 본인채널 조리 보도. 건강·식단·운동만, 패션 제외. 사용·브랜드 미검증은 추천보류; 효과 미확정.",
       "run_id": 41186924379
+    },
+    {
+      "keyword": "수영 웨이트 트레이닝",
+      "last_completed_at": "2026-10-31T09:04:37.675276+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "수영|웨이트",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "8/28 공개 루틴 보도. 바레가 아닌 실제웨이트 확인 목적. 건강·식단·운동만, 패션 제외. 효과 미채택.",
+      "run_id": 41187145791
+    },
+    {
+      "keyword": "유리 일출 요가",
+      "last_completed_at": "2026-10-31T09:04:37.145532+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "유리|일출요가",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "8/28 나혼자산다 공개 보도. 건강·식단·운동만, 패션 제외. 효과 미채택.",
+      "run_id": 41187145791
+    },
+    {
+      "keyword": "효연 리포머 필라테스",
+      "last_completed_at": "2026-10-31T09:04:36.946595+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "효연|리포머",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "8/28 SNS 운동보도. 건강·식단·운동만, 패션 제외. 효과 미채택.",
+      "run_id": 41187145791
+    },
+    {
+      "keyword": "이민정 입욕제 숙면",
+      "last_completed_at": "2026-10-31T09:04:36.748215+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "이민정|입욕제",
+      "stage": "shallow",
+      "quota_used": 102,
+      "successful": true,
+      "reason": "10/09 수면아이템 언급 보도, 정확제품 미확인. 건강·식단·운동만, 패션 제외. 효과 미채택.",
+      "run_id": 41187145791
+    },
+    {
+      "keyword": "이민정 바디필로우 수면",
+      "last_completed_at": "2026-10-31T09:04:36.321186+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "이민정|바디필로우",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "3/17 본인 사용 보도, 미스트·족욕과 다른 구매대상. 건강·식단·운동만, 패션 제외. 효과 미채택.",
+      "run_id": 41187145791
+    },
+    {
+      "keyword": "김현정 아몬드 간식",
+      "last_completed_at": "2026-10-31T09:04:36.158327+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "김현정가수|아몬드",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "9/07 본인 식단 소개 보도, 젤리·현미죽과 다른 재료. 건강·식단·운동만, 패션 제외. 효과 미채택.",
+      "run_id": 41187145791
+    },
+    {
+      "keyword": "수영 소고기 아침 식단",
+      "last_completed_at": "2026-10-31T09:04:35.989983+00:00",
+      "filters": {
+        "order": "viewCount",
+        "sort_by": "score",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "score_mode": "simple",
+        "region": "KR",
+        "language": "ko"
+      },
+      "topic_key": "수영|소고기아침",
+      "stage": "shallow",
+      "quota_used": 100,
+      "successful": true,
+      "reason": "8/28 공개 식단 보도, 린매스업 건강효과 단정 금지. 건강·식단·운동만, 패션 제외. 효과 미채택.",
+      "run_id": 41187145791
     }
   ],
   "topic_groups": [
@@ -19152,9 +19384,15 @@
       ],
       "same_recipe_confirmed": false,
       "evidence_urls": [
-        "https://vod.kbs.co.kr/index.html?program_id=PS-2024094130-01-000&sname=vod&source=episode&stype=vod"
+        "https://vod.kbs.co.kr/index.html?program_id=PS-2024094130-01-000&sname=vod&source=episode&stype=vod",
+        "https://www.youtube.com/watch?v=As8bN8Yr8oQ",
+        "https://www.youtube.com/watch?v=-RRPf-OKfMg"
       ],
-      "verification": "기존 두부조림 소재군 참고, 동일 배합/조리법으로 확정해 병합하지 않음"
+      "verification": "Shorts 1-15s tofu moisture removal/no prefrying;15-40s dry-brown onion+scallion then oil/garlic/sugar;43-60s off-heat soy/oyster sauce and chili;1:03-1:20 tofu,one cup water,covered low heat10min. Matches KBS official recipe's basic ingredient combination and cooking sequence. ASR has errors so exact quantities and brand/SKU not verified.",
+      "original_video_id": "As8bN8Yr8oQ",
+      "original_context_confirmed": true,
+      "shared_basic_recipe_confirmed": true,
+      "product_brand_confirmed": false
     },
     {
       "topic_key": "여배우미확인|간식",
@@ -19241,7 +19479,11 @@
     "Disambiguate model/actor Han Hye-jin; normalize NS Yoon-G and Kim Yoon-ji as the same person.",
     "Group different video IDs only when the same celebrity and same product/recipe/routine are supported; title similarity alone is not proof.",
     "Seeded from the 2026-10-17 cumulative report (28 IDs including excluded results) and October 10-17 search snapshots. Preserve this ledger even if rolling search history truncates.",
-    "last_reported_on records inclusion in the cumulative report, not a fresh metrics check. Use metrics_checked_on for freshness."
+    "last_reported_on records inclusion in the cumulative report, not a fresh metrics check. Use metrics_checked_on for freshness.",
+    {
+      "date": "2026-10-31",
+      "note": "Imported five explicitly reported Oct21 exercise IDs from separate oneoff branch. General weekly fivequeries are user-mandated repeat exceptions. No unsuccessful/pending third-batch keywords marked complete. Exact14day cooldown near boundary deviation recorded in session."
+    }
   ],
   "last_observations": [
     {
@@ -19509,6 +19751,74 @@
       "relative_view_growth": 0.14600205959538926,
       "status": "기보고 변화기준 미달; 사용자 신규·업데이트 목록에서 제외",
       "verification_note": "정확상품·원본 동일성 확인 진전 없음"
+    },
+    {
+      "video_id": "v14cdJTXtEE",
+      "title": "관리하는 여배우들이 아침마다 챙기는 땅콩버터의 정체",
+      "channel_title": "세콩픽쇼츠",
+      "subscriber_count": 2380,
+      "view_count": 586166,
+      "published_at": "2026-10-10T09:00:36+00:00",
+      "score": 246.28823529411764,
+      "rank": 1,
+      "url": "https://youtu.be/v14cdJTXtEE",
+      "checked_on": "2026-10-31"
+    },
+    {
+      "video_id": "KNZ0egxNyuE",
+      "title": "45세 한가인이 콕 집어 배우는 ‘이 근육’…50대라면 알아두세요",
+      "channel_title": "인생1막과2막사이~~",
+      "subscriber_count": 639,
+      "view_count": 282597,
+      "published_at": "2026-10-02T14:34:48+00:00",
+      "score": 442.2488262910798,
+      "rank": 1,
+      "url": "https://youtu.be/KNZ0egxNyuE",
+      "checked_on": "2026-10-31"
+    },
+    {
+      "video_id": "0I7Xt2YcZ_Q",
+      "title": "김완선 다이어트 식단",
+      "channel_title": "셀럽온리",
+      "subscriber_count": 3020,
+      "view_count": 1393877,
+      "published_at": "2026-10-08T09:00:05+00:00",
+      "score": 461.54867549668876,
+      "rank": 1,
+      "url": "https://youtu.be/0I7Xt2YcZ_Q",
+      "checked_on": "2026-10-31"
+    },
+    {
+      "video_id": "EXROYY7ZRmo",
+      "title": "이민정 김치김밥#다이어트#연예인#김밥#레시피",
+      "channel_title": "숏마니",
+      "subscriber_count": 4330,
+      "view_count": 1276446,
+      "published_at": "2026-10-17T22:00:20+00:00",
+      "score": 294.79122401847576,
+      "rank": 1,
+      "url": "https://youtu.be/EXROYY7ZRmo",
+      "checked_on": "2026-10-31"
+    },
+    {
+      "video_id": "v1g7tTWxWyE",
+      "title": "바쁜 아침에 이거 무조건 드세요! 한혜진 가족이 반한 역대급 식습관",
+      "channel_title": "셀럽잇템",
+      "subscriber_count": 1940,
+      "view_count": 376264,
+      "published_at": "2026-10-13T07:00:01+00:00",
+      "score": 193.95051546391753,
+      "rank": 4,
+      "url": "https://youtu.be/v1g7tTWxWyE",
+      "checked_on": "2026-10-31"
+    },
+    {
+      "video_id": "-RRPf-OKfMg",
+      "view_count": 345539,
+      "subscriber_count": 3870,
+      "score": 89.28656330749354,
+      "checked_on": "2026-10-31",
+      "source": "YouTube expanded public page (not API batch)"
     }
   ],
   "runs": [
@@ -19625,6 +19935,38 @@
       "halt_reason": null,
       "continuation_scheduled": false,
       "trigger": "User requested immediate continuation"
+    },
+    {
+      "date": "2026-10-31",
+      "run_ids": [
+        41186728219,
+        41186924379,
+        41187145791
+      ],
+      "unique_successful_queries": 87,
+      "units_used": 8969,
+      "ledger_remaining": 1031,
+      "new_video_ids": [],
+      "meaningful_update_ids": [
+        "-RRPf-OKfMg"
+      ],
+      "availability_correction_ids": [
+        "fsTo69hoFCU"
+      ],
+      "unchanged_existing_omitted": 4,
+      "new_false_positive_excluded": 1,
+      "pending_query_count": 33,
+      "pending_verification_count": 5,
+      "analysis_status": "partial",
+      "halt_reason": "rateLimitExceeded: Search Queries per day",
+      "continuation_scheduled": false,
+      "continuation_path": "routine_inputs/celebrity-continuation-2026-10-31.json",
+      "policy_deviations": [
+        {
+          "keyword": "장윤주 근력 루틴",
+          "reason": "Prior completion2026-10-17T09:04:08Z;batch1 near17:58KST began about6minutes before full14day expiry. It should have been excluded until expiry. Recorded as existing-topic search, never new. Future cooldown uses precise timestamps."
+        }
+      ]
     }
   ],
   "excluded_videos": [
@@ -19666,6 +20008,20 @@
       "url": "https://youtu.be/NaoO970AM-Y",
       "checked_on": "2026-10-19",
       "reason": "무대/음악 콘텐츠로 건강·식단·운동 루틴 범위에서 제외."
+    },
+    {
+      "video_id": "EXROYY7ZRmo",
+      "title": "이민정 김치김밥#다이어트#연예인#김밥#레시피",
+      "channel_title": "숏마니",
+      "subscriber_count": 4330,
+      "view_count": 1276446,
+      "published_at": "2026-10-17T22:00:20+00:00",
+      "score": 294.79122401847576,
+      "rank": 2,
+      "url": "https://youtu.be/EXROYY7ZRmo",
+      "checked_on": "2026-10-31",
+      "topic_key": "이민정|김치김밥",
+      "reason": "Displayed transcript contains family praise0-11s and ordinary kimchi/perillaoil recipe. Diet hashtag does not establish health/highprotein/lowcalorie recipe or purchase-use connection. Exclude from health shopping recommendation."
     }
   ],
   "verification_attempts": [
@@ -19780,6 +20136,289 @@
       "video_id": "fsTo69hoFCU",
       "method": "Public YouTube expanded description + displayed auto transcript; Allure report. Not full-frame playback",
       "findings": "쇼츠 공개 설명 #그릭요거트 및 표시스크립트3~11초에서 감자·달걀·마요네즈 대신 요거트 문맥 확인(ASR오탈자). 얼루어2026-09-04가 본인 레시피 소개를 보도. 정확브랜드·SKU·원본영상과 전체 일치 미확인. 품절대란·매일저녁·칼로리감량 주장 미채택."
+    },
+    {
+      "date": "2026-10-31",
+      "findings": [
+        {
+          "video_id": "fsTo69hoFCU",
+          "checked_on": "2026-10-31",
+          "method": "Cloud browser public YouTube page",
+          "finding": "업로드한 사용자가 YouTube 계정을 폐쇄하여 더 이상 볼 수 없는 동영상입니다.",
+          "complete": false
+        },
+        {
+          "video_id": "EXROYY7ZRmo",
+          "checked_on": "2026-10-31",
+          "method": "YouTube expanded description and displayed transcript",
+          "finding": "0-11s family talk;11s mother-in-law kimchi gimbap;13s perilla oil;20s kimchi quality. No verified lowcarb/highprotein or health-food basis. Exclude recommendation: general recipe/family-content false positive from diet hashtag.",
+          "status": "excluded"
+        },
+        {
+          "video_id": "-RRPf-OKfMg",
+          "checked_on": "2026-10-31",
+          "method": "Public YouTube expanded official KBS description compared with Shorts displayed auto-transcript; no full frame playback",
+          "original_video_id": "As8bN8Yr8oQ",
+          "original_url": "https://www.youtube.com/watch?v=As8bN8Yr8oQ",
+          "finding": "Shorts 1-15s tofu moisture removal/no prefrying;15-40s dry-brown onion+scallion then oil/garlic/sugar;43-60s off-heat soy/oyster sauce and chili;1:03-1:20 tofu,one cup water,covered low heat10min. Matches KBS official recipe's basic ingredient combination and cooking sequence. ASR has errors so exact quantities and brand/SKU not verified.",
+          "original_context_confirmed": true,
+          "shared_basic_recipe_confirmed": true,
+          "full_visual_match_confirmed": false,
+          "product_brand_confirmed": false,
+          "view_count": 345539,
+          "subscriber_count": 3870,
+          "score": 89.28656330749354,
+          "previous_reported_on": "2026-10-18",
+          "previous_reported_view_count": 301030,
+          "update_reason": "New official original provenance/basic recipe comparison; view-growth threshold alone not met"
+        }
+      ]
     }
-  ]
+  ],
+  "legacy_filter_reassessment": {
+    "checked_on": "2026-10-31",
+    "filters": {
+      "min_subscribers": 200,
+      "max_subscribers": 5000,
+      "min_views": 100000,
+      "days": 30
+    },
+    "note": "Preserve each historic metrics_checked_on; numeric pass below is NOT current30day eligibility. Fresh API/page observations stored separately. Pre-Oct17 max3000 collections could miss3001-5000 channels; do not treat as exhaustive.",
+    "reported_numeric_reassessment": [
+      {
+        "video_id": "U7xfQkhbIvc",
+        "original_checked_on": "2026-10-17",
+        "minmax_pass": true,
+        "recency_current_status": "Not inferred from historic observation"
+      },
+      {
+        "video_id": "0I7Xt2YcZ_Q",
+        "original_checked_on": "2026-10-17",
+        "minmax_pass": true,
+        "recency_current_status": "Not inferred from historic observation"
+      },
+      {
+        "video_id": "KNZ0egxNyuE",
+        "original_checked_on": "2026-10-17",
+        "minmax_pass": true,
+        "recency_current_status": "Not inferred from historic observation"
+      },
+      {
+        "video_id": "v14cdJTXtEE",
+        "original_checked_on": "2026-10-17",
+        "minmax_pass": true,
+        "recency_current_status": "Not inferred from historic observation"
+      },
+      {
+        "video_id": "UrYQALlLf0w",
+        "original_checked_on": "2026-10-17",
+        "minmax_pass": true,
+        "recency_current_status": "Not inferred from historic observation"
+      },
+      {
+        "video_id": "vDnfqSqkQ_8",
+        "original_checked_on": "2026-10-17",
+        "minmax_pass": false,
+        "recency_current_status": "Not inferred from historic observation"
+      },
+      {
+        "video_id": "v1g7tTWxWyE",
+        "original_checked_on": "2026-10-24",
+        "minmax_pass": true,
+        "recency_current_status": "Not inferred from historic observation"
+      },
+      {
+        "video_id": "eqcmv8Ti8sE",
+        "original_checked_on": "2026-10-17",
+        "minmax_pass": false,
+        "recency_current_status": "Not inferred from historic observation"
+      },
+      {
+        "video_id": "Lj2gSn5Vmik",
+        "original_checked_on": "2026-10-17",
+        "minmax_pass": false,
+        "recency_current_status": "Not inferred from historic observation"
+      },
+      {
+        "video_id": "fpJO5lkSh8I",
+        "original_checked_on": "2026-10-11",
+        "minmax_pass": true,
+        "recency_current_status": "Not inferred from historic observation"
+      },
+      {
+        "video_id": "8lu6n9mHUmE",
+        "original_checked_on": "2026-10-12",
+        "minmax_pass": true,
+        "recency_current_status": "Not inferred from historic observation"
+      },
+      {
+        "video_id": "8sGeBqBYd9M",
+        "original_checked_on": "2026-10-12",
+        "minmax_pass": true,
+        "recency_current_status": "Not inferred from historic observation"
+      },
+      {
+        "video_id": "cvNRZp7tZUs",
+        "original_checked_on": "2026-10-11",
+        "minmax_pass": true,
+        "recency_current_status": "Not inferred from historic observation"
+      },
+      {
+        "video_id": "o0TgI0n4QBc",
+        "original_checked_on": "2026-10-20",
+        "minmax_pass": false,
+        "recency_current_status": "Not inferred from historic observation"
+      },
+      {
+        "video_id": "KG7NCmLwwok",
+        "original_checked_on": "2026-10-11",
+        "minmax_pass": true,
+        "recency_current_status": "Not inferred from historic observation"
+      },
+      {
+        "video_id": "CX6mkO-dWwQ",
+        "original_checked_on": "2026-10-10",
+        "minmax_pass": true,
+        "recency_current_status": "Not inferred from historic observation"
+      },
+      {
+        "video_id": "oyyXerVxN_w",
+        "original_checked_on": "2026-10-12",
+        "minmax_pass": true,
+        "recency_current_status": "Not inferred from historic observation"
+      },
+      {
+        "video_id": "MQ9pzQCUW0A",
+        "original_checked_on": "2026-10-10",
+        "minmax_pass": false,
+        "recency_current_status": "Not inferred from historic observation"
+      },
+      {
+        "video_id": "VSQhC7UUB3E",
+        "original_checked_on": "2026-10-18",
+        "minmax_pass": true,
+        "recency_current_status": "Not inferred from historic observation"
+      },
+      {
+        "video_id": "DjFAB-TGpR8",
+        "original_checked_on": "2026-10-12",
+        "minmax_pass": false,
+        "recency_current_status": "Not inferred from historic observation"
+      },
+      {
+        "video_id": "g53WMAlwzj8",
+        "original_checked_on": "2026-10-12",
+        "minmax_pass": false,
+        "recency_current_status": "Not inferred from historic observation"
+      },
+      {
+        "video_id": "nkxSbvj-Y0I",
+        "original_checked_on": "2026-10-12",
+        "minmax_pass": false,
+        "recency_current_status": "Not inferred from historic observation"
+      },
+      {
+        "video_id": "GqVOkCkWEZk",
+        "original_checked_on": "2026-10-12",
+        "minmax_pass": false,
+        "recency_current_status": "Not inferred from historic observation"
+      },
+      {
+        "video_id": "3Z9cKAsXi80",
+        "original_checked_on": "2026-10-10",
+        "minmax_pass": false,
+        "recency_current_status": "Not inferred from historic observation"
+      },
+      {
+        "video_id": "u-nBOLprwaE",
+        "original_checked_on": "2026-10-12",
+        "minmax_pass": false,
+        "recency_current_status": "Not inferred from historic observation"
+      },
+      {
+        "video_id": "E6_zC6_1whk",
+        "original_checked_on": "2026-10-11",
+        "minmax_pass": false,
+        "recency_current_status": "Not inferred from historic observation"
+      },
+      {
+        "video_id": "L1pX57c7AFw",
+        "original_checked_on": "2026-10-12",
+        "minmax_pass": false,
+        "recency_current_status": "Not inferred from historic observation"
+      },
+      {
+        "video_id": "8tWK6wP_20k",
+        "original_checked_on": "2026-10-11",
+        "minmax_pass": false,
+        "recency_current_status": "Not inferred from historic observation"
+      },
+      {
+        "video_id": "BsB09dMt9Bw",
+        "original_checked_on": "2026-10-18",
+        "minmax_pass": true,
+        "recency_current_status": "Not inferred from historic observation"
+      },
+      {
+        "video_id": "IoQ_ECXq2xk",
+        "original_checked_on": "2026-10-18",
+        "minmax_pass": true,
+        "recency_current_status": "Not inferred from historic observation"
+      },
+      {
+        "video_id": "-RRPf-OKfMg",
+        "original_checked_on": "2026-10-31",
+        "minmax_pass": true,
+        "recency_current_status": "Not inferred from historic observation"
+      },
+      {
+        "video_id": "TAM1jor-MKA",
+        "original_checked_on": "2026-10-20",
+        "minmax_pass": true,
+        "recency_current_status": "Not inferred from historic observation"
+      },
+      {
+        "video_id": "uldGliiQtNA",
+        "original_checked_on": "2026-10-20",
+        "minmax_pass": true,
+        "recency_current_status": "Not inferred from historic observation"
+      },
+      {
+        "video_id": "fsTo69hoFCU",
+        "original_checked_on": "2026-10-24",
+        "minmax_pass": true,
+        "recency_current_status": "Not inferred from historic observation"
+      },
+      {
+        "video_id": "ISVJSOKyiKI",
+        "original_checked_on": "2026-10-21",
+        "minmax_pass": true,
+        "recency_current_status": "Not inferred from historic observation"
+      },
+      {
+        "video_id": "OtpyQQvH0nU",
+        "original_checked_on": "2026-10-21",
+        "minmax_pass": true,
+        "recency_current_status": "Not inferred from historic observation"
+      },
+      {
+        "video_id": "odoLhmeb3Yc",
+        "original_checked_on": "2026-10-21",
+        "minmax_pass": true,
+        "recency_current_status": "Not inferred from historic observation"
+      },
+      {
+        "video_id": "Al1DhqTA9sk",
+        "original_checked_on": "2026-10-21",
+        "minmax_pass": true,
+        "recency_current_status": "Not inferred from historic observation"
+      },
+      {
+        "video_id": "3QA3-9P5OP4",
+        "original_checked_on": "2026-10-21",
+        "minmax_pass": true,
+        "recency_current_status": "Not inferred from historic observation"
+      }
+    ]
+  }
 }
