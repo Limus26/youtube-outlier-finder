@@ -1,0 +1,96 @@
+name: One-off women exercise search 20261104
+on:
+  push:
+    branches: ["oneoff/women-exercise-20261104"]
+    paths: [".github/workflows/oneoff-exercise-20261104.yml"]
+permissions:
+  contents: write
+concurrency:
+  group: youtube-outlier-routine
+  cancel-in-progress: false
+jobs:
+  exercise:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests tabulate
+      - name: Exercise-only scan without routine writes
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: |
+          python - <<'PY'
+          import json, os, re
+          from pathlib import Path
+          from datetime import datetime, timezone
+          from routine_runner import BudgetClient, CONFIGS, scan_keyword
+          from youtube_outlier import QuotaTracker, load_routine_usage, record_routine_usage
+          keywords = ["전소미 운동 밴드","이상화 슬라이드보드","한혜진 모델 홈트","소유 힙업 밴드","진서연 케틀벨","엄정화 근력 운동","채정안 스트레칭 폼롤러","윤은혜 홈트","이시영 근력 운동","손담비 스테퍼","정은지 하체 운동","김세정 복근 운동","권은비 웨이트","나나 운동 루틴","유이 근력 운동","신세경 홈트","손예진 필라테스","박민영 스트레칭","수지 운동 루틴","제니 필라테스","카즈하 복근 운동","장원영 필라테스","윤아 운동 밴드","장윤주 코어 운동","강소라 발레 운동","박하선 홈트","박신혜 운동","한채영 필라테스","김희선 운동","홍진경 홈트","이청아 운동","김나영 운동","공효진 운동","이성경 운동","박솔미 홈트","황신혜 운동 밴드","오윤아 근력 운동","명세빈 운동","오나라 스트레칭","김성령 하체 운동","이하늬 요가","김사랑 스트레칭","문가영 운동","김지원 필라테스","김고은 운동","서현 필라테스","티파니 운동","산다라박 홈트","유빈 근력 운동","선미 운동 밴드","혜리 근력 운동","정소민 운동","박보영 운동","안소희 폼롤러","강민경 하체 운동","김도연 운동","전효성 홈트","이주빈 근력 운동","설인아 운동","한선화 운동"]
+          out = Path("oneoff-results"); out.mkdir(exist_ok=True)
+          before = int(load_routine_usage().get("units_used", 0))
+          budget = max(0, min(9850, 10000-before-100))
+          quota = QuotaTracker()
+          client = BudgetClient(os.environ["YOUTUBE_API_KEY"], quota, budget)
+          results = {}; scans = []; errors = []
+          def merge(rows, keyword):
+              for r in rows:
+                  vid = r["video_id"]
+                  if vid not in results:
+                      results[vid] = dict(r, matched_queries=[])
+                  if keyword not in results[vid]["matched_queries"]:
+                      results[vid]["matched_queries"].append(keyword)
+          for keyword in keywords:
+              if client.halt_reason or quota.total_units + 102 > budget: break
+              try:
+                  rows, used = scan_keyword(client, quota, keyword, 50, CONFIGS["celebrity"])
+                  merge(rows, keyword)
+                  scans.append({"keyword":keyword,"count":len(rows),"units":used})
+              except Exception as exc:
+                  errors.append({"keyword":keyword,"error":str(exc)})
+                  break
+          ids = list(results)
+          for start in range(0,len(ids),50):
+              if client.halt_reason or quota.total_units+1 > budget: break
+              try:
+                  data = client._get("videos", {"part":"snippet,contentDetails","id":",".join(ids[start:start+50])})
+                  quota.videos_calls += 1
+                  for item in data.get("items",[]):
+                      r=results[item["id"]]
+                      r["description"]=item["snippet"].get("description","")[:2500]
+                      r["duration"]=item.get("contentDetails",{}).get("duration")
+              except Exception as exc:
+                  errors.append({"detail_error":str(exc)}); break
+          payload={"checked_at":datetime.now(timezone.utc).isoformat(),"budget":budget,"prior_ledger_units":before,
+          "units_used":quota.total_units,"search_calls":quota.search_calls,"scans":scans,"errors":errors,
+          "videos":sorted(results.values(),key=lambda r:r["score"],reverse=True),
+          "pending_keywords":keywords[len(scans):], "scope":"women celebrity exercise only; no diet/fashion; min200 max5000 subscribers; views>=100000;30days",
+          "routine_remains_paused":True}
+          def default(v): return v.isoformat() if hasattr(v,"isoformat") else str(v)
+          (out/"exercise.json").write_text(json.dumps(payload,ensure_ascii=False,indent=2,default=default))
+          record_routine_usage(quota.total_units)
+          print("ONEOFF_RESULT_JSON")
+          print(json.dumps(payload,ensure_ascii=False,default=default))
+          summary=f"# Exercise-only one-off\n\nSearches: {quota.search_calls}; units: {quota.total_units}; unique numeric matches: {len(results)}\n\n"
+          summary+="Existing routine files, schedule and main branch were not modified.\n"
+          Path(os.environ["GITHUB_STEP_SUMMARY"]).write_text(summary)
+          
+          PY
+      - name: Save one-off results on this branch
+        if: always()
+        run: |
+          mkdir -p reports/oneoff/women-exercise-20261104
+          cp oneoff-results/exercise.json reports/oneoff/women-exercise-20261104/batch1.json
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports/oneoff/women-exercise-20261104/batch1.json routine_quota_usage.json
+          git commit -m "chore: save women exercise one-off batch 1"
+          git push origin HEAD:oneoff/women-exercise-20261104
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: exercise-20261104
+          path: oneoff-results/
+          retention-days: 7
