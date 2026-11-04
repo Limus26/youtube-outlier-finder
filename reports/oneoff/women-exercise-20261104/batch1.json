@@ -1,0 +1,379 @@
+{
+  "checked_at": "2026-11-04T12:56:04.781178+00:00",
+  "budget": 9850,
+  "prior_ledger_units": 0,
+  "units_used": 6054,
+  "search_calls": 60,
+  "scans": [
+    {
+      "keyword": "전소미 운동 밴드",
+      "count": 0,
+      "units": 102
+    },
+    {
+      "keyword": "이상화 슬라이드보드",
+      "count": 0,
+      "units": 102
+    },
+    {
+      "keyword": "한혜진 모델 홈트",
+      "count": 0,
+      "units": 102
+    },
+    {
+      "keyword": "소유 힙업 밴드",
+      "count": 0,
+      "units": 101
+    },
+    {
+      "keyword": "진서연 케틀벨",
+      "count": 0,
+      "units": 100
+    },
+    {
+      "keyword": "엄정화 근력 운동",
+      "count": 0,
+      "units": 102
+    },
+    {
+      "keyword": "채정안 스트레칭 폼롤러",
+      "count": 0,
+      "units": 100
+    },
+    {
+      "keyword": "윤은혜 홈트",
+      "count": 0,
+      "units": 100
+    },
+    {
+      "keyword": "이시영 근력 운동",
+      "count": 0,
+      "units": 102
+    },
+    {
+      "keyword": "손담비 스테퍼",
+      "count": 0,
+      "units": 102
+    },
+    {
+      "keyword": "정은지 하체 운동",
+      "count": 0,
+      "units": 100
+    },
+    {
+      "keyword": "김세정 복근 운동",
+      "count": 0,
+      "units": 100
+    },
+    {
+      "keyword": "권은비 웨이트",
+      "count": 0,
+      "units": 100
+    },
+    {
+      "keyword": "나나 운동 루틴",
+      "count": 0,
+      "units": 102
+    },
+    {
+      "keyword": "유이 근력 운동",
+      "count": 0,
+      "units": 102
+    },
+    {
+      "keyword": "신세경 홈트",
+      "count": 0,
+      "units": 100
+    },
+    {
+      "keyword": "손예진 필라테스",
+      "count": 0,
+      "units": 100
+    },
+    {
+      "keyword": "박민영 스트레칭",
+      "count": 0,
+      "units": 100
+    },
+    {
+      "keyword": "수지 운동 루틴",
+      "count": 0,
+      "units": 100
+    },
+    {
+      "keyword": "제니 필라테스",
+      "count": 0,
+      "units": 102
+    },
+    {
+      "keyword": "카즈하 복근 운동",
+      "count": 2,
+      "units": 102
+    },
+    {
+      "keyword": "장원영 필라테스",
+      "count": 1,
+      "units": 102
+    },
+    {
+      "keyword": "윤아 운동 밴드",
+      "count": 0,
+      "units": 100
+    },
+    {
+      "keyword": "장윤주 코어 운동",
+      "count": 0,
+      "units": 100
+    },
+    {
+      "keyword": "강소라 발레 운동",
+      "count": 0,
+      "units": 100
+    },
+    {
+      "keyword": "박하선 홈트",
+      "count": 0,
+      "units": 100
+    },
+    {
+      "keyword": "박신혜 운동",
+      "count": 0,
+      "units": 100
+    },
+    {
+      "keyword": "한채영 필라테스",
+      "count": 0,
+      "units": 100
+    },
+    {
+      "keyword": "김희선 운동",
+      "count": 0,
+      "units": 102
+    },
+    {
+      "keyword": "홍진경 홈트",
+      "count": 0,
+      "units": 100
+    },
+    {
+      "keyword": "이청아 운동",
+      "count": 0,
+      "units": 102
+    },
+    {
+      "keyword": "김나영 운동",
+      "count": 0,
+      "units": 100
+    },
+    {
+      "keyword": "공효진 운동",
+      "count": 0,
+      "units": 102
+    },
+    {
+      "keyword": "이성경 운동",
+      "count": 0,
+      "units": 102
+    },
+    {
+      "keyword": "박솔미 홈트",
+      "count": 0,
+      "units": 100
+    },
+    {
+      "keyword": "황신혜 운동 밴드",
+      "count": 0,
+      "units": 100
+    },
+    {
+      "keyword": "오윤아 근력 운동",
+      "count": 0,
+      "units": 102
+    },
+    {
+      "keyword": "명세빈 운동",
+      "count": 0,
+      "units": 100
+    },
+    {
+      "keyword": "오나라 스트레칭",
+      "count": 0,
+      "units": 100
+    },
+    {
+      "keyword": "김성령 하체 운동",
+      "count": 0,
+      "units": 100
+    },
+    {
+      "keyword": "이하늬 요가",
+      "count": 0,
+      "units": 100
+    },
+    {
+      "keyword": "김사랑 스트레칭",
+      "count": 0,
+      "units": 100
+    },
+    {
+      "keyword": "문가영 운동",
+      "count": 0,
+      "units": 100
+    },
+    {
+      "keyword": "김지원 필라테스",
+      "count": 0,
+      "units": 102
+    },
+    {
+      "keyword": "김고은 운동",
+      "count": 0,
+      "units": 102
+    },
+    {
+      "keyword": "서현 필라테스",
+      "count": 0,
+      "units": 102
+    },
+    {
+      "keyword": "티파니 운동",
+      "count": 0,
+      "units": 102
+    },
+    {
+      "keyword": "산다라박 홈트",
+      "count": 0,
+      "units": 100
+    },
+    {
+      "keyword": "유빈 근력 운동",
+      "count": 0,
+      "units": 102
+    },
+    {
+      "keyword": "선미 운동 밴드",
+      "count": 0,
+      "units": 100
+    },
+    {
+      "keyword": "혜리 근력 운동",
+      "count": 0,
+      "units": 100
+    },
+    {
+      "keyword": "정소민 운동",
+      "count": 0,
+      "units": 100
+    },
+    {
+      "keyword": "박보영 운동",
+      "count": 0,
+      "units": 102
+    },
+    {
+      "keyword": "안소희 폼롤러",
+      "count": 0,
+      "units": 102
+    },
+    {
+      "keyword": "강민경 하체 운동",
+      "count": 0,
+      "units": 100
+    },
+    {
+      "keyword": "김도연 운동",
+      "count": 0,
+      "units": 102
+    },
+    {
+      "keyword": "전효성 홈트",
+      "count": 0,
+      "units": 100
+    },
+    {
+      "keyword": "이주빈 근력 운동",
+      "count": 0,
+      "units": 100
+    },
+    {
+      "keyword": "설인아 운동",
+      "count": 1,
+      "units": 102
+    },
+    {
+      "keyword": "한선화 운동",
+      "count": 0,
+      "units": 102
+    }
+  ],
+  "errors": [],
+  "videos": [
+    {
+      "video_id": "qI6-cW9YM6c",
+      "title": "기안장 덱스를 보고 기분이 좋아진 카즈하",
+      "channel_title": "영쿠쿠",
+      "subscriber_count": 938,
+      "view_count": 5377136,
+      "published_at": "2026-10-06T15:24:50+00:00",
+      "score": 5732.554371002132,
+      "url": "https://youtu.be/qI6-cW9YM6c",
+      "rank": 1,
+      "matched_queries": [
+        "카즈하 복근 운동"
+      ],
+      "description": "#shorts #김연경 #기안84 #이준호 #카즈하 #대환장기안장 #기안 #기안84 #예능 #넷플릭스 #기안장 #덱스 #덱스기안장",
+      "duration": "PT36S"
+    },
+    {
+      "video_id": "9kisBl9sWAY",
+      "title": "체감상 2m라는 장원영 다리길이 레전드",
+      "channel_title": "뽀둥",
+      "subscriber_count": 295,
+      "view_count": 296450,
+      "published_at": "2026-10-22T06:12:12+00:00",
+      "score": 1004.9152542372881,
+      "url": "https://youtu.be/9kisBl9sWAY",
+      "rank": 1,
+      "matched_queries": [
+        "장원영 필라테스"
+      ],
+      "description": "#장원영 #아이브 #아이돌 #다리근력 #운동 #여돌 #kpop #쇼츠\n\n장원영 전참시 필라테스 다리길이 체감상 2m는 될듯...",
+      "duration": "PT22S"
+    },
+    {
+      "video_id": "TmMJFb_m16o",
+      "title": "아랫배 빼고 복근 만들려면 이게 답이에요",
+      "channel_title": "복근만",
+      "subscriber_count": 3900,
+      "view_count": 861569,
+      "published_at": "2026-10-16T10:00:38+00:00",
+      "score": 220.9151282051282,
+      "url": "https://youtu.be/TmMJFb_m16o",
+      "rank": 2,
+      "matched_queries": [
+        "카즈하 복근 운동"
+      ],
+      "description": "00:00 ~ 03:20 뱃살이 유독 끈질긴 이유\n03:21 ~ 06:41 복근이 선명하게 보이려면\n06:42 ~ 복근 운동\n\n아랫배는 왜 유독 마지막까지 남을까요?\n\n체중은 줄었는데 아랫배는 그대로이고, 열심히 복근운동을 해도 복근이 잘 보이지 않는다면 이번 영상을 확인해 보세요.\n\n이번 영상에서는 아랫배 지방이 쉽게 빠지지 않는 이유부터 지방 분해에 관여하는 베타(β) 수용체와 알파2(α₂) 수용체의 역할, 그리고 복근을 더 선명하게 만들기 위한 현실적인 운동 전략까지 알아봅니다.\n\n특히 같은 체지방률이라도 복근의 발달 정도에 따라 몸이 어떻게 달라 보일 수 있는지도 함께 살펴봅니다.\n\n무작정 복근운동만 늘리기보다 여유를 가지고 체지방 감소와 복근 발달을 함께 진행해 보세요.\n\n📚 **참고 논문**\n\n1. Stallknecht et al. (2007)  \nAre blood flow and lipolysis in subcutaneous adipose tissue influenced by contractions in adjacent muscles in humans?  \nhttps://pubmed.ncbi.nlm.nih.gov/16985258/\n\n2. Regional variation in adipose tissue lipolysis in lean and obese men (1991)  \nhttps://pubmed.ncbi.nlm.nih.gov/1797943/\n\n※ 지방 분해가 증가하는 것과 특정 부위의 체지방이 실제로 더 많이 감소하는 것은 구분해야 합니다.\n\n🎬 **영상 소스 출처**\n\n\n일부 영상 자료는 Pexels에서 제공하는 스톡 영상을 활용했습니다.\n\n※ 영상에 사용된 자료와 연구 내용은 일반적인 건강·운동 정보 제공을 위한 것으로, 개인별 결과는 다를 수 있습니다.\n\n#아랫배빼는법 #복근운동 #뱃살빼는법 #체지방감량 #식스팩 #다이어트 #복근만",
+      "duration": "PT8M26S"
+    },
+    {
+      "video_id": "M-eFQi15sn8",
+      "title": "남장 여자 설인아에게 들어온 제안",
+      "channel_title": "씬픽 ScenePick",
+      "subscriber_count": 4480,
+      "view_count": 193096,
+      "published_at": "2026-10-26T13:00:09+00:00",
+      "score": 43.10178571428571,
+      "url": "https://youtu.be/M-eFQi15sn8",
+      "rank": 1,
+      "matched_queries": [
+        "설인아 운동"
+      ],
+      "description": "[ 나의 유죄인간 ] 은 매주 월-화요일 오후 8시 50분 tvN에서 방영되며, 티빙에서도 시청하실 수 있습니다.\n\n#나의유죄인간 #tvN #티빙 #임시완 #설인아 #김정현 #연우 #cj7Eo",
+      "duration": "PT49S"
+    }
+  ],
+  "pending_keywords": [],
+  "scope": "women celebrity exercise only; no diet/fashion; min200 max5000 subscribers; views>=100000;30days",
+  "routine_remains_paused": true
+}
