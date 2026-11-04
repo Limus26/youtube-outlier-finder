@@ -2,7 +2,7 @@ name: One-off women exercise search 20261104
 on:
   push:
     branches: ["oneoff/women-exercise-20261104"]
-    paths: [".github/workflows/oneoff-exercise-20261104.yml"]
+    paths: [".github/workflows/oneoff-women-exercise-20261104.yml"]
 permissions:
   contents: write
 concurrency:
