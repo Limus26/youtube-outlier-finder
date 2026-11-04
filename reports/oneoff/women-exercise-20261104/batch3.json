@@ -1,0 +1,54 @@
+{
+  "checked_at": "2026-11-04T12:58:56.346372+00:00",
+  "budget": 809,
+  "prior_ledger_units": 9091,
+  "units_used": 504,
+  "search_calls": 5,
+  "scans": [
+    {
+      "keyword": "이소라 운동기구",
+      "count": 0,
+      "units": 100
+    },
+    {
+      "keyword": "김혜수 운동",
+      "count": 0,
+      "units": 102
+    },
+    {
+      "keyword": "박나래 운동",
+      "count": 0,
+      "units": 102
+    },
+    {
+      "keyword": "신지 필라테스",
+      "count": 0,
+      "units": 100
+    },
+    {
+      "keyword": "한예슬 홈트",
+      "count": 0,
+      "units": 100
+    }
+  ],
+  "errors": [
+    {
+      "keyword": "황신혜 스텝퍼",
+      "error": "YouTube API 오류 (rateLimitExceeded): Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:809521089306'."
+    }
+  ],
+  "videos": [],
+  "pending_keywords": [
+    "황신혜 스텝퍼",
+    "오윤아 폼롤러",
+    "김준희 운동",
+    "김완선 운동 루틴",
+    "이주영 클라이밍",
+    "김남주 운동",
+    "박시은 홈트",
+    "신애라 운동",
+    "연예인 운동기구"
+  ],
+  "scope": "women celebrity exercise only; no diet/fashion; min200 max5000 subscribers; views>=100000;30days",
+  "routine_remains_paused": true
+}
