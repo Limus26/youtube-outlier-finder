@@ -1,0 +1,95 @@
+name: One-off women exercise continuation 20261105
+on:
+  push:
+    branches: ["oneoff/women-exercise-20261104"]
+    paths: [".github/workflows/oneoff-women-exercise-continuation-20261105.yml"]
+permissions:
+  contents: write
+concurrency:
+  group: youtube-outlier-routine
+  cancel-in-progress: false
+jobs:
+  continuation:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests tabulate
+      - name: Search only nine unfinished queries
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: |
+          python - <<'PY'
+          import json, os, urllib.request
+          from pathlib import Path
+          from datetime import datetime, timezone
+          from zoneinfo import ZoneInfo
+          from routine_runner import BudgetClient, CONFIGS, scan_keyword
+          from youtube_outlier import QuotaTracker
+          out=Path("reports/oneoff/women-exercise-20261104")
+          continuation=json.loads((out/"continuation.json").read_text())
+          keywords=continuation["pending_keywords"]
+          assert len(keywords)==9 and not set(keywords)&set(continuation["completed_queries"])
+          now=datetime.now(timezone.utc)
+          day=now.astimezone(ZoneInfo("America/Los_Angeles")).strftime("%Y-%m-%d")
+          url="https://raw.githubusercontent.com/Limus26/youtube-outlier-finder/main/routine_quota_usage.json"
+          main=json.load(urllib.request.urlopen(url))
+          branch=json.loads(Path("routine_quota_usage.json").read_text())
+          before=max([int(x.get("units_used",0)) for x in [main,branch] if x.get("date")==day]+[0])
+          budget=max(0,10000-before-100)
+          quota=QuotaTracker()
+          class CountedClient(BudgetClient):
+              def __init__(self,*a):
+                  super().__init__(*a); self.attempts=[]; self.failed_units=0
+              def _get(self,path,params):
+                  if self.halt_reason: raise RuntimeError(self.halt_reason)
+                  self.attempts.append({"endpoint":path,"nominal_cost":100 if path=="search" else 1})
+                  try: return super()._get(path,params)
+                  except Exception:
+                      self.failed_units+=100 if path=="search" else 1
+                      raise
+          client=CountedClient(os.environ["YOUTUBE_API_KEY"],quota,budget)
+          results={}; scans=[]; errors=[]; verification=[]
+          for keyword in keywords:
+              if client.halt_reason or quota.total_units+102>budget: break
+              try:
+                  rows,used=scan_keyword(client,quota,keyword,50,CONFIGS["celebrity"])
+                  scans.append({"keyword":keyword,"units":used,"count":len(rows)})
+                  for r in rows:
+                      vid=r["video_id"]
+                      if vid not in results: results[vid]=dict(r,matched_queries=[])
+                      results[vid]["matched_queries"].append(keyword)
+              except Exception as exc:
+                  errors.append({"keyword":keyword,"error":str(exc)}); break
+          ids=list(dict.fromkeys(list(results)+[x["video_id"] for x in continuation["pending_verification"]]))
+          if not client.halt_reason and ids:
+              try:
+                  data=client._get("videos",{"part":"snippet,contentDetails,statistics,status","id":",".join(ids)})
+                  quota.videos_calls+=1
+                  items=data.get("items",[])
+                  channels=client.get_channels_details(sorted(set(x["snippet"]["channelId"] for x in items)))
+                  for item in items:
+                      cid=item["snippet"]["channelId"]
+                      sub=channels.get(cid,{}).get("subscriber_count")
+                      entry={"video_id":item["id"],"snippet":item["snippet"],"statistics":item.get("statistics"),"status":item.get("status"),"contentDetails":item.get("contentDetails"),"channel":channels.get(cid),"full_video_playback":False,"exact_clip_match":False,"product_brand_confirmed":False}
+                      verification.append(entry)
+                      if item["id"] in results: results[item["id"]]["description"]=item["snippet"].get("description","")
+              except Exception as exc: errors.append({"detail_error":str(exc)})
+          used=quota.total_units+client.failed_units
+          payload={"checked_at":now.isoformat(),"pacific_date":day,"run_id":os.environ["GITHUB_RUN_ID"],"head_sha":os.environ["GITHUB_SHA"],"main_ledger_before":main,"branch_ledger_before":branch,"prior_ledger_units":before,"budget":budget,"units_used":used,"successful_call_units":quota.total_units,"failed_attempt_nominal_units":client.failed_units,"failed_cost_policy":"failed requests booked at endpoint nominal cost conservatively; actual project usage unavailable","attempts":client.attempts,"scans":scans,"errors":errors,"videos":list(results.values()),"verification_metadata":verification,"pending_keywords":keywords[len(scans):],"actual_project_remaining_verified":False,"routine_remains_paused":True}
+          (out/"continuation-20261105-raw.json").write_text(json.dumps(payload,ensure_ascii=False,indent=2,default=str))
+          Path("routine_quota_usage.json").write_text(json.dumps({"date":day,"units_used":before+used}))
+          print(json.dumps({"scans":len(scans),"units":used,"errors":errors},ensure_ascii=False))
+          
+          PY
+      - name: Save results on task branch
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports/oneoff/women-exercise-20261104/continuation-20261105-raw.json routine_quota_usage.json
+          git commit -m "chore: preserve nine-query continuation results and usage"
+          git push origin HEAD:oneoff/women-exercise-20261104
