@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-04T13:02:27.259Z",
+  "updated_at": "2026-11-05T09:21:03.218Z",
   "purpose": "Persistent memory for the scheduled agent's query selection and final report deduplication. Raw runner reports/history remain complete; the scheduled agent reads and updates this ledger.",
   "policy": {
     "query_topic_cooldown_days": 14,
@@ -586,25 +586,25 @@
       "video_id": "CVWSJYSIS34",
       "title": "무용수 같은 오연수 옆에서 맷돌 돌리는 손지창, 부부 필라테스",
       "url": "https://youtu.be/CVWSJYSIS34",
-      "last_reported_view_count": 613571,
-      "last_reported_subscriber_count": 4970,
-      "metrics_checked_on": "2026-11-04",
-      "last_reported_on": "2026-11-04",
+      "last_reported_view_count": 615307,
+      "last_reported_subscriber_count": 4980,
+      "metrics_checked_on": "2026-11-05",
+      "last_reported_on": "2026-11-05",
       "status": "기보고·운동 참고·상품미검증",
-      "verification_note": "업로더가 동상이몽·필라테스로 설명. 자이로토닉 등 정확한 종목·기구·원본 동일성 미확인; 쇼핑제품 추천근거로 사용불가.",
-      "source_report": "reports/oneoff/women-exercise-20261104/summary.md@oneoff/women-exercise-20261104"
+      "verification_note": "표시 자동스크립트 0:23 핸들 대신 몸을 쓰라는 동작 설명 확인. 종목명·브랜드는 해당 텍스트로 확정불가. 업로더 필라테스 표기는 원본 종목검증과 다름. AI 변경·생성 표시 관찰은 전체영상이 합성이라는 판정이 아님.",
+      "source_report": "reports/oneoff/women-exercise-20261104/continuation-20261105-summary.md@oneoff/women-exercise-20261104"
     },
     {
       "video_id": "zTBVFI7Hzf0",
       "title": "\"억지로라도 가야 돼\" 운동하기 싫어도 칼같이 지키는 오연수의 루틴",
       "url": "https://youtu.be/zTBVFI7Hzf0",
-      "last_reported_view_count": 118557,
-      "last_reported_subscriber_count": 4970,
-      "metrics_checked_on": "2026-11-04",
-      "last_reported_on": "2026-11-04",
+      "last_reported_view_count": 121287,
+      "last_reported_subscriber_count": 4980,
+      "metrics_checked_on": "2026-11-05",
+      "last_reported_on": "2026-11-05",
       "status": "기보고·운동 참고·상품미검증",
-      "verification_note": "공개설명은 꾸준한운동·인바디 점검 발언 요약. 본인 원본·인용·기구 확인 미완료.",
-      "source_report": "reports/oneoff/women-exercise-20261104/summary.md@oneoff/women-exercise-20261104"
+      "verification_note": "표시 자동스크립트 0:31 운동루틴 지속, 0:41 시간·비용 투자, 0:48 인바디 점검 문맥 확인. 운동종목·제품 없음. ASR오탈자 존재. AI 변경·생성 표시만으로 전체합성 판정불가.",
+      "source_report": "reports/oneoff/women-exercise-20261104/continuation-20261105-summary.md@oneoff/women-exercise-20261104"
     }
   ],
   "query_history": [
@@ -21577,6 +21577,195 @@
       "reason": "사용자 요청 여성셀럽 운동 중심 일회성. 식단·패션 제외. 원본·상품 미검증은 추천보류.",
       "run_id": 41833930365,
       "source_branch": "oneoff/women-exercise-20261104"
+    },
+    {
+      "keyword": "황신혜 스텝퍼",
+      "last_completed_at": "2026-11-05T09:18:11.187597+00:00",
+      "filters": {
+        "order": "viewCount",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "region": "KR",
+        "language": "ko"
+      },
+      "stage": "oneoff_continuation",
+      "quota_used": 100,
+      "successful": true,
+      "run_id": 42001236358,
+      "source_branch": "oneoff/women-exercise-20261104",
+      "source_report": "reports/oneoff/women-exercise-20261104/continuation-20261105-summary.md",
+      "reason": "사용자 지정 미완료9개만; 재검색95개 제외; 신규숫자통과0"
+    },
+    {
+      "keyword": "오윤아 폼롤러",
+      "last_completed_at": "2026-11-05T09:18:11.187597+00:00",
+      "filters": {
+        "order": "viewCount",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "region": "KR",
+        "language": "ko"
+      },
+      "stage": "oneoff_continuation",
+      "quota_used": 100,
+      "successful": true,
+      "run_id": 42001236358,
+      "source_branch": "oneoff/women-exercise-20261104",
+      "source_report": "reports/oneoff/women-exercise-20261104/continuation-20261105-summary.md",
+      "reason": "사용자 지정 미완료9개만; 재검색95개 제외; 신규숫자통과0"
+    },
+    {
+      "keyword": "김준희 운동",
+      "last_completed_at": "2026-11-05T09:18:11.187597+00:00",
+      "filters": {
+        "order": "viewCount",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "region": "KR",
+        "language": "ko"
+      },
+      "stage": "oneoff_continuation",
+      "quota_used": 100,
+      "successful": true,
+      "run_id": 42001236358,
+      "source_branch": "oneoff/women-exercise-20261104",
+      "source_report": "reports/oneoff/women-exercise-20261104/continuation-20261105-summary.md",
+      "reason": "사용자 지정 미완료9개만; 재검색95개 제외; 신규숫자통과0"
+    },
+    {
+      "keyword": "김완선 운동 루틴",
+      "last_completed_at": "2026-11-05T09:18:11.187597+00:00",
+      "filters": {
+        "order": "viewCount",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "region": "KR",
+        "language": "ko"
+      },
+      "stage": "oneoff_continuation",
+      "quota_used": 100,
+      "successful": true,
+      "run_id": 42001236358,
+      "source_branch": "oneoff/women-exercise-20261104",
+      "source_report": "reports/oneoff/women-exercise-20261104/continuation-20261105-summary.md",
+      "reason": "사용자 지정 미완료9개만; 재검색95개 제외; 신규숫자통과0"
+    },
+    {
+      "keyword": "이주영 클라이밍",
+      "last_completed_at": "2026-11-05T09:18:11.187597+00:00",
+      "filters": {
+        "order": "viewCount",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "region": "KR",
+        "language": "ko"
+      },
+      "stage": "oneoff_continuation",
+      "quota_used": 100,
+      "successful": true,
+      "run_id": 42001236358,
+      "source_branch": "oneoff/women-exercise-20261104",
+      "source_report": "reports/oneoff/women-exercise-20261104/continuation-20261105-summary.md",
+      "reason": "사용자 지정 미완료9개만; 재검색95개 제외; 신규숫자통과0"
+    },
+    {
+      "keyword": "김남주 운동",
+      "last_completed_at": "2026-11-05T09:18:11.187597+00:00",
+      "filters": {
+        "order": "viewCount",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "region": "KR",
+        "language": "ko"
+      },
+      "stage": "oneoff_continuation",
+      "quota_used": 102,
+      "successful": true,
+      "run_id": 42001236358,
+      "source_branch": "oneoff/women-exercise-20261104",
+      "source_report": "reports/oneoff/women-exercise-20261104/continuation-20261105-summary.md",
+      "reason": "사용자 지정 미완료9개만; 재검색95개 제외; 신규숫자통과0"
+    },
+    {
+      "keyword": "박시은 홈트",
+      "last_completed_at": "2026-11-05T09:18:11.187597+00:00",
+      "filters": {
+        "order": "viewCount",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "region": "KR",
+        "language": "ko"
+      },
+      "stage": "oneoff_continuation",
+      "quota_used": 100,
+      "successful": true,
+      "run_id": 42001236358,
+      "source_branch": "oneoff/women-exercise-20261104",
+      "source_report": "reports/oneoff/women-exercise-20261104/continuation-20261105-summary.md",
+      "reason": "사용자 지정 미완료9개만; 재검색95개 제외; 신규숫자통과0"
+    },
+    {
+      "keyword": "신애라 운동",
+      "last_completed_at": "2026-11-05T09:18:11.187597+00:00",
+      "filters": {
+        "order": "viewCount",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "region": "KR",
+        "language": "ko"
+      },
+      "stage": "oneoff_continuation",
+      "quota_used": 102,
+      "successful": true,
+      "run_id": 42001236358,
+      "source_branch": "oneoff/women-exercise-20261104",
+      "source_report": "reports/oneoff/women-exercise-20261104/continuation-20261105-summary.md",
+      "reason": "사용자 지정 미완료9개만; 재검색95개 제외; 신규숫자통과0"
+    },
+    {
+      "keyword": "연예인 운동기구",
+      "last_completed_at": "2026-11-05T09:18:11.187597+00:00",
+      "filters": {
+        "order": "viewCount",
+        "max_results": 50,
+        "days": 30,
+        "min_views": 100000,
+        "min_subscribers": 200,
+        "max_subscribers": 5000,
+        "region": "KR",
+        "language": "ko"
+      },
+      "stage": "oneoff_continuation",
+      "quota_used": 102,
+      "successful": true,
+      "run_id": 42001236358,
+      "source_branch": "oneoff/women-exercise-20261104",
+      "source_report": "reports/oneoff/women-exercise-20261104/continuation-20261105-summary.md",
+      "reason": "사용자 지정 미완료9개만; 재검색95개 제외; 신규숫자통과0"
     }
   ],
   "topic_groups": [
@@ -22040,6 +22229,66 @@
       "score": 89.28656330749354,
       "checked_on": "2026-10-31",
       "source": "YouTube expanded public page (not API batch)"
+    },
+    {
+      "video_id": "9kisBl9sWAY",
+      "checked_on": "2026-11-05",
+      "url": "https://www.youtube.com/watch?v=9kisBl9sWAY",
+      "view_count": 312849,
+      "subscriber_count": 299,
+      "score": 1046.3177257525083,
+      "api_public": true,
+      "page_loaded": true,
+      "playback_attempted": true,
+      "full_video_playback": false,
+      "playback_note": "검정 로딩 화면과 0:00 지속",
+      "exact_clip_match": false,
+      "product_brand_confirmed": false,
+      "health_effect_confirmed": false,
+      "displayed_transcript_checked": false,
+      "ai_altered_content_label_observed": false,
+      "findings": "MBC 공식페이지의 2022-04-09 장원영·안유진 필라테스 방송 맥락 재확인. 최근 루틴공개로 표현금지; 쇼츠 전구간 일치는 미확인.",
+      "source_report": "reports/oneoff/women-exercise-20261104/continuation-20261105-summary.md@oneoff/women-exercise-20261104"
+    },
+    {
+      "video_id": "CVWSJYSIS34",
+      "checked_on": "2026-11-05",
+      "url": "https://www.youtube.com/watch?v=CVWSJYSIS34",
+      "view_count": 615307,
+      "subscriber_count": 4980,
+      "score": 123.55562248995984,
+      "api_public": true,
+      "page_loaded": true,
+      "playback_attempted": true,
+      "full_video_playback": false,
+      "playback_note": "재생 클릭 후 0:00 지속; 전체재생 확인 불가",
+      "exact_clip_match": false,
+      "product_brand_confirmed": false,
+      "health_effect_confirmed": false,
+      "displayed_transcript_checked": true,
+      "ai_altered_content_label_observed": true,
+      "findings": "표시 자동스크립트 0:23 핸들 대신 몸을 쓰라는 동작 설명 확인. 종목명·브랜드는 해당 텍스트로 확정불가. 업로더 필라테스 표기는 원본 종목검증과 다름. AI 변경·생성 표시 관찰은 전체영상이 합성이라는 판정이 아님.",
+      "source_report": "reports/oneoff/women-exercise-20261104/continuation-20261105-summary.md@oneoff/women-exercise-20261104"
+    },
+    {
+      "video_id": "zTBVFI7Hzf0",
+      "checked_on": "2026-11-05",
+      "url": "https://www.youtube.com/watch?v=zTBVFI7Hzf0",
+      "view_count": 121287,
+      "subscriber_count": 4980,
+      "score": 24.354819277108433,
+      "api_public": true,
+      "page_loaded": true,
+      "playback_attempted": true,
+      "full_video_playback": false,
+      "playback_note": "재생 클릭 후 0:00 지속; 전체재생 확인 불가",
+      "exact_clip_match": false,
+      "product_brand_confirmed": false,
+      "health_effect_confirmed": false,
+      "displayed_transcript_checked": true,
+      "ai_altered_content_label_observed": true,
+      "findings": "표시 자동스크립트 0:31 운동루틴 지속, 0:41 시간·비용 투자, 0:48 인바디 점검 문맥 확인. 운동종목·제품 없음. ASR오탈자 존재. AI 변경·생성 표시만으로 전체합성 판정불가.",
+      "source_report": "reports/oneoff/women-exercise-20261104/continuation-20261105-summary.md@oneoff/women-exercise-20261104"
     }
   ],
   "runs": [
@@ -22216,6 +22465,31 @@
       "continuation_path": "reports/oneoff/women-exercise-20261104/continuation.json@oneoff/women-exercise-20261104",
       "continuation_date": "2026-11-05T18:00:00+09:00",
       "routine_stays_paused": true
+    },
+    {
+      "date": "2026-11-05",
+      "report_id": "women-exercise-continuation-2026-11-05",
+      "final_report_id": "women-exercise-continuation-2026-11-05",
+      "run_ids": [
+        42001236358
+      ],
+      "branch": "oneoff/women-exercise-20261104",
+      "unique_successful_queries": 9,
+      "units_used": 908,
+      "day_cumulative_units": 908,
+      "new_shopping_recommendation_ids": [],
+      "new_reference_video_ids": [],
+      "verification_update_ids": [
+        "CVWSJYSIS34",
+        "zTBVFI7Hzf0"
+      ],
+      "pending_query_count": 0,
+      "pending_verification_count": 3,
+      "analysis_status": "search_complete_verification_partial",
+      "continuation_scheduled": false,
+      "routine_stays_paused": true,
+      "source_report": "reports/oneoff/women-exercise-20261104/continuation-20261105-summary.md",
+      "remaining_work": "원본·전구간·동일제품 검증은 미완료로 보존, 후속실행없음"
     }
   ],
   "excluded_videos": [
@@ -22547,6 +22821,71 @@
           "note": "공개설명은 꾸준한운동·인바디 점검 발언 요약. 본인 원본·인용·기구 확인 미완료."
         }
       ]
+    },
+    {
+      "date": "2026-11-05",
+      "findings": [
+        {
+          "video_id": "9kisBl9sWAY",
+          "checked_on": "2026-11-05",
+          "url": "https://www.youtube.com/watch?v=9kisBl9sWAY",
+          "view_count": 312849,
+          "subscriber_count": 299,
+          "score": 1046.3177257525083,
+          "api_public": true,
+          "page_loaded": true,
+          "playback_attempted": true,
+          "full_video_playback": false,
+          "playback_note": "검정 로딩 화면과 0:00 지속",
+          "exact_clip_match": false,
+          "product_brand_confirmed": false,
+          "health_effect_confirmed": false,
+          "displayed_transcript_checked": false,
+          "ai_altered_content_label_observed": false,
+          "findings": "MBC 공식페이지의 2022-04-09 장원영·안유진 필라테스 방송 맥락 재확인. 최근 루틴공개로 표현금지; 쇼츠 전구간 일치는 미확인.",
+          "source_report": "reports/oneoff/women-exercise-20261104/continuation-20261105-summary.md@oneoff/women-exercise-20261104"
+        },
+        {
+          "video_id": "CVWSJYSIS34",
+          "checked_on": "2026-11-05",
+          "url": "https://www.youtube.com/watch?v=CVWSJYSIS34",
+          "view_count": 615307,
+          "subscriber_count": 4980,
+          "score": 123.55562248995984,
+          "api_public": true,
+          "page_loaded": true,
+          "playback_attempted": true,
+          "full_video_playback": false,
+          "playback_note": "재생 클릭 후 0:00 지속; 전체재생 확인 불가",
+          "exact_clip_match": false,
+          "product_brand_confirmed": false,
+          "health_effect_confirmed": false,
+          "displayed_transcript_checked": true,
+          "ai_altered_content_label_observed": true,
+          "findings": "표시 자동스크립트 0:23 핸들 대신 몸을 쓰라는 동작 설명 확인. 종목명·브랜드는 해당 텍스트로 확정불가. 업로더 필라테스 표기는 원본 종목검증과 다름. AI 변경·생성 표시 관찰은 전체영상이 합성이라는 판정이 아님.",
+          "source_report": "reports/oneoff/women-exercise-20261104/continuation-20261105-summary.md@oneoff/women-exercise-20261104"
+        },
+        {
+          "video_id": "zTBVFI7Hzf0",
+          "checked_on": "2026-11-05",
+          "url": "https://www.youtube.com/watch?v=zTBVFI7Hzf0",
+          "view_count": 121287,
+          "subscriber_count": 4980,
+          "score": 24.354819277108433,
+          "api_public": true,
+          "page_loaded": true,
+          "playback_attempted": true,
+          "full_video_playback": false,
+          "playback_note": "재생 클릭 후 0:00 지속; 전체재생 확인 불가",
+          "exact_clip_match": false,
+          "product_brand_confirmed": false,
+          "health_effect_confirmed": false,
+          "displayed_transcript_checked": true,
+          "ai_altered_content_label_observed": true,
+          "findings": "표시 자동스크립트 0:31 운동루틴 지속, 0:41 시간·비용 투자, 0:48 인바디 점검 문맥 확인. 운동종목·제품 없음. ASR오탈자 존재. AI 변경·생성 표시만으로 전체합성 판정불가.",
+          "source_report": "reports/oneoff/women-exercise-20261104/continuation-20261105-summary.md@oneoff/women-exercise-20261104"
+        }
+      ]
     }
   ],
   "legacy_filter_reassessment": {
@@ -22794,5 +23133,6 @@
         "recency_current_status": "Not inferred from historic observation"
       }
     ]
-  }
+  },
+  "last_report_id": "women-exercise-continuation-2026-11-05"
 }
