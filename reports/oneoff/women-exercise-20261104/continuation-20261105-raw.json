@@ -1,0 +1,384 @@
+{
+  "checked_at": "2026-11-05T09:18:11.187597+00:00",
+  "pacific_date": "2026-11-05",
+  "run_id": "42001236358",
+  "head_sha": "ef71ba9f1ff6bd46e19ea20aa0b37adf0a7366b7",
+  "main_ledger_before": {
+    "date": "2026-11-04",
+    "units_used": 9595
+  },
+  "branch_ledger_before": {
+    "date": "2026-11-04",
+    "units_used": 9595
+  },
+  "prior_ledger_units": 0,
+  "budget": 9900,
+  "units_used": 908,
+  "successful_call_units": 908,
+  "failed_attempt_nominal_units": 0,
+  "failed_cost_policy": "failed requests booked at endpoint nominal cost conservatively; actual project usage unavailable",
+  "attempts": [
+    {
+      "endpoint": "search",
+      "nominal_cost": 100
+    },
+    {
+      "endpoint": "search",
+      "nominal_cost": 100
+    },
+    {
+      "endpoint": "search",
+      "nominal_cost": 100
+    },
+    {
+      "endpoint": "search",
+      "nominal_cost": 100
+    },
+    {
+      "endpoint": "search",
+      "nominal_cost": 100
+    },
+    {
+      "endpoint": "search",
+      "nominal_cost": 100
+    },
+    {
+      "endpoint": "videos",
+      "nominal_cost": 1
+    },
+    {
+      "endpoint": "channels",
+      "nominal_cost": 1
+    },
+    {
+      "endpoint": "search",
+      "nominal_cost": 100
+    },
+    {
+      "endpoint": "search",
+      "nominal_cost": 100
+    },
+    {
+      "endpoint": "videos",
+      "nominal_cost": 1
+    },
+    {
+      "endpoint": "channels",
+      "nominal_cost": 1
+    },
+    {
+      "endpoint": "search",
+      "nominal_cost": 100
+    },
+    {
+      "endpoint": "videos",
+      "nominal_cost": 1
+    },
+    {
+      "endpoint": "channels",
+      "nominal_cost": 1
+    },
+    {
+      "endpoint": "videos",
+      "nominal_cost": 1
+    },
+    {
+      "endpoint": "channels",
+      "nominal_cost": 1
+    }
+  ],
+  "scans": [
+    {
+      "keyword": "황신혜 스텝퍼",
+      "units": 100,
+      "count": 0
+    },
+    {
+      "keyword": "오윤아 폼롤러",
+      "units": 100,
+      "count": 0
+    },
+    {
+      "keyword": "김준희 운동",
+      "units": 100,
+      "count": 0
+    },
+    {
+      "keyword": "김완선 운동 루틴",
+      "units": 100,
+      "count": 0
+    },
+    {
+      "keyword": "이주영 클라이밍",
+      "units": 100,
+      "count": 0
+    },
+    {
+      "keyword": "김남주 운동",
+      "units": 102,
+      "count": 0
+    },
+    {
+      "keyword": "박시은 홈트",
+      "units": 100,
+      "count": 0
+    },
+    {
+      "keyword": "신애라 운동",
+      "units": 102,
+      "count": 0
+    },
+    {
+      "keyword": "연예인 운동기구",
+      "units": 102,
+      "count": 0
+    }
+  ],
+  "errors": [],
+  "videos": [],
+  "verification_metadata": [
+    {
+      "video_id": "9kisBl9sWAY",
+      "snippet": {
+        "publishedAt": "2026-10-22T06:12:12Z",
+        "channelId": "UCpv9F3tGttPk7pinyLo6rnw",
+        "title": "체감상 2m라는 장원영 다리길이 레전드",
+        "description": "#장원영 #아이브 #아이돌 #다리근력 #운동 #여돌 #kpop #쇼츠\n\n장원영 전참시 필라테스 다리길이 체감상 2m는 될듯...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9kisBl9sWAY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9kisBl9sWAY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9kisBl9sWAY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9kisBl9sWAY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9kisBl9sWAY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뽀둥",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "체감상 2m라는 장원영 다리길이 레전드",
+          "description": "#장원영 #아이브 #아이돌 #다리근력 #운동 #여돌 #kpop #쇼츠\n\n장원영 전참시 필라테스 다리길이 체감상 2m는 될듯..."
+        }
+      },
+      "statistics": {
+        "viewCount": "312849",
+        "likeCount": "1360",
+        "favoriteCount": "0",
+        "commentCount": "18"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "contentDetails": {
+        "duration": "PT22S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "channel": {
+        "subscriber_count": 299,
+        "hidden": false
+      },
+      "full_video_playback": false,
+      "exact_clip_match": false,
+      "product_brand_confirmed": false
+    },
+    {
+      "video_id": "CVWSJYSIS34",
+      "snippet": {
+        "publishedAt": "2026-10-12T06:00:19Z",
+        "channelId": "UCPIDi_z977Vx4LRYcOCy4NA",
+        "title": "무용수 같은 오연수 옆에서 맷돌 돌리는 손지창, 부부 필라테스",
+        "description": "🧘 부부가 함께 간 운동 수업\n📌 무슨 일이 있었을까?\n▪️ 오연수의 동작에 스튜디오 \"자세가 너무 예쁘다, 무용 전공한 사람처럼\"\n▪️ 같은 동작을 따라 하는 손지창에게는 \"맷돌 돌리기 같은데\"\n▪️ 강사 \"손으로 핸들을 돌린다기보다는 몸을 쓰셔야 돼요\"\n▪️ 손지창 \"얘가 너무 멀어요, 내 팔이 그렇게 길지가 않은데\"\n💬 시청자 반응\n▪️ \"ㅋㅋㅋㅋㅋㅋ 너무웃기다\" (원본 영상 인기 댓글)\n✨ 결론\n같은 운동, 전혀 다른 그림의 부부\n\n#오연수 #손지창 #동상이몽 #필라테스 #부부운동 #쇼츠",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CVWSJYSIS34/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CVWSJYSIS34/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CVWSJYSIS34/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CVWSJYSIS34/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CVWSJYSIS34/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스타티키타카",
+        "tags": [
+          "동상이몽",
+          "부부운동",
+          "손지창",
+          "쇼츠",
+          "오연수",
+          "필라테스"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "무용수 같은 오연수 옆에서 맷돌 돌리는 손지창, 부부 필라테스",
+          "description": "🧘 부부가 함께 간 운동 수업\n📌 무슨 일이 있었을까?\n▪️ 오연수의 동작에 스튜디오 \"자세가 너무 예쁘다, 무용 전공한 사람처럼\"\n▪️ 같은 동작을 따라 하는 손지창에게는 \"맷돌 돌리기 같은데\"\n▪️ 강사 \"손으로 핸들을 돌린다기보다는 몸을 쓰셔야 돼요\"\n▪️ 손지창 \"얘가 너무 멀어요, 내 팔이 그렇게 길지가 않은데\"\n💬 시청자 반응\n▪️ \"ㅋㅋㅋㅋㅋㅋ 너무웃기다\" (원본 영상 인기 댓글)\n✨ 결론\n같은 운동, 전혀 다른 그림의 부부\n\n#오연수 #손지창 #동상이몽 #필라테스 #부부운동 #쇼츠"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "statistics": {
+        "viewCount": "615307",
+        "likeCount": "1184",
+        "favoriteCount": "0",
+        "commentCount": "14"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "contentDetails": {
+        "duration": "PT48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "channel": {
+        "subscriber_count": 4980,
+        "hidden": false
+      },
+      "full_video_playback": false,
+      "exact_clip_match": false,
+      "product_brand_confirmed": false
+    },
+    {
+      "video_id": "zTBVFI7Hzf0",
+      "snippet": {
+        "publishedAt": "2026-10-10T06:00:05Z",
+        "channelId": "UCPIDi_z977Vx4LRYcOCy4NA",
+        "title": "\"억지로라도 가야 돼\" 운동하기 싫어도 칼같이 지키는 오연수의 루틴",
+        "description": "💪 몇 년 전부터 언니 이경민에게 운동을 권했다는 오연수\n📌 언니가 운동을 결심한 이유는?\n▪️ 이경민 \"같이 걷는데 얘 근육이 옷을 입어도 표가 날 정도더라\"\n▪️ 오연수 \"그냥 루틴이에요. 오늘 하루만 쉬자, 그런 거 없어\"\n▪️ \"내가 이걸 시간과 돈을 얼마나 투자했는데\"\n▪️ 운동하기 싫어도 꼭 가고, 항상 인바디 체크\n💬 시청자 반응\n▪️ \"연수언니 무슨운동해요?\" (원본 영상 인기 댓글)\n✨ 결론\n언니도 인정한 칼 같은 자기 관리\n\n#오연수 #이경민 #운동 #자기관리 #루틴 #쇼츠",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zTBVFI7Hzf0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zTBVFI7Hzf0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zTBVFI7Hzf0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zTBVFI7Hzf0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zTBVFI7Hzf0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스타티키타카",
+        "tags": [
+          "루틴",
+          "쇼츠",
+          "오연수",
+          "운동",
+          "이경민",
+          "자기관리"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "\"억지로라도 가야 돼\" 운동하기 싫어도 칼같이 지키는 오연수의 루틴",
+          "description": "💪 몇 년 전부터 언니 이경민에게 운동을 권했다는 오연수\n📌 언니가 운동을 결심한 이유는?\n▪️ 이경민 \"같이 걷는데 얘 근육이 옷을 입어도 표가 날 정도더라\"\n▪️ 오연수 \"그냥 루틴이에요. 오늘 하루만 쉬자, 그런 거 없어\"\n▪️ \"내가 이걸 시간과 돈을 얼마나 투자했는데\"\n▪️ 운동하기 싫어도 꼭 가고, 항상 인바디 체크\n💬 시청자 반응\n▪️ \"연수언니 무슨운동해요?\" (원본 영상 인기 댓글)\n✨ 결론\n언니도 인정한 칼 같은 자기 관리\n\n#오연수 #이경민 #운동 #자기관리 #루틴 #쇼츠"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "statistics": {
+        "viewCount": "121287",
+        "likeCount": "381",
+        "favoriteCount": "0",
+        "commentCount": "11"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "contentDetails": {
+        "duration": "PT59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "channel": {
+        "subscriber_count": 4980,
+        "hidden": false
+      },
+      "full_video_playback": false,
+      "exact_clip_match": false,
+      "product_brand_confirmed": false
+    }
+  ],
+  "pending_keywords": [],
+  "actual_project_remaining_verified": false,
+  "routine_remains_paused": true
+}
